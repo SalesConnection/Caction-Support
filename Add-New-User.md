@@ -1,6 +1,5 @@
 
 ## 👩‍💼 Add New User
-<aside>
     
 - **How do I add users?**<br>
 
@@ -67,6 +66,3 @@
 
   Name, telephone, email, staff category, account type and color (pick one to represent the user in the system).<br><br>
   *Note: Email is optional if the user only uses mobile device.<br><br>
-
-
-</aside>
