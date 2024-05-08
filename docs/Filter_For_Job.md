@@ -95,3 +95,4 @@ By using this method, you can choose the job status such as Not Started, In prog
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%205.png">
   </p><br>
 
+Wandering How to Set Your Favourite Filter? Click Here: [https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md](https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md)
