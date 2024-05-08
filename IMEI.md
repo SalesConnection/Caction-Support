@@ -24,7 +24,7 @@ If you face any of these problems, please find your admin to assist you with dis
   <img src="img/User%20List.png" alt="User List">
 </p>
 
-*Note: Admins can also perform this action through the notification email received using the verified email address.*
+*Note: Admins can also perform this action through the notification email received using the verified email address.
 
 2. The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device.
 
@@ -36,5 +36,5 @@ If you face any of these problems, please find your admin to assist you with dis
 <p align="center">
   <img src="img/IMEI%20allow.png" alt="IMEI Allow">
 </p>
-*Note: IMEI cannot be approved using a mobile.*
+*Note: IMEI cannot be approved using a mobile.
 
