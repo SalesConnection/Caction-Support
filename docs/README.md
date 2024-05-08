@@ -1,49 +1,19 @@
-# Sales-Connection-Support.github.io
+# Sales Connection Support Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the Sales Connection Support documentation repository!
 
-### Installation
+This repository contains documentation and resources to help you get the most out of our products and services. You can find detailed guides, FAQs, troubleshooting tips, and more.
 
-```
-$ npx create-docusaurus@latest <my-website> classic
-```
+## Getting Started
 
-### Local Development
+To get started, visit our [documentation website](https://Sales-Connection-Support.github.io) where you can find detailed information on using our products and services.
 
-```
-npm install
-$ cd <my-website>
-npm run start
+## Contributing
 
-port 3000
-```
+We welcome contributions to our documentation! If you notice any errors, have suggestions for improvement, or would like to add new content, please feel free to [open an issue](https://github.com/Sales-Connection-Support/Sales-Connection-Support.github.io/issues) or submit a pull request.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Contact Us
 
-### Build
+If you have any questions or need further assistance, don't hesitate to [contact our support team](contact.md).
 
-```
-Docusaurus is a modern static website generator so we need to build the website into a directory of static contents and put it on a web server so that it can be viewed. To build the website:
-
-$ npm run build
-- Build already configured
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
+Thank you for choosing Sales Connection Support!
