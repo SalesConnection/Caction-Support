@@ -9,7 +9,9 @@ IMEI stands for International Mobile Equipment Identity. It is used to track the
 1. Unable to log in to the "Sales Connection" app due to a device change?
 2. Unable to log in and prompted for IMEI login. (As shown in the picture below)
 
-![IMEI Prompt - Mobile](img/IMEI%20Prompt%20-%20Mobile.png)
+<div style="text-align:center;">
+    ![IMEI Prompt - Mobile](img/IMEI%20Prompt%20-%20Mobile.png)
+</div>
 
 If you face any of these problems, please find your admin to assist you with disabling the IMEI.
 
