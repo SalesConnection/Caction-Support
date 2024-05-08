@@ -4,7 +4,7 @@ Welcome to the Sales Connection Support Site! Here you'll find documentation and
 
 ## Table of Contents
 
-- [Add New User](Add_New_User.md): Figuring how to add new user? Follow these step!
+- [Add New User](Add_New_user.md): Figuring how to add new user? Follow these step!
 - [IMEI](IMEI.md): Changed your device and can't login? Here is the solution!
 - [Assist Check Out](Assist_Check_Out.md): Forgot to check out from previous site? We can solve your problem!
 
