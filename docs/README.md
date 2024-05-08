@@ -12,4 +12,4 @@ Welcome to the Sales Connection Support Site! Here you'll find documentation and
 
 Feel free to explore the sections above for more information.
 
-Thank you for choosing Sales Connection Support!
+Thank you for choosing Sales Connection!
