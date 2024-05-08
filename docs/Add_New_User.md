@@ -8,7 +8,7 @@
   2. Fill out the details of your new team member and click Submit Form.<br>
 
   <p align="center">
-    <img src="img/Add%20New%20User.png" alt="Add New User" width="650" height="550">
+    <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
   </p>
 <br>
 
