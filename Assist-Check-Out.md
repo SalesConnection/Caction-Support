@@ -1,6 +1,5 @@
 
 ## 🔑 Assist Check Out
-<aside>
 
 - **Scenarios below will need assist check out:**<br>
 
@@ -80,5 +79,3 @@
      <p align="center">
         <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Assisted%20Check%20Out%20Button%20-%20Mobile.png" alt="Assisted Check Out Button - Desktop" width="280" height="550">
      </p>
-
-</aside>
