@@ -1,4 +1,4 @@
-## 🔑 IMEI
+## 📱 IMEI
 
 **What is IMEI?**
 
