@@ -9,9 +9,9 @@ IMEI stands for International Mobile Equipment Identity. It is used to track the
 1. Unable to log in to the "Sales Connection" app due to a device change?
 2. Unable to log in and prompted for IMEI login. (As shown in the picture below)
 
-<div style="text-align:center;">
-    ![IMEI Prompt - Mobile](img/IMEI%20Prompt%20-%20Mobile.png)
-</div>
+<p align="center">
+  <img src="img/IMEI%20Prompt%20-%20Mobile.png" alt="IMEI Prompt - Mobile">
+</p>
 
 If you face any of these problems, please find your admin to assist you with disabling the IMEI.
 
@@ -20,7 +20,9 @@ If you face any of these problems, please find your admin to assist you with dis
 1. To enable the IMEI, go to the desktop site’s navigation bar > User Management > User List.
    - **Open User List Here:** [User List](https://salesconnection.my/usermanage/userlist)
 
-![User List](https://github.com/SalesConnection/support-docs/blob/main/static/img/original/User%20List.png)
+<div style="text-align:center;">
+    ![User List](img/User%20List.png)
+</div>
 
 *Note: Admins can also perform this action through the notification email received using the verified email address.*
 
