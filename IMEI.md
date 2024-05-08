@@ -18,7 +18,7 @@ If you face any of these problems, please find your admin to assist you with dis
 **Where is IMEI and How to Enable It?**
 
 1. To enable the IMEI, go to the desktop site’s navigation bar > User Management > User List.
-   - **Open User List Here:** [User List](https://salesconnection.my/usermanage/userlist)
+   - **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)
 
 <p align="center">
   <img src="img/User%20List.png" alt="User List">
