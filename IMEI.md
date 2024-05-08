@@ -20,19 +20,21 @@ If you face any of these problems, please find your admin to assist you with dis
 1. To enable the IMEI, go to the desktop site’s navigation bar > User Management > User List.
    - **Open User List Here:** [User List](https://salesconnection.my/usermanage/userlist)
 
-<div style="text-align:center;">
-    ![User List](img/User%20List.png)
-</div>
+<p align="center">
+  <img src="img/User%20List.png" alt="User List">
+</p>
 
 *Note: Admins can also perform this action through the notification email received using the verified email address.*
 
 2. The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device.
 
-![IMEI Icon](https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20icon.png)
-
+<p align="center">
+  <img src="img/IMEI%20icon.png" alt="IMEI icon">
+</p>
 3. When the admin clicks on the blue icon, a message will pop up and the admin can click **Allow** to clear IMEI so that the user can log in using a new device.
 
-![IMEI Allow](https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20allow.png)
-
+<p align="center">
+  <img src="img/IMEI%20allow.png" alt="IMEI Allow">
+</p>
 *Note: IMEI cannot be approved using a mobile.*
 
