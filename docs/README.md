@@ -14,6 +14,6 @@ We welcome contributions to our documentation! If you notice any errors, have su
 
 ## Contact Us
 
-If you have any questions or need further assistance, don't hesitate to [contact our support team](contact.md).
+If you have any questions or need further assistance, don't hesitate to contact us!
 
 Thank you for choosing Sales Connection Support!
