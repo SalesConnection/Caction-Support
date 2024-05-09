@@ -8,7 +8,7 @@
   2. Fill out the details of your new team member and click Submit Form.<br>
 
   <p align="center">
-    <img src="img/Add_New_User.png" alt="Add New User" width="600" height="550">
+    <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
   </p>
 <br>
 
@@ -18,13 +18,13 @@
   1. Verify his account through a **verification email** sent from admin@salesconnection.my.<br>
 
   <p align="center">
-    <img src="img/Email%20New%20User%20Received.png" alt="Verification Email" width="800" height="450">
+    <img src="img/Email%20New%20User%20Received.png" alt="Verification Email" width="800" height="350">
   </p>
 
   2. He will receive another email with a **password** after verification.<br>
 
   <p align="center">
-    <img src="img/Email%20with%20Password.png" alt="Email with Password" width="800" height="550">
+    <img src="img/Email%20with%20Password.png" alt="Email with Password" width="800" height="500">
   </p>
 
   3. Download the Sales Connection app from Google Playstore or App Store.<br>
