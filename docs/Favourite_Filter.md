@@ -44,7 +44,7 @@
     <img src="img/Favourite_Filter_step_7.png">
   </p><br>
 
-8. Default filter will show everytime when you this page. If you wish to apply your favourite filter, you will need to click the "Favourite Filter", and select the customize favourite filter you want.
+8. Default filter will show every time when you this page. If you wish to apply your favourite filter, you will need to click the "Favourite Filter", and select the customize favourite filter you want.
 
 <p align="center">
     <img src="img/Favourite_Filter_step_8.png">
@@ -70,7 +70,7 @@
     <img src="img/App_Favourite_Filter_step_2.png" width="280" height="550">
   </p><br>
 
-3. Select the favourite filter based on your preference by click the 3 dots icon.
+3. Select the favourite filter based on your preference by clicking the 3 dots icon.
 
  <p align="center">
     <img src="img/App_Favourite_Filter_step_3.png" width="280" height="550">
