@@ -50,7 +50,7 @@
   
   **Assist Check Out**<br>
   **Desktop Version**<br>
-  1. Make sure that **Assisted Checkout** is enabled. If not, please refer to the section above to enable it.<br>
+  1. Make sure that **Assisted Checkout** is enabled. If not, please refer to the previous section to enable it.<br>
   2. To assist check out, go to desktop site navigation bar > Business Map > Overview.<br>
      **Open the Business Map Overview Here:** [https://salesconnection.my/BusinessMap](https://salesconnection.my/BusinessMap)<br>
 
@@ -66,7 +66,7 @@
   <br>
 
   **Mobile Version**<br>
-  1. Make sure that **Assisted Checkout** is enabled. If not, please refer to the section above to enable it.<br>
+  1. Make sure that **Assisted Checkout** is enabled. If not, please refer to the previous section to enable it.<br>
      *Note: This action can only be performed using desktop.<br>
   2. To assist check out, go to Dashboard > Business Map.<br>
 
