@@ -65,29 +65,27 @@
 
 ## ❤ How to apply your favourite filter in Project Update Report?<br>
 
+
+**Desktop Version:**<br>
+
 1. Default filter will show every time when you enter this page. If you want to apply your favourite filter, you will need to click the "Favourite Filter".
 
    <p align="center">
-     <img src="img/">
+     <img src="img/How_to_apply_favourite_filter_in_project_update_report_step_1.png">
    </p><br>
 
 2. Select the favourite filter to apply.
 
    <p align="center">
-     <img src="img/">
+     <img src="img/How_to_apply_favourite_filter_in_project_update_report_step_2.png">
    </p><br>
 
-3. Here is the output.
+3. This is the output based on the favourite filter you applied.
 
    <p align="center">
-     <img src="img/">
+     <img src="img/How_to_apply_favourite_filter_in_project_update_report_output.png">
    </p><br>
-4. 
-5. This is the output based on the filter you apply.
 
-<p align="center">
-    <img src="img/Favourite_Filter_step_9.png">
-  </p><br><br>
 
 **Mobile App:**<br>
 
