@@ -2,7 +2,7 @@
 
 **Desktop site:**<br>
 
-1. In the "Main Navigation", under the "Business Reports", select "Project Update Report".
+1. In the "Main Navigation", under the "Business Reports", select "Project Update Report".<br>
    **Add Favourite Filters in Project Update Report here:** [https://salesconnection.my/reports/deal-update](https://salesconnection.my/reports/deal-update)
 
    <p align="center">
@@ -92,30 +92,30 @@
 1. In the "Schedule" page of the Sales Connection Mobile App, click the star icon.
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_Step_1.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_1.png">
   </p><br>
 
 2. Click "Manage Filter".
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_Step_2.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_2.png">
   </p><br>
 
 3. Select the favourite filter based on your preference by clicking the 3 dots icon.
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_Step_3.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_3.png">
   </p><br>
 
-4. Click the "Set as default" as the left image below to save your favourite filter. After done, the outcome will same as the right image below.
+4. Click the "Set as default" as the left image below to save your favourite filter. After that, the outcome will be the same as the right image below.
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_Step_4.png" width="280" height="550">
-    <img src="img/App_Favourite_Filter_Step_5.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_4.png" width="280" height="600">
+    <img src="img/App_Favourite_Filter_Step_5.png" width="280" height="600">
   </p><br>
 
 5. Whenever you login to the mobile app, you will be able to see the favourite filter in the job schedule
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_Result.jpg" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Result.jpg" width="280" height="600">
   </p><br>
