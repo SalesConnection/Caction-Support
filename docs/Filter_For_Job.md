@@ -86,6 +86,10 @@
 1. To use job update report filter, go to Business Report > Job Update Report.<br>
    **Open the link here:** [https://salesconnection.my/reports/activity-update](https://salesconnection.my/reports/activity-update)
 
+   <p align="center">
+     <img src="img/Job_Update_Report_Filter_Step_1.png">
+   </p><br>
+
 2. Click the "Filter Table Record" and it will show the filter below.
 
    <p align="center">
