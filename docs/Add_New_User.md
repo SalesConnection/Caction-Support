@@ -34,7 +34,7 @@
      **Login Here:** [https://salesconnection.my/login](https://salesconnection.my/login)<br>
 
      <p align="center">
-       <img src="img/Login_Page_Desktop.png" alt="Desktop_Login" width="300" height="300">
+       <img src="img/Login_Page_Desktop.png" alt="Desktop_Login">
      </p>
 
      *Note: Only email addresses that are verified will be sent.<br><br>
@@ -82,7 +82,3 @@
   
   If you want to add more users, contact us to upgrade your subscription plan!<br><br>
 
-- **What are the required fields for me to add users to the system?**<br>
-
-  Name, telephone, email, staff category, account type and color (pick one to represent the user in the system).<br><br>
-  *Note: Email is optional if the user only uses mobile device.<br><br>
