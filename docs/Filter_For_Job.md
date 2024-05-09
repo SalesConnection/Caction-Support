@@ -10,32 +10,33 @@
 
  2. Click the calender icon in the top right corner of the page.
 
- <p align="center">
-   <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%202.png">
- </p>
+    <p align="center">
+       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%202.png">
+    </p>
 
- 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view for job in April 2024, you will need to click the "May", and you will be able to select month.<br>
+ 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view for job in April 2024, you will need to click the "May", and you will be able to select month.
 
- 
- <p align="center">
-  <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%203.png">
- </p>   
+    <p align="center">
+      <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%203.png">
+    </p>   
 
-4. Select "April"
+ 4. Select "April"
 
-<p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%204.png">
-  </p>
+    <p align="center">
+      <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%204.png">
+    </p>
 
-5. Select date.
+ 5. Select date.
 
+    <p align="center">
+      <img src="img/Job_Filter_by_date_range_step_5.png" alt="Job Filter by Date Range 5">
+    </p>
 
+ 6. Now, you are able to view for Job in April 2024.
 
-6. Now, you are able to view for Job in April 2024.
-
-<p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20output.png">
-  </p>
+    <p align="center">
+      <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20output.png">
+    </p>
 
 **Mobile App:**<br>
   1. At the Sales Connection mobile app, select "Schedule" page in the bottom center.
