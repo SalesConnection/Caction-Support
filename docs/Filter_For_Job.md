@@ -42,15 +42,16 @@
   1. At the Sales Connection mobile app, select "Schedule" page in the bottom center.
   2. Select the filter icon in top right of the page.<br>
 
-<p align="center">
-    <img src="">
-  </p>
 
-  3. You can either filter the job by date, job category, or job status.<br>
+  3. Click the expand button.
 
-<p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/App%20Job%20filter%20ori%202.jpg" width="300" height="700">
-  </p>
+  4. Select date range that you want.
+
+  5. Click "Select"
+
+  6. Here's the output
+
+
    
 *OR* <br>
 
