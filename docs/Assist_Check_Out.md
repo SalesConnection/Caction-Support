@@ -3,8 +3,8 @@
 
 - **Scenarios below will need assist check out:**<br>
 
-  1. If staff **forgot** to check out, what to do?<br>
-  2. I can't check in because didn't check out the previous one.<br>
+  1. If staff **forgot** to check out from the previous task, what to do?<br>
+  2. I can't check in to the next task.<br>
   3. User cannot check out.<br>
 
   If you face any of these problems, please find your **admin** to assist you with the "force" check out.<br><br>
@@ -12,7 +12,7 @@
 - **How to assist check out?**<br>
 
   **Enable Assist Check Out**<br>
-  1. You need to **enable** the assist check out in the system to perform further action. To enable assist check out, go to desktop site navigation bar > User Management > User Account Customisation (UAC).<br>
+  1. Please ensure you have permission for the **Assist Check Out** feature. If you do, you may skip to the next section. To enable assist check out, go to desktop site navigation bar > User Management > User Account Customisation (UAC).<br>
      **Open UAC Page Here:** [https://salesconnection.my/manageuac](https://salesconnection.my/manageuac)<br>
 
      <p align="center">
@@ -27,7 +27,7 @@
        <img src="img/Enable_Assisted_Checkout_in_UAC.png" alt="Enable Assisted Checkout in UAC">
      </p>
      
-  3. Click on **Disabled** on the user who needs this power (normally admin).<br>
+  3. Click on the **Disabled** button on the user who needs this power (normally admin).<br>
 
      <p align="center">
        <img src="img/Click_Disabled_for_Assisted_Checkout.png" alt="Click the Enable Assisted Checkout">
@@ -66,7 +66,7 @@
   <br>
 
   **Mobile Version**<br>
-  1. Make sure that **Assisted Checkout** is enabled.<br>
+  1. Make sure that **Assisted Checkout** is enabled. If not, please refer to the section above to enable it.<br>
      *Note: This action can only be performed using desktop.<br>
   2. To assist check out, go to Dashboard > Business Map.<br>
 
