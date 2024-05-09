@@ -7,9 +7,9 @@
      **Add User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
   2. Fill out the details of your new team member and click Submit Form.<br>
 
-  <p align="center">
-    <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
-  </p>
+     <p align="center">
+       <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+     </p>
 <br>
 
 - **I have added the user to the system, what is the next step?**<br>
@@ -17,28 +17,28 @@
   Ask the user to:<br>
   1. Verify his account through a **verification email** sent from admin@salesconnection.my.<br>
 
-  <p align="center">
-    <img src="img/Email_New_User_Received.png" alt="Verification Email" width="800" height="350">
-  </p>
+     <p align="center">
+       <img src="img/Email_New_User_Received.png" alt="Verification Email" width="800" height="350">
+     </p>
 
   2. He will receive another email with a **password** after verification.<br>
 
-  <p align="center">
-    <img src="img/Email_with_Password.png" alt="Email with Password" width="800" height="500">
-  </p>
+     <p align="center">
+       <img src="img/Email_with_Password.png" alt="Email with Password" width="800" height="500">
+     </p>
 
   3. Download the Sales Connection app from Google Playstore or App Store.<br>
 
-  <p align="center">
-    <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
-  </p>
+     <p align="center">
+       <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
+     </p>
   
   4. Login using the **registered** phone number or email address with a password.<br>
      **Login Here:** [https://salesconnection.my/login](https://salesconnection.my/login)<br>
 
-  <p align="center">
-    <img src="img/Login_Page.png" alt="Login" width="300" height="300">
-  </p>
+     <p align="center">
+       <img src="img/Login_Page.png" alt="Login" width="300" height="300">
+     </p>
   
 &emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br><br>
 
