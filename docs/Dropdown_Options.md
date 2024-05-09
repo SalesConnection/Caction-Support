@@ -3,49 +3,49 @@
 **Desktop site:**<br>
 
 1. For example, if you want to add dropdown options for Quotations. Go to desktop site navigation bar > "Template Settings" > "Digital Form Templates" > "Digital Form Template Settings". Select "Quotation"<br>
-   **Open the page here**: https://salesconnection.my/ServiceReport/TemplateSetting
+   **Open the page here**: [https://salesconnection.my/ServiceReport/TemplateSetting](https://salesconnection.my/ServiceReport/TemplateSetting)<br>
 
    <p align="center">
      <img src="img/Dropdown_options_in_Quotation_1.png">
    </p>
 
-2. Select "Drop Down" to add new dropdown options. 
+2. Select "Drop Down" to add new dropdown options.<br>
 
    <p align="center">
       <img src="img/Dropdown_options_in_Quotation_2.png">
    </p>
   
-3. Click the Pencil Icon to edit the new dropdown name.
+3. Click the Pencil Icon to edit the new dropdown name.<br>
 
    <p align="center">
      <img src="img/Dropdown_options_in_Quotation_3.png">
    </p>
   
-4. After Rename for the new dropdown, click the tick icon to save the name.
+4. After Rename for the new dropdown, click the tick icon to save the name.<br>
 
    <p align="center">
       <img src="img/Dropdown_options_in_Quotation_4.png">
    </p>
   
-5. Click the expand button to add options or edit for the access permission of the new dropdown.
+5. Click the expand button to add options or edit for the access permission of the new dropdown.<br>
 
    <p align="center">
       <img src="img/Dropdown_options_in_Quotation_5.png">
    </p>
   
-6. Click "Add Options" to add options.
+6. Click "Add Options" to add options.<br>
 
    <p align="center">
      <img src="img/Dropdown_options_in_Quotation_6.png">
    </p>
   
-7. Add the next option by clicking the Enter key on your keyboard.
+7. Add the next option by clicking the Enter key on your keyboard.<br>
 
    <p align="center">
      <img src="img/Dropdown_options_in_Quotation_7.png">
    </p>
   
-8. Click the save icon to save this new option.
+8. Click the save icon to save this new option.<br>
 
    <p align="center">
      <img src="img/Dropdown_options_in_Quotation_8.png">
