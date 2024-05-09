@@ -5,7 +5,7 @@
 
   1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
      **Add User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
-  2. Fill out the details of your new team member and click Submit Form.<br>
+  2. Fill out the details of your new team member and click **Submit Form**.<br>
      Name, telephone, email, staff category, account type and color (pick one to represent the user in the system).<br>
      *Note: Email is optional if the user only uses mobile device.<br>
 
