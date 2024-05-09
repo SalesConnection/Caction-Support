@@ -84,7 +84,7 @@
 2. Click the "Filter Table Record" and it will show the filter below.
 
    <p align="center">
-     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%201.png">
+     <img src="img/Job_Update_Filter_Step_2.png">
    </p><br>
 
 3. You can choose by what group that you want to show. For example, select "Job Update" and it will show the Filter Variable below.<br>
