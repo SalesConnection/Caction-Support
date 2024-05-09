@@ -81,34 +81,40 @@
 1. To use job update report filter, go to Business Report > Job Update Report.<br>
    **Open the link here:** [https://salesconnection.my/reports/activity-update](https://salesconnection.my/reports/activity-update)
 
-2. Click the "Filter Table Record", and it will shows the filter below.
+2. Click the "Filter Table Record" and it will show the filter below.
 
-<p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%201.png">
-  </p><br>
+   <p align="center">
+     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%201.png">
+   </p><br>
 
-3. You can choose by what group that you want to show. For example, select "Job Update", and it will shows the Filter Variable below.<br>
+3. You can choose by what group that you want to show. For example, select "Job Update" and it will show the Filter Variable below.<br>
 
-<p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%202%20.png">
-  </p><br>
+   <p align="center">
+     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%202%20.png">
+   </p><br>
 
-4. For example, select "Update Status". It will shows the Operator , which including "Update Status Contains" and "Update Status Not Contains".
+4. For example, select "Update Status". It will show the Operator, which includes "Update Status Contains" and "Update Status Not Contains".
 
- <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%203.png">
-  </p><br>
+   <p align="center">
+     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%203.png">
+   </p><br>
 
-5. For example, select "Not Contains" if you want to show which filter value. After that, it will shows the filter value as shown below.
+5. For example, select "Contains" if you want to show which filter value. After that, it will show the filter value as shown below.
 
- <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%204.png">
-  </p><br>
+   <p align="center">
+     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%204.png">
+   </p><br>
 
-6. For example, select "In Progress" in the filter value. It will show as below. "Not Contains" means that these job searched by filter are not being updated.
+6. For example, select "In Progress" in the filter value. It will show as below. "Contains" means that these jobs searched by filter are not being updated.
 
- <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%205.png">
-  </p><br><br>
+   <p align="center">
+     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%205.png">
+   </p><br>
+
+7. The result will be show based on the filter value.<br>
+
+   <p align="center">
+     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%205.png">
+   </p><br>
 
 **Wondering How to Set Your Favourite Filter? Click Here:** [https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md](https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md)
