@@ -36,7 +36,7 @@
 6. Click "Add Options" to add options.
 
 <p align="center">
-    <img src="img/Dropdown _options_in_Quotation_6.png">
+    <img src="img/Dropdown_options_in_Quotation_6.png">
   </p>
   
 7. Add the next option by clicking the Enter key on your keyboard.
