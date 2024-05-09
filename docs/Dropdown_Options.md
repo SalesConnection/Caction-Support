@@ -50,8 +50,9 @@
    <p align="center">
      <img src="img/Dropdown_options_in_Quotation_8.png">
    </p>
+   <br>
   
-## 🔑 How to edit checklist dropdown options?
+## ✍🏻 How to edit checklist dropdown options?
 
 1. For example, if you want to add dropdown options for Quotations. Go to desktop site navigation bar > "Template Settings" > "Digital Form Templates" > "Digital Form Template Settings". Select "Service Sheet"<br>
    **Open the page here**: [https://salesconnection.my/ServiceReport/TemplateSetting](https://salesconnection.my/ServiceReport/TemplateSetting)<br>
