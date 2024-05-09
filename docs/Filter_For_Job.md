@@ -60,7 +60,7 @@
 
 By using this method, you can choose the job status such as Not Started, In progress, or Completed.<br><br><br>
 
-- **How to use job update report filter to apply date range?**<br>
+- **How to use job update report filter?**<br>
 
 1. To use job update report filter, go to Business Report > Job Update Report.<br>
    **Open the link here:** [https://salesconnection.my/reports/activity-update](https://salesconnection.my/reports/activity-update)
