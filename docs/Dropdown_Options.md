@@ -57,49 +57,49 @@
    **Open the page here**: [https://salesconnection.my/ServiceReport/TemplateSetting](https://salesconnection.my/ServiceReport/TemplateSetting)<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_options_step_1.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_1.png">
    </p>
 
 2. Select "Service Sheet".<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_options_step_2.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_2.png">
    </p>
 
 3. Drag down to "Custom Field View" and select the Checklist that you want to edit.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_options_step_3.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_3.png">
    </p>
 
 4. Click the expand button.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_options_step_4.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_4.png">
    </p>
 
 5. Click the "+ Manage Items".<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_options_step_5.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_5.png">
    </p>
 
 6. If you want to add a new dropdown option for the checklist, click the dropdown button.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_options_step_6.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_6.png">
    </p>
 
 7. Edit the checklist dropdown option by clicking on which option you want to edit.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_options_step_7.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_7.png">
    </p>
 
 8. After editing, remember to save your change.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_options_step_8.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
    </p>
    
    <br>
