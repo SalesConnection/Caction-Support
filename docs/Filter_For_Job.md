@@ -74,7 +74,7 @@
      <p align="center">
        <img src="img/App_Job_Filter_by_date_range_output.png" alt="Job Filter by date range output for app">
      </p>
-
+     <br><br>
 
 - **How to use job update report filter?**<br>
 
@@ -109,6 +109,6 @@
 
  <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%205.png">
-  </p><br>
+  </p><br><br>
 
-Wondering How to Set Your Favourite Filter? Click Here: [https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md](https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md)
+**Wondering How to Set Your Favourite Filter? Click Here:** [https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md](https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md)
