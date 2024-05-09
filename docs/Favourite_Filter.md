@@ -92,29 +92,29 @@
 1. In the "Schedule" page of the Sales Connection Mobile App, click the star icon.
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_step_1.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_1.png" width="280" height="550">
   </p><br>
 
 2. Click "Manage Filter".
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_step_2.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_2.png" width="280" height="550">
   </p><br>
 
 3. Select the favourite filter based on your preference by clicking the 3 dots icon.
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_step_3.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_3.png" width="280" height="550">
   </p><br>
 
 4. Click the "Set as default" to save your favourite filter.
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_step_4.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_4.png" width="280" height="550">
   </p><br>
 
 5. Whenever you login to the mobile app, you will be able to see the favourite filter in the job schedule
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_step_5.jpg" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_5.jpg" width="280" height="550">
   </p><br>
