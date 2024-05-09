@@ -8,7 +8,7 @@
   2. Fill out the details of your new team member and click Submit Form.<br>
 
   <p align="center">
-    <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+    <img src="img/Add_New_User.png" alt="Add New User">
   </p>
 <br>
 
@@ -18,7 +18,7 @@
   1. Verify his account through a **verification email** sent from admin@salesconnection.my.<br>
 
   <p align="center">
-    <img src="img/Email%20New%20User%20Received.png" alt="Verification Email" width="800" height="350">
+    <img src="img/Email%20New%20User%20Received.png" alt="Verification Email">
   </p>
 
   2. He will receive another email with a **password** after verification.<br>
