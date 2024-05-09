@@ -1,57 +1,85 @@
-## ❤ How to use favourite filter?
+## ❤ How to set favourite filter in Project Update Report?
 
 **Desktop site:**<br>
 
-1. For example, if you want to add "Favourite Filters" in "Project Update Report". You need to click the "Default Columns"
- **Add Favourite Filters in Project Update Report here:** [https://salesconnection.my/reports/deal-update](https://salesconnection.my/reports/deal-update)
+1. In the "Main Navigation", under the "Business Reports", select "Project Update Report".
+   **Add Favourite Filters in Project Update Report here:** [https://salesconnection.my/reports/deal-update](https://salesconnection.my/reports/deal-update)
 
- <p align="center">
-    <img src="img/Favourite_Filter_step_1.png">
-  </p><br>
+2. Click the "Default Columns".
 
-2. Click the "Create" button to create a new custom table column display.
+   <p align="center">
+     <img src="img/">
+   </p><br>
 
- <p align="center">
-    <img src="img/Favourite_Filter_step_2.png">
-  </p><br>
+3. Click the "Create" button to create a new custom table column display.
 
-3. You can select the column based on your own preference.
+   <p align="center">
+     <img src="img/">
+   </p><br>
+
+4. You can select the column based on your own preference.
+
+   <p align="center">
+    <img src="img/">
+   </p><br>
+
+5. Click "Save" to save the custom column display that you want.
    
- <p align="center">
-    <img src="img/Favourite_Filter_step_3.png">
-  </p><br>
+   <p align="center">
+     <img src="img/Favourite_Filter_step_3.png">
+   </p><br>
 
-4. Click "Save" to save the custom column display that you want.
+6. This is the output.
    
- <p align="center">
-    <img src="img/Favourite_Filter_step_4.png">
-  </p><br>
+   <p align="center">
+     <img src="img/Favourite_Filter_step_4.png">
+   </p><br>
 
-5. This is the result.
+7. To save this favourite Filter, click "Favourite Filter".
 
-<p align="center">
-    <img src="img/Favourite_Filter_result_4.5.png">
-  </p><br>
+   <p align="center">
+     <img src="">
+   </p><br>
 
-6. Select the "Favourite Filter", and it will show "Apply Favourite Filter". Click the "+Add" button.
+8. Click the "+Add" button.
 
-<p align="center">
-    <img src="img/Favourite_Filter_step_6.png">
-  </p><br>
+   <p align="center">
+     <img src="img/">
+   </p><br>
 
-7. Enter the name for this customize favourite filter, and click "Save".
+9. Enter the name for this customize favourite filter.
 
-<p align="center">
-    <img src="img/Favourite_Filter_step_7.png">
-  </p><br>
+   <p align="center">
+     <img src="img/">
+   </p><br>
 
-8. Default filter will show every time when you this page. If you wish to apply your favourite filter, you will need to click the "Favourite Filter", and select the customize favourite filter you want.
+10. Click "Save" to save this favourite filter.
 
-<p align="center">
-    <img src="img/Favourite_Filter_step_8.png">
-  </p><br>
+    <p align="center">
+      <img src="img/">
+    </p><br>
 
-9. This is the output based on the filter you apply.
+## ❤ How to apply your favourite filter in Project Update Report?<br>
+
+1. Default filter will show every time when you enter this page. If you want to apply your favourite filter, you will need to click the "Favourite Filter".
+
+   <p align="center">
+     <img src="img/">
+   </p><br>
+
+2. Select the favourite filter to apply.
+
+   <p align="center">
+     <img src="img/">
+   </p><br>
+
+3. Here is the output.
+
+   <p align="center">
+     <img src="img/">
+   </p><br>
+4. 
+5. This is the output based on the filter you apply.
 
 <p align="center">
     <img src="img/Favourite_Filter_step_9.png">
