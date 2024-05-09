@@ -13,7 +13,7 @@
 
    <p align="center">
       <img src="img/Dropdown_options_in_Quotation_2.png">
-  </p>
+   </p>
   
 3. Click the Pencil Icon to edit the new dropdown name.
 
