@@ -18,26 +18,26 @@
   1. Verify his account through a **verification email** sent from admin@salesconnection.my.<br>
 
   <p align="center">
-    <img src="img/Email%20New%20User%20Received.png" alt="Verification Email" width="800" height="350">
+    <img src="img/Email_New_User_Received.png" alt="Verification Email" width="800" height="350">
   </p>
 
   2. He will receive another email with a **password** after verification.<br>
 
   <p align="center">
-    <img src="img/Email%20with%20Password.png" alt="Email with Password" width="800" height="500">
+    <img src="img/Email_with_Password.png" alt="Email with Password" width="800" height="500">
   </p>
 
   3. Download the Sales Connection app from Google Playstore or App Store.<br>
 
   <p align="center">
-    <img src="img/Download%20app.png" alt="Playstore" width="280" height="550">
+    <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
   </p>
   
   4. Login using the **registered** phone number or email address with a password.<br>
      **Login Here:** [https://salesconnection.my/login](https://salesconnection.my/login)<br>
 
   <p align="center">
-    <img src="img/Login%20Page.png" alt="Login" width="300" height="300">
+    <img src="img/Login_Page.png" alt="Login" width="300" height="300">
   </p>
   
 &emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br><br>
@@ -48,7 +48,7 @@
   To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
 
   <p align="center">
-    <img src="img/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+    <img src="img/Reminder_of_User_List.png" alt="Reminder in User List">
   </p>
   
   **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br><br>
