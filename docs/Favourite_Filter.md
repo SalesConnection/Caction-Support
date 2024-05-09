@@ -111,10 +111,11 @@
 
  <p align="center">
     <img src="img/App_Favourite_Filter_Step_4.png" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Step_5.png" width="280" height="550">
   </p><br>
 
 5. Whenever you login to the mobile app, you will be able to see the favourite filter in the job schedule
 
  <p align="center">
-    <img src="img/App_Favourite_Filter_Step_5.jpg" width="280" height="550">
+    <img src="img/App_Favourite_Filter_Result.jpg" width="280" height="550">
   </p><br>
