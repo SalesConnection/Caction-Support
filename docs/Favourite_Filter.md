@@ -107,7 +107,7 @@
     <img src="img/App_Favourite_Filter_Step_3.png" width="280" height="550">
   </p><br>
 
-4. Click the "Set as default" to save your favourite filter.
+4. Click the "Set as default" as the left image below to save your favourite filter. After done, the outcome will same as the right image below.
 
  <p align="center">
     <img src="img/App_Favourite_Filter_Step_4.png" width="280" height="550">
