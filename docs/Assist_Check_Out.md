@@ -58,7 +58,7 @@
         <img src="img/Business_Map_Overview.png" alt="Business Map - Overview - Desktop">
      </p>
      
-  3. Go to the specific user and click on the **Assisted Check-out** button.<br>
+  3. Go to the specific user and click on the **Assisted Check-out** button and the user will be checked out.<br>
 
      <p align="center">
         <img src="img/Assisted_Check_Out_Button_Desktop.png" alt="Assisted Check Out Button - Desktop">
@@ -74,7 +74,7 @@
         <img src="img/Business_Map_Mobile.png" alt="Business Map - Mobile" width="280" height="550">
      </p>
      
-  3. Go to the specific user and click on the **Assisted Check-out** button.<br>
+  3. Go to the specific user and click on the **Assisted Check-out** button and the user will be checked out.<br>
 
      <p align="center">
         <img src="img/Assisted_Check_Out_Button_Mobile.png" alt="Assisted Check Out Button - Mobile" width="280" height="550">
