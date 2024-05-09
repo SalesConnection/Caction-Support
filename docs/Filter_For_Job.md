@@ -8,6 +8,11 @@
  1. To filter job, go to Main Navigation> Business Management > Schedule > Job Schedule.<br>
    **Filter Job Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)
 
+    <p align="center">
+      <img src="Job_Filter_by_date_range_step_1.png" alt="Job Filter by date range 2">
+    </p>
+
+
  2. Click the calendar icon in the top right corner of the page.
 
     <p align="center">
