@@ -3,6 +3,7 @@
 **Desktop site:**<br>
 
 1. For example, if you want to add "Favourite Filters" in "Project Update Report". You need to click the "Default Columns"
+ **Add Favourite Filters in Project Update Report here:** [https://salesconnection.my/reports/deal-update](https://salesconnection.my/reports/deal-update)
 
  <p align="center">
     <img src="img/Favourite_Filter_step_1.png">
