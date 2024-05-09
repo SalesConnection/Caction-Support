@@ -2,7 +2,7 @@
 
 **What is IMEI?**
 
-IMEI stands for International Mobile Equipment Identity. It is used to track the phone's ID so the user may not be able to log in using other devices.<br>
+IMEI stands for International Mobile Equipment Identity. It is used to track the phone's ID so the user may not be able to log in using other devices.<br><br>
 
 **Scenarios below will need IMEI:**
 
@@ -13,7 +13,7 @@ IMEI stands for International Mobile Equipment Identity. It is used to track the
      <img src="img/IMEI_Prompt_Mobile.png" alt="IMEI Prompt - Mobile">
    </p>
 
-If you face any of these problems, please find your admin to assist you with disabling the IMEI.<br>
+If you face any of these problems, please find your admin to assist you with disabling the IMEI.<br><br>
 
 **Where is IMEI and How to Enable It?**
 
