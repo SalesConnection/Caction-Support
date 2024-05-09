@@ -10,7 +10,7 @@ IMEI stands for International Mobile Equipment Identity. It is used to track the
 2. Unable to log in and prompted for IMEI login. (As shown in the picture below)
 
 <p align="center">
-  <img src="img/IMEI%20Prompt%20-%20Mobile.png" alt="IMEI Prompt - Mobile">
+  <img src="img/IMEI_Prompt_Mobile.png" alt="IMEI Prompt - Mobile">
 </p>
 
 If you face any of these problems, please find your admin to assist you with disabling the IMEI.
@@ -21,7 +21,7 @@ If you face any of these problems, please find your admin to assist you with dis
    - **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)
 
 <p align="center">
-  <img src="img/User%20List.png" alt="User List">
+  <img src="img/User_List.png" alt="User List">
 </p>
 
 *Note: Admins can also perform this action through the notification email received using the verified email address.
@@ -29,12 +29,12 @@ If you face any of these problems, please find your admin to assist you with dis
 2. The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device.
 
 <p align="center">
-  <img src="img/IMEI%20icon.png" alt="IMEI icon">
+  <img src="img/IMEI_icon.png" alt="IMEI icon">
 </p>
 3. When the admin clicks on the blue icon, a message will pop up and the admin can click **Allow** to clear IMEI so that the user can log in using a new device.
 
 <p align="center">
-  <img src="img/IMEI%20allow.png" alt="IMEI Allow">
+  <img src="img/IMEI_allow.png" alt="IMEI Allow">
 </p>
 *Note: IMEI cannot be approved using a mobile.
 
