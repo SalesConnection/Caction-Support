@@ -8,13 +8,13 @@
  1. To filter job, go to Main Navigation> Business Management > Schedule > Job Schedule.<br>
    **Filter Job Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)
 
- 2. Click the calender icon in the top right corner of the page.
+ 2. Click the calendar icon in the top right corner of the page.
 
     <p align="center">
        <img src="img/Job_Filter_by_date_range_step_2.png" alt="Job Filter by date range 2">
     </p>
 
- 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view for job in April 2024, you will need to click the "May", and you will be able to select month.
+ 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view the job in April 2024, you will need to click "May", and you will be able to select a month.
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_step_3.png" alt="Job Filter by date range 3">
@@ -26,40 +26,55 @@
       <img src="img/Job_Filter_by_date_range_step_4.png" alt="Job Filter by date range 4">
     </p>
 
- 5. Select date.
+ 5. Select the date.
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_step_5.png" alt="Job Filter by date range 5">
     </p>
 
- 6. Now, you are able to view for Job in April 2024.
+ 6. Now, you are able to view the job in April 2024.
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_output.png" alt="Job Filter by date range output">
     </p>
 
 **Mobile App:**<br>
-  1. At the Sales Connection mobile app, select "Schedule" page in the bottom center.
-  2. Select the filter icon in top right of the page.<br>
+  1. At the Sales Connection mobile app, select the "Schedule" page in the bottom center.
 
+     <p align="center">
+       <img src="img/App_Job_Filter_by_date_range_step_1.png" alt="Job Filter by date range 1">
+     </p>
+     
+  2. Select the filter icon in the top right of the page.<br>
+
+     <p align="center">
+       <img src="img/App_Job_Filter_by_date_range_step_2.png" alt="Job Filter by date range 2">
+     </p>
 
   3. Click the expand button.
 
-  4. Select date range that you want.
+     <p align="center">
+       <img src="img/App_Job_Filter_by_date_range_step_3.png" alt="Job Filter by date range 3">
+     </p>
 
-  5. Click "Select"
+  4. Select the date range that you want.
 
-  6. Here's the output
+     <p align="center">
+       <img src="img/App_Job_Filter_by_date_range_step_4.png" alt="Job Filter by date range 4">
+     </p>
 
+  5. Click "Select".
 
-   
-*OR* <br>
+     <p align="center">
+       <img src="img/App_Job_Filter_by_date_range_step_5.png" alt="Job Filter by date range 5">
+     </p>
 
-1. Use the search bar at the top center.
-2. Select Job Status.
-3. Select the filter value you want to show.<br>
+  6. Here's the output.
 
-By using this method, you can choose the job status such as Not Started, In progress, or Completed.<br><br><br>
+     <p align="center">
+       <img src="img/App_Job_Filter_by_date_range_output.png" alt="Job Filter by date range output for app">
+     </p>
+
 
 - **How to use job update report filter?**<br>
 
