@@ -15,6 +15,7 @@
 - **I have added the user to the system, what is the next step?**<br>
 
   Ask the user to:<br>
+  
   1. Verify his account through a **verification email** sent from admin@salesconnection.my.<br>
 
      <p align="center">
