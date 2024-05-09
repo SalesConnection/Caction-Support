@@ -21,7 +21,7 @@
      <img src="img/Dropdown_options_in_Quotation_3.png">
    </p>
   
-4. After Rename for the new dropdown, click the tick icon to save the name.<br>
+4. After rename for the new dropdown, click the tick icon to save the name.<br>
 
    <p align="center">
       <img src="img/Dropdown_options_in_Quotation_4.png">
@@ -50,7 +50,7 @@
    <p align="center">
      <img src="img/Dropdown_options_in_Quotation_8.png">
    </p>
-   <br>
+   <br><br>
   
 ## ✍🏻 How to edit checklist dropdown options?
 
