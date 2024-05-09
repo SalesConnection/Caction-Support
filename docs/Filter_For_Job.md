@@ -11,31 +11,31 @@
  2. Click the calender icon in the top right corner of the page.
 
     <p align="center">
-       <img src="img/Job_Filter_by_date_range_step_2.png">
+       <img src="img/Job_Filter_by_date_range_step_2.png" alt="Job Filter by date range 2">
     </p>
 
  3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view for job in April 2024, you will need to click the "May", and you will be able to select month.
 
     <p align="center">
-      <img src="img/Job_Filter_by_date_range_step_3.png">
+      <img src="img/Job_Filter_by_date_range_step_3.png" alt="Job Filter by date range 3">
     </p>   
 
  4. Select "April"
 
     <p align="center">
-      <img src="img/Job_Filter_by_date_range_step_4.png">
+      <img src="img/Job_Filter_by_date_range_step_4.png" alt="Job Filter by date range 4">
     </p>
 
  5. Select date.
 
     <p align="center">
-      <img src="img/Job_Filter_by_date_range_step_5.png">
+      <img src="img/Job_Filter_by_date_range_step_5.png" alt="Job Filter by date range 5">
     </p>
 
  6. Now, you are able to view for Job in April 2024.
 
     <p align="center">
-      <img src="img/Job_Filter_by_date_range_output.png">
+      <img src="img/Job_Filter_by_date_range_output.png" alt="Job Filter by date range output">
     </p>
 
 **Mobile App:**<br>
