@@ -1,4 +1,4 @@
-## 🔽 How to add dropdown options in Quotation?
+## 🔽 How to add dropdown options in Digital Form?
 
 **Desktop site:**<br>
 
