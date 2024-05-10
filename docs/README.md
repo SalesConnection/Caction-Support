@@ -4,7 +4,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 - [How to Add New User?](Add_New_User.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
-- [My Staff Changed New Device Due to The Original Device Broken, What I Need to Do?](IMEI.md)
+- [Why My Staff Cannot Login with New Device?](IMEI.md)
 - [Why My Staff Cannot Check In?](Assist_Check_Out.md)
 - [How to Assist My Staff to Check Out?](Enable_Assist_Check_Out.md)
 - [Filter For Job](Filter_For_Job.md)
