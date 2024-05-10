@@ -44,3 +44,5 @@
   If you want to add more users, contact us to upgrade your subscription plan!<br><br>
 
 **Looking for More?**
+- [How to Assist My New User to Login?](New_User_Login.md)
+- 
