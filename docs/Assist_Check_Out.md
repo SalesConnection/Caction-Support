@@ -48,5 +48,8 @@
         <img src="img/Assisted_Check_Out_Button_Mobile.png" alt="Assisted Check Out Button - Mobile" width="280" height="550">
      </p>
 
-  *Note: If there is no "Assisted Check out" button, visit this page [How to Enable Assist Check Out](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br>
+  *Note: If there is no "Assisted Check out" button, visit this page [How to Enable Assist Check Out](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br><br>
 
+
+**Related Article**<br>
+[How to Assist My Staff to Check Out?](Enable_Assist_Check_Out.md)
