@@ -5,7 +5,7 @@
 1. Error message popup when staff login to the app.<br>
 
    <p align="center">
-     <img src="img/IMEI_Login_Error.png" alt="IMEI Login Error" width="">
+     <img src="img/IMEI_Login_Error.png" alt="IMEI Login Error" width="300" height="600">
    </p>
 
 2. As an admin, you keep receiving the emails below.<br>
@@ -13,9 +13,9 @@
    <p align="center">
      <img src="img/IMEI_Email.png" alt="IMEI Email">
    </p>
+<br>
 
-
-### Where is IMEI and How to Disable It?
+### How to solve these problems with IMEI?
 *Note: IMEI can be performed by certain admins and it can be enabled through the website only.<br>
 1. To enable the IMEI, go to the desktop site’s navigation bar > User Management > User List.<br>
    **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
