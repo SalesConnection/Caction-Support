@@ -9,6 +9,7 @@ Welcome to the Sales Connection Support Site! Here you'll find documentation and
 - [Favourite Filter](Favourite_Filter.md): Don't want to keep choosing the filter you want? Look this!
 - [Dropdown Options](Dropdown_Options.md): Wondering how to add or edit the dropdown in digital forms? Follow these steps!
 
-Feel free to explore the sections above for more information.
+<br>
+Feel free to explore the sections above for more information.<br><br>
 
 Thank you for choosing Sales Connection!
