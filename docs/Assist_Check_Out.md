@@ -14,10 +14,8 @@
      <p align="center">
         <img src="img/Check_Out_Required.png" alt="Check Out Required">
      </p>
-
-  If you face any of these problems, please find your **admin** to help you to perform assisted check out.<br><br>
   
-### How to assist check out?
+### How to help your staff with assist check out?
 
   **Desktop Version**<br>
   1. To assist check out, go to desktop site navigation bar > Business Map > Overview.<br>
