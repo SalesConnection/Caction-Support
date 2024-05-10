@@ -4,7 +4,16 @@
 ### Scenarios below will need assist check out:
 
   1. If staff **cannot** or **forgot** to check out from the previous task, what to do?<br>
+
+     <p align="center">
+        <img src="img/Check_Out_Range.png" alt="Check Out Range">
+     </p>
+     
   2. I can't check in to the next task.<br>
+
+     <p align="center">
+        <img src="img/Check_Out_Required.png" alt="Check Out Required">
+     </p>
 
   If you face any of these problems, please find your **admin** to help you to perform assisted check out.<br><br>
   
