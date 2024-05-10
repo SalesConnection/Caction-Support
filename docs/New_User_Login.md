@@ -50,4 +50,7 @@
        <img src="img/Login_Code.png" alt="Login Code" width="280" height="550">
      </p>
   
-&emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br><br>
+&emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br><br><br>
+
+**Related Article**<br>
+[How to Add New User?](Add_New_User.md)
