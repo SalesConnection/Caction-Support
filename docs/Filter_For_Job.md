@@ -1,7 +1,5 @@
 
-## 🧾 How to use filter function?
-
-- **How to filter job by date range?**<br><br>
+## 🧾 How to filter job by date range?
 
 **Desktop site:**<br>
 
@@ -19,19 +17,19 @@
        <img src="img/Job_Filter_by_date_range_step_2.png" alt="Job Filter by date range 2">
     </p>
 
- 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view the job in April 2024, you will need to click "May", and you will be able to select a month.
+ 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view the job in April 2024, click "May" and you will be able to select a month.
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_step_3.png" alt="Job Filter by date range 3">
     </p>   
 
- 4. Select "April"
+ 4. Click on any month that you like to search. For example, click on "Apr".
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_step_4.png" alt="Job Filter by date range 4">
     </p>
 
- 5. Select the date.
+ 5. Select the date that you want to view.
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_step_5.png" alt="Job Filter by date range 5">
@@ -42,7 +40,8 @@
     <p align="center">
       <img src="img/Job_Filter_by_date_range_output.png" alt="Job Filter by date range output">
     </p>
-
+    <br>
+    
 **Mobile App:**<br>
   1. At the Sales Connection mobile app, select the "Schedule" page in the bottom center.
 
@@ -56,7 +55,7 @@
        <img src="img/App_Job_Filter_by_date_range_step_2.png" alt="Job Filter by date range 2">
      </p>
 
-  3. Click the expand button.
+  3. Click on the dropdown icon beside the word "Daily".
 
      <p align="center">
        <img src="img/App_Job_Filter_by_date_range_step_3.png" alt="Job Filter by date range 3">
@@ -68,56 +67,17 @@
        <img src="img/App_Job_Filter_by_date_range_step_4.png" alt="Job Filter by date range 4">
      </p>
 
-  5. Click "Select".
+  5. Click "SEARCH" to continue.
 
      <p align="center">
        <img src="img/App_Job_Filter_by_date_range_step_5.png" alt="Job Filter by date range 5">
      </p>
 
-  6. Here's the output.
+  6. Here's the result.
 
      <p align="center">
        <img src="img/App_Job_Filter_by_date_range_output.png" alt="Job Filter by date range output for app">
      </p>
      <br><br>
-
-- **How to use job update report filter?**<br>
-
-1. To use job update report filter, go to Business Report > Job Update Report.<br>
-   **Open the link here:** [https://salesconnection.my/reports/activity-update](https://salesconnection.my/reports/activity-update)
-
-   <p align="center">
-     <img src="img/Job_Update_Report_Filter_Step_1.png">
-   </p><br>
-
-2. Click the "Filter Table Record" and it will show the filter below.
-
-   <p align="center">
-     <img src="img/Job_Update_Report_Filter_Step_2.png">
-   </p><br>
-
-3. You can choose by what group that you want to show. For example, select "Job Update" and it will show the Filter Variable below.<br>
-
-   <p align="center">
-     <img src="img/Job_Update_Report_Filter_Step_3.png">
-   </p><br>
-
-4. For example, select "Update Status". It will show the Operator, which includes "Update Status Contains" and "Update Status Not Contains".
-
-   <p align="center">
-     <img src="img/Job_Update_Report_Filter_Step_4.png">
-   </p><br>
-
-5. For example, select "Contains" if you want to show which filter value. After that, it will show the filter value as shown below.
-
-   <p align="center">
-     <img src="img/Job_Update_Report_Filter_Step_5.png">
-   </p><br>
-
-6. For example, select "In Progress" in the filter value. It will show relevant jobs as below. "Not Contains" means that these jobs searched by the filter are being updated.
-
-   <p align="center">
-     <img src="img/Job_Update_Report_Filter_Result.png">
-   </p><br><br>
 
 **Wondering How to Set Your Favourite Filter? Click Here:** [https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md](https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md)
