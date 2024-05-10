@@ -1,15 +1,16 @@
-Welcome to the Sales Connection Support Site! Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
+Welcome to the Sales Connection Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
 
 ## Table of Contents
 
-- [Add New User](Add_New_User.md): Figuring how to add new user? Follow these steps!
-- [IMEI](IMEI.md): Changed your device and can't login? Here is the solution!
-- [Assist Check Out](Assist_Check_Out.md): Forgot to check out from previous site? We can solve your problem!
-- [Filter For Job](Filter_For_Job.md): Always can't see your job? Look here!
-- [Favourite Filter](Favourite_Filter.md): Don't want to keep choosing the filter you want? Look this!
-- [Dropdown Options](Dropdown_Options.md): Wondering how to add or edit the dropdown in digital forms? Follow these steps!
+- [How to Add New User?](Add_New_User.md)
+- [My Staff Changed New Device Due to The Original Device Broken, What I Need to Do?](IMEI.md)
+- [Why My Staff Cannot Check In?](Assist_Check_Out.md)
+- [How to Assist My Staff to Check Out?](Enable_Assist_Check_Out.md)
+- [Filter For Job](Filter_For_Job.md)
+- [Favourite Filter](Favourite_Filter.md)
+- [Dropdown Options](Dropdown_Options.md)
 
 <br>
 Feel free to explore the sections above for more information.<br><br>
 
-Thank you for choosing Sales Connection!
+Thank you for choosing Sales Connection.
