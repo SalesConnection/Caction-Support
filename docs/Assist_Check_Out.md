@@ -1,7 +1,7 @@
 
 ## 🔑 Assist Check Out
 
-- **Scenarios below will need assist check out:**<br>
+### Scenarios below will need assist check out:
 
   1. If staff **forgot** to check out from the previous task, what to do?<br>
   2. I can't check in to the next task.<br>
@@ -9,7 +9,7 @@
 
   If you face any of these problems, please find your **admin** to assist you with the "force" check out.<br><br>
   
-- **How to assist check out?**<br>
+### How to assist check out?
 
   **Enable Assist Check Out**<br>
   1. Please ensure you have permission for the **Assist Check Out** feature. If you do, you may skip to the next section. To enable assist check out, go to desktop site navigation bar > User Management > User Account Customisation (UAC).<br>
