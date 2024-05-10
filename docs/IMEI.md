@@ -22,7 +22,7 @@ If you face any of these problems, please find your admin to assist you with dis
    **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
 
    <p align="center">
-     <img src="img/User_List.png" alt="User List">
+     <img src="img/User_List_Sidebar.png" alt="User List">
    </p>
 
    *Note: Admins can also perform this action through the notification email received using the verified email address.<br>
