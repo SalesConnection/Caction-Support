@@ -15,13 +15,13 @@
      <img src="img/Job_Update_Report_Filter_Step_2.png">
    </p>
 
-3. You can choose by what group that you want to show. For example, select "Job Update" and it will show the Filter Variable below.<br>
+3. You can choose by what group that you want to show. For example, select "Job Update" and it will show the filter variable below.<br>
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Step_3.png">
    </p>
 
-4. For example, select "Update Status". It will show the Operator, which includes "Update Status Contains" and "Update Status Not Contains".
+4. For example, select "Update Status". It will show the operator, which includes "Update Status Contains" and "Update Status Not Contains".
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Step_4.png">
