@@ -5,7 +5,7 @@
 1. Error message popup when staff login to the app.<br>
 
    <p align="center">
-     <img src="img/IMEI_Login_Error.png" alt="IMEI Login Error">
+     <img src="img/IMEI_Login_Error.png" alt="IMEI Login Error" width="">
    </p>
 
 2. As an admin, you keep receiving the emails below.<br>
