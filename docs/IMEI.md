@@ -1,10 +1,9 @@
-## 📱 My Staff Changed New Device Due to The Original Device Broken, What I Need to Do?
+## 📱 Why My Staff Cannot Login with New Device?
 
-### Scenarios below might need to disable IMEI:
+### Scenarios below you might face now:
 
-1. The company allows to use of two different devices for work.<br>
-2. Device change due to the current device being broken.<br>
-3. As an admin, you keep receiving the emails below.<br>
+1. 
+2. As an admin, you keep receiving the emails below.<br>
 
    <p align="center">
      <img src="img/IMEI_Email.png" alt="User List">
@@ -35,3 +34,4 @@ If you face any of these problems, please find your admin to assist you with dis
      <img src="img/IMEI_allow.png" alt="IMEI Allow">
    </p>
    
+**Rel**
