@@ -1,4 +1,4 @@
-## 📱 My Staff Changes His Device 
+## 📱 My Staff Changed New Device Due to The Original Device Broken, What I Need to Do?
 
 ### Scenarios below might need to disable IMEI:
 
