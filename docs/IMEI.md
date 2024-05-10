@@ -35,5 +35,6 @@ If you face any of these problems, please find your admin to assist you with dis
    </p>
 <br><br><br>
    
-**Related Article**<br>
-[How to Assist My New User to Login?](New_User_Login.md)
+**Related Articles**<br>
+- [Why My Staff Cannot Check In?](Assist_Check_Out.md)
+- [How to Assist My Staff to Check Out?](Enable_Assist_Check_Out.md)
