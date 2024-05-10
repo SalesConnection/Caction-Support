@@ -2,14 +2,18 @@
 
 ### Scenarios below you might face now:
 
-1. 
+1. Error message popup when staff login to the app.<br>
+
+   <p align="center">
+     <img src="img/IMEI_Login_Error.png" alt="IMEI Login Error">
+   </p>
+
 2. As an admin, you keep receiving the emails below.<br>
 
    <p align="center">
-     <img src="img/IMEI_Email.png" alt="User List">
+     <img src="img/IMEI_Email.png" alt="IMEI Email">
    </p>
 
-If you face any of these problems, please find your admin to assist you with disabling the IMEI.<br><br>
 
 ### Where is IMEI and How to Disable It?
 *Note: IMEI can be performed by certain admins and it can be enabled through the website only.<br>
