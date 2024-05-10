@@ -1,7 +1,6 @@
 ## ❓ How to Enable Assisted Check Out
 
-**Enable Assist Check Out**<br>
-*Note: Only certain admins can perform this action.
+*Note: Only certain admins can perform this action.<br><br>
 
   1. Please ensure you have permission for the "Assist Check Out" feature. If you do, you may skip to the next section. To enable assist check out, go to desktop site navigation bar > User Management > User Account Customisation (UAC).<br>
      **Open UAC Page Here:** [https://salesconnection.my/manageuac](https://salesconnection.my/manageuac)<br>
