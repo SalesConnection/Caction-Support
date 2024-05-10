@@ -9,13 +9,13 @@
      <img src="img/Dropdown_options_in_Quotation_1.png">
    </p>
 
-2. Select "Drop Down" to add new dropdown options.<br>
+2. Click "Drop Down" to add new dropdown options.<br>
 
    <p align="center">
       <img src="img/Dropdown_options_in_Quotation_2.png">
    </p>
   
-3. Click the Pencil Icon to edit the new dropdown name.<br>
+3. 🖋️ Click the Pencil Icon to rename the new dropdown.<br>
 
    <p align="center">
      <img src="img/Dropdown_options_in_Quotation_3.png">
@@ -27,7 +27,7 @@
       <img src="img/Dropdown_options_in_Quotation_4.png">
    </p>
   
-5. Click the expand button to add options or edit for the access permission of the new dropdown.<br>
+5. Click the expand button to add options.<br>
 
    <p align="center">
       <img src="img/Dropdown_options_in_Quotation_5.png">
