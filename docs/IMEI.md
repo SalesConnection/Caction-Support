@@ -33,5 +33,7 @@ If you face any of these problems, please find your admin to assist you with dis
    <p align="center">
      <img src="img/IMEI_allow.png" alt="IMEI Allow">
    </p>
+<br><br><br>
    
-**Rel**
+**Related Article**<br>
+[How to Assist My New User to Login?](New_User_Login.md)
