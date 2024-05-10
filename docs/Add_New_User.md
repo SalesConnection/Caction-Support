@@ -1,8 +1,6 @@
 
-## 👩‍💼 Add New User
+## 👩‍💼 How to Add New User?
     
-### How do I add users?
-
   1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
 
      <p align="center">
