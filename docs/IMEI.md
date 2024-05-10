@@ -1,8 +1,4 @@
-## 📱 IMEI
-
-### What is IMEI?
-
-IMEI stands for International Mobile Equipment Identity. It is used to track the phone's ID so the user may not be able to log in using other devices.<br><br>
+## 📱 My Staff Changes His Device 
 
 ### Scenarios below might need to disable IMEI:
 
