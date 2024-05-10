@@ -6,14 +6,14 @@
   1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
 
      <p align="center">
-       <img src="img/User_List_Sidebar.png" alt="Add New User" width="650" height="550">
+       <img src="img/User_List_Sidebar.png" alt="Add New User">
      </p>
 
   2. Click on the "+" button to access the "Add New User" page.<br>
      **Add User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add New User" width="650" height="550">
+       <img src="img/Add_User_Button.png" alt="Add New User">
      </p>
 
   3. Fill out the details of your new team member and click "Submit Form".<br>
