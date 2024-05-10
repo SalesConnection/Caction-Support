@@ -17,7 +17,7 @@ IMEI stands for International Mobile Equipment Identity. It is used to track the
 If you face any of these problems, please find your admin to assist you with disabling the IMEI.<br><br>
 
 ### Where is IMEI and How to Disable It?
-*Note: IMEI can be enabled through the website only.<br>
+*Note: IMEI can be performed by certain admins and it can be enabled through the website only.<br>
 1. To enable the IMEI, go to the desktop site’s navigation bar > User Management > User List.<br>
    **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
 
