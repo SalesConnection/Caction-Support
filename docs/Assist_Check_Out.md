@@ -1,4 +1,4 @@
-### 🚪 Why My Staff Cannot Check In?
+## 🚪 Why My Staff Cannot Check In?
 
 ### Scenarios below will need assist check out:
 
