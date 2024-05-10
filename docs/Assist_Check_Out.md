@@ -6,7 +6,7 @@
   1. If staff **cannot** or **forgot** to check out from the previous task, what to do?<br>
 
      <p align="center">
-        <img src="img/Check_Out_Range.png" alt="Check Out Range">
+        <img src="img/Check_Out_Range.png" alt="Check Out Range" width="300" height="600">
      </p>
      
   2. I can't check in to the next task.<br>
