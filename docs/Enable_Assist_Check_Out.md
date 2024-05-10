@@ -8,8 +8,6 @@
      <p align="center">
        <img src="img/User_Account_Customisation.png" alt="User Account Customisation">
      </p>
-
-     *Note: Only the admin is able to perform this action.<br>
   
   2. Use Ctrl + f to search "Enable Assisted Checkout".<br>
   
