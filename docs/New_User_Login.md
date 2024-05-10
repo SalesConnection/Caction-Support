@@ -1,4 +1,4 @@
-## How to login as a new user?
+## How to Assist My New Staff to Login?
   **Desktop Version**<br>
   1. Click "Verify Email" through a **verification email** sent from admin@salesconnection.my to verify it.<br>
 
