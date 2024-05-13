@@ -1,5 +1,5 @@
 
-## 👩‍💼 How to Login?
+## 👩‍💼 How to Login Using Mobile and Desktop?
     
   **Desktop Version**<br>
   *Note: Only certain staff will have the desktop access.
