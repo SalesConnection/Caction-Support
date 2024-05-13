@@ -1,5 +1,5 @@
 
-## ✍🏻 How to edit checklist dropdown options?
+## ✍🏻 How to Edit Checklist Dropdown Options?
 
 1. For example, if you want to edit checklist dropdown options for Service Sheet. Go to desktop site navigation bar > "Template Settings" > "Digital Form Templates" > "Digital Form Template Settings".<br>
    **Open the page here**: [https://salesconnection.my/ServiceReport/TemplateSetting](https://salesconnection.my/ServiceReport/TemplateSetting)<br>
