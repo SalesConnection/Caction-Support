@@ -27,10 +27,34 @@
 
 **How to delete a user?**<br>
 1. Go to Desktop site navigation bar > User Management > User List.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
 2. Navigate to the user you want to delete.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
 3. Click on the "Red Bin" icon to delete the user.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
 4. Click "Yes" to confirm your deletion.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
 5. Click "OK" and the user has been deleted successfully.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
 
 <br>
 
