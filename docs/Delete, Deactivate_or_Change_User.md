@@ -26,7 +26,8 @@
 *Note: All updates, comments, and check-ins/outs of the deleted user will remain in the system.<br>
 
 **How to delete a user?**<br>
-1. Go to Desktop site navigation bar > User Management > User List.<br>
+1. Go to desktop site navigation bar > User Management > User List.<br>
+   *Note: Only certain admins can delete users.<br>
 
    <p align="center">
       <img src="img/Add_User_Button.png" alt="Add New User">
@@ -68,11 +69,37 @@
 No.<br>
 
 **How to deactivate a user?**<br>
-1. Desktop site Main Navigation > User Management > User List > Select User > Deactivate button (Green icon)<br>
-   *Note: Only the Main Admin and Super Admin can deactivate accounts<br>
-2. 
+1. Go to desktop site navigation bar > User Management > User List.<br>
+   *Note: Only certain admins can deactivate users.<br>
 
-<br>
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+   
+2. Navigate to the user you want to deactivate.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
+3. Click on the "Green Tick" icon to deactivate the user.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
+4. Click "Yes" to confirm your deletion.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
+5. Click "OK" and the user has been deactivated successfully.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+   <br>
 
 <a id="section3"></a>
 ### Change to a New User
@@ -82,8 +109,36 @@ No.<br>
 
 
 **How to change to a new user?**<br>
-1. Desktop site main navigation > User Management > User List > Select User.<br>
-2. 
+1. Go to desktop site navigation bar > User Management > User List.<br>
+   *Note: Only certain admins can deactivate users.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+   
+2. Navigate to the user you want to change the details to the new user.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
+3. Click on the "Blue Pencil" icon to change the user details.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
+4. Enter the new user details by deleting the original details.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
+
+5. Click "Submit Form" and the user details has been changed successfully.<br>
+
+   <p align="center">
+      <img src="img/Add_User_Button.png" alt="Add New User">
+   </p>
 
 
 **Related Articles**<br>
