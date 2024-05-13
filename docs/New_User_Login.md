@@ -14,7 +14,7 @@
 
      *Note: User can change password after login to the system.<br>
   
-  3. Login using the **registered** email address.<br>
+  3. Login using the **registered** email address with the **correct** password.<br>
      **Login Here:** [https://salesconnection.my/login](https://salesconnection.my/login)<br>
 
      <p align="center">
@@ -49,8 +49,7 @@
      <p align="center">
        <img src="img/Login_Code.png" alt="Login Code" width="280" height="550">
      </p>
+     <br><br><br>
   
-&emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br><br><br>
-
 **Related Article**<br>
 [How to Add New User?](Add_New_User.md)
