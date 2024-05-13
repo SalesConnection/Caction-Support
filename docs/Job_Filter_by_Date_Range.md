@@ -46,25 +46,25 @@
   1. At the Sales Connection mobile app, select the "Schedule" page in the bottom center.
 
      <p align="center">
-       <img src="img/App_Job_Filter_by_date_range_step_1.png" alt="Job Filter by date range 1">
+       <img src="img/How_to_Search_Job_Filter_by_Date_Range_Using_App_Step_1.png" alt="Job Filter by date range 1">
      </p>
      
   2. Select the filter icon in the top right of the page.<br>
 
      <p align="center">
-       <img src="img/App_Job_Filter_by_date_range_step_2.png" alt="Job Filter by date range 2">
+       <img src="img/How_to_Search_Job_Filter_by_Date_Range_Using_App_Step_2.png" alt="Job Filter by date range 2">
      </p>
 
   3. Click on the dropdown icon beside the word "Daily".
 
      <p align="center">
-       <img src="img/App_Job_Filter_by_date_range_step_3.png" alt="Job Filter by date range 3">
+       <img src="How_to_Search_Job_Filter_by_Date_Range_Using_App_Step_3.png" alt="Job Filter by date range 3">
      </p>
 
   4. Select the date range that you want.
 
      <p align="center">
-       <img src="img/App_Job_Filter_by_date_range_step_4.png" alt="Job Filter by date range 4">
+       <img src="img/How_to_Search_Job_Filter_by_Date_Range_Using_App_Step_4.png" alt="Job Filter by date range 4">
      </p>
 
   5. Click "SEARCH" to continue.
