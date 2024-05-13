@@ -18,9 +18,15 @@
      **Login Here:** [https://salesconnection.my/login](https://salesconnection.my/login)<br>
 
      <p align="center">
-       <img src="img/Login_Page_Desktop.png" alt="Desktop_Login">
+       <img src="img/Login_Page_Desktop_1.png" alt="Desktop_Login">
      </p>
 
+  4. Click the "Login" button to login.<br>
+
+     <p align="center">
+       <img src="img/Login_Button_Desktop_1.png" alt="Login Button - Desktop">
+     </p>
+     
      *Note: Only email addresses that are verified will be sent.<br><br>
 
   **Mobile Version**<br>
