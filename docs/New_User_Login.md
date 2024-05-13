@@ -38,13 +38,13 @@
        <img src="img/Login_Page_Mobile.png" alt="Mobile Login" width="280" height="550">
      </p>
 
-  3. Check your "Messages" app and look for the "Code" sent by 62002.<br>
+  3. Check your "Messages" app and look for the "OTP Code" sent by 62002.<br>
 
      <p align="center">
-       <img src="img/Code_In_Messages.png" alt="Code Sent" width="280" height="550">
+       <img src="img/Code_In_Messages.png" alt="OTP Code Sent" width="280" height="550">
      </p>
 
-  4. Enter the "Code" you received and click the "SUBMIT" button to login to the app.<br>
+  4. Enter the "OTP Code" you received and click the "SUBMIT" button to login to the app.<br>
 
      <p align="center">
        <img src="img/Login_Code.png" alt="Login Code" width="280" height="550">
