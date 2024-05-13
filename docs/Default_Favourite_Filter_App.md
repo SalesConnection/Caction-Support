@@ -3,6 +3,10 @@
 
 1. For example, if you want to set a favourite filter for Job Schedule. Click "Schedule".
 
+   <p align="center">
+     <img src="img/How_to_Set_Favourite_Filter_As_Default_In_App_Step_1" alt="Job Filter by date range 1">
+   </p>
+
 
 2. Click the star icon.
 
