@@ -118,4 +118,7 @@
 
  <p align="center">
     <img src="img/App_Favourite_Filter_Result.jpg" width="280" height="600">
-  </p><br>
+  </p><br><br>
+
+**Related Article**<br>
+[How to Assist My New User to Login?](New_User_Login.md)
