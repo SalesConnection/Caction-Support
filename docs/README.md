@@ -12,6 +12,6 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Dropdown Options](Dropdown_Options.md)
 
 <br>
-Feel free to explore the sections above for more information.<br><br>
+Feel free to explore the sections above by clicking it for more information.<br><br>
 
 Thank you for choosing Sales Connection.
