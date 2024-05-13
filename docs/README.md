@@ -9,7 +9,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Check Out If Forgot to Check Out?](Assist_Check_Out.md)
 - [Filter For Job (In Progress)](Filter_For_Job.md)
 - [Favourite Filter](Favourite_Filter.md)
-- [How to Add Dropdown Options in Digital Form? (In Progress)](Dropdown_Options.md)
+- [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options.md)
+- [How to Edit Checklist Dropdown Options?](Edit_Dropdown_Options.md)
 
 <br>
 
