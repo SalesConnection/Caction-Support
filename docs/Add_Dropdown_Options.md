@@ -76,5 +76,5 @@
     </p>
     <br><br><br>
 
-**Related Articles**
-[How to Edit Dropdown Options in Digital Form?](Edit_Dropdown_Options.md)
+**Related Article**<br>
+[How to Edit Checklist Dropdown Options?](Edit_Dropdown_Options.md)
