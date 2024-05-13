@@ -3,36 +3,36 @@
 [Go to Section 2](#section2)
 
 ### Delete A Resigned User
-gr
-ge
-sdv
-fe
-d
-sd
-v
-evds
+gr<br>
+get<br>
+sdv<br>
+fe<br>
+d<br>
+sd<br>
+v<br>
+evds<br>
+<br>
+sd<br>
+sd<br>
 
-sd
-sd
+ds<br>
 
-ds
+ds<br>
+svd<br>
 
-ds
-svd
+ds<br>
+vs<br>
+v<br><br>
+dsv<br>
+ds<br>
+sd<br>
 
-ds
-vs
-v
-dsv
-ds
-sd
+ds<br>
+ds<br>
 
-ds
-ds
-
-d
-d
-sd
+d<br>
+d<br>
+sd<br>
 
 <a id="section2"></a>
 ### Change to A New User
