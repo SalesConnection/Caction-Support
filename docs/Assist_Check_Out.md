@@ -15,7 +15,7 @@
      </p>
      <br>
   
-### How to Help Your Staff with Assist Check Out?
+### How to Perform Assist Check Out?
 
   **Desktop Version**<br>
   1. To assist check out, go to desktop site navigation bar > Business Map > Overview.<br>
@@ -31,7 +31,7 @@
         <img src="img/Assisted_Check_Out_Button_Desktop.png" alt="Assisted Check Out Button - Desktop">
      </p>
      
-  *Note: If there is no "Assisted Check out" button, visit this page [How to Enable Assist Check Out](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br>
+  *Note: If there is no "Assisted Check out" button, visit this page [How to Assist My Staff to Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br>
 
   **Mobile Version**<br>
   1. To assist check out, go to Dashboard > Business Map.<br>
@@ -46,7 +46,7 @@
         <img src="img/Assisted_Check_Out_Button_Mobile.png" alt="Assisted Check Out Button - Mobile" width="280" height="550">
      </p>
 
-  *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br><br>
+  *Note: If there is no "Check-out" button, visit this page [How to Assist My Staff to Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br><br>
 
 
 **Related Article**<br>
