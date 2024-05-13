@@ -1,4 +1,4 @@
-## 🔽 How to add dropdown options in Digital Form?
+## 🔽 How to Add Dropdown Options in Digital Form?
 
 **Desktop site:**<br>
 
