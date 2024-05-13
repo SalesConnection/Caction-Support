@@ -7,7 +7,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [How to Check Out If Forgot to Check Out?](Assist_Check_Out.md)
 - [Filter For Job (In Progress)](Filter_For_Job.md)
-- [Favourite Filter (In Progress)](Favourite_Filter.md)
+- [Favourite Filter](Favourite_Filter.md)
 - [How to Add Dropdown Options in Digital Form? (In Progress)](Dropdown_Options.md)
 
 <br>
