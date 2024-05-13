@@ -3,11 +3,11 @@
     
   **Desktop Version**<br>
   *Note: Only certain staff will have the desktop access.
-  1. Visit Sales Connection's website and click "Login".
+  1. Visit Sales Connection's website and click "Login".<br>
      **Open Sales Connection's Website Here:** [https://salesconnection.my/](https://salesconnection.my/)<br>
 
      <p align="center">
-       <img src="img/Login_Page_Desktop.png" alt="Sales Connection's Website">
+       <img src="img/Sales_Connection_Website.png" alt="Sales Connection's Website">
      </p>
   
   2. Login using the **registered** email address with the **correct** password.<br>
@@ -20,7 +20,7 @@
   3. Click the "Login" button to login.<br>
 
      <p align="center">
-       <img src="img/Login_Code.png" alt="Login Code" width="280" height="550">
+       <img src="img/Login_Button_Desktop.png" alt="Login Button - Desktop">
      </p>
      <br><br>
 
@@ -67,19 +67,19 @@
   2. Open the Sales Connection's App, click the "Login" button and choose "Login via Email".<br>
 
      <p align="center">
-       <img src="img/Login_Page_Mobile.png" alt="Mobile Login" width="280" height="550">
+       <img src="img/Login_Via_Email.png" alt="Email Login" width="280" height="550">
      </p>
 
   3. Enter the **registered** email with the **correct** password.<br>
 
      <p align="center">
-       <img src="img/Code_In_Messages.png" alt="Code Sent" width="280" height="550">
+       <img src="img/Email_Login_Details.png" alt="Email Login Details" width="280" height="550">
      </p>
 
   4. Click the "Login" button to login.<br>
 
      <p align="center">
-       <img src="img/Login_Code.png" alt="Login Code" width="280" height="550">
+       <img src="img/Email_Login.png" alt="Email Login" width="280" height="550">
      </p>
      <br><br><br>
 
