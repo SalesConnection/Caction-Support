@@ -23,7 +23,7 @@
 - The user will not be able to log into (access) the system.<br>
 - The user will be removed from all the items he was assigned to/created. (Assigned to/ Creator column will remove deleted user)<br>
 - The users’ jobs cannot be traced in the schedule and metrics overview pages.<br>
-*Note: All updates, comments, and check-ins/outs of the deleted user will remain in the system.<br>
+*Note: All updates, comments, and check-ins/outs of the deleted user will remain in the system.<br><br>
 
 **How to delete a user?**<br>
 1. Go to desktop site navigation bar > User Management > User List.<br>
@@ -63,10 +63,10 @@
 ### Deactivate a Resigned User
 **What will happen if I deactivate a user?**<br>
 - The user will not be able to log into (access) the system.<br>
-- All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br>
+- All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br><br>
 
 **Will the deactivated user be counted as one user account (reducing the number of user accounts available)?**<br>
-No.<br>
+No.<br><br>
 
 **How to deactivate a user?**<br>
 1. Go to desktop site navigation bar > User Management > User List.<br>
@@ -105,7 +105,7 @@ No.<br>
 ### Change to a New User
 **What will happen if I change the resigned user to a new user from the system?**<br>
 - All the items the resigned user was assigned to/created will remain in the system.<br>
-- 
+- <br><br>
 
 
 **How to change to a new user?**<br>
@@ -139,7 +139,7 @@ No.<br>
    <p align="center">
       <img src="img/Add_User_Button.png" alt="Add New User">
    </p>
-
+   <br><br><br>
 
 **Related Articles**<br>
 - [How to Add New User?](Add_New_User.md)
