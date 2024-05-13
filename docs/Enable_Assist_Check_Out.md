@@ -1,4 +1,4 @@
-## ❓ How to Enable Assisted Check Out
+## ❓ How to Assist My staff to Check Out?
 
 *Note: Only certain admins can perform this action.<br><br>
 
