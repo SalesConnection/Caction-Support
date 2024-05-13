@@ -8,7 +8,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [How to Check Out If Forgot to Check Out?](Assist_Check_Out.md)
 - [How to Search Job Using Date Range?](Job_Filter_by_Date_Range.md)
-- [How to Set Customized Favourite Filter as Default - Desktop ](Favourite_Filter.md)
+- [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
 - [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options.md)
 - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
 - [How to set customized favourite filter in Report Pages?](Customize_Filter_in_Report_Pages.md)
