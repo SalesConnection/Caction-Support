@@ -37,4 +37,4 @@
   <br><br>
 
   **Related Article**<br>
-[Why My Staff Cannot Check In?](Assist_Check_Out.md)
+[Why My Staff Cannot Check In/Check Out?](Assist_Check_Out.md)
