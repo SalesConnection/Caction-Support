@@ -9,7 +9,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Assist My Staff to Check Out?](Enable_Assist_Check_Out.md)
 - [Filter For Job](Filter_For_Job.md)
 - [Favourite Filter](Favourite_Filter.md)
-- [Dropdown Options](Dropdown_Options.md)
+- [How to Add Dropdown Options in Digital Form?](Dropdown_Options.md)
 
 <br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
