@@ -1,4 +1,4 @@
-## ❤ How to set favourite filter in Project Update Report?
+## ❤ How to set customized favourite filter in Report Pages?
 
 **Desktop site:**<br>
 
