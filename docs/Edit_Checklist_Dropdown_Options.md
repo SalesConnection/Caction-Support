@@ -17,25 +17,25 @@
 3. Click "Yes" for the pop up message.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_2.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_3.png">
    </p>
 
 4. Scroll down to "Custom Field View" and select the Checklist that you want to edit.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_3.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_4.png">
    </p>
 
 5. Click the expand button.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_4.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_5.png">
    </p>
 
 6. Click the "+ Manage Items".<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_5.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_6.png">
    </p>
 
 7. Edit the checklist dropdown option by clicking on which option you want to edit.<br>
@@ -53,19 +53,19 @@
 9. Click the "Cross" icon to close the checklist page.<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_9.png">
    </p>
 
 10. Remember to save your change by clicking the blue icon beside then click "OK".<br>
 
    <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_10.png">
    </p>
 
 11. Your changes have been saved successfully.
 
     <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_11.png">
    </p>
    <br><br><br>
 
