@@ -26,8 +26,11 @@
 *Note: All updates, comments, and check-ins/outs of the deleted user will remain in the system.<br>
 
 **How to delete a user?**<br>
-1. Desktop site main navigation > User Management > User List > Select User > Delete button (Red icon with bin).<br>
-2. 
+1. Go to Desktop site navigation bar > User Management > User List.<br>
+2. Navigate to the user you want to delete.<br>
+3. Click on the "Red Bin" icon to delete the user.<br>
+4. Click "Yes" to confirm your deletion.<br>
+5. Click "OK" and the user has been deleted successfully.<br>
 
 <br>
 
@@ -50,7 +53,9 @@ No.<br>
 <a id="section3"></a>
 ### Change to a New User
 **What will happen if I change the resigned user to a new user from the system?**<br>
-- Th
+- All the items the resigned user was assigned to/created will remain in the system.<br>
+- 
+
 
 **How to change to a new user?**<br>
 1. Desktop site main navigation > User Management > User List > Select User.<br>
