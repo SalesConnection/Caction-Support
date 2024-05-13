@@ -80,4 +80,5 @@
      </p>
      <br><br>
 
-**Wondering How to Set Your Favourite Filter? Click Here:** [https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md](https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md)
+**Related Article**<br>
+[How to Save My Favourite Filter?](Favourite_Filter.md)
