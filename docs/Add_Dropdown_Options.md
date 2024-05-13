@@ -143,4 +143,7 @@
     <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
    </p>
-   <br>
+   <br><br><br>
+
+**Related Articles**
+
