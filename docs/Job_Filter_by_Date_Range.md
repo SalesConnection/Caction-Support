@@ -70,13 +70,13 @@
   5. Click "SEARCH" to continue.
 
      <p align="center">
-       <img src="img/App_Job_Filter_by_date_range_step_5.png" alt="Job Filter by date range 5">
+       <img src="img/How_to_Search_Job_Filter_by_Date_Range_Using_App_Step_5.png" alt="Job Filter by date range 5">
      </p>
 
   6. Here's the result.
 
      <p align="center">
-       <img src="img/App_Job_Filter_by_date_range_output.png" alt="Job Filter by date range output for app">
+       <img src="img/How_to_Search_Job_Filter_by_Date_Range_Using_App_Result.png" alt="Job Filter by date range output for app">
      </p>
      <br><br>
 
