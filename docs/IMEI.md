@@ -40,5 +40,6 @@
 <br><br><br>
    
 **Related Articles**<br>
+- [How to Login?](Login.md)
 - [Why My Staff Cannot Check In?](Assist_Check_Out.md)
 - [How to Assist My Staff to Check Out?](Enable_Assist_Check_Out.md)
