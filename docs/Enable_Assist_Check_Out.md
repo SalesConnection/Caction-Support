@@ -34,4 +34,7 @@
      <p align="center">
         <img src="img/Save_Control_Settings.png" alt="Save Control Settings">
      </p>
-  <br>
+  <br><br>
+
+  **Related Article**<br>
+[How to Assist My Staff to Check Out?](Enable_Assist_Check_Out.md)
