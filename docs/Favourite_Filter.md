@@ -63,29 +63,41 @@
       <img src="img/Set_Favourite_Filter_Step_10.png">
     </p><br>
 
-## ❤ How to apply your favourite filter in Project Update Report?<br>
+## ❤ How to set your customize favourite filter as default in Report page?<br>
 
 
 **Desktop Version:**<br>
 
-1. Default filter will show every time when you enter this page. If you want to apply your favourite filter, you will need to click the "Favourite Filter".
+1. For example, if you want to set an favourite filter as default in "Project Update Report". First step, you need to click "Favourite Filter"
 
    <p align="center">
-     <img src="img/How_to_apply_favourite_filter_in_project_update_report_step_1.png">
+     <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Step_1.png">
    </p><br>
 
-2. Select the favourite filter to apply.
+2. Click the expand button.
 
    <p align="center">
-     <img src="img/How_to_apply_favourite_filter_in_project_update_report_step_2.png">
+     <img src="How_to_Set_Customize_Favourite_Filter_as_default_Step_2.png">
    </p><br>
 
-3. This is the output based on the favourite filter you applied.
+3. Select for which customized favourite filter you want to apply as default filter.
 
    <p align="center">
-     <img src="img/How_to_apply_favourite_filter_in_project_update_report_output.png">
+     <img src="How_to_Set_Customize_Favourite_Filter_as_default_Step_3.png">
    </p><br>
 
+4. Your favourite filter as been successfully set as default when it show as the picture below.
+
+   <p align="center">
+     <img src="How_to_Set_Customize_Favourite_Filter_as_default_Step_4.png">
+   </p><br>
+
+5. This is the result when you log in to the same page next time.
+
+   <p align="center">
+     <img src="How_to_Set_Customize_Favourite_Filter_as_default_Result.png">
+   </p><br>
+   
 
 **Mobile App:**<br>
 
