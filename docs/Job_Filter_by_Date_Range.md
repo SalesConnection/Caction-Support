@@ -7,7 +7,7 @@
    **Filter Job Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)
 
     <p align="center">
-      <img src="img/Job_Filter_by_date_range_step_1.png" alt="Job Filter by date range 2">
+      <img src="img/Job_Filter_by_date_range_step_1.png" alt="Job Filter by date range">
     </p>
 
 
