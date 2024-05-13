@@ -73,7 +73,7 @@ No.<br><br>
    *Note: Only certain admins can deactivate users.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/User_List.png" alt="User List">
    </p>
    
 2. Navigate to the user you want to deactivate.<br>
@@ -113,7 +113,7 @@ No.<br><br>
    *Note: Only certain admins can deactivate users.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/User_List.png" alt="User List">
    </p>
    
 2. Navigate to the user you want to change the details to the new user.<br>
