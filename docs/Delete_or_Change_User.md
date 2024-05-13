@@ -10,4 +10,4 @@
 
 **Related Articles**<br>
 - [How to Add New User?](Add_New_User.md)
-- [How to Login As A New User?](New_User_Login.md)
+- [How to Assist My New User to Login?](New_User_Login.md)
