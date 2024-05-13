@@ -68,7 +68,7 @@
 
 **Desktop Version:**<br>
 
-1. For example, if you want to set an favourite filter as default in "Project Update Report". First step, you need to click "Favourite Filter"
+1. For example, if you want to set an favourite filter as default in "Project Update Report". First step, you need to click "Favourite Filter".
 
    <p align="center">
      <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Step_1.png">
@@ -77,60 +77,29 @@
 2. Click the expand button.
 
    <p align="center">
-     <img src="How_to_Set_Customize_Favourite_Filter_as_default_Step_2.png">
+     <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Step_2.png">
    </p><br>
 
 3. Select for which customized favourite filter you want to apply as default filter.
 
    <p align="center">
-     <img src="How_to_Set_Customize_Favourite_Filter_as_default_Step_3.png">
+     <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Step_3.png">
    </p><br>
 
 4. Your favourite filter as been successfully set as default when it show as the picture below.
 
    <p align="center">
-     <img src="How_to_Set_Customize_Favourite_Filter_as_default_Step_4.png">
+     <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Step_4.png">
    </p><br>
 
 5. This is the result when you log in to the same page next time.
 
    <p align="center">
-     <img src="How_to_Set_Customize_Favourite_Filter_as_default_Result.png">
-   </p><br>
+     <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Result.png">
+   </p><br><br>
+
    
 
-**Mobile App:**<br>
-
-1. In the "Schedule" page of the Sales Connection Mobile App, click the star icon.
-
- <p align="center">
-    <img src="img/App_Favourite_Filter_Step_1.png">
-  </p><br>
-
-2. Click "Manage Filter".
-
- <p align="center">
-    <img src="img/App_Favourite_Filter_Step_2.png">
-  </p><br>
-
-3. Select the favourite filter based on your preference by clicking the 3 dots icon.
-
- <p align="center">
-    <img src="img/App_Favourite_Filter_Step_3.png">
-  </p><br>
-
-4. Click the "Set as default" as the left image below to save your favourite filter. After that, the outcome will be the same as the right image below.
-
- <p align="center">
-    <img src="img/App_Favourite_Filter_Step_4.png" width="280" height="600">
-    <img src="img/App_Favourite_Filter_Step_5.png" width="280" height="600">
-  </p><br>
-
-5. Whenever you login to the mobile app, you will be able to see the favourite filter in the job schedule
-
- <p align="center">
-    <img src="img/App_Favourite_Filter_Result.jpg" width="280" height="600">
-  </p><br><br>
 
 **Related Article**<br>
 [Filter For Job](Filter_For_Job.md)
