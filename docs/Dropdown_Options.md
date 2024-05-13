@@ -69,11 +69,11 @@
      <img src="img/How_to_add_dropdown_options_in_DF_step_11.png" alt="How to add dropdown options in DF step 11">
     </p><br>
 
-12. Click "OK",and your dropdown options has been added successfully.<br>
+12. Click "OK" and your dropdown options have been added successfully.<br>
 
     <p align="center">
      <img src="img/How_to_add_dropdown_options_in_DF_step_12.png" alt="How to add dropdown options in DF step 12">
-    </p><br>
+    </p><br><br>
 
 ## ✍🏻 How to edit checklist dropdown options?
 
