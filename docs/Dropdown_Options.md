@@ -84,13 +84,13 @@
     <img src="img/How_to_edit_checklist_dropdown_options_step_1.png">
    </p><br>
 
-2. Select "Service Sheet" and click "Yes" for the pop up message.<br>
+2. Select "Service Sheet".
 
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_2.png">
    </p><br>
-
-3. Make sure "Service Sheet" is being selected.<br>
+   
+3. Click "Yes" for the pop up message.<br>
 
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_2.png">
@@ -137,5 +137,10 @@
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
    </p>
-   
+
+11. Your changes have been saved succefully.
+
+    <p align="center">
+    <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
+   </p>
    <br>
