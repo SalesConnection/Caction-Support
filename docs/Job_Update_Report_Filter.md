@@ -41,4 +41,4 @@
      <img src="img/Job_Update_Report_Filter_Result.png">
    </p><br><br> 
 
-**Wondering How to Set Your Favourite Filter? Click Here:** [https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md](https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md)
+**Wondering How to Set Your Favourite Filter? Click Here:** [https://github.com/SalesConnection/Sales-Connection-Support/blob/main/docs/Default_Favourite_Filter_App.md](https://github.com/SalesConnection/Sales-Connection-Support/blob/main/docs/Default_Favourite_Filter_App.md)
