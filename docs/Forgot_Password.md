@@ -7,13 +7,24 @@
 
  - **Desktop Site**:
 
-  1. At Sales Connection login page, click “Forgot your password?”
+  1. At "SALES CONNECTION" login page, click “Forgot your password?
 
-  2. Enter the email address you registered.
+  2. Enter your account email.
 
-  3. You will Sales Connection login page, click “Forgot your password?”
+  3. Click "Next".
+  
+  4. Click the hyperlink, "here".
+ 
+  5. You will be redirect to your email. Please find the email sent by admin@salesconnection.my . Click on "please click on this link" and you will be able to reset your password.
 
-  4. Log in with your email address and the new password.
+  6. Enter your new password.
+
+  7. Click "Change Password".
+
+  8. Click "Login Now"
+
+  9. Now, you are able to login your account by using your new password.
+
 
 <br>
      
