@@ -35,7 +35,7 @@
       <img src="img/Job_Filter_by_Date_Range_Step_5.png" alt="Job Filter by date range 5">
     </p>
 
- 6. Now, you are able to view the job in April 2024.
+ 6. Now, you are able to view the jobs created in April 2024.
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_result.png" alt="Job Filter by date range result">
@@ -73,7 +73,7 @@
        <img src="img/How_to_Search_Job_Filter_by_Date_Range_Using_App_Step_5.png" alt="Job Filter by date range 5" width="280" height="550">
      </p>
 
-  6. Here's the result.
+  6. Now, you are able to view the jobs for this month.
 
      <p align="center">
        <img src="img/How_to_Search_Job_Filter_by_Date_Range_Using_App_Result.png" alt="Job Filter by date range output for app" width="280" height="550">
