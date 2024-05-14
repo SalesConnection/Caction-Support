@@ -67,12 +67,61 @@
 
  1. At the Sales Connection login page, click “LOGIN”
 
- 2. Enter the phone number you registered and click  “LOGIN”
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Step_1.png" alt="Reset Password - Step 1">
+    </p>
 
- 3. You will received a message from 62002 in your phone with an OTP inside.
+ 2. Enter your registered phone number.
 
- 4. Log in with the OTP.
-    <br><br>
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Step_2.png" alt="Reset Password - Step 2">
+    </p>
+    
+ 3. Click "LOGIN"
+
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Step_3.png" alt="Reset Password - Step 3">
+    </p>
+
+ 4. After click "LOGIN", you will receive a code from SMS.
+
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Step_4.png" alt="Reset Password - Step 4">
+    </p>
+
+ 5. A OTP will be sent via SMS, copy the OTP code. 
+
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Step_5.png" alt="Reset Password - Step 5">
+    </p>
+
+ 6. Paste the OTP.
+
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Step_6.png" alt="Reset Password - Step 6">
+    </p>
+
+ 7. Click "Submit", and the new password has been successfully saved.
+
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Step_7.png" alt="Reset Password - Step 7">
+    </p>
+ 
+ 8. It will appear as shown below. Typically, this loading process will take around 10 seconds to complete.
+
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Result_1.png" alt="Reset Password - Result 1">
+    </p>
+
+ 9. You are now able to login to your account.
+
+    <p align="center">
+       <img src="img/Reset_Passsword_Using_App_Result_2.png" alt="Reset Password - Result 2">
+    </p>
+
+    
+
+
 
 - **Mobile App (Using Email)**:
 
