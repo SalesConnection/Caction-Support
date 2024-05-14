@@ -1,8 +1,8 @@
 ## Job Update Report Filter
 
-### How to use job update report filter?
+### How to use Update report filter?
 
-1. To use job update report filter, go to Business Report > Job Update Report.<br>
+1. For example, to use filter for "Job Updates Report", go to Business Report > Job Update Report.<br>
    **Open the link here:** [https://salesconnection.my/reports/activity-update](https://salesconnection.my/reports/activity-update)
 
    <p align="center">
