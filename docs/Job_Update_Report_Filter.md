@@ -9,7 +9,7 @@
      <img src="img/Job_Update_Report_Filter_Step_1.png">
    </p>
 
-2. Click the "Filter Table Record" and it will show the filter below.
+2. Click the Search Bar which is says “Filter Table Record”, and the filter will appear as shown below.
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Step_2.png">
@@ -27,7 +27,7 @@
      <img src="img/Job_Update_Report_Filter_Step_4.png">
    </p>
 
-5. For example, select "Contains" if you want to show which filter value. After that, it will show the filter value as shown below.
+5. For example, select “Contains”, and all the filter values available will be shown.
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Step_5.png">
@@ -37,6 +37,6 @@
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Result.png">
-   </p><br><br>
+   </p><br><br> 
 
 **Wondering How to Set Your Favourite Filter? Click Here:** [https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md](https://salesconnection.github.io/Sales-Connection-Support/Favourite_Filter.md)
