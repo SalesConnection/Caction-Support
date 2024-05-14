@@ -9,22 +9,57 @@
 
   1. At "SALES CONNECTION" login page, click “Forgot your password?
 
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Step_1.png" alt="Reset Password - Step 1">
+     </p>
+     
   2. Enter your account email.
 
-  3. Click "Next".
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Step_2.png" alt="Reset Password - Step 2">
+     </p>
   
+  3. Click "Next".
+
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Step_3.png" alt="Reset Password - Step 3">
+     </p>
+     
   4. Click the hyperlink, "here".
- 
+
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Step_4.png" alt="Reset Password - Step 4">
+     </p>
+     
   5. You will be redirect to your email. Please find the email sent by admin@salesconnection.my . Click on "please click on this link" and you will be able to reset your password.
 
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Step_5.png" alt="Reset Password - Step 5">
+     </p>
+     
   6. Enter your new password.
 
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Step_6.png" alt="Reset Password - Step 6">
+     </p>
+     
   7. Click "Change Password".
 
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Step_7.png" alt="Reset Password - Step 7">
+     </p>
+     
   8. Click "Login Now"
 
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Step_8.png" alt="Reset Password - Step 8">
+     </p>
+     
   9. Now, you are able to login your account by using your new password.
 
+     <p align="center">
+       <img src="img/Reset_Passsword_Using_Desktop_Result.png" alt="Reset Password - Result">
+     </p>
 
 <br>
      
