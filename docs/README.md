@@ -13,6 +13,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options.md)
 - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
 - [How to set customized favourite filter in Report Pages?](Customize_Filter_in_Report_Pages.md)
+- [How to Use Update Report Filter](Job_Update_Report_Filter.md)
 
 <br>
 
