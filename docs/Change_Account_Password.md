@@ -54,19 +54,19 @@
   1. Navigate to "Dashboard".<br>
 
      <p align="center">
-       <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
+       <img src="img/Dashboard_Mobile.png" alt="Dashboard Mobile">
      </p>
   
   2. Click the "Profile" icon at the top right corner of the page.<br>
 
      <p align="center">
-       <img src="img/Login_Page_Mobile.png" alt="Mobile Login" width="280" height="550">
+       <img src="img/Profile_Icon_Mobile.png" alt="Profile Icon Mobile" width="280" height="550">
      </p>
 
   3. Click "Change Password".<br>
 
      <p align="center">
-       <img src="img/Code_In_Messages.png" alt="OTP Code Sent" width="280" height="550">
+       <img src="img/Change_Password_Mobile.png" alt="Change Password Mobile" width="280" height="550">
      </p>
 
      *Note: Please wait **at least 5 minutes** before applying a new "OTP Code".
@@ -74,13 +74,13 @@
   4. Enter the old password, new password and confirm your new password.<br>
 
      <p align="center">
-       <img src="img/Enter_Password.png" alt="Enter Password">
+       <img src="img/Enter_Password_Mobile.png" alt="Enter Password Mobile">
      </p>
 
   5. Click "SUBMIT" and the password has been changed successfully.<br>
 
      <p align="center">
-       <img src="img/Save_Password.png" alt="Save Password">
+       <img src="img/Save_Password_Mobile.png" alt="Save Password Mobile">
      </p>
      <br><br><br>
 
