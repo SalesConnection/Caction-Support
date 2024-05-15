@@ -15,6 +15,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to set customized favourite filter in Report Pages?](Customize_Filter_in_Report_Pages.md)
 - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
+- [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
 
 <br>
 
