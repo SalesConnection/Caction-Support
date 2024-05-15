@@ -11,6 +11,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Check In/Check Out
 - [How to Check Out If Forgot to Check Out?](Assist_Check_Out.md)
+- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
 
 <br>
 
@@ -40,13 +41,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 
-<br>
-
-## Technical Support
-
-- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
-
-<br>
+<br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
 
 Thank you for choosing Sales Connection.
