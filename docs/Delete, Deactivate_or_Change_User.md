@@ -12,9 +12,9 @@
 
 **Navigate to the section by clicking it.**<br>
 
-[Delete a Resigned User?](#section1)<br>
-[Deactivate a Resigned User?](#section2)<br>
-[Change to a New User?](#section3)
+- [Delete a Resigned User?](#section1)<br>
+- [Deactivate a Resigned User?](#section2)<br>
+- [Change to a New User?](#section3)
 <br><br>
 
 <a id="section1"></a>
