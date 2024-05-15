@@ -1,13 +1,12 @@
 ## How Do I Delete/Deactivate a Resigned User or Change to a New User?
 
-**Difference between delete user and change user**
+**Differences between delete, deactivate and change user**
 
-|   Delete   |   Deactivate   |   Change   |
-|------------|----------------|------------|
-| User cannot access the system. | User cannot access the system. | User can access the system. |
-| Data will not remain in the system. | Data will remain in the system. | Data will remain in the system. |
-| The users’ jobs cannot be traced in the schedule and metrics overview pages. | The users’ jobs can still be traced in the schedule and metrics overview pages. | The users’ jobs can still be traced in the schedule and metrics overview pages. |
-
+|   |  Delete   |   Deactivate   |   Change   |
+|-------|----------|----------------|------------|
+| User can access the system. | No | No | Yes |
+| Data will remain in the system. | No | Yes | Yes |
+| The users’ jobs can be traced in the schedule and metrics overview pages. | No | Yes | Yes |
 <br>
 
 **Navigate to the section by clicking it.**<br>
@@ -104,9 +103,9 @@ No.<br><br>
 <a id="section3"></a>
 ### Change to a New User
 **What will happen if I change the resigned user to a new user from the system?**<br>
-- All the items the resigned user was assigned to/created will remain in the system.<br>
-- <br><br>
-
+- All the items the resigned user was assigned to/created will be under the new user.<br>
+- The resigned user will not be able to log into (access) the system.<br>
+- All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br><br>
 
 **How to change to a new user?**<br>
 1. Go to desktop site navigation bar > User Management > User List.<br>
