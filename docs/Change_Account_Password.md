@@ -17,7 +17,7 @@
      </p>
   
   2. Login using the **registered** email address with the **correct** password.<br>
-     **Login Here:** [https://salesconnection.my/login](https://salesconnection.my/login)<br>
+     **Open Profile Page Here:** [https://salesconnection.my/usermanage/changepassword](https://salesconnection.my/usermanage/changepassword)<br>
 
      <p align="center">
        <img src="img/Login_Page_Desktop.png" alt="Desktop_Login">
