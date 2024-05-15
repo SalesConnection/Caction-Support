@@ -12,31 +12,31 @@
      **Open Job Report Here:** [https://salesconnection.my/reports/activity](https://salesconnection.my/reports/activity)<br>
 
      <p align="center">
-       <img src="img/Department_Team_Settings.png" alt="Department Team Settings">
+       <img src="img/Job_Report_Page.png" alt="Job Report Page">
      </p>
 
   2. Click "CSV" to export the report.<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Button.png" alt="Add New User Category Button">
+       <img src="img/CSV_Export_Button.png" alt="CSV Export Button">
      </p>
 
   3. Wait for the system to export the file.<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Submit_Button.png" alt="Add New User Category Submit Button">
+       <img src="img/Wait_For_Export.png" alt="Wait For Export">
      </p>
 
   4. Click "Download" to download the file needed.<br>
 
      <p align="center">
-       <img src="img/Save_Changes_Button.png" alt="Save Changes Button">
+       <img src="img/Download_Export_Button.png" alt="Download Export Button">
      </p>
 
   5. The file downloaded can be viewed in your desktop "File Explorer".<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Success.png" alt="Add New User Category Success">
+       <img src="img/CSV_Export_File.png" alt="CSV Export File">
      </p>
      <br>
 
@@ -46,31 +46,31 @@
      **Open Job Report Here:** [https://salesconnection.my/reports/activity](https://salesconnection.my/reports/activity)<br>
 
      <p align="center">
-       <img src="img/Department_Team_Settings.png" alt="Department Team Settings">
+       <img src="img/Job_Report_Page.png" alt="Job Report Page">
      </p>
 
   2. Click "Excel" to export the report.<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Button.png" alt="Add New User Category Button">
+       <img src="img/Excel_Export_Button.png" alt="Excel Export Button">
      </p>
 
   3. Wait for the system to export the file.<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Submit_Button.png" alt="Add New User Category Submit Button">
+       <img src="img/Wait_For_Export.png" alt="Wait For Export">
      </p>
 
   4. Click "Download" to download the file needed.<br>
 
      <p align="center">
-       <img src="img/Save_Changes_Button.png" alt="Save Changes Button">
+       <img src="img/Download_Export_Button.png" alt="Download Export Button">
      </p>
 
   5. The file downloaded can be viewed in your desktop "File Explorer".<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Success.png" alt="Add New User Category Success">
+       <img src="img/Excel_Export_File.png" alt="Excel Export File">
      </p>
      <br>
      
@@ -81,37 +81,37 @@
      **Open Job Report Here:** [https://salesconnection.my/reports/activity](https://salesconnection.my/reports/activity)<br>
 
      <p align="center">
-       <img src="img/Department_Team_Settings.png" alt="Department Team Settings">
+       <img src="img/Job_Report_Page.png" alt="Job Report Page">
      </p>
 
   2. Click "PDF" to export the report.<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Button.png" alt="Add New User Category Button">
+       <img src="img/PDF_Export_Button.png" alt="PDF Export Button">
      </p>
 
   3. Customize the PDF title and choose the header before clicking the "Generate PDF" button.<br>
   
      <p align="center">
-       <img src="img/Add_New_User_Category_Button.png" alt="Add New User Category Button">
+       <img src="img/Generate_PDF_Button.png" alt="Generate PDF Button">
      </p>
   
   4. Wait for the system to export the file.<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Submit_Button.png" alt="Add New User Category Submit Button">
+       <img src="img/Wait_For_Export.png" alt="Wait For Export">
      </p>
 
   5. Click "Download" to download the file needed.<br>
 
      <p align="center">
-       <img src="img/Save_Changes_Button.png" alt="Save Changes Button">
+       <img src="img/Download_PDF_File.png" alt="Download PDF File">
      </p>
 
   6. The file downloaded can be viewed in your desktop "File Explorer".<br>
 
      <p align="center">
-       <img src="img/Add_New_User_Category_Success.png" alt="Add New User Category Success">
+       <img src="img/PDF_Export_File.png" alt="PDF Export File">
      </p>
      <br><br><br>
 
