@@ -1,8 +1,17 @@
 
 ## 👩‍💼 How to Login Using Mobile and Desktop?
+
+**Navigate to the section by clicking it.**<br>
+
+- [Desktop Version](#section1)<br>
+- [Mobile Version - Phone](#section2)<br>
+- [Mobile Version - Email](#section3)
+<br><br><br>
+
+<a id="section1"></a>
     
-  **Desktop Version**<br>
-  *Note: You can request desktop access by contacting your administrator.
+### Desktop Version
+*Note: You can request desktop access by contacting your administrator.
   1. Visit Sales Connection's website and click "Login".<br>
      **Open Sales Connection's Website Here:** [https://salesconnection.my/](https://salesconnection.my/)<br>
 
@@ -24,8 +33,10 @@
      </p>
      <br><br>
 
-  **Mobile Version**<br>
-  **Phone Login**<br>
+<a id="section2"></a>
+
+### Mobile Version
+**Phone Login**<br>
   1. Download the Sales Connection app from Google Playstore or App Store.<br>
      **Download Here for Android User:** [https://play.google.com/store/apps/details?id=com.connection.crm](https://play.google.com/store/apps/details?id=com.connection.crm)<br>
      **Download Here for IOS User:** [https://apps.apple.com/us/app/sales-connection/id1327210298](https://apps.apple.com/us/app/sales-connection/id1327210298)<br>
@@ -55,7 +66,9 @@
        <img src="img/Login_Code.png" alt="Login Code" width="280" height="550">
      </p>
      <br>
-  
+
+<a id="section3"></a>
+
 **Email Login**<br>
 1. Download the Sales Connection app from Google Playstore or App Store.<br>
      **Download Here for Android User:** [https://play.google.com/store/apps/details?id=com.connection.crm](https://play.google.com/store/apps/details?id=com.connection.crm)<br>
