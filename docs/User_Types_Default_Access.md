@@ -30,6 +30,7 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 <br>
 
 ## What is the difference between Default, Allow Access and Block Access on System Access Settings? 
+<br>
 
 |    Default    | Based on system’s default settings for diff account types: Admin - Can create anything , Subadmin - Can create items under their department/teams, Staff - Cannot create C/P/J/DF |
 | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
