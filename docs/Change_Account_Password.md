@@ -51,22 +51,19 @@
 <a id="section2"></a>
 
 ### Mobile Version
-  1. Download the Sales Connection app from Google Playstore or App Store.<br>
-     **Download Here for Android User:** [https://play.google.com/store/apps/details?id=com.connection.crm](https://play.google.com/store/apps/details?id=com.connection.crm)<br>
-     **Download Here for IOS User:** [https://apps.apple.com/us/app/sales-connection/id1327210298](https://apps.apple.com/us/app/sales-connection/id1327210298)<br>
-     **Download Here for Huawei User:** [https://tinyurl.com/yvj4pwf7](https://tinyurl.com/yvj4pwf7)<br> 
+  1. Navigate to "Dashboard".<br>
 
      <p align="center">
        <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
      </p>
   
-  2. Open the Sales Connection's App, click the "Login" button then enter the **registered** phone number and click "Login".<br>
+  2. Click the "Profile" icon at the top right corner of the page.<br>
 
      <p align="center">
        <img src="img/Login_Page_Mobile.png" alt="Mobile Login" width="280" height="550">
      </p>
 
-  3. Check your "Messages" app and look for the "OTP Code" sent.<br>
+  3. Click "Change Password".<br>
 
      <p align="center">
        <img src="img/Code_In_Messages.png" alt="OTP Code Sent" width="280" height="550">
@@ -74,10 +71,16 @@
 
      *Note: Please wait **at least 5 minutes** before applying a new "OTP Code".
 
-  4. Enter the "OTP Code" you received and click the "SUBMIT" button to login to the app.<br>
+  4. Enter the old password, new password and confirm your new password.<br>
 
      <p align="center">
-       <img src="img/Login_Code.png" alt="Login Code" width="280" height="550">
+       <img src="img/Enter_Password.png" alt="Enter Password">
+     </p>
+
+  5. Click "SUBMIT" and the password has been changed successfully.<br>
+
+     <p align="center">
+       <img src="img/Save_Password.png" alt="Save Password">
      </p>
      <br><br><br>
 
