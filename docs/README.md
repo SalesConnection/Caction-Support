@@ -5,6 +5,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Login Using Mobile and Desktop?](Login.md)
 - [How to Add New User?](Add_New_User.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
+- [How to Add New User Category?](Add_New_User_Category.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [How to Check Out If Forgot to Check Out?](Assist_Check_Out.md)
 - [How to Search Job Using Date Range?](Job_Filter_by_Date_Range.md)
