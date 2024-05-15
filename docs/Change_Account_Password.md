@@ -54,7 +54,7 @@
   1. Navigate to "Dashboard".<br>
 
      <p align="center">
-       <img src="img/Dashboard_Mobile.png" alt="Dashboard Mobile">
+       <img src="img/Dashboard_Mobile.png" alt="Dashboard Mobile" width="280" height="550">
      </p>
   
   2. Click the "Profile" icon at the top right corner of the page.<br>
@@ -74,13 +74,13 @@
   4. Enter the old password, new password and confirm your new password.<br>
 
      <p align="center">
-       <img src="img/Enter_Password_Mobile.png" alt="Enter Password Mobile">
+       <img src="img/Enter_Password_Mobile.png" alt="Enter Password Mobile" width="280" height="550">
      </p>
 
   5. Click "SUBMIT" and the password has been changed successfully.<br>
 
      <p align="center">
-       <img src="img/Save_Password_Mobile.png" alt="Save Password Mobile">
+       <img src="img/Save_Password_Mobile.png" alt="Save Password Mobile" width="280" height="550">
      </p>
      <br><br><br>
 
