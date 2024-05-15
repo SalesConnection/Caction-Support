@@ -28,7 +28,7 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 <br> 
 <br>
 
-## What is the difference between Default, Allow Access and Block Access on System Access Settings? <br>
+## What is the difference between Default, Allow Access and Block Access on System Access Settings? 
 
 |    Default    | Based on system’s default settings for diff account types: Admin - Can create anything , Subadmin - Can create items under their department/teams, Staff - Cannot create C/P/J/DF |
 | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -37,7 +37,7 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 
 <br>
 
-## What is the staff category?<br>
+## What is the staff category?
 
 Staff category refers to the department/team each staff can be placed in. After placing staff in different categories, you can easily assign tasks to teams, check staffs’ schedules based on teams, assign Sub Admin to 
 each team, etc. Note that a user can be in more than one Staff Category and a user cannot be without a Staff Category.
