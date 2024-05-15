@@ -35,6 +35,7 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 |  Allow access | Users can create C/P/J/DF for items that they are assigned to  |
 |  Block access | Users will not be able create C/P/J/DF under any circumstances |
 
+<br>
 
 ## What is the staff category?<br>
 
