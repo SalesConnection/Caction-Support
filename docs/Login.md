@@ -60,6 +60,7 @@
 1. Download the Sales Connection app from Google Playstore or App Store.<br>
      **Download Here for Android User:** [https://play.google.com/store/apps/details?id=com.connection.crm](https://play.google.com/store/apps/details?id=com.connection.crm)<br>
      **Download Here for IOS User:** [https://apps.apple.com/us/app/sales-connection/id1327210298](https://apps.apple.com/us/app/sales-connection/id1327210298)<br>
+     **Download Here for Huawei User:** []()<br> 
 
      <p align="center">
        <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
