@@ -1,9 +1,5 @@
 
 ## 🔑 I forgot my password. How can I recover or reset it?
-<aside>
-(If yes to each, move on to the next scenario)
-
-<br> <!-- Adding one line space -->
 
  - **Desktop Site**:
 
@@ -190,17 +186,15 @@
        <img src="img/Reset_Password_Using_Email_In_App_Result.png" alt="Reset Passsword Using Email in App Result" width="280" height="550">
      </p><br>     
 
- If you dont' know how to login by Using Email in App, please click here: "https://salesconnection.github.io/Sales-Connection-Support/Login.html#section3"
+ If you dont' know how to login by Using Email in App, please click here: "https://salesconnection.github.io/Sales-Connection-Support/Login.html#section3"<br><br>
 
 ## I tried to click forget password and entered my email/phone number, but I didn’t receive reset password email, how?
-<aside>
 
  1. Ensure that the email address you entered is registered and verified.
 
  2. Check your email spam/junk mail folder for the reset password email.<br><br>
 
 ## I still don’t get email /OTP after waiting, how?
-<aside>
 
   1. Escalate this issue to your IT team / support to assist. It may be caused by an email bounce or mail server issue.
 
