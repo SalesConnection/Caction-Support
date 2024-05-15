@@ -33,6 +33,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Others
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
+- [How to pull out Job/Project/Form report?](Export_Report.md)
 
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
