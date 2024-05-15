@@ -59,9 +59,11 @@
 
      <p align="center">
        <img src="img/Reset_Passsword_Using_Desktop_Result.png" alt="Reset Password - Result">
-     </p>
+     </p><br>
 
-<br>
+   If you dont' know how to login by Using Desktop, please click here: "https://salesconnection.github.io/Sales-Connection-Support/Login.html#section1"
+   <br>   
+   <br>
      
   - **Mobile App (Using Phone Number)**:
 
@@ -119,33 +121,32 @@
        <img src="img/Reset_Passsword_Using_App_Result_2.png" alt="Reset Password - Result 2" width="280" height="550">
     </p><br>
 
- If you dont' know how to login in App by Using Phone Number, please click here: "https://salesconnection.github.io/Sales-Connection-Support/Login.html#section1"
- <br>   
+ 
 - **Mobile App (Using Email)**:
 
- 1. At the Sales Connection login page, click "LOGIN".
+1. At the Sales Connection login page, click "LOGIN".
 
-    <p align="center">
-       <img src="img/Reset_Password_Using_Email_In_App_Step_1.png" alt="Reset Passsword Using Email in App Step 1" width="280" height="550">
-    </p><br>
+   <p align="center">
+      <img src="img/Reset_Password_Using_Email_In_App_Step_1.png" alt="Reset Passsword Using Email in App Step 1" width="280" height="550">
+   </p><br>
  
- 2. Click "Login via Email".
+2. Click "Login via Email".
 
-    <p align="center">
-       <img src="img/Reset_Password_Using_Email_In_App_Step_2.png" alt="Reset Passsword Using Email in App Step 2" width="280" height="550">
-    </p><br>
+   <p align="center">
+      <img src="img/Reset_Password_Using_Email_In_App_Step_2.png" alt="Reset Passsword Using Email in App Step 2" width="280" height="550">
+   </p><br>
 
- 3. Click "Forgot Password".
+3. Click "Forgot Password".
 
-    <p align="center">
-       <img src="img/Reset_Password_Using_Email_In_App_Step_3.png" alt="Reset Passsword Using Email in App Step 3" width="280" height="550">
-    </p><br>
+   <p align="center">
+      <img src="img/Reset_Password_Using_Email_In_App_Step_3.png" alt="Reset Passsword Using Email in App Step 3" width="280" height="550">
+   </p><br>
  
- 4. Enter your email address.
+4. Enter your email address.
 
-    <p align="center">
-       <img src="img/Reset_Password_Using_Email_In_App_Step_4.png" alt="Reset Passsword Using Email in App Step 4" width="280" height="550">
-    </p><br>
+   <p align="center">
+      <img src="img/Reset_Password_Using_Email_In_App_Step_4.png" alt="Reset Passsword Using Email in App Step 4" width="280" height="550">
+   </p><br>
  
  5. Click "SUBMIT".
 
