@@ -14,9 +14,16 @@
        <img src="img/Add_User_Button.png" alt="Add New User">
      </p>
 
-  3. Fill out the details of your new team member and click "Submit Form".<br>
-     Details such as name, telephone, email, staff category, account type and color (pick one to represent the user in the system).<br>
-     *Note: Email is optional if the user only uses mobile device.<br>
+  3. Fill out the details of your new team member.<br>
+     a. The details include:<br>
+        - Name<br>
+        - Telephone<br>
+        - Email (optional if the user only uses a mobile device)<br>
+        - Staff Category<br>
+        - Account type<br>
+        - Color (Choose one to represent the user in the system)<br>
+        
+      b. Click “Submit Form” to finish the process.<br>
 
      <p align="center">
        <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
