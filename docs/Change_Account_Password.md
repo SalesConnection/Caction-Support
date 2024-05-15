@@ -1,4 +1,4 @@
-## How to Change Account Password
+## How to Change Account Password?
 
 **Navigate to the section by clicking it.**<br>
 
@@ -9,7 +9,6 @@
 <a id="section1"></a>
     
 ### Desktop Version
-*Note: You can request desktop access by contacting your administrator.
   1. Visit Sales Connection's website and click "Login".<br>
      **Open Sales Connection's Website Here:** [https://salesconnection.my/](https://salesconnection.my/)<br>
 
