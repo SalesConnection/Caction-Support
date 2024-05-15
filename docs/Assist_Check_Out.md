@@ -8,7 +8,7 @@
         <img src="img/Check_Out_Range.png" alt="Check Out Range" width="300" height="600">
      </p>
      
-  2. I can't check in to the next task.<br>
+  2. User cannot check in to the next task.<br>
 
      <p align="center">
         <img src="img/Check_Out_Required.png" alt="Check Out Required">
