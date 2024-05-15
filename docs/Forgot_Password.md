@@ -117,9 +117,10 @@
 
     <p align="center">
        <img src="img/Reset_Passsword_Using_App_Result_2.png" alt="Reset Password - Result 2" width="280" height="550">
-    </p>
+    </p><br>
 
-    
+ If you dont' know how to login in App by Using Phone Number, please click here: "https://salesconnection.github.io/Sales-Connection-Support/Login.html#section1"
+ <br>   
 - **Mobile App (Using Email)**:
 
  1. At the Sales Connection login page, click "LOGIN".
