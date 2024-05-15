@@ -5,7 +5,6 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Login Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
-- [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
 
 
 ### Check In/Check Out
@@ -16,6 +15,11 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ### New User
 - [How to Add New User?](Add_New_User.md)
 - [How to Add New User Category?](Add_New_User_Category.md)
+
+
+### Password 
+- [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
+- [How to Change Account Password?](Change_Account_Password.md)
 
 
 ### Filter
@@ -34,7 +38,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ### Others
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to pull out Job/Project/Form report?](Export_Report.md)
-- [How to Change Account Password?](Change_Account_Password.md)
+
 
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
