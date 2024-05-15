@@ -10,13 +10,14 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 
 ## User Type Default Access
 **Basic:**
+ 
  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Basic%20User%20type%20default%20access.png" width="840" height="300">
+    <img src="img/Basic_User_Type_Default_Access.png" alt="Basic User Type Default Access">
   </p>
 
 **Advance:**
  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Advanced%20User%20Type%20default%20access.png" width="1000" height="550">
+    <img src="img/Advance_User_Type_Default_Access.png" alt="Advance User Type Default Access">
   </p>
 
 
