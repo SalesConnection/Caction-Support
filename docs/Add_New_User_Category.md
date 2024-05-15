@@ -1,7 +1,7 @@
 
 ## 👩‍💼 How to Add New User Category?
     
-  1. At the desktop site's navigation bar, go to User Management > User List.<br>
+  1. At the desktop site's navigation bar, go to Company Settings > Staff Settings > Department/Team Settings.<br>
 
      <p align="center">
        <img src="img/User_List_Sidebar.png" alt="Add New User">
