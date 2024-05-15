@@ -12,7 +12,7 @@
        <img src="img/Email_with_Password.png" alt="Email with Password" width="800" height="500">
      </p>
 
-     *Note: User can change password after login to the system.<br>
+     *Note: User can change password after login to the system. Visit this page to know more: [How to Change Account Password?](Change_Account_Password.md)<br>
   
   3. Login using the **registered** email address with the **correct** password.<br>
      **Login Here:** [https://salesconnection.my/login](https://salesconnection.my/login)<br>
@@ -58,4 +58,5 @@
      <br><br><br>
   
 **Related Article**<br>
-[How to Add New User?](Add_New_User.md)
+- [How to Add New User?](Add_New_User.md)
+- [How to Change Account Password?](Change_Account_Password.md)
