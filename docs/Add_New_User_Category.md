@@ -1,5 +1,5 @@
 
-## 👩‍💼 How to Add New User?
+## 👩‍💼 How to Add New User Category?
     
   1. At the desktop site's navigation bar, go to User Management > User List.<br>
 
