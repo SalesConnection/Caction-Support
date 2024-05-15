@@ -35,25 +35,25 @@
 2. Navigate to the user you want to delete.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/User_in_User_List.png" alt="User in User List">
    </p>
 
 3. Click on the "Red Bin" icon to delete the user.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Delete_Button.png" alt="Delete Button">
    </p>
 
 4. Click "Yes" to confirm your deletion.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Confirm_Delete.png" alt="Confirm Delete">
    </p>
 
 5. Click "OK" and the user has been deleted successfully.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Delete_Successful.png" alt="Delete Successful">
    </p>
 
 <br>
@@ -78,25 +78,25 @@ No.<br><br>
 2. Navigate to the user you want to deactivate.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/User_in_User_List.png" alt="User in User List">
    </p>
 
 3. Click on the "Green Tick" icon to deactivate the user.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Deactivate_Button.png" alt="Deactivate Button">
    </p>
 
-4. Click "Yes" to confirm your deletion.<br>
+4. Click "Yes" to confirm your deactivation.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Confirm_Deactivate.png" alt="Confirm Deactivate">
    </p>
 
 5. Click "OK" and the user has been deactivated successfully.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Deactivate_Successful.png" alt="Deactivate Successful">
    </p>
    <br>
 
@@ -118,25 +118,25 @@ No.<br><br>
 2. Navigate to the user you want to change the details to the new user.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/User_in_User_List.png" alt="User in User List">
    </p>
 
 3. Click on the "Blue Pencil" icon to change the user details.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Edit_Button.png" alt="Edit Button">
    </p>
 
 4. Enter the new user details by deleting the original details.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Change_User_Details.png" alt="Change User Details">
    </p>
 
 5. Click "Submit Form" and the user details has been changed successfully.<br>
 
    <p align="center">
-      <img src="img/Add_User_Button.png" alt="Add New User">
+      <img src="img/Submit_Form_Button.png" alt="Submit Form Button">
    </p>
    <br><br><br>
 
