@@ -2,7 +2,7 @@
 ##  What is user type? 
 <aside>
 
-User type determines the access a user has to the data in the system. For example, an Admin account user has access to all subordinate data (their schedules, jobs, etc), while a Staff account user does not. <br>
+User type determines the access a user has to the data in the system. For example, an Admin account user has access to all subordinate data (their schedules, jobs, etc), while a Staff account user does not. <br><br>
 
 There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 
@@ -29,7 +29,7 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 <br> 
 <br>
 
-## What is the difference between Default, Allow Access and Block Access on System Access Settings? 
+## What is the difference between Default, Allow Access and Block Access on System Access Settings? <br>
 <br>
 
 |    Default    | Based on system’s default settings for diff account types: Admin - Can create anything , Subadmin - Can create items under their department/teams, Staff - Cannot create C/P/J/DF |
@@ -39,7 +39,7 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 
 <br>
 
-## What is the staff category?
+## What is the staff category?<br>
 
 Staff category refers to the department/team each staff can be placed in. After placing staff in different categories, you can easily assign tasks to teams, check staffs’ schedules based on teams, assign Sub Admin to 
 each team, etc. Note that a user can be in more than one Staff Category and a user cannot be without a Staff Category.
