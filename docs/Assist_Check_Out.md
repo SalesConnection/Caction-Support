@@ -1,4 +1,4 @@
-## 🚪 Why My Staff Cannot Check In?
+## 🚪 I Forgot to Check Out, How?
 
 ### Scenarios below will need assist check out:
 
