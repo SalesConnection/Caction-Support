@@ -7,7 +7,7 @@
      </p>
 
   2. Click on the "Add New Status" button.<br>
-     **Add New Project Category Here:** [https://salesconnection.my/settings/CategoryList?type=dssecond](https://salesconnection.my/settings/CategoryList?type=dssecond)<br>
+     **Add New Project Status Here:** [https://salesconnection.my/settings/StatusList?type=dssecond](https://salesconnection.my/settings/StatusList?type=dssecond)<br>
 
      <p align="center">
        <img src="img/Add_New_Project_Status_Button.png" alt="Add New Project Status Button">
