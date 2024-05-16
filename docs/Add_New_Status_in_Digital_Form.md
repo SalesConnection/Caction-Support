@@ -1,4 +1,4 @@
-## How Do I Add New Status in Customer/Project/Job?
+## How Do I Add New Status in Digital Form?
     
   1. For example, if you wish to add new status in Project. At the desktop site's navigation bar, go to Company Settings > Project Settings > Project Status.<br>
 
