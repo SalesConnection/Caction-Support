@@ -57,11 +57,11 @@
 
   10. Click "OK" and the new "Delivery Order" category has been saved successfully.<br>
 
-     <p align="center">
-       <img src="img/New_DF_Category_Save.png" alt="New DF Category Save">
-     </p>
+      <p align="center">
+        <img src="img/New_DF_Category_Save.png" alt="New DF Category Save">
+      </p>
      
-     <br><br><br>
+<br><br><br>
 
 **Related Article**<br>
 - [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
