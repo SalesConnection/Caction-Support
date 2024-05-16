@@ -14,28 +14,34 @@
      </p>
 
   3. Fill in the details of the new project status.<br>
-     a. Name
+     a. The details include:<br>
+        - Name<br>
+        - Edit Access<br>
+        - Status Modification<br>
+        - Digital Form Creation<br>
+        - Status Type<br>
+        - Color (Choose one to represent the status in the system)<br>
 
      <p align="center">
-       <img src="img/New_Project_Category_Name.png" alt="New Project Category Name">
+       <img src="img/New_Project_Status_Name.png" alt="New Project Status Name">
      </p>
 
   4. Click the "Submit" button.<br>
 
      <p align="center">
-       <img src="img/New_Project_Category_Submit_Button.png" alt="New Project Category Submit Button">
+       <img src="img/New_Project_Status_Submit_Button.png" alt="New Project Status Submit Button">
      </p>
 
-  5. Remember to click the "Save Changes" button to save the new category.<br>
+  5. Remember to click the "Save Changes" button to save the new status.<br>
 
      <p align="center">
-       <img src="img/New_Project_Category_Save_Changes_Button.png" alt="New Project Category Save Changes Button">
+       <img src="img/New_Project_Status_Save_Changes_Button.png" alt="New Project Status Save Changes Button">
      </p>
 
-  6. Click "OK" and the new project category has been saved successfully.<br>
+  6. Click "OK" and the new project status has been saved successfully.<br>
 
      <p align="center">
-       <img src="img/New_Project_Category_Save.png" alt="New Project Category Save">
+       <img src="img/New_Project_Status_Save.png" alt="New Project Status Save">
      </p>
      <br><br><br>
 
