@@ -45,5 +45,6 @@
      </p>
      <br><br><br>
 
-**Related Article**<br>
-[How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
+**Related Articles**<br>
+- [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
+- [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
