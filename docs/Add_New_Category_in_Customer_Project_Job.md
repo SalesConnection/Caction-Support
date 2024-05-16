@@ -10,7 +10,7 @@
      **Add New Project Category Here:** [https://salesconnection.my/settings/CategoryList?type=dssecond](https://salesconnection.my/settings/CategoryList?type=dssecond)<br>
 
      <p align="center">
-       <img src="img/Add_New_Project_Cateogry_Button.png" alt="Add New Project Category Button">
+       <img src="img/Add_New_Project_Category_Button.png" alt="Add New Project Category Button">
      </p>
 
   3. Enter the name of the new category.<br>
