@@ -5,6 +5,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Login Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
+- [I can’t receive the OTP to log in on my phone. How do I log in?](Not_Receiving_OTP.md)
 
 
 ### Check In/Check Out
