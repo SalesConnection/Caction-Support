@@ -1,4 +1,4 @@
-## How do I add new Category/Status in Job/Project/Form?
+## How do I add new Category in Customer/Project/Job?
     
   1. At the desktop site's navigation bar, go to User Management > User List.<br>
 
