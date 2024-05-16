@@ -1,19 +1,20 @@
 ## How Do I Add New Status in Customer/Project/Job?
     
-  1. For example, if you wish to add new category in Project. At the desktop site's navigation bar, go to Company Settings > Project Settings > Project Category.<br>
+  1. For example, if you wish to add new status in Project. At the desktop site's navigation bar, go to Company Settings > Project Settings > Project Status.<br>
 
      <p align="center">
-       <img src="img/Project_Category_Sidebar.png" alt="Project Category Sidebar">
+       <img src="img/Project_Status_Sidebar.png" alt="Project Status Sidebar">
      </p>
 
-  2. Click on the "Add New Category" button.<br>
+  2. Click on the "Add New Status" button.<br>
      **Add New Project Category Here:** [https://salesconnection.my/settings/CategoryList?type=dssecond](https://salesconnection.my/settings/CategoryList?type=dssecond)<br>
 
      <p align="center">
-       <img src="img/Add_New_Project_Category_Button.png" alt="Add New Project Category Button">
+       <img src="img/Add_New_Project_Status_Button.png" alt="Add New Project Status Button">
      </p>
 
-  3. Enter the name of the new category.<br>
+  3. Fill in the details of the new project status.<br>
+     a. Name
 
      <p align="center">
        <img src="img/New_Project_Category_Name.png" alt="New Project Category Name">
