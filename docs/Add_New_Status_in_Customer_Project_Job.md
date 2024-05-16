@@ -46,3 +46,4 @@
      <br><br><br>
 
 **Related Article**<br>
+[How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
