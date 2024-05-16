@@ -1,9 +1,11 @@
 
 ## ✍🏻 How to Edit Checklist Dropdown Options?
 
-1. For example, if you want to edit checklist dropdown options for Service Sheet. Go to desktop site navigation bar > "Template Settings" > "Digital Form Templates" > "Digital Form Template Settings".<br>
+1. For example, if you want to edit checklist dropdown options for Service Sheet. 
+   <br>
+   Go to desktop site navigation bar > "Template Settings" > "Digital Form Templates" > "Digital Form Template Settings".<br>
    **Open the page here**: [https://salesconnection.my/ServiceReport/TemplateSetting](https://salesconnection.my/ServiceReport/TemplateSetting)<br>
-
+   <br>
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_1.png">
    </p>
@@ -50,13 +52,15 @@
     <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
    </p>
 
-9. Click the "Tick" icon if you wish to make the option become default.<br>
+9. Click the “Tick” icon if you wish to make the option become default, where in this case “Moderate” will be the preselected option every time. 
 
+    If you don’t wish to have any preselected option, can just untick all options.
+   
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_9.png">
    </p>
 
-10. After editing, click the blue icon and click "OK" on the pop up message to save your change.<br>
+10. After editing, click the blue Save icon and click “OK” on the pop up message to save your changes.   <br>
 
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_10.png">
@@ -68,7 +72,7 @@
     <img src="img/How_to_edit_checklist_dropdown_options_step_11.png">
    </p>
 
-12. Remember to save your change by clicking the blue icon beside then click "OK".<br>
+12. At this page, remember to click the blue “Save” icon beside once more, or else the previous changes you made will not be saved. Then click “OK”.<br>
 
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_12.png">
