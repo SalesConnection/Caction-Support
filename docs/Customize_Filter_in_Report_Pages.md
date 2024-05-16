@@ -41,3 +41,20 @@
    </p><br>
 
 
+7. You can click the "Column Group 2" button if you want to choose others custom table column display.
+
+   <p align="center">
+     <img src="img/How_to_Customize_Filter_in_Report_Step_7.png">
+   </p><br>
+
+8. Choose the Custom Table Column Display based on your own preference.
+
+   <p align="center">
+     <img src="img/How_to_Customize_Filter_in_Report_Step_8.png">
+   </p><br>
+
+9. The results will then be shown.
+
+   <p align="center">
+     <img src="img/How_to_Customize_Filter_in_Report_Result_2.png">
+   </p><br>
