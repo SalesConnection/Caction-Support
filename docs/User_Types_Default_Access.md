@@ -1,9 +1,13 @@
 
 ##  What is user type? 
 
-User type determines the access a user has to the data in the system. For example, an Admin account user has access to all subordinate data (their schedules, jobs, etc), while a Staff account user does not. <br><br>
+User type determines the access a user has to the data in the system. For example, an Admin account user has access to all subordinate data (their schedules, jobs, etc), while a Staff account user does not. <br>
 
-There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
+There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User.<br>
+
+<p align="center">
+   <img src="img/User_Type.png" alt="User Type">
+</p>
 
 <br>
 
@@ -14,7 +18,7 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
     <img src="img/Basic_User_Type_Default_Access.png" alt="Basic User Type Default Access">
   </p>
 
-**Advance:**
+**Advanced:**
  <p align="center">
     <img src="img/Advance_User_Type_Default_Access.png" alt="Advance User Type Default Access">
   </p>
