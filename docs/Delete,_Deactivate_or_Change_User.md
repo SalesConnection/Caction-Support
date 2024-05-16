@@ -21,8 +21,8 @@
 ## Deactivate a Resigned User
 ### What will happen if I deactivate a user?
 - The user will not be able to log into (access) the system.<br>
-- All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br><br>
-- If a user account is deactivated, it won't be counted as one.<br>
+- All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br>
+- If a user account is deactivated, it won't be counted as one.<br><br>
 
 ### How to deactivate a user?
 1. Go to desktop site navigation bar > User Management > User List.<br>
