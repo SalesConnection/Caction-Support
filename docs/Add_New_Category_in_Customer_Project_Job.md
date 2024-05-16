@@ -1,53 +1,41 @@
 ## How Do I Add New Category in Customer/Project/Job?
     
-  1. At the desktop site's navigation bar, go to User Management > User List.<br>
+  1. For example, if you wish to add new category in Project. At the desktop site's navigation bar, go to Company Settings > Project Settings > Project Category.<br>
 
      <p align="center">
-       <img src="img/User_List_Sidebar.png" alt="Add New User">
+       <img src="img/Project_Category_Sidebar.png" alt="Project Category Sidebar">
      </p>
 
-  2. Click on the "+" button to access the "Add New User" page.<br>
-     **Add User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
+  2. Click on the "Add New Category" button.<br>
+     **Add New Project Category Here:** [https://salesconnection.my/settings/CategoryList?type=dssecond](https://salesconnection.my/settings/CategoryList?type=dssecond)<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add New User">
+       <img src="img/Add_New_Project_Cateogry_Button.png" alt="Add New Project Category Button">
      </p>
 
-  3. Fill out the details of your new team member.<br>
-     a. The details include:<br>
-        - Name<br>
-        - Telephone<br>
-        - Email (optional if the user only uses a mobile device)<br>
-        - Staff Category<br>
-        - Account type<br>
-        - Color (Choose one to represent the user in the system)<br>
-        
-      b. Click “Submit Form” to finish the process.<br>
+  3. Enter the name of the new category.<br>
 
      <p align="center">
-       <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+       <img src="img/New_project_Category_Name.png" alt="New Project Category Name">
      </p>
-     <br>
 
-### What is the limit for me to add users?
+  4. Click the "Submit" button.<br>
 
-  The total number of user accounts available depends on your **subscription plan**.<br>
-  To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
+     <p align="center">
+       <img src="img/New_project_Category_Submit_Button.png" alt="New Project Category Submit Button">
+     </p>
 
-  <p align="center">
-    <img src="img/Reminder_of_User_List.png" alt="Reminder in User List">
-  </p>
-  
-  **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br><br>
+  5. Remember to click the "Save Changes" button to save the new category.<br>
 
-### Why I cannot add a user?
+     <p align="center">
+       <img src="img/New_project_Category_Save_Changes_Button.png" alt="New Project Category Save Changes Button">
+     </p>
 
-  You might have reached the **maximum limit** of user accounts that can be created.<br>
-  To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
+  6. Click "OK" and the new project category has been saved successfully.<br>
 
-  **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
-  
-  If you want to add more users, contact us to upgrade your subscription plan.<br><br><br><br>
+     <p align="center">
+       <img src="img/New_project_Category_Save.png" alt="New Project Category Save">
+     </p>
+     <br><br><br>
 
 **Related Article**<br>
-[How to Assist My New User to Login?](New_User_Login.md)
