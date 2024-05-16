@@ -12,19 +12,20 @@
   2. Navigate to the user who does not receive the "OTP Code".<br>
 
      <p align="center">
-       <img src="img/Login_Page_Mobile.png" alt="Mobile Login">
+       <img src="img/User_in_User_List.png" alt="User in User List">
      </p>
 
-  3. Check your "Messages" app and look for the "OTP Code" sent by 62XXX.<br>
+  3. Click on the "Generate OTP" button.<br>
 
      <p align="center">
-       <img src="img/Code_In_Messages.png" alt="OTP Code Sent">
+       <img src="img/Generate_OTP_Button.png" alt="Generate OTP Button">
      </p>
 
-  4. Enter the "OTP Code" you received and click the "SUBMIT" button to login to the app.<br>
+  4. Send the six-digit "OTP Code" generated to the user for login purpose.<br>
+     *Note: The "OTP Code" generated is only **valid** for **10 mins**.
 
      <p align="center">
-       <img src="img/Login_Code.png" alt="Login Code">
+       <img src="img/OTP_Generated.png" alt="OTP Generated">
      </p>
      <br><br><br>
 
