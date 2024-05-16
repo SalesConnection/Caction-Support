@@ -4,7 +4,7 @@
 
      <p align="center">
        <img src="img/DF_Status_Sidebar.png" alt="DF Status Sidebar">
-     </p
+     </p>
 
   2. Click on "Delivery Order".<br>
      **Add New Digital Form Status Here:** [https://salesconnection.my/ServiceReport/DigitalFormStatus](https://salesconnection.my/ServiceReport/DigitalFormStatus)<br>
