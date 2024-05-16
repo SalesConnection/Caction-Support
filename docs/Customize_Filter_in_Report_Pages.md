@@ -1,5 +1,5 @@
 
-## ❤ How to set customized favourite filter in Report Pages?
+## ❤ How to Set Customized Favourite Filter in Report Pages?
 
 **Desktop site:**<br>
 
