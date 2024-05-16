@@ -1,5 +1,5 @@
 
-## ❤ How to Set Customized Favourite Filter as Default?<br>
+## ❤ How to Set Customized Favourite Filter as Default - Desktop<br>
 
 *When to use this? Favorite filter is to simplify the process so that you don’t have to click the filters repetitively.<br>
 
