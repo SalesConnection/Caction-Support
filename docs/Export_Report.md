@@ -1,4 +1,4 @@
-## How to pull out Job/Project/Form report?
+## How to Pull Out Job/Project/Form Report?
 **Navigate to the section by clicking it.**<br>
 
 - [Export as CSV](#section1)<br>
