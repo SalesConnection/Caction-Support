@@ -37,7 +37,7 @@
        <img src="img/Click_To_Choose_Directing_Pages.png" alt="Click To Choose Directing Page">
      </p>
   
-  7. Choose whether you want to stay in the current page or go to other pages.<br>
+  7. Choose "Stay in Current Page".<br>
 
      <p align="center">
        <img src="img/Choose_Directing_Pages.png" alt="Choose Directing Page">
@@ -60,6 +60,7 @@
      <p align="center">
        <img src="img/New_DF_Category_Save.png" alt="New DF Category Save">
      </p>
+     
      <br><br><br>
 
 **Related Article**<br>
