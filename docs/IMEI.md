@@ -1,4 +1,4 @@
-## 📱 Why My Staff Cannot Login with New Device?
+## 📱 I Can't Login to My Other Phone. Why?
 
 ### Scenarios below you might face now:
 
