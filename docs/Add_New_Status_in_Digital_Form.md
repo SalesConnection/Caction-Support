@@ -10,7 +10,7 @@
      **Add New Digital Form Status Here:** [https://salesconnection.my/ServiceReport/DigitalFormStatus](https://salesconnection.my/ServiceReport/DigitalFormStatus)<br>
 
      <p align="center">
-       <img src="img/Add_New_DF_Status_Button.png" alt="Add New DF Status Button">
+       <img src="img/Delivery_Order_Status.png" alt="Delivery Order Status">
      </p>
   
   3. Click on the "Add New Status" button.<br>
