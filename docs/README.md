@@ -48,6 +48,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 
+### Access Control
+- [I can't access Digital Form. Please help](
 
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
