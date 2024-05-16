@@ -19,9 +19,6 @@
 
 <a id="section1"></a>
 ## Deactivate a Resigned User
-### When You Need to Delete User?
-- 
-
 ### What will happen if I deactivate a user?
 - The user will not be able to log into (access) the system.<br>
 - All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br>
