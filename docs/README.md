@@ -1,4 +1,4 @@
-dc Welcome to the Sales Connection Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
+Welcome to the Sales Connection Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
 
 ## FAQs
 ### Login
@@ -33,6 +33,10 @@ dc Welcome to the Sales Connection Support Site. Here you'll find documentation 
 ### Dropdown
 - [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options.md)
 - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
+
+
+### Category
+- [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
 
 
 ### Others
