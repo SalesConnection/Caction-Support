@@ -8,7 +8,7 @@ dc Welcome to the Sales Connection Support Site. Here you'll find documentation 
 
 
 ### Check In/Check Out
-- [How to Check Out If Forgot to Check Out?](Assist_Check_Out.md)
+- [I Forgot to Check Out, How?](Assist_Check_Out.md)
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
 
 
