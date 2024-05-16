@@ -38,6 +38,9 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Category
 - [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
+
+
+### Status
 - [How Do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)
 
 
