@@ -44,14 +44,17 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How Do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)
 - [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
 
-### Others
-- [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
-- [How to Pull Out Job/Project/Form Report?](Export_Report.md)
-- [I get spammed by a lot of notifications. How do I disable it?](Disable_Notification.md)
 
 ### Access Control
 - [I can't access Digital Form. Please help](Can't_Access_Digital_Form.md)
 
+
+### Others
+- [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
+- [How to Pull Out Job/Project/Form Report?](Export_Report.md)
+- [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
+
+  
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
 - [User Type Default Access](User_Types_Default_Access.md)
