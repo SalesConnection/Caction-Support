@@ -7,38 +7,235 @@
   
 ### What To Do When Face This Problem?
 
-  **If staff be able to edit the job, follow the steps below.**<br>
-  1. To solve this problem, go to desktop site navigation bar > Business Map > Overview.<br>
-     **Open the Business Map Overview Here:** [https://salesconnection.my/BusinessMap](https://salesconnection.my/BusinessMap)<br>
+  **If staff **be able** to edit the job, follow the steps below.**<br>
+  1. To solve this problem, open Sales Connection's app and go to Schedule.<br>
 
      <p align="center">
-        <img src="img/Business_Map_Overview.png" alt="Business Map - Overview - Desktop">
+        <img src="img/Check_In_Address_Mobile_Step_1.png" alt="Check In Address Mobile Step 1">
      </p>
      
-  2. Go to the specific user and click on the "Assisted Check out" button and the user will be checked out.<br>
+  2. Click on the specific job.<br>
 
      <p align="center">
-        <img src="img/Assisted_Check_Out_Button_Desktop.png" alt="Assisted Check Out Button - Desktop">
+        <img src="img/Check_In_Address_Mobile_Step_2.png" alt="Check In Address Mobile Step 2">
      </p>
 
+  3. Click on the three dots icon at the top right of the page.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_3.png" alt="Check In Address Mobile Step 3">
+     </p>
+     
+  4. Click "Edit" to modify the job details.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_4.png" alt="Check In Address Mobile Step 4">
+     </p>
+
+  5. Click the icon to expand the customer details.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_5.png" alt="Check In Address Mobile Step 5">
+     </p>
+     
+  6. Click on the "Add New Address" button.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_6.png" alt="Check In Address Mobile Step 6">
+     </p>
+
+  7. Click on the "Get Current Location" icon.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_7.png" alt="Check In Address Mobile Step 7">
+     </p>
+     
+  8. Click "Search" to get the current location.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_8.png" alt="Check In Address Mobile Step 8">
+     </p>
+
+  9. Click "CONFIRM" button to confirm the address.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_9.png" alt="Check In Address Mobile Step 9">
+     </p>
+     
+  10. Click "SAVE" to save the correct check in address.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_10.png" alt="Check In Address Mobile Step 10">
+     </p>
+
+  11. Click the "Save" icon to save the edited job details.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_11.png" alt="Check In Address Mobile Step 11">
+     </p>
+     
+  12. Click "YES" to confirm the action.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_12.png" alt="Check In Address Mobile Step 12">
+     </p>
+
+  13. Click "CLOSE".<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_13.png" alt="Check In Address Mobile Step 13">
+     </p>
+     
+  14. On the same page, click on the "+" icon.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_14.png" alt="Check In Address Mobile Step 14">
+     </p>
+
+  15. Click on the "Map" icon to check in.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_15.png" alt="Check In Address Mobile Step 15">
+     </p>
+
+  16. Click on the "Check-In" button.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_16.png" alt="Check In Address Mobile Step 16">
+     </p>
+     
+  17. Click "CHECK-IN" and you has been checked in successfully.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_17.png" alt="Check In Address Mobile Step 17">
+     </p>
+     
 <br><br>
 
-  **If staff be able to edit the job, follow the steps below.<br>
-  *Note: Only certain admins can perform this action.
-  1. To assist check out, go to Dashboard > Business Map.<br>
+  **If staff **not be able** to edit the job, follow the steps below.<br>
+  *Note: Only certain admins can perform this action.<br>
+  1. To solve this problem, go to desktop site navigation bar > Business Management > Schedule > Job Schedule.<br>
+     **Open the Job Schedule Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
 
      <p align="center">
-        <img src="img/Business_Map_Mobile.png" alt="Business Map - Mobile" width="280" height="550">
+        <img src="img/Check_In_Address_Mobile_Step_1.png" alt="Check In Address Mobile Step 1">
      </p>
      
-  2. Go to the specific user and click on the "Check-out" button and the user will be checked out.<br>
+  2. Click on the specific job.<br>
 
      <p align="center">
-        <img src="img/Assisted_Check_Out_Button_Mobile.png" alt="Assisted Check Out Button - Mobile" width="280" height="550">
+        <img src="img/Check_In_Address_Mobile_Step_2.png" alt="Check In Address Mobile Step 2">
      </p>
 
-  *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br><br>
+  3. Click on the three dots icon.<br>
 
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_3.png" alt="Check In Address Mobile Step 3">
+     </p>
+     
+  4. Click on the "Pencil" icon to edit the job.<br>
 
-**Related Article**<br>
-[How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_4.png" alt="Check In Address Mobile Step 4">
+     </p>
+
+  5. Click the icon to expand the customer details.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_5.png" alt="Check In Address Mobile Step 5">
+     </p>
+     
+  6. Select "Address not required".<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_6.png" alt="Check In Address Mobile Step 6">
+     </p>
+
+  7. Click on the "Save Job" button and the staff is able to check in now.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_7.png" alt="Check In Address Mobile Step 7">
+     </p>
+     
+  8. For staff, open Sales Connection's app and go to Schedule page.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_8.png" alt="Check In Address Mobile Step 8">
+     </p>
+
+  9. Click on the specific job.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_9.png" alt="Check In Address Mobile Step 9">
+     </p>
+     
+  10. Click the "+" icon at the bottom right of the page.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_10.png" alt="Check In Address Mobile Step 10">
+     </p>
+
+  11. Click the "Map" icon to check in.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_11.png" alt="Check In Address Mobile Step 11">
+     </p>
+     
+  12. Click "Check-In" and the staff has been checked in successfully.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_12.png" alt="Check In Address Mobile Step 12">
+     </p>
+
+  13. After staff performed check in action, admin can go to the desktop site navigation bar > Business Management > Customer List.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_13.png" alt="Check In Address Mobile Step 13">
+     </p>
+     
+  14. Select the specific customer.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_14.png" alt="Check In Address Mobile Step 14">
+     </p>
+
+  15. Click on the three dots icon to edit the customer details.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_15.png" alt="Check In Address Mobile Step 15">
+     </p>
+
+  16. Click on "Add New Address".<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_16.png" alt="Check In Address Mobile Step 16">
+     </p>
+     
+  17. Look for the correct address and click on "Select GPS".<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_17.png" alt="Check In Address Mobile Step 17">
+     </p>
+     
+  18. Click on the "Submit" button.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_15.png" alt="Check In Address Mobile Step 15">
+     </p>
+
+  19. Enter the new location name.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_16.png" alt="Check In Address Mobile Step 16">
+     </p>
+     
+  20. Click "SAVE" to add the new location for the job.<br>
+
+     <p align="center">
+        <img src="img/Check_In_Address_Mobile_Step_17.png" alt="Check In Address Mobile Step 17">
+     </p>
+
+<br><br><br>
+
+**Related Articles**<br>
+- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
