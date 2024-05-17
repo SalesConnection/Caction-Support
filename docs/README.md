@@ -53,6 +53,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
+- [How to comment by photo?](Comment_With_Photo.md)
 
   
 ## Features Knowledge 
