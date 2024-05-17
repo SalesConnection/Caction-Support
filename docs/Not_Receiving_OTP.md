@@ -31,19 +31,19 @@
   5. To login with the "OTP Code" generated, open Sales Connection's app and click on the "Help" button at the top right corner of the page.<br>
 
      <p align="center">
-       <img src="img/Help_Button_Mobile.png" alt="Help Button Mobile">
+       <img src="img/Help_Button_Mobile.png" alt="Help Button Mobile" width="280" height="550">
      </p>
 
   6. Enter the phone number and the "OTP Code" generated.<br>
 
      <p align="center">
-       <img src="img/Enter_Phone_OTP.png" alt="Enter Phone OTP">
+       <img src="img/Enter_Phone_OTP.png" alt="Enter Phone OTP" width="280" height="550">
      </p>
 
   7. Click "SUBMIT" to login the app.<br>
 
      <p align="center">
-       <img src="img/Submit_To_Login.png" alt="Submit To Login">
+       <img src="img/Submit_To_Login.png" alt="Submit To Login" width="280" height="550">
      </p>
      <br><br><br>
 
