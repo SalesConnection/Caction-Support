@@ -64,55 +64,56 @@
      
   10. Click "SAVE" to save the correct check in address.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_10.png" alt="Check In Address Mobile Step 10">
-     </p>
+      </p>
 
   11. Click the "Save" icon to save the edited job details.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_11.png" alt="Check In Address Mobile Step 11">
-     </p>
+      </p>
      
   12. Click "YES" to confirm the action.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_12.png" alt="Check In Address Mobile Step 12">
-     </p>
+      </p>
 
   13. Click "CLOSE".<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_13.png" alt="Check In Address Mobile Step 13">
-     </p>
+      </p>
      
   14. On the same page, click on the "+" icon.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_14.png" alt="Check In Address Mobile Step 14">
-     </p>
+      </p>
 
   15. Click on the "Map" icon to check in.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_15.png" alt="Check In Address Mobile Step 15">
-     </p>
+      </p>
 
   16. Click on the "Check-In" button.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_16.png" alt="Check In Address Mobile Step 16">
-     </p>
+      </p>
      
   17. Click "CHECK-IN" and you has been checked in successfully.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_17.png" alt="Check In Address Mobile Step 17">
-     </p>
+      </p>
      
+  *Note: You can choose to delete the previous address if the address is not used anymore.
 <br><br>
 
-  **If staff **not be able** to edit the job, follow the steps below.<br>
+  **If staff **not be able** to edit the job, follow the steps below.**<br>
   *Note: Only certain admins can perform this action.<br>
   1. To solve this problem, go to the desktop site navigation bar > Business Management > Schedule > Job Schedule.<br>
      **Open the Job Schedule Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
@@ -171,69 +172,70 @@
      
   10. Click the "+" icon at the bottom right of the page.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_10.png" alt="Check In Address Desktop Step 10">
-     </p>
+      </p>
 
   11. Click the "Map" icon to check in.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_11.png" alt="Check In Address Desktop Step 11">
-     </p>
+      </p>
      
   12. Click "Check-In" and the staff has been checked in successfully.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_12.png" alt="Check In Address Desktop Step 12">
-     </p>
+      </p>
 
   13. After staff performed check in action, admin can go to the desktop site navigation bar > Business Management > Customer List.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_13.png" alt="Check In Address Desktop Step 13">
-     </p>
+      </p>
      
   14. Select the specific customer.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_14.png" alt="Check In Address Desktop Step 14">
-     </p>
+      </p>
 
   15. Click on the three dots icon to edit the customer details.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_15.png" alt="Check In Address Desktop Step 15">
-     </p>
+      </p>
 
   16. Click on "Add New Address".<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_16.png" alt="Check In Address Desktop Step 16">
-     </p>
+      </p>
      
   17. Look for the correct address and click on "Select GPS".<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_17.png" alt="Check In Address Desktop Step 17">
-     </p>
+      </p>
      
   18. Click on the "Submit" button.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_18.png" alt="Check In Address Desktop Step 18">
-     </p>
+      </p>
 
   19. Enter the new location name.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_19.png" alt="Check In Address Desktop Step 19">
-     </p>
+      </p>
      
   20. Click "SAVE" to add the new location for the job.<br>
 
-     <p align="center">
+      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_20.png" alt="Check In Address Desktop Step 20">
-     </p>
+      </p>
+  *Note: You can choose to delete the previous address if the address is not used anymore.
 
 <br><br><br>
 
