@@ -46,7 +46,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ### Access Control
-- [I can't access Digital Form. Please help](Can't_Access_Digital_Form.md)
+- [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
 
 
 ### Others
