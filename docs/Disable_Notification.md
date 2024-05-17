@@ -59,10 +59,11 @@
 
   10. Click "OK" and the notifications have been disabled.<br>
 
-     <p align="center">
-       <img src="img/Disabled_Notifcation_Done.png" alt="Disabled Notification Done">
-     </p>
-     <br><br><br>
+      <p align="center">
+        <img src="img/Disable_Notification_Done.png" alt="Disable Notification Done">
+      </p>
+     
+<br><br><br>
 
 **Related Articles**<br>
 - [How to Login Using Mobile and Desktop?](Login.md)
