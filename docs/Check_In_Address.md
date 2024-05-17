@@ -1,24 +1,24 @@
-## I am at the location, but system says I am too far from the location.
+## I am at the location, but the system says I am too far from the location.
 
-### Scenarios below will need assist check out:
+### Scenarios below will cause staff cannot check in:
 
-  1. If staff **cannot** or **forgot** to check out from the previous task, what to do?<br>
+  1. Admin **forgot** to set the site's address.<br>
 
      <p align="center">
         <img src="img/Check_Out_Range.png" alt="Check Out Range" width="300" height="600">
      </p>
      
-  2. User cannot check in to the next task.<br>
+  2. Admin cannot find the site's address or the site does not have any addresses.<br>
 
      <p align="center">
         <img src="img/Check_Out_Required.png" alt="Check Out Required">
      </p>
      <br>
   
-### How to Perform Assist Check Out?
+### What To Do When Face This Problem?
 
-  **Desktop Version**<br>
-  1. To assist check out, go to desktop site navigation bar > Business Map > Overview.<br>
+  **If staff be able to edit the job, follow the steps below.**<br>
+  1. To solve this problem, go to desktop site navigation bar > Business Map > Overview.<br>
      **Open the Business Map Overview Here:** [https://salesconnection.my/BusinessMap](https://salesconnection.my/BusinessMap)<br>
 
      <p align="center">
@@ -30,10 +30,11 @@
      <p align="center">
         <img src="img/Assisted_Check_Out_Button_Desktop.png" alt="Assisted Check Out Button - Desktop">
      </p>
-     
-  *Note: If there is no "Assisted Check out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br>
 
-  **Mobile Version**<br>
+<br><br>
+
+  **If staff be able to edit the job, follow the steps below.<br>
+  *Note: Only certain admins can perform this action.
   1. To assist check out, go to Dashboard > Business Map.<br>
 
      <p align="center">
