@@ -24,7 +24,7 @@
   4. Enable the "Removal of Global Notification for Admin".<br>
 
      <p align="center">
-       <img src="img/Enable_Removel_Global_Notification.png" alt="Enable Removal Global Notification">
+       <img src="img/Enable_Removal_Global_Notification.png" alt="Enable Removal Global Notification">
      </p>
 
   5. Click "Save Control Settings".<br>
