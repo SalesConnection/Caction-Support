@@ -1,4 +1,4 @@
-## I get spammed by a lot of notifications. How do I disable it?
+## I Get Spammed By a Lot of Notifications. How Do I Disable It?
 
 *Note: Only certain admins can disable the notification. Please contact your admin if you wish to disable the notifications.<br>
 
