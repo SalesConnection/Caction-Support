@@ -1,12 +1,11 @@
-## I get spammed by a lot by notifications. How do I disable?
+## I get spammed by a lot of notifications. How do I disable it?
 
-*Note: Please ensure that you already wait for at least 5 mins for the "OTP Code". If you still not receiving it, please contact admin to perform further action.
+*Note: Only certain admins can disable the notification. Please contact your admin if you wish to disable the notifications.<br>
 
-  1. To generate "OTP Code" for users, go to User Management > User List.<br>
-     *Note: Only certain admins can generate OTP for users.
+  1. To disable notifications for users, go to User Management > User Account Management.<br>
 
      <p align="center">
-       <img src="img/User_List.png" alt="User List">
+       <img src="img/User_Account_Management.png" alt="User Account Management">
      </p>
   
   2. Navigate to the user who does not receive the "OTP Code".<br>
