@@ -47,6 +47,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ### Others
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
+- [I get spammed by a lot of notifications. How do I disable it?](Disable_Notification.md)
 
 ### Access Control
 - [I can't access Digital Form. Please help](Can't_Access_Digital_Form.md)
