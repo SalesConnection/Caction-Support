@@ -114,125 +114,125 @@
 
   **If staff **not be able** to edit the job, follow the steps below.<br>
   *Note: Only certain admins can perform this action.<br>
-  1. To solve this problem, go to desktop site navigation bar > Business Management > Schedule > Job Schedule.<br>
+  1. To solve this problem, go to the desktop site navigation bar > Business Management > Schedule > Job Schedule.<br>
      **Open the Job Schedule Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_1.png" alt="Check In Address Mobile Step 1">
+        <img src="img/Check_In_Address_Desktop_Step_1.png" alt="Check In Address Desktop Step 1">
      </p>
      
   2. Click on the specific job.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_2.png" alt="Check In Address Mobile Step 2">
+        <img src="img/Check_In_Address_Desktop_Step_2.png" alt="Check In Address Desktop Step 2">
      </p>
 
   3. Click on the three dots icon.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_3.png" alt="Check In Address Mobile Step 3">
+        <img src="img/Check_In_Address_Desktop_Step_3.png" alt="Check In Address Desktop Step 3">
      </p>
      
   4. Click on the "Pencil" icon to edit the job.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_4.png" alt="Check In Address Mobile Step 4">
+        <img src="img/Check_In_Address_Desktop_Step_4.png" alt="Check In Address Desktop Step 4">
      </p>
 
   5. Click the icon to expand the customer details.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_5.png" alt="Check In Address Mobile Step 5">
+        <img src="img/Check_In_Address_Desktop_Step_5.png" alt="Check In Address Desktop Step 5">
      </p>
      
   6. Select "Address not required".<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_6.png" alt="Check In Address Mobile Step 6">
+        <img src="img/Check_In_Address_Desktop_Step_6.png" alt="Check In Address Desktop Step 6">
      </p>
 
   7. Click on the "Save Job" button and the staff is able to check in now.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_7.png" alt="Check In Address Mobile Step 7">
+        <img src="img/Check_In_Address_Desktop_Step_7.png" alt="Check In Address Desktop Step 7">
      </p>
      
   8. For staff, open Sales Connection's app and go to Schedule page.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_8.png" alt="Check In Address Mobile Step 8">
+        <img src="img/Check_In_Address_Desktop_Step_8.png" alt="Check In Address Desktop Step 8">
      </p>
 
   9. Click on the specific job.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_9.png" alt="Check In Address Mobile Step 9">
+        <img src="img/Check_In_Address_Desktop_Step_9.png" alt="Check In Address Desktop Step 9">
      </p>
      
   10. Click the "+" icon at the bottom right of the page.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_10.png" alt="Check In Address Mobile Step 10">
+        <img src="img/Check_In_Address_Desktop_Step_10.png" alt="Check In Address Desktop Step 10">
      </p>
 
   11. Click the "Map" icon to check in.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_11.png" alt="Check In Address Mobile Step 11">
+        <img src="img/Check_In_Address_Desktop_Step_11.png" alt="Check In Address Desktop Step 11">
      </p>
      
   12. Click "Check-In" and the staff has been checked in successfully.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_12.png" alt="Check In Address Mobile Step 12">
+        <img src="img/Check_In_Address_Desktop_Step_12.png" alt="Check In Address Desktop Step 12">
      </p>
 
   13. After staff performed check in action, admin can go to the desktop site navigation bar > Business Management > Customer List.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_13.png" alt="Check In Address Mobile Step 13">
+        <img src="img/Check_In_Address_Desktop_Step_13.png" alt="Check In Address Desktop Step 13">
      </p>
      
   14. Select the specific customer.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_14.png" alt="Check In Address Mobile Step 14">
+        <img src="img/Check_In_Address_Desktop_Step_14.png" alt="Check In Address Desktop Step 14">
      </p>
 
   15. Click on the three dots icon to edit the customer details.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_15.png" alt="Check In Address Mobile Step 15">
+        <img src="img/Check_In_Address_Desktop_Step_15.png" alt="Check In Address Desktop Step 15">
      </p>
 
   16. Click on "Add New Address".<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_16.png" alt="Check In Address Mobile Step 16">
+        <img src="img/Check_In_Address_Desktop_Step_16.png" alt="Check In Address Desktop Step 16">
      </p>
      
   17. Look for the correct address and click on "Select GPS".<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_17.png" alt="Check In Address Mobile Step 17">
+        <img src="img/Check_In_Address_Desktop_Step_17.png" alt="Check In Address Desktop Step 17">
      </p>
      
   18. Click on the "Submit" button.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_15.png" alt="Check In Address Mobile Step 15">
+        <img src="img/Check_In_Address_Desktop_Step_18.png" alt="Check In Address Desktop Step 18">
      </p>
 
   19. Enter the new location name.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_16.png" alt="Check In Address Mobile Step 16">
+        <img src="img/Check_In_Address_Desktop_Step_19.png" alt="Check In Address Desktop Step 19">
      </p>
      
   20. Click "SAVE" to add the new location for the job.<br>
 
      <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_17.png" alt="Check In Address Mobile Step 17">
+        <img src="img/Check_In_Address_Desktop_Step_20.png" alt="Check In Address Desktop Step 20">
      </p>
 
 <br><br><br>
