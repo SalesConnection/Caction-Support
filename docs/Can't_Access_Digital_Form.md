@@ -22,7 +22,7 @@
      <img src="img/Edit_Access_For_Digital_Form_Step_3.png" alt="How to edit access for Digital Form Step 3">
    </p>
 
-4. Click the expand button to change the access for the user.
+4. For example, if you want to manage user access for Quaotation. Click the expand button to change the access for the user.
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_4.png" alt="How to edit access for Digital Form Step 4">
