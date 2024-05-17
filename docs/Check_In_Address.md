@@ -2,18 +2,8 @@
 
 ### Scenarios below will cause staff cannot check in:
 
-  1. Admin **forgot** to set the site's address.<br>
-
-     <p align="center">
-        <img src="img/Check_Out_Range.png" alt="Check Out Range" width="300" height="600">
-     </p>
-     
-  2. Admin cannot find the site's address or the site does not have any addresses.<br>
-
-     <p align="center">
-        <img src="img/Check_Out_Required.png" alt="Check Out Required">
-     </p>
-     <br>
+  1. If staff **cannot** or **forgot** to check out from the previous task, what to do?<br>
+  2. User cannot check in to the next task.<br><br>
   
 ### What To Do When Face This Problem?
 
