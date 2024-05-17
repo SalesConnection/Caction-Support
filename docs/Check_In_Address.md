@@ -240,4 +240,5 @@
 <br><br><br>
 
 **Related Articles**<br>
+- [I Forgot to Check Out, How?](Assist_Check_Out.md)
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
