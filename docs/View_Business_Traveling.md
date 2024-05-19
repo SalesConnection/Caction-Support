@@ -50,4 +50,10 @@
       <img src="img/Business_Travel_Result.png" alt="Where to view Business Traveling Result">
    </p>
 
-   
+### What is the definition between Response Time and Duration? 
+
+|   Term  | Definition |
+| :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Response Time | The difference between the user's Check-In time and the scheduled Check-in time   |
+|  Duration | Time Duration between user's Check-In and Check-Out|
+
