@@ -9,7 +9,7 @@
        <img src="img/User_Account_Customisation.png" alt="User Account Customisation">
      </p>
   
-  2. Use Ctrl + f to search "Enable Assisted Checkout".<br>
+  2. Press Ctrl + F on your keyboard and type “Enable Assisted Checkout” to search for the field.<br>
   
      <p align="center">
        <img src="img/Enable_Assisted_Checkout_in_UAC.png" alt="Enable Assisted Checkout in UAC">
