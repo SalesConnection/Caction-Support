@@ -154,6 +154,6 @@
 <br><br><br>
 
 **Related Articles**<br>
-- [How to Change Account Password?](Change_Account_Password.md)
+[How to Change Account Password?](Change_Account_Password.md)
 
 
