@@ -9,8 +9,6 @@
 
      b. Is the internet speed fast enough?<br>
         Request the user to download the internet speed testing app:<br>
-        Android: https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest<br>
-        IOS: https://apps.apple.com/us/app/speedtest-by-ookla/id300704847<br>
   
   2. Server error shown.<br>
   
