@@ -51,4 +51,5 @@
   If you want to add more users, contact us to upgrade your subscription plan.<br><br><br><br>
 
 **Related Article**<br>
-[How to Assist My New User to Login?](New_User_Login.md)
+- [How to Assist My New User to Login?](New_User_Login.md)
+- [How to Add New User Category?](Add_New_User_Category.md)
