@@ -39,4 +39,10 @@
      <img src="img/Job_Update_Report_Filter_Result.png">
    </p><br><br> 
 
-**Related Article**<br> Click Here:** [https://github.com/SalesConnection/Sales-Connection-Support/blob/main/docs/Default_Favourite_Filter_App.md](https://github.com/SalesConnection/Sales-Connection-Support/blob/main/docs/Default_Favourite_Filter_App.md)
+<br><br><br>
+
+**Related Articles**<br>
+- [How to Search Job Using Date Range?](Job_Filter_by_Date_Range.md)
+- [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
+- [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
+- [How to Set Customized Favourite Filter in Report Pages?](Customize_Filter_in_Report_Pages.md)
