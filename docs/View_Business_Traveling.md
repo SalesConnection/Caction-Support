@@ -1,7 +1,7 @@
 
 ## Where can I view my team’s traveling for the month?
 
-1. For example, you want to view your team's traveling for the month. Go to desktop site "Main Navigation" > "Business Map" > "Business Travel (Table)" <br> 
+1. For example, you want to view your team's traveling for the month. Go to desktop site Main Navigation > Business Map > Business Travel (Table) <br> 
    **Open the page here**: [https://salesconnection.my/business-travel/table](https://salesconnection.my/business-travel/table)<br>
 
    <p align="center">
@@ -44,7 +44,7 @@
      <img src="img/Business_Travel_Step_7.png" alt="Where to view Business Traveling Step 7">
    </p><br>
 
-8. The result will then be show.
+8. The result will then be shown.
 
    <p align="center">
       <img src="img/Business_Travel_Result.png" alt="Where to view Business Traveling Result">
