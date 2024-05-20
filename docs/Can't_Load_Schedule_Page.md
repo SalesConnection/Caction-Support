@@ -4,17 +4,28 @@
 
   1. Bad internet connection.<br>
 
+     a. Is the internet connection & speed strong enough?<br>
+        If the internet connection is weak - request the user to connect to another network (e.g. colleague’s mobile hotspot) and try again.<br>
+
+     b. Is the internet speed fast enough?<br>
+        Request the user to download the internet speed testing app:<br>
+        Android: https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest<br>
+        IOS: https://apps.apple.com/us/app/speedtest-by-ookla/id300704847<br>
+  
+  2. Server error shown.<br>
+  
+     a. Request information from user<br>
+        Account details, consistent error or happen only once, anyone else from the company facing this issue?<br>
+
+     b. If it happens only once, check if its a connection issue.<br>
+
+     c. Check with the developer team.<br>
      
-  
-  2. Server error shown.<br><br>
-  
+     d. For a response from server error, most likely our side has issues.<br>
+
+
 
      
-  4. Click "Edit" to modify the job details.<br>
-
-     <p align="center">
-        <img src="img/Check_In_Address_Mobile_Step_4.png" alt="Check In Address Mobile Step 4">
-     </p>
 
 <br><br><br>
 
