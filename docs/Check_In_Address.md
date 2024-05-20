@@ -7,7 +7,7 @@
   
 ### What To Do When Face This Problem?
 
-  **If staff **be able** to edit the job, follow the steps below.**<br>
+  **If staff be able to edit the job, follow the steps below.**<br>
   1. To solve this problem, open Sales Connection's app and go to Schedule.<br>
 
      <p align="center">
@@ -113,7 +113,7 @@
   *Note: You can choose to delete the previous address if the address is not used anymore.
 <br><br>
 
-  **If staff **not be able** to edit the job, follow the steps below.**<br>
+  **If staff not be able to edit the job, follow the steps below.**<br>
   *Note: Only certain admins can perform this action.<br>
   1. To solve this problem, go to the desktop site navigation bar > Business Management > Schedule > Job Schedule.<br>
      **Open the Job Schedule Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
