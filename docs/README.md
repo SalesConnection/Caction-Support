@@ -55,6 +55,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
 - [How to comment by photo?](Comment_With_Photo.md)
+- [Where can I view my team's traveling for the month?](View_Business_Traveling.md)
 
   
 ## Features Knowledge 
