@@ -82,7 +82,8 @@
      <p align="center">
        <img src="img/Save_Password_Mobile.png" alt="Save Password Mobile" width="280" height="550">
      </p>
+     
      <br><br><br>
 
 **Related Article**<br>
-[Why My Staff Cannot Login with New Device?](IMEI.md)
+- [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
