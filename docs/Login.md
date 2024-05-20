@@ -99,4 +99,6 @@
      <br><br><br>
 
 **Related Article**<br>
-[Why My Staff Cannot Login with New Device?](IMEI.md)
+- [How to Assist My New User to Login?](New_User_Login.md)
+- [I Can't Login to My Other Phone. Why?](IMEI.md)
+- [I can’t receive the OTP to log in on my phone. How do I log in?](Not_Receiving_OTP.md)
