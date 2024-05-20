@@ -49,6 +49,6 @@
   *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br><br>
 
 
-**Related Article**<br>
+**Related Articles**<br>
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
 - [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
