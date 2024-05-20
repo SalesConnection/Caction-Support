@@ -14,5 +14,5 @@
 
 <br><br><br>
 
-**Related Article**
+**Related Article**<br>
 [User Type Default Access](User_Types_Default_Access.md)
