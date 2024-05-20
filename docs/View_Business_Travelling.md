@@ -59,6 +59,13 @@
 | Check-In | User's Check-In time |
 | Check-Out | User's Check-Out time |
 | Travelling | Travelling Distance and Time Arrived of the User |
+
+  <br><br><br>
+
+  **Related Articles**<br>
+- [I Forgot to Check Out, How?](Assist_Check_Out.md)
+- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
+- [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
 | Customer | Customer Name |
 | Response Time | The difference between the user's Check-In time and the scheduled Check-In Time   |
 |  Duration | Time Duration between User's Check-In and Check-Out|
