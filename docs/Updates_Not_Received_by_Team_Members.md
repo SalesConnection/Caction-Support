@@ -19,3 +19,4 @@
 
 **Related Articles**<br>
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
+- [How to comment by photo?](Comment_With_Photo.md)
