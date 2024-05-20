@@ -15,4 +15,4 @@
 <br><br><br>
 
 **Related Article**
-- [Data Level Structure](Data_Level_Structure.md)
+[User Type Default Access](User_Types_Default_Access.md)
