@@ -35,8 +35,11 @@
      <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Result.png" alt="Set Customized Favourite FIlter as default Step 5">
    </p><br><br>
 
-   
+<br><br><br>
 
+**Related Articles**<br>
+- [How to Search Job Using Date Range?](Job_Filter_by_Date_Range.md)
+- [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
+- [How to Set Customized Favourite Filter in Report Pages?](Customize_Filter_in_Report_Pages.md)
+- [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
 
-**Related Article**<br>
-[Filter For Job](Filter_For_Job.md)
