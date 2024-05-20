@@ -114,3 +114,8 @@
      <img src="img/How_to_Upload_Attachment_In_Desktop_Result.png" alt="How to Upload Attachment in Desktop Step 7">
    </p><br>
   
+<br><br><br>
+
+**Related Article**<br>
+- [My updates are not received by my admin and other team menbers. Why?](Updates_Not_Received_by_Team_Members.md)
+  
