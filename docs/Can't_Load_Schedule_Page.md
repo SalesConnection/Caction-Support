@@ -23,7 +23,9 @@
      
      d. For a response from server error, most likely our side has issues.<br>
 
-
+        <p align="center">
+          <img src="img/Dashboard_Profile.png" alt="Dashboard Profile">
+        </p>
 
      
 
