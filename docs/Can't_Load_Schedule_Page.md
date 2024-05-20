@@ -25,5 +25,5 @@
 
 <br><br><br>
 
-**Related Articles**<br>
-- [My updates are not received by my admin and other team menbers. Why?](Updates_Not_Received_by_Team_Members.md)
+**Related Article**<br>
+[My updates are not received by my admin and other team menbers. Why?](Updates_Not_Received_by_Team_Members.md)
