@@ -26,7 +26,7 @@
        <img src="img/Save_Changes_Button.png" alt="Save Changes Button">
      </p>
 
-  5. Click "OK" and the user category has been added.<br>
+  5. The category of user has been added. Now, click "OK".<br>
 
      <p align="center">
        <img src="img/Add_New_User_Category_Success.png" alt="Add New User Category Success">
