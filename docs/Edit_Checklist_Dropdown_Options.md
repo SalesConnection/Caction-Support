@@ -5,7 +5,7 @@
    <br>
    Go to desktop site navigation bar > "Template Settings" > "Digital Form Templates" > "Digital Form Template Settings".<br>
    **Open the page here**: [https://salesconnection.my/ServiceReport/TemplateSetting](https://salesconnection.my/ServiceReport/TemplateSetting)<br>
-   <br>
+
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_1.png">
    </p>
@@ -52,9 +52,9 @@
     <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
    </p>
 
-9. Click the “Tick” icon if you wish to make the option become default, where in this case “Moderate” will be the preselected option every time. 
+9. Click the “Tick” icon if you wish to make the option become default, where in this case “Moderate” will be the preselected option every time.<br>
 
-    If you don’t wish to have any preselected option, can just untick all options.
+   If you don’t wish to have any preselected option, can just untick all options.<br>
    
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_9.png">
@@ -62,27 +62,28 @@
 
 10. After editing, click the blue Save icon and click “OK” on the pop up message to save your changes.   <br>
 
-   <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_10.png">
-   </p>
+    <p align="center">
+      <img src="img/How_to_edit_checklist_dropdown_options_step_10.png">
+    </p>
 
 11. Click the "Cross" icon to close the checklist page.<br>
 
-   <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_11.png">
-   </p>
+    <p align="center">
+      <img src="img/How_to_edit_checklist_dropdown_options_step_11.png">
+    </p>
 
 12. At this page, remember to click the blue “Save” icon beside once more, or else the previous changes you made will not be saved. Then click “OK”.<br>
 
-   <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_12.png">
-   </p>
+    <p align="center">
+      <img src="img/How_to_edit_checklist_dropdown_options_step_12.png">
+    </p>
 
 13. Your changes have been saved successfully.
 
     <p align="center">
-    <img src="img/How_to_edit_checklist_dropdown_options_step_13.png">
-   </p>
+      <img src="img/How_to_edit_checklist_dropdown_options_step_13.png">
+    </p>
+    
    <br><br><br>
 
 **Related Articles**<br>
