@@ -1,7 +1,15 @@
 
 ## 🔑 I forgot my password. How can I recover or reset it?
 
- - **Desktop Site**:
+**Navigate to the section by clicking it.**<br>
+
+- [Desktop Version](#section1)<br>
+- [Mobile App (Using Email)](#section2)
+<br><br><br>
+ 
+<a id="section1"></a>
+ 
+ - **Desktop Version**:
 
   1. At "SALES CONNECTION" login page, click “Forgot your password?
 
@@ -61,6 +69,7 @@
    <br>   
    <br>
      
+<a id="section2"></a>
  
 - **Mobile App (Using Email)**:
 
