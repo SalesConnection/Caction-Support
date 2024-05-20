@@ -14,3 +14,8 @@
 
      a.  Your admin and other team members haven't refresh the page after your updates.<br>
    &emsp;If your admin and other team members are not received your updates, you can ask them to refresh their page, and the updates will be shown.
+
+<br><br><br>
+
+**Related Articles**<br>
+- [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
