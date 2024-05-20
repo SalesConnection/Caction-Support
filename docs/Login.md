@@ -98,9 +98,3 @@ Updated: 20 May 2024<br>
      <p align="center">
        <img src="img/Email_Login.png" alt="Email Login" width="280" height="550">
      </p>
-     <br><br><br>
-
-**Related Articles**<br>
-- [How to Assist My New User to Login?](New_User_Login.md)
-- [I Can't Login to My Other Phone. Why?](IMEI.md)
-- [I can’t receive the OTP to log in on my phone. How do I log in?](Not_Receiving_OTP.md)
