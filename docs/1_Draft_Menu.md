@@ -25,7 +25,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ### Filter
-- [How to Search Job Using Date Range?](Job_Filter_by_Date_Range.md)
+- [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)
 - [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
 - [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
 - [How to Set Customized Favourite Filter in Report Pages?](Customize_Filter_in_Report_Pages.md)
