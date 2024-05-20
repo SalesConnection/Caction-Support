@@ -56,7 +56,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
 - [How to comment by photo?](Comment_With_Photo.md)
 - [Where can I view my team's traveling for the month?](View_Business_Traveling.md)
-
+- [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
   
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
