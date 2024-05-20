@@ -13,7 +13,7 @@
   2. Haven't refresh the page after your updates.<br>
 
      a.  Your admin and other team members haven't refresh the page after your updates.<br>
-   &emsp;If your admin and other team members are not received your updates, you can ask them to refresh their page, and the updates will be shown.
+   &emsp;You can ask your admin and other team members to refresh their page in order for them to see your updates if they haven't received them.
 
 <br><br><br>
 
