@@ -65,7 +65,7 @@
        <img src="img/Reset_Passsword_Using_Desktop_Result.png" alt="Reset Password - Result">
      </p><br>
 
-   If you dont' know how to login by Using Desktop, please click here: "https://salesconnection.github.io/Sales-Connection-Support/Login.html#section1"
+   If you dont' know how to login by Using Desktop, please click here: [https://salesconnection.github.io/Sales-Connection-Support/Login.html#section1](https://salesconnection.github.io/Sales-Connection-Support/Login.html#section1)
    <br>   
    <br>
      
