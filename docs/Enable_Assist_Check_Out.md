@@ -36,5 +36,6 @@
      </p>
   <br><br>
 
-  **Related Article**<br>
-[Why My Staff Cannot Check In/Check Out?](Assist_Check_Out.md)
+  **Related Articles**<br>
+- [Why My Staff Cannot Check In/Check Out?](Assist_Check_Out.md)
+- [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
