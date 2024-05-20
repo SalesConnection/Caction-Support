@@ -53,5 +53,5 @@ each team, etc. Note that a user can be in more than one Staff Category and a us
 
 <br><br><br>
 
-**Related Articles**
+**Related Article**
 - [Data Level Structure](Data_Level_Structure.md)
