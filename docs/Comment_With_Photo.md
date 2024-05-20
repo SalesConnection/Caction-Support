@@ -1,5 +1,5 @@
 
-##  📷 How to comment with a Photo / Attcahment?
+##  📷 How to comment with Photo / Attcahment?
     
 **Mobile:**<br>
   
