@@ -49,4 +49,9 @@ each team, etc. Note that a user can be in more than one Staff Category and a us
 
 \* To manage staff category (edit/delete): Company Settings > Staff Settings > Department/Team Settings > Staff Category.<br>
 \** To edit the category a staff belongs in: User Management > User List. Click the blue pen button beside the relevant user, edit under “Staff Category”, and click “Submit.” <br>
-\*** Only Desktop site and admins can manage staff settings
+\*** Only Desktop site and admins can manage staff settings<br>
+
+<br><br><br>
+
+**Related Articles**
+- [Data Level Structure](Data_Level_Structure.md)
