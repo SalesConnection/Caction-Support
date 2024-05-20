@@ -57,6 +57,6 @@
      </p>
      <br><br><br>
   
-**Related Article**<br>
+**Related Articles**<br>
 - [How to Add New User?](Add_New_User.md)
 - [How to Change Account Password?](Change_Account_Password.md)
