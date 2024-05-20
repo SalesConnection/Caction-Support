@@ -50,4 +50,5 @@
 
 
 **Related Article**<br>
-[How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
+- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
+- [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
