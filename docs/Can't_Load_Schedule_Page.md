@@ -16,8 +16,6 @@
         <img src="img/Check_In_Address_Mobile_Step_4.png" alt="Check In Address Mobile Step 4">
      </p>
 
-
-
 <br><br><br>
 
 **Related Articles**<br>
