@@ -154,7 +154,6 @@
 <br><br><br>
 
 **Related Articles**<br>
-- [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
 - [How to Change Account Password?](Change_Account_Password.md)
 
 
