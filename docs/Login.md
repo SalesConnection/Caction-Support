@@ -1,5 +1,5 @@
 
-## 👩‍💼 How to Login Using Mobile and Desktop?
+## 👩‍💼 How to Login Into Sales Connection Using Mobile and Desktop?
 
 **Navigate to the section by clicking it.**<br>
 
@@ -98,7 +98,7 @@
      </p>
      <br><br><br>
 
-**Related Article**<br>
+**Related Articles**<br>
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [I can’t receive the OTP to log in on my phone. How do I log in?](Not_Receiving_OTP.md)
