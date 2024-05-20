@@ -54,7 +54,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
-- [How to comment by photo?](Comment_With_Photo.md)
+- [How to comment with photo / attachment?](Comment_With_Photo.md)
 - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
 - [My updates are not received by my admin and other team menbers. Why?](Updates_Not_Received_by_Team_Members.md)
