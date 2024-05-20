@@ -80,4 +80,4 @@ Updated: 16 May 2024<br>
     <br><br><br>
 
 **Related Article**<br>
-[How to Edit Checklist Dropdown Options?](Edit_Dropdown_Options.md)
+[How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
