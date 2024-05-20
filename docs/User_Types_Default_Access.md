@@ -32,24 +32,24 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User.
 <br> 
 <br>
 
-## What is the difference between Default, Allow Access and Block Access on System Access Settings? 
+## What is the difference between Default, Allow Access, and Block Access on System Access Settings? 
 
-|    Default    | Based on system’s default settings for diff account types: Admin - Can create anything , Subadmin - Can create items under their department/teams, Staff - Cannot create C/P/J/DF |
+|    Default    | Based on the system’s default settings for different account types: Admin - Can create anything, Subadmin - Can create items under their department/teams, Staff - Cannot create C/P/J/DF |
 | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Allow access | Users can create C/P/J/DF for items that they are assigned to  |
-|  Block access | Users will not be able create C/P/J/DF under any circumstances |
+|  Allow access | Users can create Customer/Project/Job/Digital Form for items that they are assigned to.  |
+|  Block access | Users will not be able to create Customer/Project/Job/Digital Form under any circumstances. |
 
 <br>
 
 ## What is the staff category?
 
-Staff category refers to the department/team each staff can be placed in. After placing staff in different categories, you can easily assign tasks to teams, check staffs’ schedules based on teams, assign Sub Admin to 
+Staff category refers to the department/team each staff can be placed in. After placing staff in different categories, you can easily assign tasks to teams, check staff’s schedules based on teams, assign Sub Admin to 
 each team, etc. Note that a user can be in more than one Staff Category and a user cannot be without a Staff Category.
 <br>
 
 \* To manage staff category (edit/delete): Company Settings > Staff Settings > Department/Team Settings > Staff Category.<br>
 \** To edit the category a staff belongs in: User Management > User List. Click the blue pen button beside the relevant user, edit under “Staff Category”, and click “Submit.” <br>
-\*** Only Desktop site and admins can manage staff settings<br>
+\*** Only the Desktop site and admins can manage staff settings<br>
 
 <br><br><br>
 
