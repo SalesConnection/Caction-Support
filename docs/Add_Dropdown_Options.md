@@ -45,7 +45,7 @@ Updated: 16 May 2024<br>
 7. Click "Add Options" to add options.<br>
 
    <p align="center">
-     <img src="img/How_to_add_dropdown_options_in_DF_step_7.png" alt="How to add dropdown options in DF step 7"
+     <img src="img/How_to_add_dropdown_options_in_DF_step_7.png" alt="How to add dropdown options in DF step 7">
    </p>
   
 8. Add the next option by clicking the Enter key on your keyboard.<br>
