@@ -1,5 +1,5 @@
 
-## ⭐ How to Set Favourite Filter as Default - App?
+## ⭐ How to Set Favourite Filter as Default - App
 
 1. For example, if you want to set a favourite filter for Job Schedule. Click "Schedule".
 
