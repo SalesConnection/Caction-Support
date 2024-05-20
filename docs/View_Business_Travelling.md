@@ -1,5 +1,5 @@
 
-## Where can I view my team’s traveling for the month?
+## Where can I view my team’s travelling for the month?
 
 1. For example, you want to view your team's traveling for the month. Go to desktop site Main Navigation > Business Map > Business Travel (Table) <br> 
    **Open the page here**: [https://salesconnection.my/business-travel/table](https://salesconnection.my/business-travel/table)<br>
@@ -54,6 +54,12 @@
 
 |   Term  | Definition |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Response Time | The difference between the user's Check-In time and the scheduled Check-in time   |
-|  Duration | Time Duration between user's Check-In and Check-Out|
+| Date | The Business Travel Date |
+| User | Name of the staff |
+| Check-In | User's Check-In time |
+| Check-Out | User's Check-Out time |
+| Travelling | Travelling Distance and Time Arrived of the User |
+| Customer | Customer Name |
+| Response Time | The difference between the user's Check-In time and the scheduled Check-In Time   |
+|  Duration | Time Duration between User's Check-In and Check-Out|
 
