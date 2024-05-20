@@ -78,7 +78,10 @@
      <p align="center">
        <img src="img/How_to_Search_Job_Filter_by_Date_Range_Using_App_Result.png" alt="Job Filter by date range output for app" width="280" height="550">
      </p>
-     <br><br>
+     <br><br><br>
 
-**Related Article**<br>
-[How to Save My Favourite Filter?](Favourite_Filter.md)
+**Related Articles**<br>
+- [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
+- [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
+- [How to Set Customized Favourite Filter in Report Pages?](Customize_Filter_in_Report_Pages.md)
+- [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
