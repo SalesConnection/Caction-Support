@@ -1,5 +1,11 @@
-
 ## ✍🏻 How to Edit Checklist Dropdown Options?
+
+### If you want to edit the Checklist below
+
+   <p align="center">
+    <img src="img/How_to_edit_checklist_dropdown_options_explain.png">
+   </p>
+
 
 1. For example, if you want to edit checklist dropdown options for Service Sheet. 
    <br>
