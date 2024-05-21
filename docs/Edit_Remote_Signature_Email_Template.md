@@ -6,33 +6,32 @@
       <img src="img/Remote_Signature_Email_Template_Settings_Page.png" alt="Remote Signature Email Template Settings Page">
    </p>
 
-2. Enter the number of the maximum allowed check in distance.<br>
-   *Note: The suggested check in distance is 1000 meters.<br>
+2. Edit the subject and the content.<br>
 
    <p align="center">
-      <img src="img/Enter_Number_For_Distance.png" alt="Enter Number For Distance">
+      <img src="img/Remote_Signature_Email_Template_Settings_Step_2.png" alt="Remote Signature Email Template Settings Step 2">
    </p>
 
-3. Click on the "SUBMIT" button.<br>
+3. Enter @ and you can have the customer name or company name appear on the email.<br>
 
    <p align="center">
-      <img src="img/Submit_Geofencing_Radius.png" alt="Submit Geofencing Radius">
+      <img src="img/Remote_Signature_Email_Template_Settings_Step_3.png" alt="Remote Signature Email Template Settings Step 3">
    </p>
 
-4. Click "OK" and the new check in distance has been saved successfully.<br>
+4. Tick the box if you wish to use the same template for other digital forms.<br>
 
    <p align="center">
-      <img src="img/Save_Geofencing_Radius.png" alt="Save Geofencing Radius">
+      <img src="img/Remote_Signature_Email_Template_Settings_Step_4.png" alt="Remote Signature Email Template Settings Step 4">
    </p>
 
-5. Click on the "SUBMIT" button.<br>
+5. Click on the "Save" button.<br>
 
    <p align="center">
-      <img src="img/Submit_Geofencing_Radius.png" alt="Submit Geofencing Radius">
+      <img src="img/Remote_Signature_Email_Template_Settings_Step_5.png" alt="Remote Signature Email Template Settings Step 5">
    </p>
 
-6. Click "OK" and the new check in distance has been saved successfully.<br>
+6. Click "OK" and the new remote signature email template has been saved successfully.<br>
 
    <p align="center">
-      <img src="img/Save_Geofencing_Radius.png" alt="Save Geofencing Radius">
+      <img src="img/Remote_Signature_Email_Template_Settings_Step_6.png" alt="Remote Signature Email Template Settings Step 6">
    </p>
