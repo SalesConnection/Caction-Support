@@ -45,7 +45,7 @@
        <img src="img/Notification_Settings_in_UAC.png" alt="Notification Settings in UAC">
      </p>
 
-  8. Untick the column that the user wishes not to receive the notifications from it. For example, untick all the notifications for jobs.<br>
+  8. Click the boxes next to the notifications you don't want to see. For example, deselect all the job notifications.<br>
 
      <p align="center">
        <img src="img/Untick_Notification.png" alt="Untick Notifcation">
