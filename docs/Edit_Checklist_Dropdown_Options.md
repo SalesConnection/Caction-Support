@@ -1,10 +1,10 @@
 ## ✍🏻 How to Edit Checklist Dropdown Options?
 
-### If you want to edit the Checklist below
+### How to add an item or option in the checklist of a digital form? (As shown below)
 
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_explain.png">
-   </p>
+   </p><br><br>
 
 
 1. For example, if you want to edit checklist dropdown options for Service Sheet. 
