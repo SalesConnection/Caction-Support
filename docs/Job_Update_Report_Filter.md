@@ -7,7 +7,7 @@
      <img src="img/Job_Update_Report_Filter_Step_1.png">
    </p><br>
 
-2. Click the Search Bar which is says “Filter Table Record”.
+2. Click the Search Bar which is says “Filter Table Record”, and the filter will appear as shown below.
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Step_2.png">
@@ -33,7 +33,7 @@
 
   Note: After selecting “Not Contains” and all the filter values, the results will show all relevant results except the selected filter values.<br>
   
-6. For example, select "In Progress".
+6. For example, if “In Progress” is the selected filter value, all relevant jobs will be shown. 
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Step_6.png">
