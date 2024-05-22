@@ -8,11 +8,11 @@
  
 <a id="section1"></a>
  
- - **Desktop Version**:
+ - **Mobile App**:
 
-  1. At "Sales Connection" login page, click “Forgot your password?
+  1. At "Sales Connection" Schedule page, click the add button.
 
      <p align="center">
-       <img src="img/Reset_Passsword_Using_Desktop_Step_1.png" alt="Reset Password - Step 1">
+       <img src="img/App_Personal_Reminder_Step_1" alt="App Personal Reminder Step 1">
      </p><br>
      
