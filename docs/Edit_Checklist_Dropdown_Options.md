@@ -8,7 +8,7 @@
    </p><br><br>
 
 
-**Note: To add an option in an existing dropdown, jump to step 6**<br>
+*Note: To add an option in an existing dropdown, jump to step 6<br>
 **Navigate to the section by clicking it.**<br>
 
 - [Add an option in an existing dropdown](#section1)<br>
