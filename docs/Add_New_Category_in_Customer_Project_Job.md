@@ -9,13 +9,13 @@
   2. Click "Project".<br>
 
      <p align="center">
-       <img src="img/Project_Category_Sidebar.png" alt="Project Category Sidebar">
+       <img src="img/Project_In_Wizard.png" alt="Project in Wizard">
      </p>
      
   3. Click "Category".<br>
 
      <p align="center">
-       <img src="img/Project_Category_Sidebar.png" alt="Project Category Sidebar">
+       <img src="img/Project_Category_In_Wizard.png" alt="Project Category in Wizard">
      </p>
   
   4. Click on the "Add New Category" button.<br>
@@ -40,7 +40,7 @@
   7. Remember to click the "Save" button to save the new category.<br>
 
      <p align="center">
-       <img src="img/New_Project_Category_Save_Changes_Button.png" alt="New Project Category Save Changes Button">
+       <img src="img/New_Project_Category_Save_Button.png" alt="New Project Category SaveS Button">
      </p>
 
   8. Click "OK" and the new project category has been saved successfully.<br>
