@@ -48,7 +48,8 @@
 
   **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
   
-  If you want to add more users, contact us to upgrade your subscription plan.<br><br><br><br>
+  If you want to add more users, contact us to upgrade your subscription plan.<br>
+  **Contact Us:** <br><br><br>
 
 **Related Article**<br>
 - [How to Assist My New User to Login?](New_User_Login.md)
