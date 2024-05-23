@@ -27,11 +27,11 @@
 
   5. Fill in the details of the new project status.<br>
      a. The details include:<br>
-        - Name<br>
-        - Edit Access<br>
-        - Status Modification<br>
-        - Digital Form Creation<br>
-        - Status Type<br>
+        - Name (E.g. Contract Expired)<br>
+        - Edit Access (E.g. Once the status is "Contract Expired", only the user who has the access can edit the project.)<br>
+        - Status Modification (E.g. Once the status is "Contract Expired", only the user who has the access can modify the status.)<br>
+        - Digital Form Creation (E.g. Once the status is "Contract Expired", only the user who has the access can create digital form.)<br>
+        - Status Type (E.g. In progress)<br>
         - Color (Choose one to represent the status in the system)<br>
 
      <p align="center">
@@ -44,7 +44,7 @@
        <img src="img/New_Project_Status_Submit_Button.png" alt="New Project Status Submit Button">
      </p>
 
-  7. Remember to click the "Save Changes" button to save the new status.<br>
+  7. Remember to click the "Save" button to save the new status.<br>
 
      <p align="center">
        <img src="img/New_Project_Status_Save_Button.png" alt="New Project Status Save Button">
