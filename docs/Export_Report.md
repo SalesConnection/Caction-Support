@@ -1,4 +1,14 @@
 ## How to Pull Out Job/Project/Form Report?
+**Difference Between CSV, Excel and PDF**
+| Feature | CSV | Excel | PDF |
+|---------|-----|-------|-----|
+| Type | Plain text file | Spreadsheet file | Fixed-format document |
+| Use | Data transfer | Data analysis and reporting | Final reports and sharing |
+| Best For | - Data exchange | - Complex analysis | - Formal presentations |
+|  | - Simple data storage | - Detailed reports | - Sharing without changes |
+
+<br>
+
 **Navigate to the section by clicking it.**<br>
 
 - [Export as CSV](#section1)<br>
