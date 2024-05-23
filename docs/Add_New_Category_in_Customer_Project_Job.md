@@ -3,7 +3,7 @@
   1. For example, if you wish to add new category in Project. At the desktop site's navigation bar, go to Wizard.<br>
 
      <p align="center">
-       <img src="img/Project_Category_Sidebar.png" alt="Project Category Sidebar">
+       <img src="img/Wizard_Sidebar.png" alt="Wizard Sidebar">
      </p>
 
   2. Click "Project".<br>
