@@ -1,6 +1,7 @@
 ## How to Assist My New User to Login?
   **Desktop Version**<br>
   1. Click "Verify Email" through a **verification email** sent from admin@salesconnection.my to verify it.<br>
+     *Note: If you can't find the email, please try to look spam folder.<br>
 
      <p align="center">
        <img src="img/Email_New_User_Received.png" alt="Verification Email" width="800" height="350">
