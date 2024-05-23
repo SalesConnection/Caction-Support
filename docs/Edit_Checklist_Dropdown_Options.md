@@ -10,7 +10,7 @@
 
 **Note: To add an option in an existing dropdown, click the link below**<br>
 
-- [Add an option in an existing dropdown](#section1)<br>
+[Add an option in an existing dropdown](#section1)<br>
 <br><br><br>
 
 1. For example, if you want to edit checklist dropdown options for Service Sheet. 
