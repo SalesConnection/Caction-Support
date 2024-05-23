@@ -1,7 +1,8 @@
 ## How Do I Add New Category in Customer/Project/Job?
     
   1. For example, if you wish to add new category in Project. At the desktop site's navigation bar, go to Wizard.<br>
-
+     **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
+     
      <p align="center">
        <img src="img/Wizard_Sidebar.png" alt="Wizard Sidebar">
      </p>
