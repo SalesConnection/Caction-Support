@@ -127,7 +127,7 @@
        <img src="img/Reset_Password_Using_Email_In_App_Step_9.png" alt="Reset Passsword Using Email in App Step 9" width="280" height="550">
      </p><br>    
 
-  10. Click "Login Now".
+  10. When you see this "Password Successfully Updated" prompt, it means that your password has been successfully updated.
 
       <p align="center">
         <img src="img/Reset_Password_Using_Email_In_App_Step_10.png" alt="Reset Passsword Using Email in App Step 10" width="280" height="550">
