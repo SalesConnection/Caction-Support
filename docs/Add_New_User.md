@@ -48,7 +48,7 @@
 
   **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
   
-  If you want to add more users, contact us through 012-2780122 to upgrade your subscription plan.
+  If you want to add more users, **contact us** through 012-2780122 to upgrade your subscription plan.
   <br><br><br>
 
 **Related Article**<br>
