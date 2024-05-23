@@ -19,38 +19,39 @@
 
 <a id="section1"></a>
 ## Deactivate a Resigned User
-### What will happen if I deactivate a user?
-- The user will not be able to log into (access) the system.<br>
-- All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br>
-- If a user account is deactivated, it won't be counted as one.<br><br>
+### What happens when a user is deactivated?
+- The user can't login to the system.<br>
+- The user's data will still stay in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br>
+- A deactivated user account is not counted as one.<br><br>
 
 ### How to deactivate a user?
 1. Go to desktop site navigation bar > User Management > User List.<br>
+   **Open User List Page Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
    *Note: Only certain admins can deactivate users.<br>
 
    <p align="center">
       <img src="img/User_List.png" alt="User List">
    </p>
    
-2. Navigate to the user you want to deactivate.<br>
+3. Navigate to the user you want to deactivate.<br>
 
    <p align="center">
       <img src="img/User_in_User_List.png" alt="User in User List">
    </p>
 
-3. Click on the "Green Tick" icon to deactivate the user.<br>
+4. Click on the "Green Tick" icon to deactivate the user.<br>
 
    <p align="center">
       <img src="img/Deactivate_Button.png" alt="Deactivate Button">
    </p>
 
-4. Click "Yes" to confirm your deactivation.<br>
+5. Click "Yes" to confirm your deactivation.<br>
 
    <p align="center">
       <img src="img/Confirm_Deactivate.png" alt="Confirm Deactivate">
    </p>
 
-5. Click "OK" and the user has been deactivated successfully.<br>
+6. Click "OK" and the user has been deactivated successfully.<br>
 
    <p align="center">
       <img src="img/Deactivate_Successful.png" alt="Deactivate Successful">
@@ -59,14 +60,15 @@
 
 <a id="section2"></a>
 ## ⚠ Delete a Resigned User
-### What will happen if I delete a user from the system?
-- The user will not be able to log into (access) the system.<br>
-- The user will be removed from all the items he was assigned to/created. (Assigned to/ Creator column will remove deleted user)<br>
-- The users’ jobs cannot be traced in the schedule and metrics overview pages.<br>
-*Note: All updates, comments, and check-ins/outs of the deleted user will remain in the system.<br><br>
+### What happens when a user is deleted from the system?
+- The user can't login to the system.<br>
+- The user is removed from all the tasks they were assigned to or created.<br>
+- The users’ jobs won't appear in the schedule and metrics overview pages.<br>
+*Note: All updates, comments, and check-ins/outs by the deleted user will stay in the system.<br><br>
 
 ### How to delete a user?
 1. Go to desktop site navigation bar > User Management > User List.<br>
+   **Open User List Page Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
    *Note: Only certain admins can delete users.<br>
 
    <p align="center">
@@ -101,13 +103,14 @@
 
 <a id="section3"></a>
 ## ⚠ Change to a New User
-### What will happen if I change the resigned user to a new user from the system?
-- All the items the resigned user was assigned to/created will be under the new user.<br>
-- The resigned user will not be able to log into (access) the system.<br>
-- All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br><br>
+### What happens if I replace a resigned user with a new user in the system?
+- The resigned user will no longer have the system access.<br>
+- The new user will have all items previously assigned to or created by the resigned user.<br>
+- **All historical data** of the resigned user will be **overwritten** by the new user (e.g. Assigned to/ Creator columns, job schedule, metrics, etc.)<br><br>
 
 ### How to change to a new user?
 1. Go to desktop site navigation bar > User Management > User List.<br>
+   **Open User List Page Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
    *Note: Only certain admins can deactivate users.<br>
 
    <p align="center">
@@ -126,7 +129,8 @@
       <img src="img/Edit_Button.png" alt="Edit Button">
    </p>
 
-4. Enter the new user details by deleting the original details.<br>
+4. Replace the original details with the new user's information.<br>
+   
 
    <p align="center">
       <img src="img/Change_User_Details.png" alt="Change User Details">
