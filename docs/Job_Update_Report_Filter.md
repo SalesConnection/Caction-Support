@@ -7,7 +7,7 @@
      <img src="img/Job_Update_Report_Filter_Step_1.png">
    </p><br>
 
-2. Click the Search Bar which is says “Filter Table Record”, and the filter will appear as shown below.
+2. Click the "Filter Table Record" in the Search Bar, and the filter will show up as displayed below.
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Step_2.png">
