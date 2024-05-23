@@ -58,9 +58,7 @@
     <img src="img/How_to_edit_checklist_dropdown_options_step_8.png">
    </p>
 
-9. Click the “Tick” icon if you wish to make the option become default, where in this case “Moderate” will be the preselected option every time.<br>
-
-   If you don’t wish to have any preselected option, can just untick all options.<br>
+9. If you want to set "Moderate" as the default option, click the "tick" icon.<br>
    
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_9.png">
