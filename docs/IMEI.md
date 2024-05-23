@@ -1,6 +1,6 @@
 Version 1.0<br>
-Created: 21 May 2024<br>
-Updated: 21 May 2024<br>
+Created: 23 May 2024<br>
+Updated: 23 May 2024<br>
 ## 📱 I Can't Login to My Other Phone. Why?
 
 ### Scenarios below you might face now:
