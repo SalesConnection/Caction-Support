@@ -34,6 +34,13 @@
      <p align="center">
         <img src="img/Save_Control_Settings.png" alt="Save Control Settings">
      </p>
+
+  6. Now, you can see the "Assisted Check-out" button here.<br>
+     **Open Business Map Overview Page:** [https://salesconnection.my/BusinessMap](https://salesconnection.my/BusinessMap)<br>
+
+     <p align="center">
+        <img src="img/Assisted_Check_Out_Desktop.png" alt="Assisted Check Out Desktop">
+     </p>
   <br><br>
 
   **Related Articles**<br>
