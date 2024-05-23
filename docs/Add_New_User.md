@@ -20,7 +20,7 @@
         - Telephone<br>
         - Email (optional if the user only uses a mobile device)<br>
         - Staff Category<br>
-        - Account type<br>
+        - Account Type<br>
         - Color (Choose one to represent the user in the system)<br>
         
       b. Click “Submit Form” to finish the process.<br>
