@@ -21,7 +21,7 @@
      <img src="img/How_to_Comment_With_Photo_Step_3.png" alt="How to Comment with photo Using App Step 3" width="280" height="550">
    </p><br>
 
-4. Select the photo that you want to send
+4. Select the photo that you want to send.
 
    <p align="center">
      <img src="img/How_to_Comment_With_Photo_Step_4.png" alt="How to Comment with photo Using App Step 4" width="280" height="550">
@@ -33,7 +33,7 @@
      <img src="img/How_to_Comment_With_Photo_Step_5.png" alt="How to Comment with photo Using App Step 5" width="280" height="550">
    </p><br>
 
-6. Click the tick icon to confirm sending this photo in the comment
+6. Click the tick icon to confirm sending this photo in the comment.
 
    <p align="center">
      <img src="img/How_to_Comment_With_Photo_Step_6.png" alt="How to Comment with photo Using App Step 6" width="280" height="550">
