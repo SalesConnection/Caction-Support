@@ -90,14 +90,21 @@ Updated: 23 May 2024<br>
   3. Enter the **registered** email with the **correct** password.<br>
 
      <p align="center">
-       <img src="img/Email_Login_Details.png" alt="Email Login Details" width="280" height="550">
+       <img src="img/App_Email_Login_Details.png" alt="Email Login Details" width="280" height="550">
      </p>
 
-  4. Click the "Login" button to login.<br>
+  4. Remember to tick "Remember Me" if the phone is owned by you.
 
      <p align="center">
-       <img src="img/Email_Login.png" alt="Email Login" width="280" height="550">
+       <img src="img/App_Email_Login_Step_4.png" alt="Email Login" width="280" height="550">
      </p>
+
+  5. Click "LOGIN" to login  to your account.
+
+     <p align="center">
+       <img src="img/App_Email_Login_Step_5.png" alt="Email Login" width="280" height="550">
+     </p>
+
 <br><br><br>
 
 **Related Article**
