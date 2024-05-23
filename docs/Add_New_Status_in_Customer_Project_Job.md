@@ -7,20 +7,25 @@
        <img src="img/Wizard_Sidebar.png" alt="Wizard Sidebar">
      </p>
   
-  2. For example, if you wish to add new status in Project. At the desktop site's navigation bar, go to Company Settings > Project Settings > Project Status.<br>
+  2. Click "Project".<br>
 
      <p align="center">
-       <img src="img/Project_Status_Sidebar.png" alt="Project Status Sidebar">
+       <img src="img/Project_In_Wizard.png" alt="Project in Wizard">
+     </p>
+     
+  3. Click "Status".<br>
+
+     <p align="center">
+       <img src="img/Project_Status_In_Wizard.png" alt="Project Status in Wizard">
      </p>
 
-  3. Click on the "Add New Status" button.<br>
-     **Add New Project Status Here:** [https://salesconnection.my/settings/StatusList?type=dssecond](https://salesconnection.my/settings/StatusList?type=dssecond)<br>
+  4. Click on the "Add New Status" button.<br>
 
      <p align="center">
        <img src="img/Add_New_Project_Status_Button.png" alt="Add New Project Status Button">
      </p>
 
-  4. Fill in the details of the new project status.<br>
+  5. Fill in the details of the new project status.<br>
      a. The details include:<br>
         - Name<br>
         - Edit Access<br>
@@ -33,19 +38,19 @@
        <img src="img/New_Project_Status_Name.png" alt="New Project Status Name">
      </p>
 
-  5. Click the "Submit" button.<br>
+  6. Click the "Submit" button.<br>
 
      <p align="center">
        <img src="img/New_Project_Status_Submit_Button.png" alt="New Project Status Submit Button">
      </p>
 
-  6. Remember to click the "Save Changes" button to save the new status.<br>
+  7. Remember to click the "Save Changes" button to save the new status.<br>
 
      <p align="center">
-       <img src="img/New_Project_Status_Save_Changes_Button.png" alt="New Project Status Save Changes Button">
+       <img src="img/New_Project_Status_Save_Button.png" alt="New Project Status Save Button">
      </p>
 
-  7. Click "OK" and the new project status has been saved successfully.<br>
+  8. Click "OK" and the new project status has been saved successfully.<br>
 
      <p align="center">
        <img src="img/New_Project_Status_Save.png" alt="New Project Status Save">
