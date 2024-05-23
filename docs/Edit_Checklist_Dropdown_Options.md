@@ -2,10 +2,17 @@
 
 ### How to add an item or option in the checklist of a digital form? (As shown below)
 
+   
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_explain.png">
    </p><br><br>
 
+
+**Note: To add an option in an existing dropdown, jump to step 6**<br>
+**Navigate to the section by clicking it.**<br>
+
+- [Add an option in an existing dropdown](#section1)<br>
+<br><br><br>
 
 1. For example, if you want to edit checklist dropdown options for Service Sheet. 
    <br>
@@ -39,6 +46,8 @@
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_5.png">
    </p>
+
+<a id="section1"></a>
 
 6. Click the "+ Manage Items".<br>
 
