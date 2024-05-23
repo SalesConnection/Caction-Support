@@ -3,7 +3,7 @@
     
 **Mobile:**<br>
   
-1. In the "Schedule" Page, 
+1. In the "Schedule" Page, click on the job that you want to comment on.
 
      <p align="center">
        <img src="img/How_to_Comment_With_Photo_Step_1.png" alt="How to Comment with photo Using App Step 1" width="280" height="550">
@@ -45,7 +45,7 @@
      <img src="img/How_to_Comment_With_Photo_Step_7.png" alt="How to Comment with photo Using App Step 7" width="280" height="550">
    </p><br>
 
-8. Write yor comment.
+8. Write your comment.
 
    <p align="center">
      <img src="img/How_to_Comment_With_Photo_Step_8.png" alt="How to Comment with photo Using App Step 8" width="280" height="550">
