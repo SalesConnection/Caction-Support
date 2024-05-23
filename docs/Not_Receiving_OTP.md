@@ -3,6 +3,7 @@
 *Note: Please ensure that you already wait for at least 5 mins for the "OTP Code". If you still not receiving it, please contact admin to perform further action.
 
   1. To generate "OTP Code" for users, go to User Management > User List.<br>
+     **Open User List Page Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
      *Note: Only certain admins can generate OTP for users.
 
      <p align="center">
