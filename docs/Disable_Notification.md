@@ -62,7 +62,8 @@
       <p align="center">
         <img src="img/Disable_Notification_Done.png" alt="Disable Notification Done">
       </p>
-     
+
+  *Note: You can liaise with the consultant to get suggestions on which notification should be kept.<br>
 <br><br><br>
 
 **Related Articles**<br>
