@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 23 May 2024<br>
+Updated: 23 May 2024<br>
 ## How to Change Account Password?
 
 **Navigate to the section by clicking it.**<br>
