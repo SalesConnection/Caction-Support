@@ -5,15 +5,15 @@
   1. Bad Internet Connnection.<br>
 
      a. Is the internet connection **strong** enough?<br>
-  &emsp;If the internet connection is weak, please contact to another network (e.g. colleague's mobile hotspot) and try again.<br>
+  &emsp;If your internet connection is weak, consider connecting to a different network, such as colleagues's mobile hotspot, and then try again.<br>
 
      b. Is the internet speed **fast** enough?<br>
-  &emsp;Search for any internet speed testing website and make sure that the internet speed is **more than 25 Mbps**.<br><br>
+  &emsp;You can verify this by using any internet speed testing website. Ensure that then internet speed is **above 25 Mbps**.<br><br>
 
-  2. Haven't refresh the page after your updates.<br>
+  2. The page may not have been refreshed after your updates.<br>
 
-     a.  Your admin and other team members haven't refresh the page after your updates.<br>
-   &emsp;You can ask your admin and other team members to refresh their page in order for them to see your updates if they haven't received them.
+     a.  Your admin and other team members may not have refreshed the page after your updates.<br>
+   &emsp;If they haven't received your updates, ask your admin and other team members to refersh their page.
 
 <br><br><br>
 
