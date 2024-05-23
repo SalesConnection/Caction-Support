@@ -20,8 +20,7 @@
         2. Is the internet speed **fast** enough?<br>
            Search for any internet speed testing website and make sure that the internet speed is **more than 25Mbps**.<br>
      
-     b. Contact Sales Connection's support team.<br>
-        &emsp;Give the information such as account details, happen frequency and anyone else from the company facing the same issue.<br>
+     b. Contact the Sales Connection's support team and provide information such as account details, when the issue occurred, and a screenshot of the error page. The information will assist the team in investigating the problem more efficiently.<br>
 
 <br><br><br>
 
