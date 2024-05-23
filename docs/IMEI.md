@@ -40,4 +40,8 @@ Updated: 23 May 2024<br>
    <p align="center">
      <img src="img/IMEI_allow.png" alt="IMEI Allow">
    </p>
+<br><br><br>
+
+**Related Article**
+- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
 
