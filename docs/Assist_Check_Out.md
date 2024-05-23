@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 23 May 2024<br>
+Updated: 23 May 2024<br>
 ## 🚪 I Forgot to Check Out, How?
 
 ### Scenarios below will need assist check out:
