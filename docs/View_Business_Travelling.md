@@ -50,7 +50,7 @@
       <img src="img/Business_Travel_Result.png" alt="Where to view Business Traveling Result">
    </p>
 
-### What is the definition between Response Time and Duration? 
+### What is the definition of the Business Travel's terms?
 
 |   Term  | Definition |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
