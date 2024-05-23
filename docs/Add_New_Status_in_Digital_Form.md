@@ -22,7 +22,7 @@
   4. Fill in the details of the new "Delivery Order" status.<br>
      a. The details include:<br>
         - Name<br>
-        - Edit Access<br>
+        - Edit Access ()<br>
         - Status Modification<br>
         - Status Type<br>
         - Able To Email/Pdf<br>
