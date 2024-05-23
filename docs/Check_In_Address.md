@@ -4,7 +4,14 @@
 
   1. If staff **cannot** or **forgot** to check out from the previous task, what to do?<br>
   2. User cannot check in to the next task.<br><br>
-  
+
+**Navigate to the section by clicking it.**<br>
+
+- [Staff Able to Edit Job](#section1)<br>
+- [Staff Not Able to Edit Job](#section2)
+<br><br><br>
+
+<a id="section1"></a>
 ### What To Do When Face This Problem?
 
   **If staff be able to edit the job, follow the steps below.**<br>
@@ -113,6 +120,7 @@
   *Note: You can choose to delete the previous address if the address is not used anymore.
 <br><br>
 
+<a id="section2"></a>
   **If staff not be able to edit the job, follow the steps below.**<br>
   *Note: Only certain admins can perform this action.<br>
   1. To solve this problem, go to the desktop site navigation bar > Business Management > Schedule > Job Schedule.<br>
