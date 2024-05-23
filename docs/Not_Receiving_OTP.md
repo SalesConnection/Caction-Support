@@ -1,4 +1,4 @@
-## I can’t receive the OTP to log in on my phone. How do I log in?
+## My Staff Did Not Receive Their OTP. What Should I Do?
 
 *Note: Please ensure that you already wait for at least 5 mins for the "OTP Code". If you still not receiving it, please contact admin to perform further action.
 
