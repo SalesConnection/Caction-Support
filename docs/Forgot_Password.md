@@ -133,7 +133,7 @@
         <img src="img/Reset_Password_Using_Email_In_App_Step_10.png" alt="Reset Passsword Using Email in App Step 10" width="280" height="550">
       </p><br>        
 
-  11. Now, you need to go back to Sales Connection app, 
+  11. Now, you need to go back to Sales Connection app, and use your new password to login.
 
       
 
