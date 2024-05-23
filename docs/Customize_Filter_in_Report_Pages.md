@@ -1,5 +1,5 @@
 
-## ❤ How to Set Customized Favourite Filter in Report Pages?
+## ❤ How to Set Up the Column View in the Report Page?
 
 **Desktop site:**<br>
 
@@ -34,26 +34,26 @@
      <img src="img/How_to_Customize_Filter_in_Report_Step_5.png">
    </p><br>
 
-6. This is the result.
-   
+6. This result will then be shown.
+
    <p align="center">
      <img src="img/How_to_Customize_Filter_in_Report_Result.png">
    </p><br>
 
 
-7. You can click the "Column Group 2" button if you want to choose others custom table column display.
+8. You can click the "Column Group 2" button if you want to choose others custom table column display.
 
    <p align="center">
      <img src="img/How_to_Customize_Filter_in_Report_Step_7.png">
    </p><br>
 
-8. Choose the Custom Table Column Display based on your own preference.
+9. Choose the Custom Table Column Display based on your own preference.
 
    <p align="center">
      <img src="img/How_to_Customize_Filter_in_Report_Step_8.png">
    </p><br>
 
-9. The results will then be shown.
+10. The results will then be shown.
 
    <p align="center">
      <img src="img/How_to_Customize_Filter_in_Report_Result_2.png">
