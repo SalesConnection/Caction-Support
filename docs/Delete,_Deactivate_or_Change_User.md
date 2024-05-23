@@ -130,7 +130,13 @@
    </p>
 
 4. Replace the original details with the new user's information.<br>
-   
+   a. The details include:<br>
+        - Name<br>
+        - Telephone<br>
+        - Email (optional if the user only uses a mobile device)<br>
+        - User Group<br>
+        - Account Type<br>
+        - Staff Category<br>
 
    <p align="center">
       <img src="img/Change_User_Details.png" alt="Change User Details">
