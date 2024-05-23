@@ -3,9 +3,9 @@
 | Feature | CSV | Excel | PDF |
 |---------|-----|-------|-----|
 | Type | Plain text file | Spreadsheet file | Fixed-format document |
-| Use | Data transfer | Data analysis and reporting | Final reports and sharing |
-| Best For | - Data exchange | - Complex analysis | - Formal presentations |
-|  | - Simple data storage | - Detailed reports | - Sharing without changes |
+| Use | Data backup | Data analysis and reporting | Final reports and sharing |
+| Best For | - Simple data storage | - Complex analysis | - Formal presentations |
+|  | - Data backup | - Detailed reports | - Sharing finalize report |
 
 <br>
 
