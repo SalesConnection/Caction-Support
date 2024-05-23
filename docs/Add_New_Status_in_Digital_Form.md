@@ -24,9 +24,9 @@
         - Name (E.g. Cancelled)<br>
         - Edit Access (E.g. Once the status is "Cancelled", only the user who has the access can edit the "Delivery Order".)<br>
         - Status Modification (E.g. Once the status is "Cancelled", only the user who has the access can modify the status.)<br>
-        - Status Type<br>
-        - Able To Email/Pdf<br>
-        - Customer Feedback<br>
+        - Status Type (E.g. Cancelled/Postponed/Lost)<br>
+        - Able To Email/Pdf (E.g. If "PDF only" is chosen, user can only send the "Delivery Order" through PDF.)<br>
+        - Customer Feedback (E.g. If “No” option is chosen, this "Delivery Order" will not have the customer feedback section.)<br>
         - Color (Choose one to represent the status in the system)<br>
 
      <p align="center">
