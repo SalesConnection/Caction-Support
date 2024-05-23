@@ -1,12 +1,12 @@
 
 ##  What is user type? 
 
-User type determines the access a user has to the data in the system. For example, an Admin account user has access to all subordinate data (their schedules, jobs, etc), while a Staff account user does not. <br>
+User type sets what a user can see in the system. For instance, an Admin can see everything, including others' schedules and jobs, but a Staff can't. <br>
 
 There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User.<br>
 
 <p align="center">
-   <img src="img/User_Type.png" alt="User Type">
+   <img src="img/User_Type.jpg" alt="User Type">
 </p>
 
 <br>
@@ -53,5 +53,6 @@ each team, etc. Note that a user can be in more than one Staff Category and a us
 
 <br><br><br>
 
-**Related Article**
-[Data Level Structure](Data_Level_Structure.md)
+**Related Article**<br>
+-[How to add staff category?](Add_New_User_Category.md)<br>
+-[Data Level Structure](Data_Level_Structure.md)
