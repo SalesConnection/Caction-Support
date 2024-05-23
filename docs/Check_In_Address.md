@@ -69,7 +69,7 @@
         <img src="img/Check_In_Address_Mobile_Step_9.png" alt="Check In Address Mobile Step 9">
      </p>
      
-  10. Click "SAVE" to save the correct check in address.<br>
+  10. Enter a proper location name and click "SAVE" to save the correct check in address.<br>
 
       <p align="center">
         <img src="img/Check_In_Address_Mobile_Step_10.png" alt="Check In Address Mobile Step 10">
