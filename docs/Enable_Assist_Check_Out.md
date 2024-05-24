@@ -70,5 +70,5 @@ Updated: 24 May 2024<br>
       </p>
   <br><br>
 
-  **Related Articles**<br>
+**Related Articles**<br>
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
