@@ -25,6 +25,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
 
 
+### Others
+- [How to comment with photo / attachment?](Comment_With_Photo.md)
+
+  
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
 
