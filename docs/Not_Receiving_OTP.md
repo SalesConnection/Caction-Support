@@ -56,3 +56,4 @@ Updated: 24 May 2024<br>
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [How to Change Account Password?](Change_Account_Password.md)
+- [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
