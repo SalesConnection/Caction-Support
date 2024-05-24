@@ -1,4 +1,6 @@
-
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## Where can I view my team’s travelling for the month?
 
 1. For example, you want to view your team's traveling for the month. Go to desktop site Main Navigation > Business Map > Business Travel (Table) <br> 
@@ -69,4 +71,3 @@
   **Related Articles**<br>
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
-- [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
