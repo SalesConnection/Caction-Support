@@ -27,6 +27,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
   
 
+### Dropdown
+- [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
+
+
 ### Access Control
 - [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
 
