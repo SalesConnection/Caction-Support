@@ -1,4 +1,6 @@
-
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## 👩‍💼 How to Add New User?
     
   1. At the desktop site's navigation bar, go to User Management > User List.<br>
@@ -53,4 +55,3 @@
 
 **Related Article**<br>
 - [How to Assist My New User to Login?](New_User_Login.md)
-- [How to Add New User Category?](Add_New_User_Category.md)
