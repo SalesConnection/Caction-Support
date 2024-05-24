@@ -3,6 +3,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ## FAQs
 ### Login
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Assist My New User to Login?](New_User_Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 
 
