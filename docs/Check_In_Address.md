@@ -164,7 +164,7 @@
      </p>
      
   8. Let your staff know to check in at the precise location of the customer as usual. After they have checked in at the customer's site, you can continue to follow the steps by clicking the link below.<br>
-     [Continue Here After Staff Check In](#section1)
+     [Continue Here After Staff Check In](#section3)
 
      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_8.png" alt="Check In Address Desktop Step 8">
@@ -194,7 +194,7 @@
         <img src="img/Check_In_Address_Desktop_Step_12.png" alt="Check In Address Desktop Step 12">
       </p>
 
-      <a id="section1"></a>
+      <a id="section3"></a>
   13. After staff performed check in action, admin can go to the desktop site navigation bar > Business Management > Customer List.<br>
 
       <p align="center">
