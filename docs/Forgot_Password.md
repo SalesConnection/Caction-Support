@@ -11,7 +11,7 @@
  
  - **Desktop Version**:
 
-  1. At "Sales Connection" login page, click “Forgot your password?
+  1. At "Sales Connection" login page, click "Forgot your password"?
 
      <p align="center">
        <img src="img/Reset_Passsword_Using_Desktop_Step_1.png" alt="Reset Password - Step 1">
@@ -29,7 +29,7 @@
        <img src="img/Reset_Passsword_Using_Desktop_Step_3.png" alt="Reset Password - Step 3">
      </p><br>
      
-  4. Click the hyperlink, "here".
+  4. Click the hyperlink - "here".
 
      <p align="center">
        <img src="img/Reset_Passsword_Using_Desktop_Step_4.png" alt="Reset Password - Step 4">
@@ -85,7 +85,7 @@
      <img src="img/Reset_Password_Using_Email_In_App_Step_2.png" alt="Reset Passsword Using Email in App Step 2" width="280" height="550">
    </p><br>
 
-3. Click "Forgot Password".
+3. Click "Forgot Password?".
 
    <p align="center">
      <img src="img/Reset_Password_Using_Email_In_App_Step_3.png" alt="Reset Passsword Using Email in App Step 3" width="280" height="550">
@@ -127,7 +127,7 @@
      <img src="img/Reset_Password_Using_Email_In_App_Step_9.png" alt="Reset Passsword Using Email in App Step 9" width="280" height="550">
    </p><br>    
 
-10. When you see this "Password Successfully Updated" prompt, it means that your password has been successfully updated.
+10. When you see this "Password Updated" prompt, it means that your password has been successfully updated.
 
     <p align="center">
       <img src="img/Reset_Password_Using_Email_In_App_Step_10.png" alt="Reset Passsword Using Email in App Step 10" width="280" height="550">
@@ -135,13 +135,14 @@
 
 11. Now, you need to go back to Sales Connection app, and use your new password to login.<br>
  
- If you dont' know how to login by Using Email in App, please click here: [https://salesconnection.github.io/Sales-Connection-Support/Login.html#section3](https://salesconnection.github.io/Sales-Connection-Support/Login.html#section3)<br><br>
-
 12. Remember to tick “Remember Me” if the phone is owned by you.
 
     <p align="center">
       <img src="img/Reset_Password_Using_Email_In_App_Step_12.png" alt="Reset Passsword Using Email in App Step 12" width="280" height="550">
     </p><br>    
+
+ If you dont' know how to login by Using Email in App, please click here: [https://salesconnection.github.io/Sales-Connection-Support/Login.html#section3](https://salesconnection.github.io/Sales-Connection-Support/Login.html#section3)<br><br>
+
      
 ## I tried to click forget password and entered my email/phone number, but I didn’t receive reset password email, how?
 
