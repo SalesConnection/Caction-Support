@@ -85,17 +85,17 @@
       <img src="img/Reset_Password_Using_Email_In_App_Step_2.png" alt="Reset Passsword Using Email in App Step 2" width="280" height="550">
    </p><br>
 
- 3. Click "Forgot Password".
+  3. Click "Forgot Password".
 
-    <p align="center">
+     <p align="center">
       <img src="img/Reset_Password_Using_Email_In_App_Step_3.png" alt="Reset Passsword Using Email in App Step 3" width="280" height="550">
-    </p><br>
+     </p><br>
  
- 4. Enter your email address.
+  4. Enter your email address.
 
-    <p align="center">
+     <p align="center">
       <img src="img/Reset_Password_Using_Email_In_App_Step_4.png" alt="Reset Passsword Using Email in App Step 4" width="280" height="550">
-    </p><br>
+     </p><br>
  
   5. Click "SUBMIT".
 
