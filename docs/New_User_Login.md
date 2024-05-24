@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## How to Assist My New User to Login?
   **Desktop Version**<br>
   1. Click "Verify Email" through a **verification email** sent from admin@salesconnection.my to verify it.<br>
@@ -59,8 +62,6 @@
      <br><br><br>
   
 **Related Articles**<br>
-- [How to Add New User?](Add_New_User.md)
 - [How to Change Account Password?](Change_Account_Password.md)
 - [How to Login Using Mobile and Desktop?](Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
-- [I can’t receive the OTP to log in on my phone. How do I log in?](Not_Receiving_OTP.md)
