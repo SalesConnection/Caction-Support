@@ -25,14 +25,13 @@
        <img src="img/Add_New_Project_Status_Button.png" alt="Add New Project Status Button">
      </p>
 
-  5. Fill in the details of the new project status.<br>
-     a. The details include:<br>
-        - Name (E.g. Contract Expired)<br>
-        - Edit Access (E.g. Once the status is "Contract Expired", only the user who has the access can edit the project.)<br>
-        - Status Modification (E.g. Once the status is "Contract Expired", only the user who has the access can modify the status.)<br>
-        - Digital Form Creation (E.g. Once the status is "Contract Expired", only the user who has the access can create digital form.)<br>
-        - Status Type (E.g. In progress)<br>
-        - Color (Choose one to represent the status in the system)<br>
+  5. To add a new status for the Contract Expired Project, please follow these steps:<br>
+     a. **Name:** Assign a name to the status (E.g. Contract Expired).<br>
+     b. **Edit Access:** Define who can edit the Contract Expired Project when it's in this status (E.g. If the status is "Contract Expired", only specific users can make edits).<br>
+     c. **Status Modification:** Specify who can change the project's status (E.g. Only certain users can modify the project's status when it's "Contract Expired").<br>
+     d. **Digital Form Creation:** Specify who can create digital form for the project when it's in this status (E.g. If the status is "Contract Expired", only specific users can create digital form).<br>
+     e. **Status Type:** Categorize the status for more manageable system administration, For this example, you can select "Cancelled".<br>
+     f. **Color:** Pick a color to represent the status in the system for easy reference.<br>
 
      <p align="center">
        <img src="img/New_Project_Status_Name.png" alt="New Project Status Name">
