@@ -115,5 +115,10 @@ Updated: 24 May 2024<br>
 
    <p align="center">
      <img src="img/How_to_Upload_Attachment_In_Desktop_Result.png" alt="How to Upload Attachment in Desktop Step 7">
-   </p><br>
+   </p>
+   <br><br><br>
+
+**Related Articles**
+- [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
+
   
