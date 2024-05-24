@@ -32,7 +32,7 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User.
 <br> 
 <br>
 
-## What is the difference between Default, Allow Access, and Block Access on System Access Settings? 
+## What is the difference between Default, Allow Access, and Block Access on User Account Customization? 
 
 |    Default    | Based on the system’s default settings for different account types: Admin - Can create anything, Subadmin - Can create items under their department/teams, Staff - Cannot create Customer/Project/Job/Digital Form |
 | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
