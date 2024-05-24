@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## How to Adjust Geofencing Radius?
 
 1. To adjust the staff check in distance, go to the desktop site navigation bar > Company Settings > Staff Settings > Check-in Distance Settings.<br>
