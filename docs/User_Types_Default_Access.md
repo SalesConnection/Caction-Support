@@ -1,4 +1,6 @@
-
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ##  What is user type? 
 
 User type sets what a user can see in the system. For instance, an Admin can see everything, including others' schedules and jobs, but a Staff can't. <br>
