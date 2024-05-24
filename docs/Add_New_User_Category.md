@@ -44,6 +44,7 @@ Updated: 24 May 2024<br>
 
 
 
-**Related Article**<br>
-[How to Add New User?](Add_New_User.md)
+**Related Articles**<br>
+- [How to Add New User?](Add_New_User.md)
+- [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
 
