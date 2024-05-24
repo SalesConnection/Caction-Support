@@ -73,3 +73,4 @@ Updated: 24 May 2024<br>
 - [How to Login Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
+- [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
