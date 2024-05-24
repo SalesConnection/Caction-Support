@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## How Do I Delete/Deactivate a Resigned User or Change to a New User?
 
 **Differences between delete, deactivate and change user**
