@@ -31,6 +31,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
   
 
 ### Dropdown
+- [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options_in_Digital_Form.md)
 - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
 
 
