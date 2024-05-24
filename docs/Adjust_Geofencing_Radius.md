@@ -27,3 +27,8 @@ Updated: 24 May 2024<br>
    <p align="center">
       <img src="img/Save_Geofencing_Radius.png" alt="Save Geofencing Radius">
    </p>
+<br><br><br>
+
+**Related Articles**
+- [I Forgot to Check Out, How?](Assist_Check_Out.md)
+- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
