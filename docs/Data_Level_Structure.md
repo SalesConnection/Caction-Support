@@ -14,4 +14,8 @@ Updated: 24 May 2024<br>
 <p align="center">
    <img src="img/Advanced_Data_Level_Structure.png" alt="Advanced Data Level Structure">
 </p>
+<br><br><br>
+
+**Related Articles**
+- [User Type Default Access](User_Types_Default_Access.md)
 
