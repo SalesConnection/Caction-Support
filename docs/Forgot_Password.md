@@ -157,7 +157,7 @@
 <br><br><br>
 
 **Related Articles**<br>
--[How to login from phone number?](https://salesconnection.github.io/Sales-Connection-Support/Login.html#section2)<br>
--[How to Change Account Password?](Change_Account_Password.md)
+- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Change Account Password?](Change_Account_Password.md)
 
 
