@@ -1,4 +1,6 @@
-
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## 🔑 I forgot my password. How can I recover or reset it?
 
 **Navigate to the section by clicking it.**<br>
