@@ -48,6 +48,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
 - [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
+- [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 
   
 ## Features Knowledge 
