@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## I can't load the schedule page. Why?
 
 ### Here are the potential issues and solutions:
@@ -23,5 +26,5 @@
 
 <br><br><br>
 
-**Related Article**<br>
-[My updates are not received by my admin and other team menbers. Why?](Updates_Not_Received_by_Team_Members.md)
+**Related Articles**<br>
+- [My updates are not received by my admin and other team menbers. Why?](Updates_Not_Received_by_Team_Members.md)
