@@ -40,7 +40,7 @@
   7. Click on the "Save" button.<br>
 
      <p align="center">
-       <img src="img/SAve_Reminder_Button.png" alt="Save Reminder Button">
+       <img src="img/Save_Reminder_Button.png" alt="Save Reminder Button">
      </p>
 
   8. Choose which reminders you wish to change and click the "Save" button. In this example, Future reminders only is chosen.<br>
