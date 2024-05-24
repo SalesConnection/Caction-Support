@@ -19,33 +19,32 @@
        <img src="img/Add_New_DF_Status_Button.png" alt="Add New DF Status Button">
      </p>
 
-  4. Fill in the details of the new "Delivery Order" status.<br>
-     a. The details include:<br>
-        - Name (E.g. Cancelled)<br>
-        - Edit Access (E.g. Once the status is "Cancelled", only the user who has the access can edit the "Delivery Order".)<br>
-        - Status Modification (E.g. Once the status is "Cancelled", only the user who has the access can modify the status.)<br>
-        - Status Type (E.g. Cancelled/Postponed/Lost)<br>
-        - Able To Email/Pdf (E.g. If "PDF only" is chosen, user can only send the "Delivery Order" through PDF.)<br>
-        - Customer Feedback (E.g. If “No” option is chosen, this "Delivery Order" will not have the customer feedback section.)<br>
-        - Color (Choose one to represent the status in the system)<br>
+  4. To add a new status for the Delivery Order Form, please follow these steps:<br>
+     a. **Name:** Assign a name to the status (E.g. "Cancelled").<br>
+     b. **Edit Access:** Define who can edit the Delivery Order Form when it's in this status (E.g. If the status is "Cancelled", only specific users can make edits).<br>
+     c. **Status Modification:** Specify who can change the form's status (E.g. Only certain users can modify the form's status when it's "Cancelled").<br>
+     d. **Status Type:** Categorize the status for more manageable system administration. For this example, you can select "Cancelled".<br>
+     e. **Email/PDF Options:** Choose if the form can be emailed or converted to PDF (E.g. Select "PDF Only" if the form should only be sent as a PDF).<br>
+     f. **Customer Feedback:** Choose if you want a section for customer comments in this status (E.g. Pick "No" if you don't want a feedback section while in this status).<br>
+     g. **Color:** Pick a color to represent the status in the system for easy reference.<br>
 
      <p align="center">
        <img src="img/New_DF_Status_Name.png" alt="New DF Status Name">
      </p>
 
-  5. Click the "Submit" button.<br>
+  6. Click the "Submit" button.<br>
 
      <p align="center">
        <img src="img/New_DF_Status_Submit_Button.png" alt="New DF Status Submit Button">
      </p>
 
-  6. Remember to click the "Save Changes" button to save the new status.<br>
+  7. Remember to click the "Save Changes" button to save the new status.<br>
 
      <p align="center">
        <img src="img/New_DF_Status_Save_Changes_Button.png" alt="New DF Status Save Changes Button">
      </p>
 
-  7. Click "OK" and the new "Delivery Order" status has been saved successfully.<br>
+  8. Click "OK" and the new "Delivery Order" status has been saved successfully.<br>
 
      <p align="center">
        <img src="img/New_DF_Status_Save.png" alt="New DF Status Save">
