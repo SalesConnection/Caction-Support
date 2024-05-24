@@ -10,8 +10,12 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ### Check In/Check Out
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
-  
 
+
+### New User
+- [How to Add New User?](Add_New_User.md)
+
+  
 ### Password
 - [How to Change Account Password?](Change_Account_Password.md)
 
