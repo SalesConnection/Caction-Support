@@ -43,11 +43,11 @@ Updated: 16 May 2024<br>
 
 <a id="section1"></a>
   
-6. Click the expand button to add options.<br>
+  6. Click the expand button to add options.<br>
 
-   <p align="center">
-      <img src="img/How_to_add_dropdown_options_in_DF_step_6.png" alt="How to add dropdown options in DF step 6">
-   </p><br>
+     <p align="center">
+       <img src="img/How_to_add_dropdown_options_in_DF_step_6.png" alt="How to add dropdown options in DF step 6">
+     </p><br>
   
 7. Click "Add Options" to add options.<br>
 
