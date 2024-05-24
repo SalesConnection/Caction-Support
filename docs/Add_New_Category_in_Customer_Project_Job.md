@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## How Do I Add New Category in Customer/Project/Job?
     
   1. For example, if you wish to add new category in Project. At the desktop site's navigation bar, go to Wizard.<br>
@@ -49,9 +52,4 @@
      <p align="center">
        <img src="img/New_Project_Category_Save.png" alt="New Project Category Save">
      </p>
-     <br><br><br>
 
-**Related Articles**<br>
-- [How Do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)
-- [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
-- [How Do I Add New Category in Digital Form?](Add_New_Category_in_Digital_Form.md)
