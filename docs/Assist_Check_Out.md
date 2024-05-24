@@ -49,5 +49,9 @@ Updated: 23 May 2024<br>
         <img src="img/Assisted_Check_Out_Button_Mobile.png" alt="Assisted Check Out Button - Mobile" width="280" height="550">
      </p>
 
-  *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br><br><br>
+  *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).
+  
+  <br><br><br>
 
+**Related Articles**
+- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
