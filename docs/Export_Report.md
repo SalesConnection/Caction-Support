@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## How to Pull Out Job/Project/Form Report?
 **Difference Between CSV, Excel and PDF**<br>
 
@@ -129,5 +132,4 @@
 
 
 **Related Articles**<br>
-- [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options.md)
 - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
