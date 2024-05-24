@@ -47,6 +47,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
+- [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
 
   
 ## Features Knowledge 
