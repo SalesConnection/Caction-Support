@@ -54,5 +54,5 @@ each team, etc. Note that a user can be in more than one Staff Category and a us
 <br><br><br>
 
 **Related Article**<br>
--[How to add staff category?](Add_New_User_Category.md)<br>
--[Data Level Structure](Data_Level_Structure.md)
+- [How to add staff category?](Add_New_User_Category.md)<br>
+- [Data Level Structure](Data_Level_Structure.md)
