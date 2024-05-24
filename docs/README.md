@@ -24,6 +24,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
 
 
+## Features Knowledge 
+- [Data Level Structure](Data_Level_Structure.md)
 
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
