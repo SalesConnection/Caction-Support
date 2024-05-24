@@ -32,6 +32,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
 
 
+### Category
+- [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
+
+  
 ### Access Control
 - [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
 
