@@ -8,52 +8,51 @@
      </p>
 
   2. Click on the expand icon for the category.<br>
-     **Add User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add New User">
+       <img src="img/Expand_Button_For_Reminder.png" alt="Expand Button For Reminder">
      </p>
 
   3. Click "Project".<br>
 
      <p align="center">
-       <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+       <img src="img/Select_Project_For_Reminder.png" alt="Select Project For Reminder">
      </p>
 
   4. Click on the reminder that you wish to edit.<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add New User">
+       <img src="img/Select_Reminder_To_Edit.png" alt="Select Reminder to Edit">
      </p>
 
   5. Enter the new details for the reminder.<br>
 
      <p align="center">
-       <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+       <img src="img/New_Reminder_Details.png" alt="New_Reminder_Details">
      </p>
 
   6. For example, click on the expand button of "Time Type" and click "Day".<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add New User">
+       <img src="img/Change_Reminder_To_Day.png" alt="Change Reminder to Day">
      </p>
 
   7. Click on the "Modify" button.<br>
 
      <p align="center">
-       <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+       <img src="img/Modify_Reminder_Button.png" alt="Modify Reminder Button">
      </p>
 
   8. Click "Update Existing Reminders".<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add New User">
+       <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
      </p>
 
   9. Click "Only Untriggered Reminders" and the reminder's condition is edited to one day before the project ends.<br>
 
      <p align="center">
-       <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+       <img src="img/Only_Untriggered_Reminders.png" alt="Only Untriggered Reminders">
      </p>
      <br>
 
