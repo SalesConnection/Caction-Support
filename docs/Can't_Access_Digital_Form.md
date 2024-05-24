@@ -48,5 +48,9 @@ Updated: 23 May 2024<br>
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Result.png" alt="How to edit access for Digital Form Result">
    </p>
+<br><br><br>
+
+**Related Articles**
+- [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
 
    
