@@ -37,22 +37,16 @@
        <img src="img/Change_Reminder_To_Day.png" alt="Change Reminder to Day">
      </p>
 
-  7. Click on the "Modify" button.<br>
+  7. Click on the "Save" button.<br>
 
      <p align="center">
-       <img src="img/Modify_Reminder_Button.png" alt="Modify Reminder Button">
+       <img src="img/SAve_Reminder_Button.png" alt="Save Reminder Button">
      </p>
 
-  8. Click "Update Existing Reminders".<br>
+  8. Choose which reminders you wish to change and click the "Save" button. In this example, Future reminders only is chosen.<br>
 
      <p align="center">
        <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
      </p>
 
-  9. Click "Only Untriggered Reminders" and the reminder's condition is edited to one day before the project ends.<br>
-
-     <p align="center">
-       <img src="img/Only_Untriggered_Reminders.png" alt="Only Untriggered Reminders">
-     </p>
-     <br>
 
