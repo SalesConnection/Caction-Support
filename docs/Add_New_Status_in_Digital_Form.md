@@ -20,13 +20,16 @@
      </p>
 
   4. To add a new status for the Delivery Order Form, please follow these steps:<br>
-     a. **Name:** Assign a name to the status (E.g. "Cancelled").<br>
-     b. **Edit Access:** Define who can edit the Delivery Order Form when it's in this status (E.g. If the status is "Cancelled", only specific users can make edits).<br>
-     c. **Status Modification:** Specify who can change the form's status (E.g. Only certain users can modify the form's status when it's "Cancelled").<br>
-     d. **Status Type:** Categorize the status for more manageable system administration. For this example, you can select "Cancelled".<br>
-     e. **Email/PDF Options:** Choose if the form can be emailed or converted to PDF (E.g. Select "PDF Only" if the form should only be sent as a PDF).<br>
-     f. **Customer Feedback:** Choose if you want a section for customer comments in this status (E.g. Pick "No" if you don't want a feedback section while in this status).<br>
-     g. **Color:** Pick a color to represent the status in the system for easy reference.<br>
+
+     | Terms | Meaning |
+     |-------|---------|
+     | Name | Assign a name to the status (E.g. "Cancelled"). |
+     | Edit Access | Define who can edit the Delivery Order Form when it's in this status (E.g. If the status is "Cancelled", only specific users can make edits). |
+     | Status Modification | Specify who can change the form's status (E.g. Only certain users can modify the form's status when it's "Cancelled"). |
+     | Status Type | Categorize the status for more manageable system administration. For this example, you can select "Cancelled". |
+     | Email/PDF Options | Choose if the form can be emailed or converted to PDF (E.g. Select "PDF Only" if the form should only be sent as a PDF). |
+     | Customer Feedback | Choose if you want a section for customer comments in this status (E.g. Pick "No" if you don't want a feedback section while in this status). |
+     | Color | Pick a color to represent the status in the system for easy reference. |
 
      <p align="center">
        <img src="img/New_DF_Status_Name.png" alt="New DF Status Name">
