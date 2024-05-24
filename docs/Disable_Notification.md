@@ -37,8 +37,9 @@ Updated: 24 May 2024<br>
      </p>
 
   6. Press Ctrl + F on your keyboard and type “Removal of Global Notification for Admin” to search for the field.<br>
-     *Note: This is only needed if the admin wants to disable own notifications. If the action is not for admin, please continue with Step 10.
-     
+     *Note: This is only needed if the admin wants to disable own notifications. If the action is not for admin, please continue with Step 10 by clicking the link below.
+     [Start Here If Not For Admin](#section1)
+
      <p align="center">
        <img src="img/Removal_Global_Notification.png" alt="Removal Global Notification">
      </p>
@@ -60,7 +61,8 @@ Updated: 24 May 2024<br>
      <p align="center">
        <img src="img/Global_Notification_Removed.png" alt="Global Notification Removed">
       </p>
-     
+      
+     <a id="section1"></a>
   10. Click on "Notification Settings".<br>
 
       <p align="center">
