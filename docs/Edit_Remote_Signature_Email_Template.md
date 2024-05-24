@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## How to Edit Remote Signature Email Template?
 
 1. To edit remote signature email template, go to the desktop site navigation bar > Company Settings > Digital Form Settings > Remote Signature Email Template Settings.<br>
