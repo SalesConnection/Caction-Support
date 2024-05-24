@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## How to Use Update Report Filter?
 
 1. For example, to use filter for "Job Updates Report", go to Business Report > Job Update Report.<br>
@@ -51,4 +54,3 @@
 - [How to Search Job Using Date Range?](Job_Filter_by_Date_Range.md)
 - [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
 - [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
-- [How to Set Customized Favourite Filter in Report Pages?](Customize_Filter_in_Report_Pages.md)
