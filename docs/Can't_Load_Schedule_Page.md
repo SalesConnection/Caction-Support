@@ -1,26 +1,25 @@
 ## I can't load the schedule page. Why?
 
-### Scenarios below will cause this problem and how to solve it:
+### Here are the potential issues and solutions:
 (If yes to each, move on to the next scenario).<br><br>
 
-  1. Bad internet connection.<br>
+  1. Poor Internet Connection.<br>
 
-     a. Is the internet connection **strong** enough?<br>
-        &emsp;If the internet connection is weak, please connect to another network (e.g. colleague’s mobile hotspot) and try again.<br>
+     a. Check if your internet connection is stable. If it's unstable, try switching to a more **reliable network** such as a mobile hotspot or a different Wi-Fi network.<br>
 
-     b. Is the internet speed **fast** enough?<br>
-        &emsp;Search for any internet speed testing website and make sure that the internet speed is **more than 25Mbps**.<br><br>
+     b. Test your internet speed. If the speed is **below 25 Mbps**, you may experience difficulties in updating. If possible, switch to a faster internet connection.<br><br>
   
   2. Server error shown.<br>
-
-     a. If it is happening for the first time, check the connection issue.<br>
-        1. Is the internet connection **strong** enough?<br>
-           If the internet connection is weak, please connect to another network (e.g. colleague’s mobile hotspot) and try again.<br>
-
-        2. Is the internet speed **fast** enough?<br>
-           Search for any internet speed testing website and make sure that the internet speed is **more than 25Mbps**.<br>
+  
+     For assistance, follow these steps:<br>
+     a. Reach out to the Sales Connection support team at **012-2780122**.<br>
+        
+     b. When contacting support, please provide the following information:<br>
+     1. Your account details.<br>
+     2. The time when the issue occurred.<br>
+     3. A screenshot of the error page.<br>
      
-     b. Contact the Sales Connection's support team through **012-2780122** and provide information such as account details, when the issue occurred, and a screenshot of the error page. The information will assist the team in investigating the problem more efficiently.<br>
+     This information will enable our team to investigate and resolve the issue more efficiently.
 
 <br><br><br>
 
