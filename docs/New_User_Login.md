@@ -62,6 +62,8 @@ Updated: 24 May 2024<br>
      <br><br><br>
   
 **Related Articles**<br>
+- [How to Add New User?](Add_New_User.md)
 - [How to Change Account Password?](Change_Account_Password.md)
 - [How to Login Using Mobile and Desktop?](Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
+- [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
