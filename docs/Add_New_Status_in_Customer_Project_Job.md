@@ -26,30 +26,33 @@
      </p>
 
   5. To add a new status for the Contract Expired Project, please follow these steps:<br>
-     a. **Name:** Assign a name to the status (E.g. Contract Expired).<br>
-     b. **Edit Access:** Define who can edit the Contract Expired Project when it's in this status (E.g. If the status is "Contract Expired", only specific users can make edits).<br>
-     c. **Status Modification:** Specify who can change the project's status (E.g. Only certain users can modify the project's status when it's "Contract Expired").<br>
-     d. **Digital Form Creation:** Specify who can create digital form for the project when it's in this status (E.g. If the status is "Contract Expired", only specific users can create digital form).<br>
-     e. **Status Type:** Categorize the status for more manageable system administration, For this example, you can select "Cancelled".<br>
-     f. **Color:** Pick a color to represent the status in the system for easy reference.<br>
+
+     | Terms | Meaning |
+     |-------|---------|
+     | Name | Assign a name to the status (E.g. Contract Expired). |
+     | Edit Access | Define who can edit the Contract Expired Project when it's in this status (E.g. If the status is "Contract Expired", only specific users can make edits). |
+     | Status Modification | Specify who can change the project's status (E.g. Only certain users can modify the project's status when it's "Contract Expired"). |
+     | Digital Form Creation | Specify who can create digital form for the project when it's in this status (E.g. If the status is "Contract Expired", only specific users can create digital form). |
+     | Status Type | Categorize the status for more manageable system administration, For this example, you can select "Cancelled". |
+     | Color | Pick a color to represent the status in the system for easy reference. |
 
      <p align="center">
        <img src="img/New_Project_Status_Name.png" alt="New Project Status Name">
      </p>
 
-  6. Click the "Submit" button.<br>
+  7. Click the "Submit" button.<br>
 
      <p align="center">
        <img src="img/New_Project_Status_Submit_Button.png" alt="New Project Status Submit Button">
      </p>
 
-  7. Remember to click the "Save" button to save the new status.<br>
+  8. Remember to click the "Save" button to save the new status.<br>
 
      <p align="center">
        <img src="img/New_Project_Status_Save_Button.png" alt="New Project Status Save Button">
      </p>
 
-  8. Click "OK" and the new project status has been saved successfully.<br>
+  9. Click "OK" and the new project status has been saved successfully.<br>
 
      <p align="center">
        <img src="img/New_Project_Status_Save.png" alt="New Project Status Save">
