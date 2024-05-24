@@ -20,6 +20,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
   
 ### Password
+- [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
 - [How to Change Account Password?](Change_Account_Password.md)
 
 
