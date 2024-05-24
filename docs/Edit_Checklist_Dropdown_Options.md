@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## ✍🏻 How to Edit Checklist Dropdown Options?
 
 ### How to add an item or option in the checklist of a digital form? (As shown below)
@@ -95,8 +98,4 @@
     <p align="center">
       <img src="img/How_to_edit_checklist_dropdown_options_step_13.png">
     </p>
-    
-   <br><br><br>
 
-**Related Articles**<br>
-[How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options.md)
