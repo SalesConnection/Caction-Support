@@ -1,4 +1,6 @@
-
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## 👩‍💼 How to Add New User Category?
     
   1. At the desktop site's navigation bar, go to Company Settings > Staff Settings > Department/Team Settings.<br>
