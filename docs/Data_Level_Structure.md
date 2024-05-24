@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 May 2024<br>
+Updated: 24 May 2024<br>
 ## Data Level Structure
 
 ### Basic Data Level Structure
@@ -12,7 +15,3 @@
    <img src="img/Advanced_Data_Level_Structure.png" alt="Advanced Data Level Structure">
 </p>
 
-<br><br><br>
-
-**Related Article**<br>
-[User Type Default Access](User_Types_Default_Access.md)
