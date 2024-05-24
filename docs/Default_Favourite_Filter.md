@@ -35,7 +35,7 @@ Updated: 23 May 2024<br>
 
    <p align="center">
      <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Result.png" alt="Set Customized Favourite FIlter as default Step 5">
-   </p><br><br>
+   </p>
 
 <br><br><br>
 
