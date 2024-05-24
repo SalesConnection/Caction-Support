@@ -1,19 +1,18 @@
 ## My updates are not received by my admin and other team members. Why?
 
-### Scenario below will cause the problem and how to solve it:
+### Here are the potential issues and solutions:
 
-  1. Bad Internet Connnection.<br>
+1. Poor Internet Connnection:<br>
 
-     a. Is the internet connection **strong** enough?<br>
-  &emsp;If your internet connection is weak, consider connecting to a different network, such as colleagues's mobile hotspot, and then try again.<br>
+   - Check if your internet connection is stable.<br>
+  &emsp;If it's unstable, try switching to a more reliable network, such as a mobile hotspot or a different Wi-Fi network.<br>
 
-     b. Is the internet speed **fast** enough?<br>
-  &emsp;You can verify this by using any internet speed testing website. Ensure that then internet speed is **above 25 Mbps**.<br><br>
+   - Test your internet speed.<br>
+  &emsp;If the speed is below 25 Mbps, you may experience difficulties in updating. If possible, switch to a faster internet connection.<br><br>
 
-  2. The page may not have been refreshed after your updates.<br>
+2. Page Not Refreshed:<br>
 
-     a.  Your admin and other team members may not have refreshed the page after your updates.<br>
-   &emsp;If they haven't received your updates, ask your admin and other team members to refersh their page.
+   - Ensure all team members, including your admin, refresh their page to receive the latest updates.
 
 <br><br><br>
 
