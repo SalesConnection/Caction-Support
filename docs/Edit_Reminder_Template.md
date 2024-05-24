@@ -4,7 +4,7 @@
      **Edit Reminder Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
 
      <p align="center">
-       <img src="img/User_List_Sidebar.png" alt="Add New User">
+       <img src="img/Reminder_Templates_Sidebar.png" alt="Reminder Templates Sidebar">
      </p>
 
   2. Click on the expand icon for the category.<br>
