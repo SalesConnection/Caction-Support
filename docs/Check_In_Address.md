@@ -5,10 +5,7 @@
   1. If staff **cannot** or **forgot** to check out from the previous task, what to do?<br>
   2. User cannot check in to the next task.<br><br>
 
-**Navigate to the section by clicking it.**<br>
-
-- [Staff Able to Edit Job](#section1)<br>
-- [Staff Not Able to Edit Job](#section2)
+**If you cannot edit the job, please refer to** [Staff Not Able to Edit Job](#section2).
 <br><br><br>
 
 <a id="section1"></a>
