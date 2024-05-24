@@ -42,6 +42,9 @@ Updated: 23 May 2024<br>
    </p>
 <br><br><br>
 
-**Related Article**
+**Related Articles**
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
-
+- [How to Assist My New User to Login?](New_User_Login.md)
+- [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
+- [I Forgot to Check Out, How?](Assist_Check_Out.md)
+- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
