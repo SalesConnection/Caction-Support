@@ -163,7 +163,8 @@
         <img src="img/Check_In_Address_Desktop_Step_7.png" alt="Check In Address Desktop Step 7">
      </p>
      
-  8. For staff, open Sales Connection's app and go to Schedule page.<br>
+  8. Let your staff know to check in at the precise location of the customer as usual. After they have checked in at the customer's site, you can continue to follow the steps by clicking the link below.<br>
+     
 
      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_8.png" alt="Check In Address Desktop Step 8">
