@@ -20,7 +20,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)
 - [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
 - [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
-
+- [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
+  
 
 ### Access Control
 - [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
