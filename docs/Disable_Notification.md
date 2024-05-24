@@ -5,62 +5,81 @@ Updated: 24 May 2024<br>
 
 *Note: Only certain admins can disable the notification. Please contact your admin if you wish to disable the notifications.<br>
 
-  1. To disable notifications for users, go to User Management > User Account Customisation.<br>
-
+  1. To disable notifications for users, go to desktop site navigation bar > User Management > User Account Customisation.<br>
+     **Open UAC Page Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+     
      <p align="center">
        <img src="img/User_Account_Customisation.png" alt="User Account Customisation">
      </p>
+     
+  2. Click on the department name.<br>
   
-  2. Navigate to the user who needs to disable the notifications and click on the "Pencil" icon beside the name.<br>
+     <p align="center">
+       <img src="img/Select_Department_In_UAC.png" alt="Select Department in UAC">
+     </p>
+     
+  3. Enter the name of the user who needs this authority (normally admin).<br>
 
      <p align="center">
-       <img src="img/Pencil_in_UAC.png" alt="Pencil in UAC">
+       <img src="img/Enter_Name_For_Enable_Assisted_Checkout.png" alt="Enter Name for Enable Assisted Checkout">
      </p>
-
-  3. Click on "Control Settings".<br>
-     *Note: This is only needed if the admin wants to disable own notifications. If the action is not for admin, please continue with Step 7.<br>
+  
+  4. Click on the "Select Department" button.<br>
 
      <p align="center">
-       <img src="img/Control_Settings_in_UAC.png" alt="Control Settings in UAC">
+       <img src="img/Click_Select_Department_Button.png" alt="Click Select Department Button">
      </p>
 
-  4. Enable the "Removal of Global Notification for Admin".<br>
+  5. Click the "pencil" icon beside the user who needs to disable the notifications.<br>
+
+     <p align="center">
+        <img src="img/Click_Pencil_Icon.png" alt="Click Pencil Icon">
+     </p>
+
+  6. Press Ctrl + F on your keyboard and type “Removal of Global Notification for Admin” to search for the field.<br>
+     *Note: This is only needed if the admin wants to disable own notifications. If the action is not for admin, please continue with Step 10.
+     
+     <p align="center">
+       <img src="img/Removal_Global_Notification.png" alt="Removal Global Notification">
+     </p>
+  
+  7. Enable the "Removal of Global Notification for Admin".<br>
 
      <p align="center">
        <img src="img/Enable_Removal_Global_Notification.png" alt="Enable Removal Global Notification">
      </p>
 
-  5. Click "Save Control Settings".<br>
+  8. Click "Save Control Settings".<br>
 
      <p align="center">
        <img src="img/Save_Global_Notification.png" alt="Save Global Notification">
      </p>
 
-  6. Click "OK" and the "Global Notification" for admin has been removed.<br>
+  9. The "Global Notification" for admin has been removed.<br>
 
      <p align="center">
        <img src="img/Global_Notification_Removed.png" alt="Global Notification Removed">
-     </p>
+      </p>
+     
+  10. Click on "Notification Settings".<br>
 
-  7. Click on "Notification Settings".<br>
+      <p align="center">
+        <img src="img/Notification_Settings_in_UAC.png" alt="Notification Settings in UAC">
+      </p>
 
-     <p align="center">
-       <img src="img/Notification_Settings_in_UAC.png" alt="Notification Settings in UAC">
-     </p>
+  11. Click the boxes next to the notifications you don't want to see. For example, deselect all the job notifications..<br>
 
-  8. Click the boxes next to the notifications you don't want to see. For example, deselect all the job notifications.<br>
+      <p align="center">
+        <img src="img/Untick_Notification.png" alt="Untick Notifcation">
+      </p>
 
-     <p align="center">
-       <img src="img/Untick_Notification.png" alt="Untick Notifcation">
-     </p>
+  12. Click "Save Notification Settings".<br>
 
-  9. Click "Save Notification Settings".<br>
+      <p align="center">
+        <img src="img/Save_Notification_Settings.png" alt="Save Notification Settings">
+      </p>
 
-     <p align="center">
-       <img src="img/Save_Notification_Settings.png" alt="Save Notification Settings">
-     </p>
-
-  10. Click "OK" and the notifications have been disabled.<br>
+  13. The notifications have been disabled.<br>
 
       <p align="center">
         <img src="img/Disable_Notification_Done.png" alt="Disable Notification Done">
