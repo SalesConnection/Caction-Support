@@ -54,4 +54,6 @@ Updated: 24 May 2024<br>
   <br><br><br>
 
 **Related Article**<br>
+- [How to Add New User Category?](Add_New_User_Category.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
+- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
