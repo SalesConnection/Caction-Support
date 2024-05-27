@@ -52,4 +52,7 @@ Updated: 24 May 2024<br>
      <p align="center">
        <img src="img/New_Project_Category_Save.png" alt="New Project Category Save">
      </p>
+<br><br><br>
 
+**Related Articles**
+- [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
