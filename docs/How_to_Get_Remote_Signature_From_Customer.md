@@ -1,4 +1,16 @@
-## How to Get Remote Signature From Customer?
+## How to Get Remote Signature From Customer?<br>
+
+<br><br>
+
+**Navigate to the section by clicking it.**<br>
+
+- [Get Remote Signature using WhatsApp](#section1)<br>
+- [Get Remote Signature using Email](#section2)<br>
+<br><br>
+
+<a id="section1"></a>
+
+### Get Remote Signature using WhatsApp
 
 1. For example, if you want to get a remote signature of Service Sheet from customer. At the desktop site's navigation bar, go to Business Reports > Digital Form Report.<br>
    **Open Digital Form Report page here**: [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)<br>
@@ -49,4 +61,26 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_8.png" alt="How to Get Remote Signature From Customer Step 8">
    </p>
 
-9.
+9. Click "Open WhatsApp".
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_9.png" alt="How to Get Remote Signature From Customer Step 9">
+   </p>
+
+10. Select the customer and tick the box.
+
+    <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_10.png" alt="How to Get Remote Signature From Customer Step 10">
+    </p>
+
+11. Click "Forward". 
+
+    <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_11.png" alt="How to Get Remote Signature From Customer Step 11">
+    </p>
+
+12. Message has been sent succesfully as the picture shown below.
+
+    <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_12.png" alt="How to Get Remote Signature From Customer Result">
+    </p>
