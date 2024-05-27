@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 27 May 2024<br>
+Updated: 27 May 2024<br>
 ## How Do I Add New Status in Digital Form?
     
   1. For example, if you wish to add new status in Delivery Order. At the desktop site's navigation bar, go to Company Settings > Digital Form Settings > Digital Form Status.<br>
