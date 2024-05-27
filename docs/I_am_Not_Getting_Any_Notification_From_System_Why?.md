@@ -51,7 +51,7 @@
        <img src="img/Removal_Global_Notification.png" alt="Removal Global Notification">
      </p>
  
- <a id="section2"></a>
+ <a id="section2"></a><br><br>
 
  - **Mobile App**:
 
