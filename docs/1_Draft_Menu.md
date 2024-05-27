@@ -63,7 +63,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
 - [How to Edit Reminder Template?](Edit_Reminder_Template.md)
 - [How to Get Remote Signature From Customer?](How_to_Get_Remote_Signature_From_Customer.md)
-- [I am Not Getting Any Notification From System.Why?](I_am_Not_Getting_Any_Notification_From_System_Why?.md)
+- [I am Not Getting Any Notification From System.Why?](I_am_Not_Getting_Any_Notification_From_System_Why.md)
   
   
 ## Features Knowledge 
