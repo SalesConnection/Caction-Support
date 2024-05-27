@@ -33,7 +33,12 @@
 
   6. For example, click on the expand button of "Time Type" and click "Day".<br>
 
-     | Condition | 
+     | Terms | Meaning |
+     |-------|---------|
+     | Condition | Specifies the trigger for the reminder. |
+     | Duration | Represents a numeric value associated with the time type. |
+     | Time Type | Specifies the unit of time for the numeric value entered in the second column. |
+     | Execution | Indicates whether the reminder is to be executed before or after the specified. |
 
      <p align="center">
        <img src="img/Change_Reminder_To_Day.png" alt="Change Reminder to Day">
