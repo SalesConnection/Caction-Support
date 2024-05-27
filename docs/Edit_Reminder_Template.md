@@ -33,17 +33,19 @@
 
   6. For example, click on the expand button of "Time Type" and click "Day".<br>
 
+     | Condition | 
+
      <p align="center">
        <img src="img/Change_Reminder_To_Day.png" alt="Change Reminder to Day">
      </p>
 
-  7. Click on the "Save" button.<br>
+  6. Click on the "Save" button.<br>
 
      <p align="center">
        <img src="img/Save_Reminder_Button.png" alt="Save Reminder Button">
      </p>
 
-  8. Choose which reminders you wish to change and click the "Save" button. In this example, "Future reminders" only is chosen.<br>
+  7. Choose which reminders you wish to change and click the "Save" button. In this example, "Future reminders" only is chosen.<br>
 
      <p align="center">
        <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
