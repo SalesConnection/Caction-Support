@@ -42,6 +42,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ### Status 
+- [How Do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)
 - [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
 
   
