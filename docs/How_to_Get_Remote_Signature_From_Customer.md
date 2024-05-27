@@ -83,4 +83,9 @@
 
     <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_12.png" alt="How to Get Remote Signature From Customer Result">
-    </p>
+    </p><br>
+
+<a id="section2"></a>
+
+### Get Remote Signature using Email
+
