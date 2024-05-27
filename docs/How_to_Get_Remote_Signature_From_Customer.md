@@ -48,3 +48,5 @@
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_8.png" alt="How to Get Remote Signature From Customer Step 8">
    </p>
+
+9.
