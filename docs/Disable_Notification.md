@@ -18,7 +18,7 @@ Updated: 24 May 2024<br>
        <img src="img/Select_Department_In_UAC.png" alt="Select Department in UAC">
      </p>
      
-  3. Enter the name of the user who needs this authority (normally admin).<br>
+  3. Enter the name of the user who needs to disable notification.<br>
 
      <p align="center">
        <img src="img/Enter_Name_For_Enable_Assisted_Checkout.png" alt="Enter Name for Enable Assisted Checkout">
