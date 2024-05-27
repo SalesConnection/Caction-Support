@@ -43,13 +43,12 @@
         <img src="img/Click_Pencil_Icon.png" alt="Click Pencil Icon">
      </p>
 
-  6. Press Ctrl + F on your keyboard and type “Removal of Global Notification for Admin” to search for the field.<br>
-     *Note: This is only needed if the admin wants to disable own notifications. If the action is not for admin, please continue with Step 10 by clicking the link below.<br>
-     [Start Here If Not For Admin](#section1)
+  6. Click on the "Notification Settings".<br>
 
      <p align="center">
-       <img src="img/Removal_Global_Notification.png" alt="Removal Global Notification">
+        <img src="img/Enable_Notification_in_UAC_Step_6.png" alt="Enable Notification in UAC Step 6">
      </p>
+  
  
  <a id="section2"></a><br><br>
 
