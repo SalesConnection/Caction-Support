@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 27 May 2024<br>
+Updated: 27 May 2024<br>
 ## How Do I Add New Status in Customer/Project/Job?
     
   1. For example, if you wish to add new status in Project. At the desktop site's navigation bar, go to Wizard.<br>
