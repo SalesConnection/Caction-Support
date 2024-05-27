@@ -1,6 +1,6 @@
 ## How to Get Remote Signature From Customer?<br>
 
-<br><br>
+<br>
 
 **Navigate to the section by clicking it.**<br>
 
