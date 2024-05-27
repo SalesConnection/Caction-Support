@@ -56,3 +56,4 @@ Updated: 24 May 2024<br>
 
 **Related Articles**
 - [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
+- [How Do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)
