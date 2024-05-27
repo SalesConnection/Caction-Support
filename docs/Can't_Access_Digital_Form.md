@@ -53,5 +53,6 @@ Updated: 23 May 2024<br>
 **Related Articles**
 - [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options_in_Digital_Form.md)
 - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
+- [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
 
    
