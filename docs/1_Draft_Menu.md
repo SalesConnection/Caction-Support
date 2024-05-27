@@ -61,7 +61,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
 - [How to Edit Reminder Template?](Edit_Reminder_Template.md)
-- [How to Get Remote Signature From Customer?]{How_to_Get_Remote_Signature_From_Customer.md}
+- [How to Get Remote Signature From Customer?](How_to_Get_Remote_Signature_From_Customer.md)
   
   
 ## Features Knowledge 
