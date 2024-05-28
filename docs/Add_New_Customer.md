@@ -42,7 +42,7 @@
        <img src="img/Add_New_Customer_Step_4.png" alt="Add New Customer Step 4">
      </p>
 
-5. Click "OK" and the new customer has been added successfully.<br>
+5. Click "OK" and the new customer has been saved successfully.<br>
 
      <p align="center">
        <img src="img/Add_New_Customer_Step_5.png" alt="Add New Customer Step 5">
