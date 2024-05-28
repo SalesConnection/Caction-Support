@@ -1,6 +1,6 @@
 ## How to Add New Asset?
 
-1.  Go to desktop site “Main Navigation" > "Business Management" > "Asset List"<br> 
+1.  Go to desktop site “Main Navigation" > "Business Management" > "Asset List".<br> 
    **Add New Asset here**: [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
 
     <p align="center">
