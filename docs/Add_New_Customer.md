@@ -50,3 +50,4 @@
      <br><br><br>
 
 **Related Articles**<br>
+- [How to Add New Project?](Add_New_Project.md)
