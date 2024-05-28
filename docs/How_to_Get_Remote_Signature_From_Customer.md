@@ -79,7 +79,7 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_11.png" alt="How to Get Remote Signature From Customer Step 11">
     </p>
 
-12. Message has been sent succesfully as the picture shown below.
+12. The message has been sent successfully as the picture shown below.
 
     <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_12.png" alt="How to Get Remote Signature From Customer Result">
@@ -126,7 +126,7 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_6.png" alt="How to Get Remote Signature From Customer Step 6">
    </p>
 
-7. Enter the email adress of the reveiver.
+7. Enter the email address of the receiver.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_7_Email.png" alt="How to Get Remote Signature From Customer Using Email Step 7">
