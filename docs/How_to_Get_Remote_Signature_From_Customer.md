@@ -144,7 +144,7 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_9_Email.png" alt="How to Get Remote Signature From Customer Using Email Step 9">
    </p>
 
-10. Click "OK".
+10. Click "OK" and the email has been sent to the customer successfully.
 
     <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_10_Email.png" alt="How to Get Remote Signature From Customer Using Email Step 10">
