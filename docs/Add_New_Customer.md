@@ -1,13 +1,13 @@
-## How to Create Customer?
+## How to Add New Customer?
     
   1. At the desktop site's navigation bar, go to Business Management > Customer List.<br>
-     **Create Customer Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
+     **Add New Customer Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
      
      <p align="center">
        <img src="img/Create_Customer_Step_1.png" alt="Create Customer Step 1">
      </p>
 
-  2. Click on the "+" button to create customer.<br>
+  2. Click on the "+" button to add new customer.<br>
 
      <p align="center">
        <img src="img/Create_Customer_Step_2.png" alt="Create Customer Step 2">
@@ -42,7 +42,7 @@
        <img src="img/Create_Customer_Step_4.png" alt="Create Customer Step 4">
      </p>
 
-5. Click "OK" and the new customer has been saved successfully.<br>
+5. Click "OK" and the new customer has been added successfully.<br>
 
      <p align="center">
        <img src="img/Create_Customer_Step_5.png" alt="Create Customer Step 5">
