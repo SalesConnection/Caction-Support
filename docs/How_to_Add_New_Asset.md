@@ -3,9 +3,9 @@
 1.  Go to desktop site “Main Navigation" > "Business Management" > "Asset List"<br> 
    **Add New Asset here**: [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
 
-   <p align="center">
-     <img src="img/How_to_Create_Asset_Step_1.png" alt="How to add new asset Step 1">
-   </p><br>
+    <p align="center">
+       <img src="img/How_to_Create_Asset_Step_1.png" alt="How to add new asset Step 1">
+    </p><br>
 
 2. Click the "+ Add Asset" button.
 
