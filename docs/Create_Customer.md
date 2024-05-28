@@ -4,13 +4,13 @@
      **Create Customer Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
      
      <p align="center">
-       <img src="img/User_List_Sidebar.png" alt="User List Sidebar">
+       <img src="img/Create_Customer_Step_1.png" alt="Create Customer Step 1">
      </p>
 
   2. Click on the "+" button to create customer.<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add User Button">
+       <img src="img/Create_Customer_Step_2.png" alt="Create Customer Step 2">
      </p>
 
   3. Fill out the details of the new customer.<br>
@@ -33,19 +33,19 @@
      *Note: Fields marked with an asterisk ( * ) are required.<br>
      
      <p align="center">
-       <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+       <img src="img/Create_Customer_Step_3.png" alt="Create Customer Step 3">
      </p>
 
 4. Click on the "Save Customer" button.<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add User Button">
+       <img src="img/Create_Customer_Step_4.png" alt="Create Customer Step 4">
      </p>
 
-5. Click "OK" and the new customer has been saved succeessfully.<br>
+5. Click "OK" and the new customer has been saved successfully.<br>
 
      <p align="center">
-       <img src="img/Add_User_Button.png" alt="Add User Button">
+       <img src="img/Create_Customer_Step_5.png" alt="Create Customer Step 5">
      </p>
      <br><br><br>
 
