@@ -4,25 +4,25 @@
      **Add New Project Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer_Step_1.png" alt="Add New Customer Step 1">
+       <img src="img/Add_New_Project_Step_1.png" alt="Add New Project Step 1">
      </p>
 
   2. Click on the expand button of the customer that you want to add a new project for.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Step_2.png" alt="Add New Customer Step 2">
+       <img src="img/Add_New_Project_Step_2.png" alt="Add New Project Step 2">
      </p>
 
   3. Click on the "+" button.<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer_Step_1.png" alt="Add New Customer Step 1">
+       <img src="img/Add_New_Project_Step_3.png" alt="Add New Project Step 3">
      </p>
 
   4. Click on the "New Project" button to add a new project for the customer.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Step_2.png" alt="Add New Customer Step 2">
+       <img src="img/Add_New_Project_Step_4.png" alt="Add New Project Step 4">
      </p>
      
   5. Fill out the details of the new project.<br>
@@ -42,19 +42,19 @@
      | Product/Services | Select the products or services involved in the project. |
           
      <p align="center">
-       <img src="img/Add_New_Customer_Step_3.png" alt="Add New Customer Step 3">
+       <img src="img/Add_New_Project_Step_5.png" alt="Add New Project Step 5">
      </p>
 
 6. Click on the "Save Project" button.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Step_4.png" alt="Add New Customer Step 4">
+       <img src="img/Add_New_Project_Step_6.png" alt="Add New Project Step 6">
      </p>
 
 7. Click "OK" and the new project has been saved successfully.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Step_5.png" alt="Add New Customer Step 5">
+       <img src="img/Add_New_Project_Step_7.png" alt="Add New Project Step 7">
      </p>
      <br><br><br>
 
