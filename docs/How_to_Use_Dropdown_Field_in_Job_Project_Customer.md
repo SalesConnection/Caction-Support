@@ -16,6 +16,14 @@
 
 2. Select "Quotation".<br>
 
+   | Field Name| Description |
+   |-------|---------|
+   | Customer Category | Classifies the customer based on their type. |
+   | Template Short Code | A short code identifier for the template. |
+   | Template Name | The name of the template. |
+   | Company Label| The label used for company names within the template. |
+   | Name Label | The label used for customer names within the template. |
+   
    <p align="center">
       <img src="img/How_to_add_dropdown_options_in_DF_step_2.png" alt="How to add dropdown options in DF step 2">
    </p><br>
