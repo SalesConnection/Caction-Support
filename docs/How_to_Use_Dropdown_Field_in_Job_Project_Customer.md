@@ -76,6 +76,8 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_9.png" alt="How to Use Dropdown Field in Customer Step 9">
    </p><br>
    
+<a id="section2"></a>
+
 10. If you make a typo in an option and want to edit it, you need to double-click the option.
 
     <p align="center">
