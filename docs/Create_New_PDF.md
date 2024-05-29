@@ -13,19 +13,48 @@
        <img src="img/Create_New_PDF_Step_2.png" alt="Create New PDF Step 2">
      </p>
 
-  3. Click on the "Create Digital Form" icon.<br>
+  3. Click "OK" and the digital form has been selected.<br>
 
      <p align="center">
        <img src="img/Create_New_PDF_Step_3.png" alt="Create New PDF Step 3">
      </p>
-     
-  4. Select the type of digital form you want to create. For this example, select "Quotation".<br>
+  
+  4. Click on the "Create Digital Form" icon.<br>
 
+     **Section a:** Load Template<br>
+     
+     | Field Name | Description |
+     |------------|-------------|
+     | Digital Form Template | Select the type of digital form to load. |
+     | Digital Form Category | Specify the category of the digital form. |
+
+     <br>**Section b:** Copy Template from Different Category<br>
+     
+     | Field Name | Description |
+     |------------|-------------|
+     | Digital Form Template | Select the type of digital form to copy from. |
+     | Digital Form Category | Specify the category of the digital form to copy from. |
+
+     <br>**Section c:** Meta Data Visibility Control
+
+     | Field Name | Description |
+     |------------|-------------|
+     | Status Label | Define the status label for the digital form. |
+     | Category Name | Define the category name for the digital form. |
+     | Digital Form Seq. No | Specify the sequence number for the digital form. |
+     | Source Label | Specify the source label |
+     
      <p align="center">
        <img src="img/Create_New_PDF_Step_4.png" alt="Create New PDF Step 4">
      </p>
      
-  5. Fill out the details of the new quotation.<br>
+  5. Select the type of digital form you want to create. For this example, select "Quotation".<br>
+
+     <p align="center">
+       <img src="img/Create_New_PDF_Step_5.png" alt="Create New PDF Step 5">
+     </p>
+     
+  6. Fill out the details of the new quotation.<br>
 
      | Field Name| Description |
      |-------|---------|
@@ -44,25 +73,25 @@
      | Description | Additional details or description of the quotation. |
           
      <p align="center">
-       <img src="img/Create_New_PDF_Step_5.png" alt="Create New PDF Step 5">
-     </p>
-
-6. Click on the "Save" icon.<br>
-
-     <p align="center">
        <img src="img/Create_New_PDF_Step_6.png" alt="Create New PDF Step 6">
      </p>
 
-7. Click "OK" to confirm the save change.<br>
+7. Click on the "Save" icon.<br>
 
-   <p align="center">
+     <p align="center">
        <img src="img/Create_New_PDF_Step_7.png" alt="Create New PDF Step 7">
      </p>
 
-8. Click "OK" and the new quotation has been added successfully.<br>
+8. Click "OK" to confirm the save change.<br>
+
+   <p align="center">
+       <img src="img/Create_New_PDF_Step_8.png" alt="Create New PDF Step 8">
+     </p>
+
+9. Click "OK" and the new quotation has been added successfully.<br>
 
      <p align="center">
-       <img src="img/Create_New_PDF_Step_8.png" alt="Create New PDF Step 8">
+       <img src="img/Create_New_PDF_Step_9.png" alt="Create New PDF Step 9">
      </p>
      <br><br><br>
 
