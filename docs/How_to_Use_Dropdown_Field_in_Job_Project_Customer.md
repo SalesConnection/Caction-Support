@@ -55,10 +55,8 @@
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_6.png" alt="How to Use Dropdown Field in Customer Step 6">
    </p><br>
-
-   <a id="section3"></a>
   
-7. Click the expand button to add options.<br>
+7. Click the expand button to edit the dropdown field.<br>
 
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_7.png" alt="How to Use Dropdown Field in Customer Step 7">
@@ -72,13 +70,13 @@
   
 <a id="section2"></a>
 
-9. Add the new option by clicking the Enter key on your keyboard.<br>
+9. Add more dropdown options by clicking the Enter key on your keyboard.<br>
 
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_9.png" alt="How to Use Dropdown Field in Customer Step 9">
    </p><br>
    
-<a id="section2"></a>
+<a id="section3"></a>
 
 10. If you make a typo in an option and want to edit it, you need to double-click the option.
 
