@@ -10,19 +10,19 @@
   2. Click on the "Digital Form Template" and "Digital Form Category" that needs to create PDF.<br>
 
      <p align="center">
-       <img src="img/Create_New_PDF_Step_1.png" alt="Create New PDF Step 1">
+       <img src="img/Create_New_PDF_Step_2.png" alt="Create New PDF Step 2">
      </p>
 
   3. Click on the "Create Digital Form" icon.<br>
 
      <p align="center">
-       <img src="img/Create_New_PDF_Step_1.png" alt="Create New PDF Step 1">
+       <img src="img/Create_New_PDF_Step_3.png" alt="Create New PDF Step 3">
      </p>
      
   4. Select the type of digital form you want to create. For this example, select "Quotation".<br>
 
      <p align="center">
-       <img src="img/Create_New_PDF_Step_1.png" alt="Create New PDF Step 1">
+       <img src="img/Create_New_PDF_Step_4.png" alt="Create New PDF Step 4">
      </p>
      
   5. Fill out the details of the new quotation.<br>
@@ -44,25 +44,25 @@
      | Description | Additional details or description of the quotation. |
           
      <p align="center">
-       <img src="img/Create_New_PDF_Step_1.png" alt="Create New PDF Step 1">
+       <img src="img/Create_New_PDF_Step_5.png" alt="Create New PDF Step 5">
      </p>
 
 6. Click on the "Save" icon.<br>
 
      <p align="center">
-       <img src="img/Create_New_PDF_Step_1.png" alt="Create New PDF Step 1">
+       <img src="img/Create_New_PDF_Step_6.png" alt="Create New PDF Step 6">
      </p>
 
 7. Click "OK" to confirm the save change.<br>
 
    <p align="center">
-       <img src="img/Create_New_PDF_Step_1.png" alt="Create New PDF Step 1">
+       <img src="img/Create_New_PDF_Step_7.png" alt="Create New PDF Step 7">
      </p>
 
 8. Click "OK" and the new quotation has been added successfully.<br>
 
      <p align="center">
-       <img src="img/Create_New_PDF_Step_1.png" alt="Create New PDF Step 1">
+       <img src="img/Create_New_PDF_Step_8.png" alt="Create New PDF Step 8">
      </p>
      <br><br><br>
 
