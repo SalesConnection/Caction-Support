@@ -55,4 +55,11 @@
 
    <p align="center">
      <img src="img/How_to_Create_Asset_Result.png" alt="How to add new asset Result>
-   </p><br>
+   </p>
+  <br><br><br>
+
+**Related Articles**
+- [How to Add New Customer?](Add_New_Customer.md)
+- [How to Add New Project?](Add_New_Project.md)
+- [How to Add New Job?](Add_New_Job.md)
+
