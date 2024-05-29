@@ -122,13 +122,13 @@
 15. Click the save button to save this dropdown options.<br>
 
     <p align="center">
-     <img src="How_to_Use_Drodown_Field_in_Customer_Step_15.png" alt="How to Use Dropdown Field in Customer Step 15">
+     <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_15.png" alt="How to Use Dropdown Field in Customer Step 15">
     </p><br>
 
 16. Click "OK".
 
     <p align="center">
-     <img src="How_to_Use_Drodown_Field_in_Customer_Step_16.png" alt="How to Use Dropdown Field in Customer Step 16">
+     <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_16.png" alt="How to Use Dropdown Field in Customer Step 16">
     </p><br>
 
 17. Choose the "Template Overwrite" option you want.<br>
