@@ -1,16 +1,16 @@
-## How to Create New Digital Form?
+## How to Create Digital Form?
     
   1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
-     **Create New Digital Form Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
+     **Create Digital Form Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
      
      <p align="center">
-       <img src="img/Create_New_Digital_Form_Step_1.png" alt="Create New Digital Form Step 1">
+       <img src="img/Create_Digital_Form_Step_1.png" alt="Create Digital Form Step 1">
      </p>
 
   2. Click on the job that needs to create digital form.<br>
 
      <p align="center">
-       <img src="img/Create_New_Digital_Form_Step_2.png" alt="Create New Digital Form Step 2">
+       <img src="img/Create_Digital_Form_Step_2.png" alt="Create Digital Form Step 2">
      </p>
 
   3. Click on the "Create Digital Form" icon.<br>
@@ -22,7 +22,7 @@
   4. Select the type of digital form you want to create. For this example, select "Quotation".<br>
 
      <p align="center">
-       <img src="img/Create_New_Digital_Form_Step_4.png" alt="Create New Digital Form Step 4">
+       <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
      </p>
      
   5. Fill out the details of the new quotation.<br>
@@ -44,25 +44,25 @@
      | Description | Additional details or description of the quotation. |
           
      <p align="center">
-       <img src="img/Create_New_Digital_Form_Step_5.png" alt="Create New Digital Form Step 5">
+       <img src="img/Create_Digital_Form_Step_5.png" alt="Create Digital Form Step 5">
      </p>
 
 6. Click on the "Save" icon.<br>
 
      <p align="center">
-       <img src="img/Create_New_Digital_Form_Step_6.png" alt="Create New Digital Form Step 6">
+       <img src="img/Create_Digital_Form_Step_6.png" alt="Create Digital Form Step 6">
      </p>
 
 7. Click "OK" to confirm the save change.<br>
 
    <p align="center">
-       <img src="img/Create_New_Digital_Form_Step_7.png" alt="Create New Digital Form Step 7">
+       <img src="img/Create_Digital_Form_Step_7.png" alt="Create Digital Form Step 7">
      </p>
 
 8. Click "OK" and the new quotation has been added successfully.<br>
 
      <p align="center">
-       <img src="img/Create_New_Digital_Form_Step_8.png" alt="Create New Digital Form Step 8">
+       <img src="img/Create_Digital_Form_Step_8.png" alt="Create Digital Form Step 8">
      </p>
      <br><br><br>
 
