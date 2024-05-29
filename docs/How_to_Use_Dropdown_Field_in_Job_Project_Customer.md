@@ -84,7 +84,7 @@
    
     <a id="section3"></a>
 
-### Add More Dropdown Option
+### Edit Dropdown Option
 
 10. If you wish to amend the one of the option, you can double-click on the option to enter edit mode.
 
