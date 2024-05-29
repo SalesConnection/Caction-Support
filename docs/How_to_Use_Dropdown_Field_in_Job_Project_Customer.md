@@ -1,6 +1,8 @@
 ## How to Use Dropdown Field in Job/Project/Customer?
 
-To edit the existing dropdown field, click here.<br>
+To edit the existing dropdown field, click [here](#section1).<br> 
+
+<a id="section1"></a>
 
 1. For example, if you want to add dropdown options for Customer. Go to desktop site navigation bar > Template Settings > Customer Templates.<br>
    **Open Customer Templates Here**: [https://salesconnection.my/templateSettings/CustomerTemplates](https://salesconnection.my/templateSettings/CustomerTemplates)<br>
