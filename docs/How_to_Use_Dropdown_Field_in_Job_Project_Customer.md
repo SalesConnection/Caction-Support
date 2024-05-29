@@ -74,6 +74,8 @@
   
     <a id="section2"></a>
 
+### Add More Dropdown Option
+
 9. After you have input the options, press “Enter” on your keyboard to save it as an option.<br>
 
    <p align="center">
