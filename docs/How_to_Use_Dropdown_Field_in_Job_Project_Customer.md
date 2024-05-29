@@ -3,8 +3,8 @@
 **Navigate to the section by clicking it.**<br>
 
 - [Add Drodown Field](#section1)<br>
-- [Edit Dropdown Option](#section2)<br>
-- [Add More Dropdown Option](#section3)
+- [Add More Dropdown Option](#section2)<br>
+- [Edit Dropdown Option](#section3)<br>
 - [Explain Terms](#section4)
 <br><br><br>
 
