@@ -96,6 +96,8 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_12.png" alt="How to Use Dropdown Field in Customer Step 12">
     </p><br>
 
+    <a id="section4"></a>
+
 13. The area below shows the users's access settings for the dropdown field.
 
     | Field Name| Description |
@@ -111,7 +113,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_13.png" alt="How to Use Dropdown Field in Customer Step 13">
     </p><br>
 
-    <a id="section4"></a>
+    
 
 14. Make sure the dropdown has been toggled as in the image shown below.<br>
 
