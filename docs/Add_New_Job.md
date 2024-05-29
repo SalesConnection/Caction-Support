@@ -63,3 +63,4 @@
 - [How to Add New Customer?](Add_New_Customer.md)
 - [How to Add New Project?](Add_New_Project.md)
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
+- [How to Create New Digital Form?](Create_New_Digital_Form.md)
