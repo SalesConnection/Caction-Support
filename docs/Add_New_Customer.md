@@ -51,3 +51,4 @@
 
 **Related Articles**<br>
 - [How to Add New Project?](Add_New_Project.md)
+- [How to Add New Job?](Add_New_Job.md)
