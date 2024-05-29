@@ -86,11 +86,11 @@
 
 ### Edit Dropdown Option
 
- 10. If you wish to amend the one of the option, you can double-click on the option to enter edit mode.
+10. If you wish to amend the one of the option, you can double-click on the option to enter edit mode.
 
-     <p align="center">
-       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_10.png" alt="How to Use Dropdown Field in Customer Step 10">
-     </p><br>
+    <p align="center">
+      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_10.png" alt="How to Use Dropdown Field in Customer Step 10">
+    </p><br>
 
  11. Enter the correct name of the option.
 
