@@ -16,7 +16,7 @@
   3. Click on the "Create Digital Form" icon.<br>
 
      <p align="center">
-       <img src="img/Create_New_Digital_Form_Step_3.png" alt="Create New Digital Form Step 3">
+       <img src="img/Create_Digital_Form_Step_3.png" alt="Create Digital Form Step 3">
      </p>
      
   4. Select the type of digital form you want to create. For this example, select "Quotation".<br>
