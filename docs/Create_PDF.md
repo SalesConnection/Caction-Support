@@ -56,39 +56,65 @@
      
   6. Fill out the details of the new quotation.<br>
 
-     | Field Name| Description |
-     |-------|---------|
-     | Category | Classifies the type of quotation. |
-     | Status | Indicates the current status of the quotation. |
-     | Customer | Select the address of the customer or attach the customer. |
-     | Project | The project associated with this quotation. |
-     | Start Date | The date when the quotation is created. |
-     | Ref No | The reference number for the quotation. |
-     | Payment Term | The terms of payment for the quotation. |
-     | Assigned User | The user responsible for this quotation. |
-     | Reminder | Set a reminder for follow-ups or important dates. |
-     | Validity | The validity period of the quotation. |
-     | Delivery Date | The expected delivery date for the products/services. |
-     | Product/Services List | The list of products or services included in the quotation. |
-     | Description | Additional details or description of the quotation. |
+     **Section a:** PDF Settings
+     
+     | Field Name | Description |
+     |------------|-------------|
+     | Page Size| Select the size of the PDF (standard PDF or receipt size). |
+     | Page Numbering | Choose whether to include page numbers. |
+     | Collection Section | Decide if the collection section should be included. |
+     | Comment Image Display per Row | Determine how many images should be displayed per row in the comment section. |
+
+     <br>**Section b:** Dynamic Header Name
+     
+     | Field Name | Description |
+     |------------|-------------|
+     | Product/Services | Specify the text for the product/services header. |
+     | Asset | Specify the text for the asset header. |
+     | Acknowledgement & Feedback | Specify the text for the acknowledgement & feedback header. |
+     | Comment | Specify the text for the comment header. |
+
+     <br>**Section c:** Comment Section Control
+
+     | Field Name | Description |
+     |------------|-------------|
+     | Timestamp | Toggle to include a timestamp in the comment section. |
+     | Owner | Toggle to include the owner information in the comment section. |
+     | Updates Force Pagebreak | Toggle to force a page break after updates in the comment section. |
+
+     <br>**Section d:** Header Title Visibility Control
+
+     | Field Name | Description |
+     |------------|-------------|
+     | Product/Services | Toggle to show or hide the product/services header. |
+     | Signature | Toggle to show or hide the signature header. |
+     | Asset | Toggle to show or hide the asset header. |
+
+     <br>**Section e:** Default and Custom Fields
+
+     | Field Name | Description |
+     |------------|-------------|
+     | Force Empty Line | Option to add an empty line for formatting. |
+     | Digital Form Fields | Drag and drop the digital form fields to show in the PDF. |
+
           
      <p align="center">
        <img src="img/Create_PDF_Step_6.png" alt="Create PDF Step 6">
      </p>
 
-7. Click on the "Save" icon.<br>
+8. Click on the "Save" icon.<br>
 
      <p align="center">
        <img src="img/Create_PDF_Step_7.png" alt="Create PDF Step 7">
      </p>
 
-8. Click "OK" to confirm the save change.<br>
+9. Click "OK" to confirm the save change.<br>
 
    <p align="center">
        <img src="img/Create_PDF_Step_8.png" alt="Create PDF Step 8">
      </p>
 
-9. Click "OK" and the new quotation has been added successfully.<br>
+10. Click "OK" and the new quotation has been added successfully.<br>
 
      <p align="center">
        <img src="img/Create_PDF_Step_9.png" alt="Create PDF Step 9">
