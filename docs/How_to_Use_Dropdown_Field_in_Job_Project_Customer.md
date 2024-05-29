@@ -80,9 +80,9 @@
 
 10. Make sure the dropdown has been toggled as in the image shown below.<br>
 
-   <p align="center">
+    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_10.png" alt="How to Use Dropdown Field in Customer Step 10">
-   </p><br>
+    </p><br>
 
 11. Click the save button to save this dropdown options.<br>
 
@@ -104,10 +104,10 @@
 
 14. Choose the "Template Overwrite" option you want.
 
-   | Field Name| Description |
-   |-------|---------|
-   | Overwrite All Templates | Apply for all customer category. |
-   | Overwrite Current Template | Apply for existing customer category. |
+    | Field Name| Description |
+    |-------|---------|
+    | Overwrite All Templates | Apply for all customer category. |
+    | Overwrite Current Template | Apply for existing customer category. |
 
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_14.png" alt="How to Use Dropdown Field in Customer Step 14">
