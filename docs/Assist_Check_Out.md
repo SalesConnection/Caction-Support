@@ -36,7 +36,7 @@ Updated: 29 May 2024<br>
      
      *Note: If there is no "Assisted Check out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br>
 
-  3. After performing the action, please advise the user to refresh the job detail page again and ensure the message has been prompted correctly.
+  3. Once the action is done, ask the user to refresh the job detail page to confirm the "Assisted Check out" was successful.
   
      <p align="center">
         <img src="img/Assisted_Check_Out_Done.png" alt="Assisted Check Out Done">
@@ -58,7 +58,7 @@ Updated: 29 May 2024<br>
 
      *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).
 
-  3. After performing the action, please advise the user to refresh the job detail page again and ensure the message has been prompted correctly.
+  3. Once the action is done, ask the user to refresh the job detail page to confirm the "Assisted Check out" was successful.
   
      <p align="center">
         <img src="img/Assisted_Check_Out_Done.png" alt="Assisted Check Out Done">
