@@ -61,3 +61,4 @@
 **Related Articles**<br>
 - [How to Add New Customer?](Add_New_Customer.md)
 - [How to Add New Job?](Add_New_Job.md)
+- [How to Add New Asset?](How_to_Add_New_Asset.md)
