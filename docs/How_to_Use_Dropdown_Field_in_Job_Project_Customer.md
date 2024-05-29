@@ -2,14 +2,16 @@
 
 **Navigate to the section by clicking it.**<br>
 
-- [Add Drodown Field](#section1)<br>
+- [Add Dropdown Field](#section1)<br>
 - [Add More Dropdown Option](#section2)<br>
 - [Edit Dropdown Option](#section3)<br>
 - [Explain Terms](#section4)
 <br><br><br>
 
+### Add Dropdown Field 
+
 <a id="section1"></a>
-1. For example, if you want to add dropdown options for Customer. Go to desktop site navigation bar > Template Settings > Customer Templates.<br>
+1. For example, if you want to add a dropdown options for Customer. Go to desktop site navigation bar > Template Settings > Customer Templates.<br>
    **Open Customer Templates Here**: [https://salesconnection.my/templateSettings/CustomerTemplates](https://salesconnection.my/templateSettings/CustomerTemplates)<br>
    **Open Project Templates Here**: [https://salesconnection.my/templateSettings/DealTemplates](https://salesconnection.my/templateSettings/DealTemplates)<br>
    **Open Job Templates Here**: [https://salesconnection.my/templateSettings/ActivityTemplates](https://salesconnection.my/templateSettings/ActivityTemplates)<br>
@@ -18,21 +20,23 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_1.png" alt="How to Use Dropdown Field in Customer Step 1">
    </p>
 
-2. Make sure that the template info is correct.<br>
+   *Note: If you do not have access to Template Settings page, please contact your admin.
 
-   | Field Name| Description |
-   |-------|---------|
-   | Customer Category | Classifies the customer based on their type. |
-   | Template Short Code | A short code identifier for the template. |
-   | Template Name | The name of the template. |
-   | Company Label| The label used for company names within the template. |
-   | Name Label | The label used for customer names within the template. |
+2. Make sure that the template info is correct.
+   <br>
+    | Field Name| Description |
+    |-------|---------|
+    | Customer Category | Classifies the customer based on their type. |
+    | Template Short Code | A short code identifier for the template. |
+    | Template Name | The name of the template. |
+    | Company Label| The label used for company names within the template. |
+    | Name Label | The label used for customer names within the template. |
    
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_2.png" alt="How to Use Dropdown Field in Customer Step 2">
    </p><br>
 
-3. Scroll down to "Custom Field Settings". Drag "Drop Down" from the left to the "Custom Field View" which is on the right.<br>
+3. Scroll down to "Custom Field Settings". Click "Drop Down" from the left to the "Custom Field View" which is on the right.<br>
 
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_3.png" alt="How to Use Dropdown Field in Customer Step 3">
@@ -70,7 +74,7 @@
   
 <a id="section2"></a>
 
-9. Add more dropdown options by clicking the Enter key on your keyboard.<br>
+9. After you have input the options, press “Enter” on your keyboard to save it as an option.<br>
 
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_9.png" alt="How to Use Dropdown Field in Customer Step 9">
@@ -78,7 +82,9 @@
    
 <a id="section3"></a>
 
-10. If you make a typo in an option and want to edit it, you need to double-click the option.
+### Add More Dropdown Option
+
+10. If you wish to amend the one of the option, you can double-click on the option to enter edit mode.
 
     <p align="center">
       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_10.png" alt="How to Use Dropdown Field in Customer Step 10">
@@ -105,35 +111,34 @@
     | Editable Field | Allows the user to edit the field after it is saved. |
     | Required Field | This field must be filled out before save the customer details. |
     | View to Admin Only | Only admin can view this field. |
-    | View to Admin & Sub Admin Only| Both administrators and sub-administrators can view this field. |
+    | View to Admin & Sub Admin Only| Both admin and sub-admin can view this field. |
     | View to All Users | All users have viewing access to this field. |
     | Public | This field is publicly visible to everyone, including non-logged-in users.|
 
+<br>
     <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_13.png" alt="How to Use Dropdown Field in Customer Step 13">
-    </p><br>
+    </p><br>   
 
-    
-
-14. Make sure the dropdown has been toggled as in the image shown below.<br>
+15. Make sure the dropdown has been toggled as shown in the image below. If the dropdown has been toggled, it means that this dropdown field has been applied in the "Customer Details".<br>
 
     <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_14.png" alt="How to Use Dropdown Field in Customer Step 14">
     </p><br>
 
-15. Click the save button to save this dropdown options.<br>
+16. Click the save button to save all changes on the Template Setting page.<br>
 
     <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_15.png" alt="How to Use Dropdown Field in Customer Step 15">
     </p><br>
 
-16. Click "OK".
+17. Click "OK".
 
     <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_16.png" alt="How to Use Dropdown Field in Customer Step 16">
     </p><br>
 
-17. Choose the "Template Overwrite" option you want.<br>
+18. Choose the "Template Overwrite" option you want.<br>
 
     | Field Name| Description |
     |-------|---------|
@@ -144,7 +149,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_17.png" alt="How to Use Dropdown Field in Customer Step 17">
     </p><br>
 
-18. Click "OK" and your dropdown options have been added successfully.<br>
+19. Click "OK" and your dropdown options have been added successfully.<br>
 
     <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_18.png" alt="How to Use Dropdown Field in Customer Step 18">
