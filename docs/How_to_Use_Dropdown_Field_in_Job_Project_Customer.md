@@ -72,7 +72,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_8.png" alt="How to Use Dropdown Field in Customer Step 8">
    </p><br>
   
-<a id="section2"></a>
+   <a id="section2"></a>
 
 9. After you have input the options, press “Enter” on your keyboard to save it as an option.<br>
 
@@ -80,7 +80,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_9.png" alt="How to Use Dropdown Field in Customer Step 9">
    </p><br>
    
-<a id="section3"></a>
+   <a id="section3"></a>
 
 ### Add More Dropdown Option
 
