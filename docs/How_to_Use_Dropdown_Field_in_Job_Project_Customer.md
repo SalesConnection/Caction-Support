@@ -75,7 +75,9 @@
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_1.png" alt="How to Use Dropdown Field in Customer Step 1">
    </p><br>
-  
+
+   <a id="section4"></a>
+
 10. Make sure the dropdown has been toggled as in the image shown below.<br>
 
    <p align="center">
