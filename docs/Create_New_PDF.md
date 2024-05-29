@@ -19,7 +19,7 @@
        <img src="img/Create_New_PDF_Step_3.png" alt="Create New PDF Step 3">
      </p>
   
-  4. Click on the "Create Digital Form" icon.<br>
+  4. Table below showed the definition of the terms.<br>
 
      **Section a:** Load Template<br>
      
