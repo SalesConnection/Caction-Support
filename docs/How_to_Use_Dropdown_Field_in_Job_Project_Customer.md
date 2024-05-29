@@ -106,6 +106,8 @@
 
      <a id="section4"></a>
 
+### Explain Terms
+
 13. The area below shows the users's access settings for the dropdown field.
 
     | Field Name| Description |
