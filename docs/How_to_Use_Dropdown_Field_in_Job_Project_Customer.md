@@ -96,33 +96,48 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_12.png" alt="How to Use Dropdown Field in Customer Step 12">
     </p><br>
 
+13. The area below shows the users's access settings for the dropdown field.
+
+   | Field Name| Description |
+   |-------|---------|
+   | Editable Field | Allows the user to edit the field after it is saved. |
+   | Required Field | This field must be filled out before save the customer details. |
+   | View to Admin Only | Only admin can view this field. |
+   | View to Admin & Sub Admin Only| Both administrators and sub-administrators can view this field. |
+   | View to All Users | All users have viewing access to this field. |
+   | Public | This field is publicly visible to everyone, including non-logged-in users.|
+
+    <p align="center">
+     <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_13.png" alt="How to Use Dropdown Field in Customer Step 13">
+    </p><br>
+
     <a id="section4"></a>
 
-14. Make sure the dropdown has been toggled as in the image shown below.<br>
+15. Make sure the dropdown has been toggled as in the image shown below.<br>
 
     <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_14.png" alt="How to Use Dropdown Field in Customer Step 14">
     </p><br>
 
-15. Click the save button to save this dropdown options.<br>
+16. Click the save button to save this dropdown options.<br>
 
     <p align="center">
      <img src="How_to_Use_Drodown_Field_in_Customer_Step_13.png" alt="How to Use Dropdown Field in Customer Step 15">
     </p><br>
 
-16. Click "OK".<br>
+17. Click "OK".<br>
 
     <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_16.png" alt="How to Use Dropdown Field in Customer Step 16">
     </p><br>
 
-17. Click "OK" and your dropdown options have been added successfully.<br>
+18. Click "OK" and your dropdown options have been added successfully.<br>
 
     <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_17.png" alt="How to Use Dropdown Field in Customer Step 17">
     </p><br>
 
-18. Choose the "Template Overwrite" option you want.
+19. Choose the "Template Overwrite" option you want.
 
     | Field Name| Description |
     |-------|---------|
