@@ -1,4 +1,4 @@
-## How to Create New PDF?
+## How to Create PDF?
     
   1. At the desktop site's navigation bar, go to Template Settings > Digital Form Templates > PDF Template Customization.<br>
      **Create New PDF Here:** [https://salesconnection.my/DigitalFormSetting/templatecustomisation](https://salesconnection.my/DigitalFormSetting/templatecustomisation)<br>
