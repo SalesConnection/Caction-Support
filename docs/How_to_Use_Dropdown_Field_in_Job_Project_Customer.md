@@ -92,43 +92,43 @@
       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_10.png" alt="How to Use Dropdown Field in Customer Step 10">
     </p><br>
 
- 11. Enter the correct name of the option.
+11. Enter the correct name of the option.
 
-     <p align="center">
-       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_11.png" alt="How to Use Dropdown Field in Customer Step 11">
-     </p><br>
+    <p align="center">
+      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_11.png" alt="How to Use Dropdown Field in Customer Step 11">
+    </p><br>
 
- 12. After edit the name of the option, press Enter key on your keyboard.
+12. After edit the name of the option, press Enter key on your keyboard.
 
-     <p align="center">
-       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_12.png" alt="How to Use Dropdown Field in Customer Step 12">
-     </p><br>
+    <p align="center">
+      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_12.png" alt="How to Use Dropdown Field in Customer Step 12">
+   </p><br>
 
-     <a id="section4"></a>
+   <a id="section4"></a>
 
 ### Explain Terms
 
- 13. The area below shows the users's access settings for the dropdown field.
+13. The area below shows the users's access settings for the dropdown field.
 
-     | Field Name| Description |
-     |-------|---------|
-     | Editable Field | Allows the user to edit the field after it is saved. |
-     | Required Field | This field must be filled out before save the customer details. |
-     | View to Admin Only | Only admin can view this field. |
-     | View to Admin & Sub Admin Only| Both admin and sub-admin can view this field. |
-     | View to All Users | All users have viewing access to this field. |
-     | Public | This field is publicly visible to everyone, including non-logged-in users.|
+    | Field Name| Description |
+    |-------|---------|
+    | Editable Field | Allows the user to edit the field after it is saved. |
+    | Required Field | This field must be filled out before save the customer details. |
+    | View to Admin Only | Only admin can view this field. |
+    | View to Admin & Sub Admin Only| Both admin and sub-admin can view this field. |
+    | View to All Users | All users have viewing access to this field. |
+    | Public | This field is publicly visible to everyone, including non-logged-in users.|
 
 <br>
     <p align="center">
       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_13.png" alt="How to Use Dropdown Field in Customer Step 13">
     </p><br>   
 
- 15. Make sure the dropdown has been toggled as shown in the image below. If the dropdown has been toggled, it means that this dropdown field has been applied in the "Customer Details".<br>
+15. Make sure the dropdown has been toggled as shown in the image below. If the dropdown has been toggled, it means that this dropdown field has been applied in the "Customer Details".<br>
 
-     <p align="center">
-       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_14.png" alt="How to Use Dropdown Field in Customer Step 14">
-     </p><br>
+    <p align="center">
+      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_14.png" alt="How to Use Dropdown Field in Customer Step 14">
+    </p><br>
 
  16. Click the save button to save all changes on the Template Setting page.<br>
 
