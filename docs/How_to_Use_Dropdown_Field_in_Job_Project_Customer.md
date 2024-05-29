@@ -22,8 +22,8 @@
 
    *Note: If you do not have access to Template Settings page, please contact your admin.
 
-2. Make sure that the template info is correct.
-   <br>
+2. Make sure that the template info is correct.<br>
+   
     | Field Name| Description |
     |-------|---------|
     | Customer Category | Classifies the customer based on their type. |
@@ -72,7 +72,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_8.png" alt="How to Use Dropdown Field in Customer Step 8">
    </p><br>
   
-   <a id="section2"></a>
+    <a id="section2"></a>
 
 9. After you have input the options, press “Enter” on your keyboard to save it as an option.<br>
 
@@ -80,7 +80,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_9.png" alt="How to Use Dropdown Field in Customer Step 9">
    </p><br>
    
-   <a id="section3"></a>
+    <a id="section3"></a>
 
 ### Add More Dropdown Option
 
@@ -102,7 +102,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_12.png" alt="How to Use Dropdown Field in Customer Step 12">
     </p><br>
 
-    <a id="section4"></a>
+     <a id="section4"></a>
 
 13. The area below shows the users's access settings for the dropdown field.
 
