@@ -36,7 +36,12 @@ Updated: 29 May 2024<br>
      
      *Note: If there is no "Assisted Check out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br>
 
-  3. After performing the action, please advise the user to refresh the job detail page again to make sure the "Assisted Check out" has been performed successfully.<br><br>
+  3. After performing the action, please advise the user to refresh the job detail page again to make sure the "Assisted Check out" has been performed successfully.
+  
+     <p align="center">
+        <img src="img/Assisted_Check_Out_Done.png" alt="Assisted Check Out Done">
+     </p>
+<br><br>
 
   **Mobile Version**<br>
   1. To assist check out, go to Dashboard > Business Map.<br>
@@ -53,8 +58,11 @@ Updated: 29 May 2024<br>
 
      *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).
 
-  3. After performing the action, please advise the user to refresh the job detail page to make sure the "Assisted Check out" has been performed successfully.
-
+   3. After performing the action, please advise the user to refresh the job detail page again to make sure the "Assisted Check out" has been performed successfully.
+  
+     <p align="center">
+        <img src="img/Assisted_Check_Out_Done.png" alt="Assisted Check Out Done">
+     </p>ZW
   <br><br><br>
 
 **Related Articles**
