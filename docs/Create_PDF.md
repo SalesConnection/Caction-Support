@@ -19,7 +19,7 @@
        <img src="img/Create_PDF_Step_3.png" alt="Create PDF Step 3">
      </p>
   
-  4. Table below showed the definition of the terms.<br>
+  4. The table below showed the definition of the terms.<br>
 
      **Section a:** Load Template<br>
      
