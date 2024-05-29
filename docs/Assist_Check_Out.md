@@ -62,7 +62,7 @@ Updated: 29 May 2024<br>
   
      <p align="center">
         <img src="img/Assisted_Check_Out_Done.png" alt="Assisted Check Out Done">
-     </p>ZW
+     </p>
   <br><br><br>
 
 **Related Articles**
