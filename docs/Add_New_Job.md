@@ -25,7 +25,7 @@
        <img src="img/Add_New_Job_Step_4.png" alt="Add New Job Step 4">
      </p>
      
-  5. Fill out the details of the new customer.<br>
+  5. Fill out the details of the new job.<br>
 
      | Field Name| Description |
      |-------|---------|
