@@ -103,12 +103,8 @@
 
      <br>**Section g:** Default and Custom Fields
 
-     | Field Name | Description |
-     |------------|-------------|
-     | Force Empty Line | Option to add an empty line for formatting. |
-     | Digital Form Fields | Drag and drop the digital form fields to show in the PDF. |
+     All the digital form fields will be placed here. Drag and drop the elements to place them at the place you want to show in PDF.<br> 
 
-          
      <p align="center">
        <img src="img/Create_PDF_Step_6.png" alt="Create PDF Step 6">
      </p>
