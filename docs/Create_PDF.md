@@ -20,13 +20,11 @@
      </p>
   
   4. "Load Template" is used to choose the digital form that needs to change PDF template settings.<br>
-
-     **Section a:** Load Template<br>
      
-     | Field Name | Description |
-     |------------|-------------|
-     | Digital Form Template | Select the type of digital form to load. |
-     | Digital Form Category | Specify the category of the digital form. |
+     | No | Field Name | Description |
+     |----|------------|-------------|
+     | a | Digital Form Template | Select the type of digital form to load. |
+     | b | Digital Form Category | Specify the category of the digital form. |
      
      <p align="center">
        <img src="img/Create_PDF_Step_4.png" alt="Create PDF Step 4">
@@ -34,14 +32,12 @@
      
   5. "Meta Data Visibility Control" will show the details of the digital form on top of the PDF.<br>
 
-     **Section b:** Meta Data Visibility Control
-
-     | Field Name | Description |
-     |------------|-------------|
-     | Status Label | Define the status label for the digital form. |
-     | Category Name | Define the category name for the digital form. |
-     | Digital Form Seq. No | Specify the sequence number for the digital form. |
-     | Source Label | Specify the source label |
+     | No | Field Name | Description |
+     |----|------------|-------------|
+     | a | Status Label | Define the status label for the digital form. |
+     | b | Category Name | Define the category name for the digital form. |
+     | c | Digital Form Seq. No | Specify the sequence number for the digital form. |
+     | d | Source Label | Specify the source label |
      
      <p align="center">
        <img src="img/Create_PDF_Step_5a.png" alt="Create PDF Step 5a">
@@ -54,16 +50,14 @@
      </p>
 
   6. "PDF Settings" is represented as Section c.<br>
-
-     **Section c:** PDF Settings
      
-     | Field Name | Description |
-     |------------|-------------|
-     | Page Size| Select the size of the PDF (standard PDF or receipt size). |
-     | Page Numbering | Choose whether to include page numbers. |
-     | Collection Section | Decide if the collection section should be included. |
-     | Comment Image Display per Row | Determine how many images should be displayed per row in the comment section. |
-
+     | No | Field Name | Description |
+     |----|------------|-------------|
+     | a | Page Size| Select the size of the PDF (standard PDF or receipt size). |
+     | b | Page Numbering | Choose whether to include page numbers. |
+     | c | Collection Section | Decide if the collection section should be included. |
+     | d | Comment Image Display per Row | Determine how many images should be displayed per row in the comment section. |
+ 
      <p align="center">
        <img src="img/Create_PDF_Step_6a.png" alt="Create PDF Step 6a">
      </p>
