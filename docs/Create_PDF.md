@@ -125,6 +125,7 @@
       <p align="center">
         <img src="img/Create_PDF_Step_10.png" alt="Create PDF Step 10">
       </p>
+      
      <br><br><br>
 
 **Related Articles**<br>
