@@ -5,7 +5,7 @@
 - [Add Dropdown Field](#section1)<br>
 - [Add More Dropdown Option](#section2)<br>
 - [Edit Dropdown Option](#section3)<br>
-- [Explain Terms](#section4)
+
 <br><br><br>
 
    <a id="section1"></a>
