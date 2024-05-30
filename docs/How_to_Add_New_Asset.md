@@ -54,7 +54,7 @@
 8. This is the Asset Details result.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Result.png" alt="How to add new asset Result>
+     <img src="img/How_to_Create_Asset_Result.png" alt="How to add new asset Result">
    </p>
   <br><br><br>
 
