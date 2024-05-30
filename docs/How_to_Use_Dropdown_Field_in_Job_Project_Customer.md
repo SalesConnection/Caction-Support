@@ -103,11 +103,11 @@
 
     <p align="center">
       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_12.png" alt="How to Use Dropdown Field in Customer Step 12">
-   </p><br>
+    </p><br>
 
    <a id="section4"></a>
 
-**Explain Terms**
+    **Explain Terms**
 
 13. The area below shows the users's access settings for the dropdown field.
 
@@ -120,7 +120,6 @@
     | View to All Users | All users have viewing access to this field. |
     | Public | This field is publicly visible to everyone, including non-logged-in users.|
 
-<br>
     <p align="center">
       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_13.png" alt="How to Use Dropdown Field in Customer Step 13">
     </p><br>   
