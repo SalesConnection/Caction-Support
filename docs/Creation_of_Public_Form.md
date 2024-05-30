@@ -1,14 +1,14 @@
 ## How to Generate Public Form?
 
 - [Create QR Code For Asset- Desktop](#section1)<br>
-- [Create QR Code For Asset- Mobile ]
-- [Save / or Send QR Code to Customer - Desktop](#section2)<br>
-- [Use External Scannner to scan the QR code](#section3)<br>
+- [Create QR Code For Asset- Mobile App](#section2)<br>
+- [Save / or Send QR Code to Customer - Desktop](#section3)<br>
+- [Save / or Send QR Code to Customer - Mobile App](#section4)<br>
+- [Use External Scannner to scan the QR code](#section5)<br><br><br>
 
-<a id="section1"></a>
+   <a id="section1"></a>
 
-**Create QR Code For Asset**
-**Desktop Site:**
+### Create QR Code For Asset - Desktop
 
 1. For example, if you want to create a Public Form for Asset, go to Main Navigation > Business Management > Asset List.<br>
      **Open Asset List Page Here:** [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
@@ -39,14 +39,15 @@
 
    <p align="center">
      <img src="img/How_to_Create_Public_Form_Step_5.png" alt="Creation of Public Fprm Step 5">
-   </p>
+   </p><br><br><br>
 
-<a id="section2"></a>
+   <a id="section3"></a>
 
-**Save / or Send QR Code to Customer**
+### Save / or Send QR Code to Customer 
 **Desktop Site:**
 
-6. 
+**Print QR**
+1. 
 
 
 
