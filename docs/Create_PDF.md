@@ -19,7 +19,7 @@
        <img src="img/Create_PDF_Step_3.png" alt="Create PDF Step 3">
      </p>
   
-  4. "Load Template" is to choose the digital form that needs to change PDF template settings.<br>
+  4. "Load Template" is used to choose the digital form that needs to change PDF template settings.<br>
 
      **Section a:** Load Template<br>
      
@@ -32,7 +32,7 @@
        <img src="img/Create_PDF_Step_4.png" alt="Create PDF Step 4">
      </p>
      
-  5. "Meta Data Visibility Control" shows the details of the digital form on top of the PDF.<br>
+  5. "Meta Data Visibility Control" will show the details of the digital form on top of the PDF.<br>
 
      **Section b:** Meta Data Visibility Control
 
@@ -47,13 +47,13 @@
        <img src="img/Create_PDF_Step_5a.png" alt="Create PDF Step 5a">
      </p>
 
-     This section will be shown here in PDF.<br>
+     This section will be shown here in PDF and its position cannot be changed.<br>
      
      <p align="center">
        <img src="img/Create_PDF_Step_5b.png" alt="Create PDF Step 5b">
      </p>
 
-  6. "PDF Settings" is .<br>
+  6. "PDF Settings" is represented as Section c.<br>
 
      **Section c:** PDF Settings
      
@@ -65,7 +65,13 @@
      | Comment Image Display per Row | Determine how many images should be displayed per row in the comment section. |
 
      <p align="center">
-       <img src="img/Create_PDF_Step_5.png" alt="Create PDF Step 5">
+       <img src="img/Create_PDF_Step_6a.png" alt="Create PDF Step 6a">
+     </p>
+
+     This section will be shown here in PDF and its position cannot be changed.<br>
+     
+     <p align="center">
+       <img src="img/Create_PDF_Step_6b.png" alt="Create PDF Step 6b">
      </p>
      
   8. Fill out the details of the new quotation.<br>
