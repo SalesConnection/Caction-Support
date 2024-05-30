@@ -40,16 +40,16 @@
      | d | Source Label | Specify the source label |
      
      <p align="center">
-       <img src="img/Create_PDF_Step_5a.png" alt="Create PDF Step 5a">
+       <img src="img/Create_PDF_Step_5.png" alt="Create PDF Step 5">
      </p>
 
      This section will be shown here in PDF and its position cannot be changed.<br>
      
      <p align="center">
-       <img src="img/Create_PDF_Step_5b.png" alt="Create PDF Step 5b">
+       <img src="img/Create_PDF_Step_5a.png" alt="Create PDF Step 5a">
      </p>
 
-  6. "PDF Settings" is represented as Section c.<br>
+  6. "PDF Settings" is represented as below.<br>
      
      | No | Field Name | Description |
      |----|------------|-------------|
@@ -59,67 +59,72 @@
      | d | Comment Image Display per Row | Determine how many images should be displayed per row in the comment section. |
  
      <p align="center">
-       <img src="img/Create_PDF_Step_6a.png" alt="Create PDF Step 6a">
-     </p>
-
-     This section will be shown here in PDF and its position cannot be changed.<br>
-     
-     <p align="center">
-       <img src="img/Create_PDF_Step_6b.png" alt="Create PDF Step 6b">
-     </p>
-     
-  8. Fill out the details of the new quotation.<br>
-
-     **Section d:** Dynamic Header Name
-     
-     | Field Name | Description |
-     |------------|-------------|
-     | Product/Services | Specify the text for the product/services header. |
-     | Asset | Specify the text for the asset header. |
-     | Acknowledgement & Feedback | Specify the text for the acknowledgement & feedback header. |
-     | Comment | Specify the text for the comment header. |
-
-     <br>**Section e:** Comment Section Control
-
-     | Field Name | Description |
-     |------------|-------------|
-     | Timestamp | Toggle to include a timestamp in the comment section. |
-     | Owner | Toggle to include the owner information in the comment section. |
-     | Updates Force Pagebreak | Toggle to force a page break after updates in the comment section. |
-
-     <br>**Section f:** Header Title Visibility Control
-
-     | Field Name | Description |
-     |------------|-------------|
-     | Product/Services | Toggle to show or hide the product/services header. |
-     | Signature | Toggle to show or hide the signature header. |
-     | Asset | Toggle to show or hide the asset header. |
-
-     <br>**Section g:** Default and Custom Fields
-
-     All the digital form fields will be placed here. Drag and drop the elements to place them at the place you want to show in PDF.<br> 
-
-     <p align="center">
        <img src="img/Create_PDF_Step_6.png" alt="Create PDF Step 6">
      </p>
 
-9. Click on the "Save" icon.<br>
+     Page numbering, collection section, and comment image display settings will be shown as the images below.<br>
+     
+     <p align="center">
+       <img src="img/Create_PDF_Step_6a.png" alt="Create PDF Step 6a">
+     </p>
+
+     <p align="center">
+       <img src="img/Create_PDF_Step_6a.png" alt="Create PDF Step 6a">
+     </p>
+     
+  7. Change the dynamic header name by entering a new name for it. For example, enter "Service Charges" to replace the "Product/Services".<br>
 
      <p align="center">
        <img src="img/Create_PDF_Step_7.png" alt="Create PDF Step 7">
      </p>
 
-10. Click "OK" to confirm the save change.<br>
+     The result will be shown as the image below where the header will changed to "Service Charges".<br>
 
-   <p align="center">
+     <p align="center">
+       <img src="img/Create_PDF_Step_7a.png" alt="Create PDF Step 7a">
+     </p>
+
+  8. "Comment Section Control" is represented as below.<br>
+
+     | No | Field Name | Description |
+     |----|------------|-------------|
+     | a | Timestamp | Toggle to include a timestamp in the comment section. |
+     | b | Owner | Toggle to include the owner information in the comment section. |
+     | c | Updates Force Pagebreak | Toggle to force a page break after updates in the comment section. |
+
+     <p align="center">
        <img src="img/Create_PDF_Step_8.png" alt="Create PDF Step 8">
      </p>
 
-11. Click "OK" and the new quotation has been added successfully.<br>
+     The result will be shown as the image below where the header will changed to "Service Charges".<br>
 
+     <p align="center">
+       <img src="img/Create_PDF_Step_8a.png" alt="Create PDF Step 8a">
+     </p>
+
+  9. "Header Title Visibility Control" will control the visibility of the title in the PDF.<br>
+
+     | No | Field Name | Description |
+     |----|------------|-------------|
+     | a | Product/Services | Toggle to show or hide the product/services header. |
+     | b | Signature | Toggle to show or hide the signature header. |
+     | c | Asset | Toggle to show or hide the asset header. |
+   
      <p align="center">
        <img src="img/Create_PDF_Step_9.png" alt="Create PDF Step 9">
      </p>
+
+     For example, the visibility of "Product/Services" and "Asset" has been toggled. The header will be shown in PDF as the image below.<br>
+
+     <p align="center">
+       <img src="img/Create_PDF_Step_9a.png" alt="Create PDF Step 9a">
+     </p>
+
+  10. All the digital form fields will be placed here. Drag and drop the elements to place them at the place you want to show in PDF.<br> 
+
+      <p align="center">
+        <img src="img/Create_PDF_Step_10.png" alt="Create PDF Step 10">
+      </p>
      <br><br><br>
 
 **Related Articles**<br>
