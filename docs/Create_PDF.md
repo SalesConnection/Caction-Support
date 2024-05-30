@@ -69,7 +69,7 @@
      </p>
 
      <p align="center">
-       <img src="img/Create_PDF_Step_6a.png" alt="Create PDF Step 6a">
+       <img src="img/Create_PDF_Step_6b.png" alt="Create PDF Step 6b">
      </p>
      
   7. Change the dynamic header name by entering a new name for it. For example, enter "Service Charges" to replace the "Product/Services".<br>
