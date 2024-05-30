@@ -8,9 +8,10 @@
 - [Explain Terms](#section4)
 <br><br><br>
 
-**Add Dropdown Field**
-
    <a id="section1"></a>
+
+   **Add Dropdown Field**
+
 1. For example, if you want to add a dropdown options for Customer. Go to desktop site navigation bar > Template Settings > Customer Templates.<br>
    **Open Customer Templates Here**: [https://salesconnection.my/templateSettings/CustomerTemplates](https://salesconnection.my/templateSettings/CustomerTemplates)<br>
    **Open Project Templates Here**: [https://salesconnection.my/templateSettings/DealTemplates](https://salesconnection.my/templateSettings/DealTemplates)<br>
@@ -74,7 +75,7 @@
   
     <a id="section2"></a>
 
-**Add More Dropdown Option**
+   **Add More Dropdown Option**
 
 9. After you have input the options, press “Enter” on your keyboard to save it as an option.<br>
 
@@ -84,7 +85,7 @@
    
     <a id="section3"></a>
 
-**Edit Dropdown Option**
+    **Edit Dropdown Option**
 
 10. If you wish to amend the one of the option, you can double-click on the option to enter edit mode.
 
