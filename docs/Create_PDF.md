@@ -126,7 +126,7 @@
         <img src="img/Create_PDF_Step_10.png" alt="Create PDF Step 10">
       </p>
       
-     <br><br><br>
+      <br><br><br>
 
 **Related Articles**<br>
 - [How to Add New Customer?](Add_New_Customer.md)
