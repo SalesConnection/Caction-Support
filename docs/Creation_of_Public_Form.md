@@ -45,6 +45,12 @@
 
 ### Save / or Send QR Code to Customer - Desktop
 
+- [Print QR](#section6)<br>
+- [Copy Link](#section7)<br>
+- [Download QR](#section8)<br><br><br>
+
+<a id="section6"></a>
+
 **Print QR**
 
 1. If you wish to print the QR code for the Asset, clcik "Print QR".<br>
@@ -58,6 +64,8 @@
    <p align="center">
      <img src="img/Print_QR_For_Asset_in_Desktop_Step_2.png" alt="Print QR Code for Asset Step 2">
    </p><br>
+
+<a id="section7"></a>
 
 **Copy Link**
 
@@ -84,6 +92,8 @@
    <p align="center">
      <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_4.png" alt="Copy and Send Link of Asset to Customer Step 4">
    </p><br>
+
+<a id="section8"></a>
 
 **Download QR**
 
