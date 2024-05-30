@@ -40,6 +40,8 @@
      <img src="img/How_to_Create_Public_Form_Step_5.png" alt="Creation of Public Fprm Step 5">
    </p>
 
+<a id="section2"></a>
+
 6. 
 
 
