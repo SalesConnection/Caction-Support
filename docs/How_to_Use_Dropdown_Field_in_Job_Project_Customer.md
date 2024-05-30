@@ -21,7 +21,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_1.png" alt="How to Use Dropdown Field in Customer Step 1">
    </p>
 
-   *Note: If you do not have access to Template Settings page, please contact your admin.
+   *Note: If you do not have access to Template Settings page, please contact your admin.<br>
 
 2. Make sure that the template info is correct.<br>
    
