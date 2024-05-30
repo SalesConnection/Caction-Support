@@ -1,7 +1,8 @@
 ## How to Generate Public Form?
 
-- [Create QR Code For Asset](#section1)<br>
-- [Save / or Send QR Code to Customer](#section2)<br>
+- [Create QR Code For Asset- Desktop](#section1)<br>
+- [Create QR Code For Asset- Mobile ]
+- [Save / or Send QR Code to Customer - Desktop](#section2)<br>
 - [Use External Scannner to scan the QR code](#section3)<br>
 
 <a id="section1"></a>
@@ -41,6 +42,9 @@
    </p>
 
 <a id="section2"></a>
+
+**Save / or Send QR Code to Customer**
+**Desktop Site:**
 
 6. 
 
