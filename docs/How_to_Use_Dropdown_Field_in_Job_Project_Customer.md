@@ -105,7 +105,7 @@
       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_12.png" alt="How to Use Dropdown Field in Customer Step 12">
     </p><br>
 
-   <a id="section4"></a>
+    <a id="section4"></a>
 
     **Explain Terms**
 
