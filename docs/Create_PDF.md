@@ -19,7 +19,7 @@
        <img src="img/Create_PDF_Step_3.png" alt="Create PDF Step 3">
      </p>
   
-  4. The table below showed the definition of the terms.<br>
+  4. "Load Template" is to choose the digital form that needs to change PDF template settings.<br>
 
      **Section a:** Load Template<br>
      
@@ -27,15 +27,14 @@
      |------------|-------------|
      | Digital Form Template | Select the type of digital form to load. |
      | Digital Form Category | Specify the category of the digital form. |
-
-     <br>**Section b:** Copy Template from Different Category<br>
      
-     | Field Name | Description |
-     |------------|-------------|
-     | Digital Form Template | Select the type of digital form to copy from. |
-     | Digital Form Category | Specify the category of the digital form to copy from. |
+     <p align="center">
+       <img src="img/Create_PDF_Step_4.png" alt="Create PDF Step 4">
+     </p>
+     
+  5. "Meta Data Visibility Control" shows the details of the digital form on top of the PDF.<br>
 
-     <br>**Section c:** Meta Data Visibility Control
+     **Section b:** Meta Data Visibility Control
 
      | Field Name | Description |
      |------------|-------------|
@@ -45,18 +44,18 @@
      | Source Label | Specify the source label |
      
      <p align="center">
-       <img src="img/Create_PDF_Step_4.png" alt="Create PDF Step 4">
+       <img src="img/Create_PDF_Step_5a.png" alt="Create PDF Step 5a">
      </p>
-     
-  5. Select the type of digital form you want to create. For this example, select "Quotation".<br>
 
+     This section will be shown here in PDF.<br>
+     
      <p align="center">
-       <img src="img/Create_PDF_Step_5.png" alt="Create PDF Step 5">
+       <img src="img/Create_PDF_Step_5b.png" alt="Create PDF Step 5b">
      </p>
-     
-  6. Fill out the details of the new quotation.<br>
 
-     **Section a:** PDF Settings
+  6. "PDF Settings" is .<br>
+
+     **Section c:** PDF Settings
      
      | Field Name | Description |
      |------------|-------------|
@@ -65,7 +64,13 @@
      | Collection Section | Decide if the collection section should be included. |
      | Comment Image Display per Row | Determine how many images should be displayed per row in the comment section. |
 
-     <br>**Section b:** Dynamic Header Name
+     <p align="center">
+       <img src="img/Create_PDF_Step_5.png" alt="Create PDF Step 5">
+     </p>
+     
+  8. Fill out the details of the new quotation.<br>
+
+     **Section d:** Dynamic Header Name
      
      | Field Name | Description |
      |------------|-------------|
@@ -74,7 +79,7 @@
      | Acknowledgement & Feedback | Specify the text for the acknowledgement & feedback header. |
      | Comment | Specify the text for the comment header. |
 
-     <br>**Section c:** Comment Section Control
+     <br>**Section e:** Comment Section Control
 
      | Field Name | Description |
      |------------|-------------|
@@ -82,7 +87,7 @@
      | Owner | Toggle to include the owner information in the comment section. |
      | Updates Force Pagebreak | Toggle to force a page break after updates in the comment section. |
 
-     <br>**Section d:** Header Title Visibility Control
+     <br>**Section f:** Header Title Visibility Control
 
      | Field Name | Description |
      |------------|-------------|
@@ -90,7 +95,7 @@
      | Signature | Toggle to show or hide the signature header. |
      | Asset | Toggle to show or hide the asset header. |
 
-     <br>**Section e:** Default and Custom Fields
+     <br>**Section g:** Default and Custom Fields
 
      | Field Name | Description |
      |------------|-------------|
@@ -102,19 +107,19 @@
        <img src="img/Create_PDF_Step_6.png" alt="Create PDF Step 6">
      </p>
 
-8. Click on the "Save" icon.<br>
+9. Click on the "Save" icon.<br>
 
      <p align="center">
        <img src="img/Create_PDF_Step_7.png" alt="Create PDF Step 7">
      </p>
 
-9. Click "OK" to confirm the save change.<br>
+10. Click "OK" to confirm the save change.<br>
 
    <p align="center">
        <img src="img/Create_PDF_Step_8.png" alt="Create PDF Step 8">
      </p>
 
-10. Click "OK" and the new quotation has been added successfully.<br>
+11. Click "OK" and the new quotation has been added successfully.<br>
 
      <p align="center">
        <img src="img/Create_PDF_Step_9.png" alt="Create PDF Step 9">
