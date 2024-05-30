@@ -120,12 +120,66 @@
        <img src="img/Create_PDF_Step_9a.png" alt="Create PDF Step 9a">
      </p>
 
-  10. All the digital form fields will be placed here. Drag and drop the elements to place them at the place you want to show in PDF.<br> 
+  10. Click on the "Add Row" button to add elements.<br>
 
       <p align="center">
-        <img src="img/Create_PDF_Step_10.png" alt="Create PDF Step 10">
+       <img src="img/Create_PDF_Step_10.png" alt="Create PDF Step 10">
       </p>
+  
+  11. Select the column number you want to show in a row.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_11.png" alt="Create PDF Step 11">
+      </p>
+  
+  12. A new row with two columns is added.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_12.png" alt="Create PDF Step 12">
+      </p>
+  
+  13. All the digital form fields will be placed here. Drag and drop the elements to place them in the empty column to show in PDF.<br> 
+      *Note: "Force empty line" is used to place an empty line between two elements.<br>
       
+      <p align="center">
+        <img src="img/Create_PDF_Step_13.png" alt="Create PDF Step 13">
+      </p>
+
+  14. After editing the PDF template, scroll up to the "Load Template" and click on the "Save" button.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_14.png" alt="Create PDF Step 14">
+      </p>
+
+  15. Click "YES" to confirm.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_15.png" alt="Create PDF Step 15">
+      </p>
+
+  16. Click "OK" and the PDF template has been saved successfully.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_16.png" alt="Create PDF Step 16">
+      </p>
+
+  17. To generate PDF for digital form, at the desktop site navigation bar, go to Business Reports > Digital Form Report.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_17.png" alt="Create PDF Step 17">
+      </p>
+
+  18. Click on the "Quotation" to select the category of the digital form.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_18.png" alt="Create PDF Step 18">
+      </p>
+
+  19. Click on the category of the digital form that needs to generate PDF.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_18.png" alt="Create PDF Step 18">
+      </p>
       <br><br><br>
 
 **Related Articles**<br>
