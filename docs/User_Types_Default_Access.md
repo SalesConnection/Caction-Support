@@ -8,7 +8,7 @@ User type sets what a user can see in the system. For instance, an Admin can see
 There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User.<br>
 
 <p align="center">
-   <img src="img/User_Type.jpg" alt="User Type">
+   <img src="img/User_Type.png" alt="User Type">
 </p>
 
 <br>
