@@ -38,7 +38,7 @@
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_2.png" alt="How to Use Dropdown Field in Customer Step 2">
    </p><br>
 
-3. Scroll down to "Custom Field Settings". Click "Drop Down" from the left to the "Custom Field View" which is on the right.<br>
+3. Scroll down to "Custom Field Settings". Click "Drop Down" to add it to the "Custom Field View".<br>
 
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_3.png" alt="How to Use Dropdown Field in Customer Step 3">
