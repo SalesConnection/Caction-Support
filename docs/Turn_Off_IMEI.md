@@ -39,7 +39,7 @@
      <img src="img/Turn_Off_IMEI_Step_6.png" alt="Turn Off IMEI Step 6">
    </p>
    
-7. All users can login with different devices now.<br>
+7. All users can login with different devices without approval now.<br>
 
    <p align="center">
      <img src="img/Turn_Off_IMEI_Step_7.png" alt="Turn Off IMEI Step 1">
