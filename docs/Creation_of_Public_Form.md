@@ -15,7 +15,9 @@
 - [Desktop](#section4)<br>
 - [Mobile App](#section5)<br>
 
-   <a id="section4"></a>
+  <a id="section4"></a>
+
+**Desktop**<br>
 1. For example, if you want to create a Public Form for an asset, go to Main Navigation > Business Management > Asset List.<br>
      **Open Asset List Page Here:** [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
 
@@ -49,7 +51,7 @@
 
    <a id="section5"></a>
 
-### Create QR Code For Asset - Mobile App<br>
+**Mobile App**
 
 1. In Sales Connection Mobile App, click "Dashboard" page.
 
