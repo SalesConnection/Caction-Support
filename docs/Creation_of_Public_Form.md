@@ -59,9 +59,42 @@
  
 2. Click "Asset".
    
-   <a id="section3"></a>
+   <p align="center">
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_2.png" alt="Creation of Public Form in App Step 2">
+   </p>
 
-### Save / or Send QR Code to Customer - Desktop
+3. Select and click the asset that you want to generate QR code.
+
+   <p align="center">
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_3.png" alt="Creation of Public Form in App Step 3">
+   </p>
+
+4. Click the ellipsis.
+
+   <p align="center">
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_4.png" alt="Creation of Public Form in App Step 4">
+   </p>
+
+5. Click "Genarate QR Code" if you are first time to generate a QR code for this asset.
+
+   <p align="center">
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_5.png" alt="Creation of Public Form in App Step 5">
+   </p>
+
+6. Select Template.
+
+   <p align="center">
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_6.png" alt="Creation of Public Form in App Step 6">
+   </p>
+
+7. When you saw this "Success" prompt, means that the QR Code for this asset has been generated.
+
+   <p align="center">
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_7.png" alt="Creation of Public Form in App Step 7">
+   </p><br><br><br>
+
+   <a id="section2"></a>
+### Send Public Form to Customer - Desktop
 
 - [Print QR](#section6)<br>
 - [Copy Link](#section7)<br>
