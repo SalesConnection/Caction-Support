@@ -173,6 +173,8 @@
 
     <a id="section2"></a>
 
+**Generate PDF**
+
 17. To generate PDF for digital form, at the desktop site navigation bar, go to Business Reports > Digital Form Report.<br>
     **Open Digital Form Report Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)
 
