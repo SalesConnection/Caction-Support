@@ -83,6 +83,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
 - [How to Create Digital Form?](Create_Digital_Form.md)
 - [How to Create PDF?](Create_PDF.md)
+- [How to Generate Public Form?](Creation_of_Public_Form.md)
 
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
