@@ -51,13 +51,13 @@
 
 **Print QR**
 
-1. If you wish to print the QR code for the Asset, clcik "Print QR".<br>
+1. If you wish to print the QR code for the asset, click "Print QR".<br>
 
    <p align="center">
      <img src="img/Print_QR_For_Asset_in_Desktop_Step_1.png" alt="Print QR Code for Asset Step 1">
    </p><br>
    
-2. After your print setting step, click "Print".<br>
+2. After done for the print setting, click on the "Print" button and the asset's QR code has been printed.<br>
 
    <p align="center">
      <img src="img/Print_QR_For_Asset_in_Desktop_Step_2.png" alt="Print QR Code for Asset Step 2">
@@ -124,25 +124,25 @@
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_2.png" alt="Creation of Public Form in App Step 2" width="280" height="550">
    </p><br>
 
-3. Select and click the asset that you want to generate QR code.
+3. Click the asset that you want to generate QR code.
 
    <p align="center">
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_3.png" alt="Creation of Public Form in App Step 3" width="280" height="550">
    </p><br>
 
-4. Click the ellipsis.
+4. Click the three dots icon.
 
    <p align="center">
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_4.png" alt="Creation of Public Form in App Step 4" width="280" height="550">
    </p><br>
 
-5. Click "Genarate QR Code" if you are first time to generate a QR code for this asset.
+5. Click "Genarate QR Code" if you are the first time to generate a QR code for this asset.
 
    <p align="center">
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_5.png" alt="Creation of Public Form in App Step 5" width="280" height="550">
    </p><br>
 
-6. Select Template.
+6. Select the "Template" you want
 
    <p align="center">
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_6.png" alt="Creation of Public Form in App Step 6" width="280" height="550">
@@ -156,7 +156,7 @@
 
 ### Send Asset Link to Customer - Mobile App
 
-1. Click the ellipsis.
+1. Click the three dots icon.
 
     <p align="center">
      <img src="img/Send_Asset_Link_to_Customer_in_App_Step_1.png" alt="Send Asset Link to Customer Step 1" width="280" height="550">
@@ -174,7 +174,7 @@
      <img src="img/Send_Asset_Link_to_Customer_in_App_Step_3.png" alt="Send Asset Link to Customer Step 3" width="280" height="550">
    </p><br>
 
-4. Select and click the customer that you want to send the asset link to them.
+4. Select the customer that you want to send the asset link to.
 
    <p align="center">
      <img src="img/Send_Asset_Link_to_Customer_in_App_Step_4.png" alt="Send Asset Link to Customer Step 4" width="280" height="550">
@@ -192,7 +192,7 @@
      <img src="img/Send_Asset_Link_to_Customer_in_App_Step_6.png" alt="Send Asset Link to Customer Step 6" width="280" height="550">
    </p><br>
 
-7. The asset link has been successfully sent to your customer as picture shown below.
+7. The asset link has been sent successfully to your customer as image shown below.
 
    <p align="center">
      <img src="img/Send_Asset_Link_to_Customer_in_App_Step_7.png" alt="Send Asset Link to Customer Step 7" width="280" height="550">
