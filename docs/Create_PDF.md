@@ -171,6 +171,8 @@
        <img src="img/Create_PDF_Step_16.png" alt="Create PDF Step 16">
     </p>
 
+    <a id="section2"></a>
+
 17. To generate PDF for digital form, at the desktop site navigation bar, go to Business Reports > Digital Form Report.<br>
     **Open Digital Form Report Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)
 
