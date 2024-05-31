@@ -29,7 +29,7 @@
      <img src="img/How_to_Create_Public_Form_Step_3.png" alt="Creation of Public Form Step 3">
    </p>
 
-4. In the event that this asset did not have a QR code, click "Generate QR" to create one.<br>
+4. If the asset's QR code has not generated before, click "Generate QR".<br>
 
    <p align="center">
      <img src="img/How_to_Create_Public_Form_Step_4.png" alt="Creation of Public Form Step 4">
