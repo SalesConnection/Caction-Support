@@ -96,7 +96,7 @@
        <img src="img/Create_PDF_Step_8.png" alt="Create PDF Step 8">
      </p>
 
-     The result will be shown as the image below where the header will changed to "Service Charges".<br>
+     Timestamp, Owner, and Updates Force Pagebreak will be shown as the images below.<br>
 
      <p align="center">
        <img src="img/Create_PDF_Step_8a.png" alt="Create PDF Step 8a">
