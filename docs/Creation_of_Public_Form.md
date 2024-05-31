@@ -10,7 +10,6 @@
    
 ### Create QR Code For Asset - Desktop
 
-**Desktop**<br>
 1. For example, if you want to create a Public Form for an asset, go to Main Navigation > Business Management > Asset List.<br>
      **Open Asset List Page Here:** [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
 
