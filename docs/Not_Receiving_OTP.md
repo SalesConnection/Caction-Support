@@ -57,4 +57,3 @@ Updated: 24 May 2024<br>
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [How to Change Account Password?](Change_Account_Password.md)
 - [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
-- [How to Turn Off Device Check (IMEI)?](Turn_Off_IMEI.md)
