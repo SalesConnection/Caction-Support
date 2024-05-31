@@ -7,8 +7,6 @@
 - [Use External Scannner to scan the QR Code](#section3)<br><br><br>
 
    <a id="section1"></a>
-
-
    
 ### Create QR Code For Asset 
 
