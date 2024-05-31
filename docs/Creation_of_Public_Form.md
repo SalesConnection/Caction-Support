@@ -8,7 +8,7 @@
 
    <a id="section1"></a>
    
-### Create QR Code For Asset - Desktop
+### Generate QR Code For Asset - Desktop
 
 1. For example, if you want to create a Public Form for an asset, go to Main Navigation > Business Management > Asset List.<br>
      **Open Asset List Page Here:** [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
@@ -110,61 +110,91 @@
 
    <a id="section2"></a>
 
-### Create QR Code For Asset - Mobile App
+### Genarate QR Code For Asset - Mobile App
 
 1. In Sales Connection Mobile App, click "Dashboard" page.
 
    <p align="center">
-     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_1.png" alt="Creation of Public Form in App Step 1">
-   </p>
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_1.png" alt="Creation of Public Form in App Step 1" width="280" height="550">
+   </p><br>
  
 2. Click "Asset".
    
    <p align="center">
-     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_2.png" alt="Creation of Public Form in App Step 2">
-   </p>
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_2.png" alt="Creation of Public Form in App Step 2" width="280" height="550">
+   </p><br>
 
 3. Select and click the asset that you want to generate QR code.
 
    <p align="center">
-     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_3.png" alt="Creation of Public Form in App Step 3">
-   </p>
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_3.png" alt="Creation of Public Form in App Step 3" width="280" height="550">
+   </p><br>
 
 4. Click the ellipsis.
 
    <p align="center">
-     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_4.png" alt="Creation of Public Form in App Step 4">
-   </p>
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_4.png" alt="Creation of Public Form in App Step 4" width="280" height="550">
+   </p><br>
 
 5. Click "Genarate QR Code" if you are first time to generate a QR code for this asset.
 
    <p align="center">
-     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_5.png" alt="Creation of Public Form in App Step 5">
-   </p>
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_5.png" alt="Creation of Public Form in App Step 5" width="280" height="550">
+   </p><br>
 
 6. Select Template.
 
    <p align="center">
-     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_6.png" alt="Creation of Public Form in App Step 6">
-   </p>
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_6.png" alt="Creation of Public Form in App Step 6" width="280" height="550">
+   </p><br>
 
 7. When you saw this "Success" prompt, means that the QR Code for this asset has been generated.
 
    <p align="center">
-     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_7.png" alt="Creation of Public Form in App Step 7">
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_7.png" alt="Creation of Public Form in App Step 7" width="280" height="550">
    </p><br>
 
 ### Send Asset Link to Customer - Mobile App
 
+1. Click the ellipsis.
 
+    <p align="center">
+     <img src="img/Send_Asset_Link_to_Customer_in_App_Step_1.png" alt="Send Asset Link to Customer Step 1" width="280" height="550">
+   </p><br>
 
+2. Click "Share Asset Link".
 
+   <p align="center">
+     <img src="img/Send_Asset_Link_to_Customer_in_App_Step_2.png" alt="Send Asset Link to Customer Step 2" width="280" height="550">
+   </p><br>
 
+3. Click "Share Link by Whatsapp".
 
+   <p align="center">
+     <img src="img/Send_Asset_Link_to_Customer_in_App_Step_3.png" alt="Send Asset Link to Customer Step 3" width="280" height="550">
+   </p><br>
 
+4. Select and click the customer that you want to send the asset link to them.
 
+   <p align="center">
+     <img src="img/Send_Asset_Link_to_Customer_in_App_Step_4.png" alt="Send Asset Link to Customer Step 4" width="280" height="550">
+   </p><br>
 
+5. Click the forward message button.
 
+   <p align="center">
+     <img src="img/Send_Asset_Link_to_Customer_in_App_Step_5.png" alt="Send Asset Link to Customer Step 5" width="280" height="550">
+   </p><br>
 
+6. Click the send button to send the asset link to customer.
 
+   <p align="center">
+     <img src="img/Send_Asset_Link_to_Customer_in_App_Step_6.png" alt="Send Asset Link to Customer Step 6" width="280" height="550">
+   </p><br>
+
+7. The asset link has been successfully sent to your customer as picture shown below.
+
+   <p align="center">
+     <img src="img/Send_Asset_Link_to_Customer_in_App_Step_7.png" alt="Send Asset Link to Customer Step 7" width="280" height="550">
+   </p><br>
 
