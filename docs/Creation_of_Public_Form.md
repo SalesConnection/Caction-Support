@@ -2,18 +2,13 @@
 
 *Note: If you want to create a Public Form for an asset, you first need to generate a QR code for the asset. After that, you need to save it and send it to your customer to let them fill out the form.
 
-- [Create QR Code For Asset](#section1)<br>
-- [Send Public Form to Customer](#section2)<br>
+- [Desktop Version](#section1)<br>
+- [Mobile App Version](#section2)<br>
 - [Use External Scannner to scan the QR Code](#section3)<br><br><br>
 
    <a id="section1"></a>
    
-### Create QR Code For Asset 
-
-- [Desktop](#section4)<br>
-- [Mobile App](#section5)<br>
-
-  <a id="section4"></a>
+### Create QR Code For Asset - Desktop
 
 **Desktop**<br>
 1. For example, if you want to create a Public Form for an asset, go to Main Navigation > Business Management > Asset List.<br>
@@ -45,11 +40,78 @@
 
    <p align="center">
      <img src="img/How_to_Create_Public_Form_Step_5.png" alt="Creation of Public Form Step 5">
-   </p><br><br><br>
+   </p><br>
 
-   <a id="section5"></a>
+### Send Public Form to Customer - Desktop
 
-**Mobile App**
+- [Print QR](#section4)<br>
+- [Copy Link](#section5)<br>
+- [Download QR](#section6)<br><br><br>
+
+<a id="section4"></a>
+
+**Print QR**
+
+1. If you wish to print the QR code for the Asset, clcik "Print QR".<br>
+
+   <p align="center">
+     <img src="img/Print_QR_For_Asset_in_Desktop_Step_1.png" alt="Print QR Code for Asset Step 1">
+   </p><br>
+   
+2. After your print setting step, click "Print".<br>
+
+   <p align="center">
+     <img src="img/Print_QR_For_Asset_in_Desktop_Step_2.png" alt="Print QR Code for Asset Step 2">
+   </p><br>
+
+<a id="section5"></a>
+
+**Copy Link**
+
+1. For example, if you wish to copy the link of the asset and send it to a customer using WhatsApp, click "Copy Link."<br>
+
+   <p align="center">
+     <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_1.png" alt="Copy and Send Link of Asset to Customer Step 1">
+   </p><br>
+ 
+2. On the WhatsApp page, press Ctrl + V to paste the link.<br>
+
+   <p align="center">
+     <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_2.png" alt="Copy and Send Link of Asset to Customer Step 2">
+   </p><br>
+
+3. Click the send button to send the asset link to the customer.<br>
+
+   <p align="center">
+     <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_3.png" alt="Copy and Send Link of Asset to Customer Step 3">
+   </p><br>
+
+4. After you successfully send the link to the customer, it will appear as shown in the picture below.<br>
+
+   <p align="center">
+     <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_4.png" alt="Copy and Send Link of Asset to Customer Step 4">
+   </p><br>
+
+<a id="section6"></a>
+
+**Download QR**
+
+1. If you want to save the QR code in your desktop, click "Download QR".<br>
+
+   <p align="center">
+     <img src="img/Download_QR_of_Asset_in_Desktop_Step_1.png" alt="Download QR in Desktop Step 1">
+   </p><br>
+   
+2. The QR code will appear at the top in your desktop's "File Explorer" > "Desktop" > "Downloads".
+
+   <p align="center">
+     <img src="img/Download_QR_of_Asset_in_Desktop_Step_2.png" alt="Download QR in Desktop Step 2">
+   </p>
+   <br><br>
+
+   <a id="section2"></a>
+
+### Create QR Code For Asset - Mobile App
 
 1. In Sales Connection Mobile App, click "Dashboard" page.
 
@@ -91,74 +153,13 @@
 
    <p align="center">
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_7.png" alt="Creation of Public Form in App Step 7">
-   </p><br><br><br>
-
-   <a id="section2"></a>
-### Send Public Form to Customer - Desktop
-
-- [Print QR](#section6)<br>
-- [Copy Link](#section7)<br>
-- [Download QR](#section8)<br><br><br>
-
-<a id="section6"></a>
-
-**Print QR**
-
-1. If you wish to print the QR code for the Asset, clcik "Print QR".<br>
-
-   <p align="center">
-     <img src="img/Print_QR_For_Asset_in_Desktop_Step_1.png" alt="Print QR Code for Asset Step 1">
-   </p><br>
-   
-2. After your print setting step, click "Print".<br>
-
-   <p align="center">
-     <img src="img/Print_QR_For_Asset_in_Desktop_Step_2.png" alt="Print QR Code for Asset Step 2">
    </p><br>
 
-<a id="section7"></a>
+### Send Asset Link to Customer - Mobile App
 
-**Copy Link**
 
-1. For example, if you wish to copy the link of the asset and send it to a customer using WhatsApp, click "Copy Link."<br>
 
-   <p align="center">
-     <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_1.png" alt="Copy and Send Link of Asset to Customer Step 1">
-   </p><br>
- 
-2. On the WhatsApp page, press Ctrl + V to paste the link.<br>
 
-   <p align="center">
-     <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_2.png" alt="Copy and Send Link of Asset to Customer Step 2">
-   </p><br>
-
-3. Click the send button to send the asset link to the customer.<br>
-
-   <p align="center">
-     <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_3.png" alt="Copy and Send Link of Asset to Customer Step 3">
-   </p><br>
-
-4. After you successfully send the link to the customer, it will appear as shown in the picture below.<br>
-
-   <p align="center">
-     <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_4.png" alt="Copy and Send Link of Asset to Customer Step 4">
-   </p><br>
-
-<a id="section8"></a>
-
-**Download QR**
-
-1. If you want to save the QR code in your desktop, click "Download QR".<br>
-
-   <p align="center">
-     <img src="img/Download_QR_of_Asset_in_Desktop_Step_1.png" alt="Download QR in Desktop Step 1">
-   </p><br>
-   
-2. The QR code will appear at the top in your desktop's "File Explorer" > "Desktop" > "Downloads".
-
-   <p align="center">
-     <img src="img/Download_QR_of_Asset_in_Desktop_Step_2.png" alt="Download QR in Desktop Step 2">
-   </p><br>
 
 
 
