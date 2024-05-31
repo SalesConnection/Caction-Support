@@ -1,46 +1,58 @@
 ## How to Generate Public Form?
 
-- [Create QR Code For Asset- Desktop](#section1)<br>
-- [Create QR Code For Asset- Mobile App](#section2)<br>
-- [Save / or Send QR Code to Customer - Desktop](#section3)<br>
-- [Save / or Send QR Code to Customer - Mobile App](#section4)<br>
-- [Use External Scannner to scan the QR code](#section5)<br><br><br>
+*Note: If you want to create a Public Form for an asset, you first need to generate a QR code for the asset. After that, you need to save it and send it to your customer to let them fill out the form.
+
+- [Create QR Code For Asset](#section1)<br>
+- [Send Public Form to Customer](#section2)<br>
+- [Use External Scannner to scan the QR Code](#section3)<br><br><br>
 
    <a id="section1"></a>
 
 ### Create QR Code For Asset - Desktop
 
-1. For example, if you want to create a Public Form for Asset, go to Main Navigation > Business Management > Asset List.<br>
+1. For example, if you want to create a Public Form for an asset, go to Main Navigation > Business Management > Asset List.<br>
      **Open Asset List Page Here:** [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Public_Form_Step_1.png" alt="Creation of Public Fprm Step 1">
+     <img src="img/How_to_Create_Public_Form_Step_1.png" alt="Creation of Public Form Step 1">
    </p>
 
 2. Choose the asset you want and click the expand button beside.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Public_Form_Step_2.png" alt="Creation of Public Fprm Step 2">
+     <img src="img/How_to_Create_Public_Form_Step_2.png" alt="Creation of Public Form Step 2">
    </p>
 
 3. At the top right corner of "Asset Details" page, click the ellipsis.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Public_Form_Step_3.png" alt="Creation of Public Fprm Step 3">
+     <img src="img/How_to_Create_Public_Form_Step_3.png" alt="Creation of Public Form Step 3">
    </p>
 
 4. In the event that this asset did not have a QR code, click "Generate QR" to create one.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Public_Form_Step_4.png" alt="Creation of Public Fprm Step 4">
+     <img src="img/How_to_Create_Public_Form_Step_4.png" alt="Creation of Public Form Step 4">
    </p>
 
 5. The generated QR code will appear as the image below.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Public_Form_Step_5.png" alt="Creation of Public Fprm Step 5">
+     <img src="img/How_to_Create_Public_Form_Step_5.png" alt="Creation of Public Form Step 5">
    </p><br><br><br>
 
+   <a id="section2"></a>
+
+### Create QR Code For Asset - Mobile App<br>
+
+1. In Sales Connection Mobile App, click "Dashboard" page.
+
+   <p align="center">
+     <img src="img/Creat_QR_Code_For_Asset_in_App_Step_1.png" alt="Creation of Public Form in App Step 1">
+   </p>
+ 
+2. Click "Asset".
+   
    <a id="section3"></a>
 
 ### Save / or Send QR Code to Customer - Desktop
