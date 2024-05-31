@@ -198,3 +198,13 @@
      <img src="img/Send_Asset_Link_to_Customer_in_App_Step_7.png" alt="Send Asset Link to Customer Step 7" width="280" height="550">
    </p><br>
 
+
+
+
+**Related Articles**<br>
+- [How to Add New Customer?](Add_New_Customer.md)
+- [How to Add New Project?](Add_New_Project.md)
+- [How to Add New Job?](Add_New_Job.md)
+- [How to Add New Asset?](How_to_Add_New_Asset.md)
+- [How to Create Digital Form?](Create_Digital_Form.md)
+- [How to Create PDF?](Create_PDF.md)
