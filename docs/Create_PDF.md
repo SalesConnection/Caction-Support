@@ -164,6 +164,7 @@
       </p>
 
   17. To generate PDF for digital form, at the desktop site navigation bar, go to Business Reports > Digital Form Report.<br>
+      **Open Digital Form Report Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)
 
       <p align="center">
        <img src="img/Create_PDF_Step_17.png" alt="Create PDF Step 17">
@@ -178,7 +179,49 @@
   19. Click on the category of the digital form that needs to generate PDF.<br>
 
       <p align="center">
-       <img src="img/Create_PDF_Step_18.png" alt="Create PDF Step 18">
+       <img src="img/Create_PDF_Step_19.png" alt="Create PDF Step 19">
+      </p>
+
+  20. Click the expand button beside the "Service Sheet" you want to create PDF.
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_20.png" alt="Create PDF Step 20">
+      </p>
+
+  21. The "Service Sheet" will opened.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_21.png" alt="Create PDF Step 21">
+      </p>
+
+  22. Scroll down to the PDF section and click "+ Generate PDF".<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_22.png" alt="Create PDF Step 22">
+      </p>
+
+  23. Confirm the selection and click "Yes".<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_23.png" alt="Create PDF Step 23">
+      </p>
+
+  24. Click "OK" and the PDF has been generated successfully.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_24.png" alt="Create PDF Step 24">
+      </p>
+
+  25. There are four options to view and send the PDF: WhatsApp, download, Email, and view on new tab. Click on any of the options to send or view the PDF.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_25.png" alt="Create PDF Step 25">
+      </p>
+
+  26. This is the PDF generated.<br>
+
+      <p align="center">
+       <img src="img/Create_PDF_Step_26.png" alt="Create PDF Step 26">
       </p>
       <br><br><br>
 
