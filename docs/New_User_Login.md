@@ -67,4 +67,3 @@ Updated: 24 May 2024<br>
 - [How to Login Using Mobile and Desktop?](Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
-- [How to Turn Off Device Check (IMEI)?](Turn_Off_IMEI.md)
