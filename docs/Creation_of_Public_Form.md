@@ -3,8 +3,7 @@
 *Note: If you want to create a Public Form for an asset, you first need to generate a QR code for the asset. After that, you need to save it and send it to your customer to let them fill out the form.
 
 - [Desktop Version](#section1)<br>
-- [Mobile App Version](#section2)<br>
-- [Use External Scannner to scan the QR Code](#section3)<br><br><br>
+- [Mobile App Version](#section2)<br><br><br>
 
    <a id="section1"></a>
    
@@ -63,6 +62,8 @@
      <img src="img/Print_QR_For_Asset_in_Desktop_Step_2.png" alt="Print QR Code for Asset Step 2">
    </p><br>
 
+3. Use the external QR code scanner to scan this QR code and the Public Form will show as the image below.
+
 <a id="section5"></a>
 
 **Copy Link**
@@ -91,6 +92,7 @@
      <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_4.png" alt="Copy and Send Link of Asset to Customer Step 4">
    </p><br>
 
+5. When the link is open, the Public Form will show as the image below.
 <a id="section6"></a>
 
 **Download QR**
@@ -198,8 +200,9 @@
      <img src="img/Send_Asset_Link_to_Customer_in_App_Step_7.png" alt="Send Asset Link to Customer Step 7" width="280" height="550">
    </p><br>
 
+8. When the link is open, the Public Form will show as the image below.
 
-
+   
 
 **Related Articles**<br>
 - [How to Add New Customer?](Add_New_Customer.md)
