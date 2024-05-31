@@ -24,7 +24,7 @@
 
    *Note: If you do not have access to Template Settings page, please contact your admin.<br>
 
-2. Make sure that the template info is correct.<br>
+2. Choose the correct category before proceed.<br>
    
     | Field Name| Description |
     |-------|---------|
@@ -125,25 +125,25 @@
       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_13.png" alt="How to Use Dropdown Field in Customer Step 13">
     </p><br>   
 
-15. Make sure the dropdown has been toggled as shown in the image below. If the dropdown has been toggled, it means that this dropdown field has been applied in the "Customer Details".<br>
+14. Make sure the dropdown field is enabled so that it appears on the customer category detail page.<br>
 
     <p align="center">
       <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_14.png" alt="How to Use Dropdown Field in Customer Step 14">
     </p><br>
 
- 16. Click the save button to save all changes on the Template Setting page.<br>
+ 15. Click the save button to save all changes on the Template Setting page.<br>
 
      <p align="center">
        <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_15.png" alt="How to Use Dropdown Field in Customer Step 15">
      </p><br>
 
- 17. Click "OK".
+ 16. Click "OK".
 
      <p align="center">
        <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_16.png" alt="How to Use Dropdown Field in Customer Step 16">
      </p><br>
 
- 18. Choose the "Template Overwrite" option you want.<br>
+ 17. Choose the "Template Overwrite" option you want.<br>
 
      | Field Name| Description |
      |-------|---------|
@@ -154,7 +154,7 @@
        <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_17.png" alt="How to Use Dropdown Field in Customer Step 17">
      </p><br>
 
- 19. Click "OK" and your dropdown options have been added successfully.<br>
+ 18. Click "OK" and your dropdown options have been added successfully.<br>
 
      <p align="center">
        <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_18.png" alt="How to Use Dropdown Field in Customer Step 18">
