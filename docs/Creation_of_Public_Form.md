@@ -64,6 +64,10 @@
 
 3. Use the external QR code scanner to scan this QR code and the Public Form will show as the image below.
 
+   <p align="center">
+     <img src="img/Public_Form.png" alt="Public Form" width="280" height="550">
+   </p><br>
+
 <a id="section5"></a>
 
 **Copy Link**
@@ -93,6 +97,11 @@
    </p><br>
 
 5. When the link is open, the Public Form will show as the image below.
+
+   <p align="center">
+     <img src="img/Public_Form.png" alt="Public Form" width="280" height="550">
+   </p><br>
+
 <a id="section6"></a>
 
 **Download QR**
@@ -202,7 +211,9 @@
 
 8. When the link is open, the Public Form will show as the image below.
 
-   
+   <p align="center">
+     <img src="img/Public_Form.png" alt="Public Form" width="280" height="550">
+   </p><br>
 
 **Related Articles**<br>
 - [How to Add New Customer?](Add_New_Customer.md)
