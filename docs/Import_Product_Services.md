@@ -1,6 +1,6 @@
 ## How to Import New Product/Services?
     
-  1. If you want to import new product/services, at the desktop site's navigation bar, go to Import > Product/Services Import.<br>
+  1. At the desktop site's navigation bar, go to Import > Product/Services Import.<br>
      **Import Product/Services Here:** [https://salesconnection.my/productupload](https://salesconnection.my/productupload)<br>
 
      <p align="center">
