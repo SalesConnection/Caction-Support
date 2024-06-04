@@ -1,6 +1,6 @@
 ## How to Import New Customer/Project?
     
-  1. At the desktop site's navigation bar, go to Import > Customer Import.<br>
+  1. If you want to import customers, at the desktop site's navigation bar, go to Import > Customer Import.<br>
      **Import Customer Here:** [https://salesconnection.my/customerimport](https://salesconnection.my/customerimport)<br>
      **Import Project Here:** [https://salesconnection.my/dealupload](https://salesconnection.my/dealupload)<br>
 
@@ -14,28 +14,36 @@
        <img src="img/Import_Customer_Step_2.png" alt="Import Customer Step 2">
      </p>
 
-  3. Fill out the details of the new users.<br>
+  3. Fill out the details of the new customers.<br>
      a. The details include:<br>
-        - Name<br>
-        - Mobile No<br>
-        - Email (optional if the user only uses a mobile device)<br>
-        - Account Type<br>
-        - User Type<br>
-        - Staff Category<br>
-        
-     *Note: Please include + and the international code for the mobile number's country followed by the mobile number itself. Eg: +60122780122.<br>
+        - Customer Name<br>
+        - Company Name<br>
+        - Phone<br>
+        - Email<br>
+        - Address<br>
+        - Assign<br>
+        - View<br>
+        - Category<br>
+        - Status<br>
+        - Depart assign<br>
+        - Depart view<br>
+        - State<br>
+        - Inquiry Date<br>
+        - Credit Balance<br>
+    
+     *Note: Please include + and the international code for the phone number's country followed by the phone number itself. Eg: +60122780122; +60358805110.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_3.png" alt="Import Customer Step 3">
      </p>
      
-  4. Make sure all the information of the users is correct and save the file.<br>
+  4. Make sure all the information of the customers is correct and save the file.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_4.png" alt="Import Customer Step 4">
      </p>
 
-  5. Go back to the user import page and choose the correct file by clicking "Choose File" to import.<br>
+  5. Go back to the customer import page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_5.png" alt="Import Customer Step 5">
@@ -53,7 +61,7 @@
        <img src="img/Import_Customer_Step_7.png" alt="Import Customer Step 7">
      </p>
 
-  8. Click "OK" and the users have been imported successfully.<br>
+  8. Click "OK" and the customers have been imported successfully.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_8.png" alt="Import Customer Step 8">
