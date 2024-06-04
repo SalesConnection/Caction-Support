@@ -4,97 +4,65 @@
      **Import User Here:** [https://salesconnection.my/usermanage/userimport](https://salesconnection.my/usermanage/userimport)<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_1.png" alt="Copy Account Step 1">
+       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
 
-  2. Click on the "+" button to access the "Add New User" page.<br>
+  2. Click "DOWNLOAD EXCEL TEMPLATE".<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_2.png" alt="Copy Account Step 2">
+       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
 
-  3. Fill out the details of your new team member.<br>
+  3. Fill out the details of the new users.<br>
      a. The details include:<br>
         - Name<br>
-        - Telephone<br>
+        - Mobile No<br>
         - Email (optional if the user only uses a mobile device)<br>
-        - Staff Category<br>
         - Account Type<br>
-        - Color (Choose one to represent the user in the system)<br>
+        - User Type<br>
+        - Staff Category<br>
+     *Note: Please include + and the international code for the mobile number's country followed by the mobile number itself. Eg: +60122780122.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_3.png" alt="Copy Account Step 3">
+       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
      
-  4. Click “Submit Form” to add new user.<br>
+  4. Make sure all the information of the users is correct and save the file.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_4.png" alt="Copy Account Step 4">
+       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
 
-  5. The new user has been added successfully.<br>
+  5. Choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_5.png" alt="Copy Account Step 5">
+       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
 
-  6. At the desktop site's navigation bar, go to User Management > Copy Account.<br>
-     **Copy Account Here:** [https://salesconnection.my/transferAccount](https://salesconnection.my/transferAccount)<br>
+  6. Make sure the file uploaded is correct.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_6.png" alt="Copy Account Step 6">
+       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
 
-  7. Click on the expand button.<br>
+  7. Click on the "SUBMIT" button.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_7.png" alt="Copy Account Step 7">
+       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
 
-  8. Select the user who needs to copy the account from.<br>
+  8. Click "OK" and the users have been imported successfully.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_8.png" alt="Copy Account Step 8">
+       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
-
-  9. Click on the expand button.<br>
-
-     <p align="center">
-       <img src="img/Copy_Account_Step_9.png" alt="Copy Account Step 9">
-     </p>
-
-  10. Select the user who needs to copy the account to.<br>
-
-      <p align="center">
-       <img src="img/Copy_Account_Step_10.png" alt="Copy Account Step 10">
-      </p>
-
-  11. Select the copy option.<br>
-
-      <p align="center">
-       <img src="img/Copy_Account_Step_11.png" alt="Copy Account Step 11">
-      </p>
-
-  12. Click on the "Begin Copy" button.<br>
-
-      <p align="center">
-       <img src="img/Copy_Account_Step_12.png" alt="Copy Account Step 12">
-      </p>
-
-  13. Click "Yes" to copy the account.<br>
-
-      <p align="center">
-       <img src="img/Copy_Account_Step_13.png" alt="Copy Account Step 13">
-      </p>
-
-  14. The account has been copied successfully.<br>
-
-      <p align="center">
-       <img src="img/Copy_Account_Step_14.png" alt="Copy Account Step 14">
-      </p>
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Add New User?](Add_New_User.md)
-- [How to Assist My New User to Login?](New_User_Login.md)
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Add New Customer?](Add_New_Customer.md)
+- [How to Add New Project?](Add_New_Project.md)
+- [How to Add New Job?](Add_New_Job.md)
+- [How to Add New Asset?](How_to_Add_New_Asset.md)
+- [How to Create Digital Form?](Create_Digital_Form.md)
+- [How to Create PDF?](Create_PDF.md)
+- [How to Generate Public Form?](Creation_of_Public_Form.md)
