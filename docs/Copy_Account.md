@@ -1,13 +1,13 @@
 ## How to Copy Account for New User?
     
   1. At the desktop site's navigation bar, go to User Management > User List.<br>
+     **Add User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
 
      <p align="center">
        <img src="img/User_List_Sidebar.png" alt="User List Sidebar">
      </p>
 
   2. Click on the "+" button to access the "Add New User" page.<br>
-     **Add User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
 
      <p align="center">
        <img src="img/Add_User_Button.png" alt="Add User Button">
@@ -21,36 +21,80 @@
         - Staff Category<br>
         - Account Type<br>
         - Color (Choose one to represent the user in the system)<br>
-        
-      b. Click “Submit Form” to finish the process.<br>
 
      <p align="center">
        <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
      </p>
-     <br>
+     
+  4. Click “Submit Form” to add new user.<br>
 
-### What is the limit for me to add users?
+     <p align="center">
+       <img src="img/Add_New_User.png" alt="Add New User" width="650" height="550">
+     </p>
 
-  The total number of user accounts available depends on your **subscription plan**.<br>
-  To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
+  5. The new user has been added successfully.<br>
 
-  <p align="center">
-    <img src="img/Reminder_of_User_List.png" alt="Reminder in User List">
-  </p>
-  
-  **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br><br>
+     <p align="center">
+       <img src="img/Add_User_Button.png" alt="Add User Button">
+     </p>
 
-### Why I cannot add a user?
+  6. At the desktop site's navigation bar, go to User Management > Copy Account.<br>
+     **Copy Account Here:** [https://salesconnection.my/transferAccount](https://salesconnection.my/transferAccount)<br>
 
-  You might have reached the **maximum limit** of user accounts that can be created.<br>
-  To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
+     <p align="center">
+       <img src="img/Add_User_Button.png" alt="Add User Button">
+     </p>
 
-  **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
-  
-  If you want to add more users, **contact us** through 012-2780122 to upgrade your subscription plan.
+  7. Click on the expand button.<br>
+
+     <p align="center">
+       <img src="img/Add_User_Button.png" alt="Add User Button">
+     </p>
+
+  8. Select the user who needs to copy the account from.<br>
+
+     <p align="center">
+       <img src="img/Add_User_Button.png" alt="Add User Button">
+     </p>
+
+  9. Click on the expand button.<br>
+
+     <p align="center">
+       <img src="img/Add_User_Button.png" alt="Add User Button">
+     </p>
+
+  10. Select the user who needs to copy the account to.<br>
+
+      <p align="center">
+        <img src="img/Add_User_Button.png" alt="Add User Button">
+      </p>
+
+  11. Select the copy option.<br>
+
+      <p align="center">
+        <img src="img/Add_User_Button.png" alt="Add User Button">
+      </p>
+
+  12. Click on the "Begin Copy" button.<br>
+
+      <p align="center">
+        <img src="img/Add_User_Button.png" alt="Add User Button">
+      </p>
+
+  13. Click "Yes" to copy the account.<br>
+
+      <p align="center">
+        <img src="img/Add_User_Button.png" alt="Add User Button">
+      </p>
+
+  14. The account has been copied successfully.<br>
+
+      <p align="center">
+        <img src="img/Add_User_Button.png" alt="Add User Button">
+      </p>
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Add New User Category?](Add_New_User_Category.md)
+- [How to Add New User?](Add_New_User.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
