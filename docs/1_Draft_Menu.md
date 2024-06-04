@@ -27,6 +27,11 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Import New User?](Import_User.md)
 
 
+### Updates
+- [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
+- How to Check Pending Update?](How_to_Check_Pending_Update.md)
+
+
 ### Password 
 - [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
 - [How to Change Account Password?](Change_Account_Password.md)
@@ -70,13 +75,13 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I am Not Getting Any Notification From System.Why?](I_am_Not_Getting_Any_Notification_From_System_Why.md)
 
 
+
 ### Others
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 - [How to comment with photo / attachment?](Comment_With_Photo.md)
 - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
-- [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How to Edit Reminder Template?](Edit_Reminder_Template.md)
   
   
