@@ -1,8 +1,7 @@
 ## How to Import New Product/Services?
     
-  1. If you want to import customers, at the desktop site's navigation bar, go to Import > Customer Import.<br>
-     **Import Customer Here:** [https://salesconnection.my/customerimport](https://salesconnection.my/customerimport)<br>
-     **Import Project Here:** [https://salesconnection.my/dealupload](https://salesconnection.my/dealupload)<br>
+  1. If you want to import new product/services, at the desktop site's navigation bar, go to Import > Product/Services Import.<br>
+     **Import Product/Services Here:** [https://salesconnection.my/productupload](https://salesconnection.my/productupload)<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_1.png" alt="Import Customer Step 1">
