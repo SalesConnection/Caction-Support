@@ -1,7 +1,9 @@
-## How to Import New User?
+## How to Import New Customer/Project/Asset?
     
-  1. At the desktop site's navigation bar, go to User Management > User Import.<br>
-     **Import User Here:** [https://salesconnection.my/usermanage/userimport](https://salesconnection.my/usermanage/userimport)<br>
+  1. At the desktop site's navigation bar, go to Import > Customer Import.<br>
+     **Import Customer Here:** [https://salesconnection.my/customerimport](https://salesconnection.my/customerimport)<br>
+     **Import Project Here:** [https://salesconnection.my/dealupload](https://salesconnection.my/dealupload)<br>
+     **Import Asset Here:** [https://salesconnection.my/AssetImport/assetExcelImport](https://salesconnection.my/AssetImport/assetExcelImport)<br>
 
      <p align="center">
        <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
