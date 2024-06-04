@@ -69,4 +69,6 @@
   <br><br><br>
 
 **Related Articles**<br>
+- [How to Add New Customer?](Add_New_Customer.md)
+- [How to Add New Project?](Add_New_Project.md)
 - [How to Import New User?](Import_User.md)
