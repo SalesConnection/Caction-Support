@@ -1,6 +1,6 @@
 ## How to Import New Customer/Project?
     
-  1. If you want to import customers, at the desktop site's navigation bar, go to Import > Customer Import.<br>
+  1. If you want to import new customers, at the desktop site's navigation bar, go to Import > Customer Import.<br>
      **Import Customer Here:** [https://salesconnection.my/customerimport](https://salesconnection.my/customerimport)<br>
      **Import Project Here:** [https://salesconnection.my/dealupload](https://salesconnection.my/dealupload)<br>
 
