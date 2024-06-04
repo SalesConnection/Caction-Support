@@ -21,6 +21,7 @@
         - Account Type<br>
         - User Type<br>
         - Staff Category<br>
+        
      *Note: Please include + and the international code for the mobile number's country followed by the mobile number itself. Eg: +60122780122.<br>
 
      <p align="center">
