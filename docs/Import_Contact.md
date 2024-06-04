@@ -15,14 +15,17 @@
 
   3. Fill out the details of the new contacts.<br>
      a. The details include:<br>
-        - Name<br>
-        - Mobile No<br>
-        - Email (optional if the user only uses a mobile device)<br>
-        - Account Type<br>
-        - User Type<br>
-        - Staff Category<br>
+        - Contact Name<br>
+        - Contact Phone<br>
+        - Contact Email<br>
+        - Company Name<br>
+        - Position Title<br>
+        - Department Name<br>
+        - Department Category<br>
+        - Start Date<br>
+        - Remarks<br>
         
-     *Note: Please include + and the international code for the mobile number's country followed by the mobile number itself. Eg: +60122780122.<br>
+     *Note: Only up to 1000 row of data is allowed per import.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
