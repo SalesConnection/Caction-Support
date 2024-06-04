@@ -70,7 +70,7 @@ ii. User has already upload, but admin said did not receeived it:<br>
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_5a.png" alt="Check Pending Data Using Desktop Step 5a" width="280" height="550">
    </p><br>
 
-6. In desktop admin's view, will appears either one of the result as pictures shown below.<br>
+6. In the desktop admin's view, either one of the results shown in the pictures below will appear.<br>
 
    a. The user has pending upload:
    <p align="center">
@@ -82,4 +82,4 @@ ii. User has already upload, but admin said did not receeived it:<br>
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_6a.png" alt="Check Pending Data Using Desktop Step 6a">
    </p><br>
 
-7. If the user has pending update, those will be automatically update in the system. On the contrary, if the action perform above show that there is no pending update, user need to reupdate again.
+7. If the user has pending updates, they will be automatically updated in the system. On the contrary, if the action performed above shows that there are no pending updates, the user needs to update again.
