@@ -7,7 +7,7 @@
        <img src="img/Add_New_Project_Step_1.png" alt="Add New Project Step 1">
      </p>
 
-  2. Click on the expand button of the customer that you want to add a new project for.<br>
+  2. Remember to use the filter bar to search for the desired customer before clicking the expand button.<br>
 
      <p align="center">
        <img src="img/Add_New_Project_Step_2.png" alt="Add New Project Step 2">
