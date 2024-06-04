@@ -7,13 +7,13 @@
        <img src="img/Import_Contact_Step_1.png" alt="Import Contact Step 1">
      </p>
 
-  2. Click "DOWNLOAD EXCEL TEMPLATE".<br>
+  2. Click "Template Download".<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_2.png" alt="Import Contact Step 2">
      </p>
 
-  3. Fill out the details of the new users.<br>
+  3. Fill out the details of the new contacts.<br>
      a. The details include:<br>
         - Name<br>
         - Mobile No<br>
@@ -28,13 +28,13 @@
        <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
      </p>
      
-  4. Make sure all the information of the users is correct and save the file.<br>
+  4. Make sure all the information of the contacts is correct and save the file.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_4.png" alt="Import Contact Step 4">
      </p>
 
-  5. Go back to the user import page and choose the correct file by clicking "Choose File" to import.<br>
+  5. Go back to the contact import page and choose the correct file by clicking "Choose" to import.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_5.png" alt="Import Contact Step 5">
@@ -52,7 +52,7 @@
        <img src="img/Import_Contact_Step_7.png" alt="Import Contact Step 7">
      </p>
 
-  8. Click "OK" and the users have been imported successfully.<br>
+  8. Click "OK" and the contacts have been imported successfully.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_8.png" alt="Import Contact Step 8">
