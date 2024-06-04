@@ -24,6 +24,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Import
 - [How to Import New Customer/Project?](Import_Customer_Project.md)
+- [How to Import New Product/Services?](Import_Product_Services.md)
 - [How to Import New User?](Import_User.md)
 
 
