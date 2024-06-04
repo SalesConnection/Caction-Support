@@ -1,16 +1,16 @@
 ## How to Import New Contact?
     
-  1. At the desktop site's navigation bar, go to User Management > User Import.<br>
-     **Import User Here:** [https://salesconnection.my/usermanage/userimport](https://salesconnection.my/usermanage/userimport)<br>
+  1. At the desktop site's navigation bar, go to User Management > Contact Import.<br>
+     **Import Contact Here:** [https://salesconnection.my/contact/import](https://salesconnection.my/contact/import)<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
+       <img src="img/Import_Contact_Step_1.png" alt="Import Contact Step 1">
      </p>
 
   2. Click "DOWNLOAD EXCEL TEMPLATE".<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_2.png" alt="Import User Step 2">
+       <img src="img/Import_Contact_Step_2.png" alt="Import Contact Step 2">
      </p>
 
   3. Fill out the details of the new users.<br>
@@ -25,41 +25,41 @@
      *Note: Please include + and the international code for the mobile number's country followed by the mobile number itself. Eg: +60122780122.<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_3.png" alt="Import User Step 3">
+       <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
      </p>
      
   4. Make sure all the information of the users is correct and save the file.<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_4.png" alt="Import User Step 4">
+       <img src="img/Import_Contact_Step_4.png" alt="Import Contact Step 4">
      </p>
 
   5. Go back to the user import page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_5.png" alt="Import User Step 5">
+       <img src="img/Import_Contact_Step_5.png" alt="Import Contact Step 5">
      </p>
 
   6. Make sure the file uploaded is correct.<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_6.png" alt="Import User Step 6">
+       <img src="img/Import_Contact_Step_6.png" alt="Import Contact Step 6">
      </p>
 
   7. Click on the "SUBMIT" button.<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_7.png" alt="Import User Step 7">
+       <img src="img/Import_Contact_Step_7.png" alt="Import Contact Step 7">
      </p>
 
   8. Click "OK" and the users have been imported successfully.<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_8.png" alt="Import User Step 8">
+       <img src="img/Import_Contact_Step_8.png" alt="Import Contact Step 8">
      </p>
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Add New User?](Add_New_User.md)
 - [How to Import New Customer/Project?](Import_Customer_Project.md)
 - [How to Import New Product/Services?](Import_Product_Services.md)
+- [How to Import New User?](Import_User.md)
