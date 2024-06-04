@@ -1,4 +1,4 @@
-## How to Check Pending Update in App?
+## How to Check Pending Update?
 
 ### Here are the potential issues and solutions:
 
