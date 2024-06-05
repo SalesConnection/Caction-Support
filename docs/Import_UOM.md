@@ -7,75 +7,63 @@
        <img src="img/Import_Contact_Step_1.png" alt="Import Contact Step 1">
      </p>
 
-  2. Click "Template Download".<br>
+  2. Download this file and refer to the product sequence number.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_2.png" alt="Import Contact Step 2">
      </p>
 
-  3. Fill out the details of the new contacts.<br>
-     a. The details include:<br>
-        - Contact Name<br>
-        - Contact Phone<br>
-        - Contact Email<br>
-        - Company Name<br>
-        - Customer No (will be auto-populated after the company name is entered)<br>
-        - Position Title<br>
-        - Department Name<br>
-        - Department Category<br>
-        - Start Date<br>
-        - Remarks<br>
-        
-     *Note: Only up to 1000 rows of data are allowed per import.<br>
+     This is the sample of the product/services sequence number Excel file.<br>
+
+     <p align="center">
+       <img src="img/Import_Contact_Step_2a.png" alt="Import Contact Step 2a">
+     </p>
+
+  3. Click "Excel Template".<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
      </p>
-     
-  4. Open the Details page to check with the customer name and company name.<br>
 
+  4. Fill out the details of the new UOM.<br>
+     a. The details include:<br>
+        - UOM Name<br>
+        - Qty<br>
+        - Unit Price<br>
+        - Tax<br>
+        - Min Discount<br>
+        - Max Discount<br>
+        - Product seq no<br>
+        
      <p align="center">
-       <img src="img/Import_Contact_Step_4.png" alt="Import Contact Step 4">
+       <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
      </p>
-  
-  5. Make sure all the information of the contacts is correct and save the file.<br>
+     
+  5. Make sure all the information of the UOM is correct and save the file.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_5.png" alt="Import Contact Step 5">
      </p>
 
-  6. Go back to the contact import page and choose the correct file by clicking "Choose" to import.<br>
+  7. Go back to the UOM import page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_6.png" alt="Import Contact Step 6">
      </p>
 
-  7. Make sure the file uploaded is correct.<br>
+  8. Make sure the file uploaded is correct.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_7.png" alt="Import Contact Step 7">
      </p>
 
-  8. Click on the "SUBMIT" button.<br>
+  9. Click on the "SUBMIT" button.<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_8.png" alt="Import Contact Step 8">
      </p>
 
-  9. Click "Upload".<br>
-
-     <p align="center">
-       <img src="img/Import_Contact_Step_9.png" alt="Import Contact Step 9">
-     </p>
-  
-  10. Click on the "Proceed" button to confirm the upload.<br>
-
-      <p align="center">
-         <img src="img/Import_Contact_Step_10.png" alt="Import Contact Step 10">
-      </p>
-  
-  11. When this prompt shows, it means the contacts have been imported successfully.<br>
-
+  10. Click "OK" and the UOM has been imported successfully.<br>
       <p align="center">
         <img src="img/Import_Contact_Step_11.png" alt="Import Contact Step 11">
       </p>
