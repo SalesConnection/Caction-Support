@@ -72,5 +72,10 @@
   10. Click "Ok" and the asset updates have been uploaded successfully.
 
       <p align="center">
-       <img src="img/Asset_Bulk_Update_Step_10.png" alt="Asset Bulk Update Step 10">
+        <img src="img/Asset_Bulk_Update_Step_10.png" alt="Asset Bulk Update Step 10">
       </p><br> 
+  <br><br><br>
+
+**Related Articles**<br>
+- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Company_Bulk_Update.md)
+- [How to Add New Asset?](How_to_Add_New_Asset.md)
