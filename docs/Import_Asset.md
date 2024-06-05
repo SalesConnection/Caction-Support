@@ -54,7 +54,7 @@
      <img src="img/Import_Asset_Step_5b.png" alt="Import Asset Step 5b">
    </p><br>
 
-6. Full out the details of the asset.<br>
+6. Fill out the details of the asset.<br>
    a. The detials indlude:<br>
       - Serial No<br>
       - Status<br>
