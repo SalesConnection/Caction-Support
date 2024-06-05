@@ -29,7 +29,7 @@
      Details:<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
+       <img src="img/Import_Contact_Step_3a.png" alt="Import Contact Step 3a">
      </p>
   
   4. Fill out the details of the new contacts.<br>
@@ -48,7 +48,7 @@
      *Note: Only up to 1000 rows of data are allowed per import.<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
+       <img src="img/Import_Contact_Step_4.png" alt="Import Contact Step 4">
      </p>
   
   5. Make sure all the information of the contacts is correct and save the file.<br>
