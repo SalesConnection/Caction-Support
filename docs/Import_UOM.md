@@ -4,25 +4,25 @@
      **Import UOM Here:** [https://salesconnection.my/importuom](https://salesconnection.my/importuom)<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_1.png" alt="Import Contact Step 1">
+       <img src="img/Import_UOM_Step_1.png" alt="Import UOM Step 1">
      </p>
 
   2. Download this file and refer to the product sequence number.<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_2.png" alt="Import Contact Step 2">
+       <img src="img/Import_UOM_Step_2.png" alt="Import UOM Step 2">
      </p>
 
      This is the sample of the product/services sequence number Excel file.<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_2a.png" alt="Import Contact Step 2a">
+       <img src="img/Import_UOM_Step_2a.png" alt="Import UOM Step 2a">
      </p>
 
   3. Click "Excel Template".<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
+       <img src="img/Import_UOM_Step_3.png" alt="Import UOM Step 3">
      </p>
 
   4. Fill out the details of the new UOM.<br>
@@ -36,36 +36,36 @@
         - Product seq no<br>
         
      <p align="center">
-       <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
+       <img src="img/Import_UOM_Step_4.png" alt="Import UOM Step 4">
      </p>
      
   5. Make sure all the information of the UOM is correct and save the file.<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_5.png" alt="Import Contact Step 5">
+       <img src="img/Import_UOM_Step_5.png" alt="Import UOM Step 5">
      </p>
 
-  7. Go back to the UOM import page and choose the correct file by clicking "Choose File" to import.<br>
+  6. Go back to the UOM import page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_6.png" alt="Import Contact Step 6">
+       <img src="img/Import_UOM_Step_6.png" alt="Import UOM Step 6">
      </p>
 
-  8. Make sure the file uploaded is correct.<br>
+  7. Make sure the file uploaded is correct.<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_7.png" alt="Import Contact Step 7">
+       <img src="img/Import_UOM_Step_7.png" alt="Import UOM Step 7">
      </p>
 
-  9. Click on the "SUBMIT" button.<br>
+  8. Click on the "SUBMIT" button.<br>
 
      <p align="center">
-       <img src="img/Import_Contact_Step_8.png" alt="Import Contact Step 8">
+       <img src="img/Import_UOM_Step_8.png" alt="Import UOM Step 8">
      </p>
 
-  10. Click "OK" and the UOM has been imported successfully.<br>
+  9. Click "OK" and the UOM has been imported successfully.<br>
       <p align="center">
-        <img src="img/Import_Contact_Step_11.png" alt="Import Contact Step 11">
+       <img src="img/Import_UOM_Step_9.png" alt="Import UOM Step 9">
       </p>
   <br><br><br>
 
