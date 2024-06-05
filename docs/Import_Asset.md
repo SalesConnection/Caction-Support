@@ -97,4 +97,13 @@
 
 11. Click "Yes" to insert data.
 
-    
+    <p align="center">
+     <img src="img/Import_Asset_Step_11.png" alt="Import Asset Step 11">
+    </p><br>
+
+12. Click "OK" and the assets have been uploaded successfully.
+
+
+    <p align="center">
+     <img src="img/Import_Asset_Step_12.png" alt="Import Asset Step 12">
+    </p><br>
