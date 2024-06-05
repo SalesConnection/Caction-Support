@@ -31,6 +31,11 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Import New Contact?](Import_Contact.md)
 
 
+### Bulk Update
+- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Company_Bulk_Update.md)
+- [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
+
+
 ### Updates
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How to Check Pending Update?](How_to_Check_Pending_Update.md)
