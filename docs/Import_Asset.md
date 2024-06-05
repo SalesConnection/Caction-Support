@@ -31,7 +31,7 @@
      <img src="img/Import_Asset_Step_4.png" alt="Import Asset Step 4">
    </p><br>
 
-5. The "EXCEL TEMPLATE" file have 3 sheets: "Worksheet","Details", and "Status Info".<br>
+5. The "EXCEL TEMPLATE" file has 3 sheets: "Worksheet","Details", and "Status Info".<br>
 
    | Sheet | Usage |
    | :----- | :-------- |
