@@ -35,9 +35,9 @@
 
    | Sheet | Usage |
    | :----- | :-------- |
-   | Worksheet | Enter the aseet details in this page |
-   | Details | For reference of customer details |
-   | Status Info | For reference of the asset's warranty type |
+   | Worksheet | Enter the aseet details in this page. |
+   | Details | Reference for customer details. |
+   | Status Info | Reference for the asset's warranty type. |
 
    Worksheet: 
    <p align="center">
