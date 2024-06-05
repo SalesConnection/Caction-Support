@@ -7,22 +7,22 @@
      **Do UOM Bulk Update Here:** [https://salesconnection.my/uomimport/uomedit](https://salesconnection.my/uomimport/uomedit)<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_1.png" alt="Import Customer Step 1">
+       <img src="img/Customer_Bulk_Update_Step_1.png" alt="Customer Bulk Update Step 1">
      </p>
 
   2. Select the customer range to update.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_2.png" alt="Import Customer Step 2">
+       <img src="img/Customer_Bulk_Update_Step_2.png" alt="Customer Bulk Update Step 2">
      </p>
 
   3. Click "Download Customer excel data".<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_2.png" alt="Import Customer Step 2">
+       <img src="img/Customer_Bulk_Update_Step_3.png" alt="Customer Bulk Update Step 3">
      </p>
   
-  4. Update the customers details.<br>
+  4. Update the customer details.<br>
      a. The details include:<br>
         - Customer Name<br>
         - Company Name<br>
@@ -40,43 +40,43 @@
         - Credit Balance<br>
     
      <p align="center">
-       <img src="img/Import_Customer_Step_3.png" alt="Import Customer Step 3">
+       <img src="img/Customer_Bulk_Update_Step_4.png" alt="Customer Bulk Update Step 4">
      </p>
      
   5. Make sure all the updated information of the customers is correct and save the file.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_4.png" alt="Import Customer Step 4">
+       <img src="img/Customer_Bulk_Update_Step_5.png" alt="Customer Bulk Update Step 5">
      </p>
 
   6. Go back to the customer bulk update page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_5.png" alt="Import Customer Step 5">
+       <img src="img/Customer_Bulk_Update_Step_6.png" alt="Customer Bulk Update Step 6">
      </p>
 
   7. Make sure the file uploaded is correct.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_6.png" alt="Import Customer Step 6">
+       <img src="img/Customer_Bulk_Update_Step_7.png" alt="Customer Bulk Update Step 7">
      </p>
 
   8. Click on the "SUBMIT" button.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_7.png" alt="Import Customer Step 7">
+       <img src="img/Customer_Bulk_Update_Step_8.png" alt="Customer Bulk Update Step 8">
      </p>
 
   9. Click "Yes" to confirm the action.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_8.png" alt="Import Customer Step 8">
+       <img src="img/Customer_Bulk_Update_Step_9.png" alt="Customer Bulk Update Step 9">
      </p>
 
   10. Click "OK" and the customer details have been updated successfully.<br>
 
       <p align="center">
-        <img src="img/Import_Customer_Step_8.png" alt="Import Customer Step 8">
+       <img src="img/Customer_Bulk_Update_Step_10.png" alt="Customer Bulk Update Step 10">
       </p>
   <br><br><br>
 
