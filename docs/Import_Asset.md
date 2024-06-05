@@ -13,22 +13,22 @@
      <img src="img/Import_Asset_Step_2.png" alt="Import Asset Step 2">
    </p><br>
 
-3. Click "DOWNLOAD EXCEL TEMPLATE".
+3. Download this file and refer to the Customer and Project sequence number.
 
    <p align="center">
      <img src="img/Import_Asset_Step_3.png" alt="Import Asset Step 3">
    </p><br>
 
-4. Download this file and refer to the Customer and Project sequence number.
+   This is the sample of Customer and Project sequence number Excel file.<br>
+
+   <p align="center">
+     <img src="img/Import_Asset_Step_3a.png" alt="Import Asset Step 3a">
+   </p><br>
+
+4. Click "DOWNLOAD EXCEL TEMPLATE".
 
    <p align="center">
      <img src="img/Import_Asset_Step_4.png" alt="Import Asset Step 4">
-   </p><br>
-
-   This is a sample of Customer and Project sequence number Excel's file.<br>
-
-   <p align="center">
-     <img src="img/Import_Asset_Step_4a.png" alt="Import Asset Step 4a">
    </p><br>
 
 5. The "EXCEL TEMPLATE" file have 3 sheets: "Worksheet","Details", and "Status Info".<br>
