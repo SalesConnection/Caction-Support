@@ -1,6 +1,6 @@
 ## How to Import New UOM?
     
-  1. At the desktop site's navigation bar, go to User Management > UOM Import.<br>
+  1. At the desktop site's navigation bar, go to Import > UOM Import.<br>
      **Import UOM Here:** [https://salesconnection.my/importuom](https://salesconnection.my/importuom)<br>
 
      <p align="center">
