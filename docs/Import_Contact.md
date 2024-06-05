@@ -70,9 +70,9 @@
   
   10. Click on the "Proceed" button to confirm the upload.<br>
 
-     <p align="center">
-        <img src="img/Import_Contact_Step_10.png" alt="Import Contact Step 10">
-     </p>
+      <p align="center">
+         <img src="img/Import_Contact_Step_10.png" alt="Import Contact Step 10">
+      </p>
   
   11. When this prompt shows, it means the contacts have been imported successfully.<br>
 
