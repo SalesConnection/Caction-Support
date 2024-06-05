@@ -1,6 +1,6 @@
 ## How to Import New Contact?
     
-  1. At the desktop site's navigation bar, go to User Management > Contact Import.<br>
+  1. At the desktop site's navigation bar, go to Import > Contact Import.<br>
      **Import Contact Here:** [https://salesconnection.my/contact/import](https://salesconnection.my/contact/import)<br>
 
      <p align="center">
