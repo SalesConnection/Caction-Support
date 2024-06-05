@@ -19,13 +19,13 @@
      <img src="img/Import_Asset_Step_3.png" alt="Import Asset Step 3">
    </p><br>
 
-4. To pair your Asset to a Customer and Project you would need to use their respected sequence number. Download the following file if you need a reference on your Customer and Project sequence number inside the system.
+4. Download this file and refer to the Customer and Project sequence number.
 
    <p align="center">
      <img src="img/Import_Asset_Step_4.png" alt="Import Asset Step 4">
    </p><br>
 
-   This is a sample of Customer and Project sequence number Excel's file:<br>
+   This is a sample of Customer and Project sequence number Excel's file.<br>
 
    <p align="center">
      <img src="img/Import_Asset_Step_4a.png" alt="Import Asset Step 4a">
@@ -69,7 +69,7 @@
      <img src="img/Import_Asset_Step_6.png" alt="Import Asset Step 6">
    </p><br>
 
-7. Make sure all the information of the users is correct and save the file.
+7. Make sure all the information of the asset is correct and save the file.
 
    <p align="center">
      <img src="img/Import_Asset_Step_7.png" alt="Import Asset Step 7">
@@ -79,9 +79,9 @@
 
    <p align="center">
      <img src="img/Import_Asset_Step_8.png" alt="Import Asset Step 8">
-   </p><br>
+   </p>
 
-   *Note: Make sure select for the correct Asset Category.
+   *Note: Make sure select for the correct Asset Category.<br>
 
 9. Make sure the file uploaded is correct.
 
