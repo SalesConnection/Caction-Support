@@ -56,3 +56,6 @@
 **Related Articles**<br>
 - [How to Import New Customer/Project?](Import_Customer_Project.md)
 - [How to Import New User?](Import_User.md)
+- [How to Import New Asset?](Import_Asset.md)
+- [How to Import New Contact?](Import_Contact.md)
+  
