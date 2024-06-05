@@ -73,3 +73,5 @@
 - [How to Add New Project?](Add_New_Project.md)
 - [How to Import New User?](Import_User.md)
 - [How to Import New Product/Services?](Import_Product_Services.md)
+- [How to Import New Asset?](Import_Asset.md)
+- [How to Import New Contact?](Import_Contact.md)
