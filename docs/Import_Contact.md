@@ -13,7 +13,26 @@
        <img src="img/Import_Contact_Step_2.png" alt="Import Contact Step 2">
      </p>
 
-  3. Fill out the details of the new contacts.<br>
+  3. The "Excel Template" file has 2 sheets: "Import Data" and "Details".<br>
+
+     | Sheet | Usage |
+     |-------|-------|
+     | Import Data | Enter the contact details in this page. |
+     | Details | Reference for customer and company details. |
+
+     Import Data:<br>
+
+     <p align="center">
+       <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
+     </p>
+
+     Details:<br>
+
+     <p align="center">
+       <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
+     </p>
+  
+  4. Fill out the details of the new contacts.<br>
      a. The details include:<br>
         - Contact Name<br>
         - Contact Phone<br>
@@ -30,12 +49,6 @@
 
      <p align="center">
        <img src="img/Import_Contact_Step_3.png" alt="Import Contact Step 3">
-     </p>
-     
-  4. Open the Details page to check with the customer name and company name.<br>
-
-     <p align="center">
-       <img src="img/Import_Contact_Step_4.png" alt="Import Contact Step 4">
      </p>
   
   5. Make sure all the information of the contacts is correct and save the file.<br>
