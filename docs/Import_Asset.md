@@ -92,7 +92,7 @@
 10. Click on the "Submit" button.
 
     <p align="center">
-     <img src="img/Import_Asset_Step_10.png" alt="Import Asset Step 10">
+      <img src="img/Import_Asset_Step_10.png" alt="Import Asset Step 10">
     </p><br>
 
 11. Click "Yes" to insert data.
@@ -103,7 +103,6 @@
 
 12. Click "OK" and the assets have been uploaded successfully.
 
-
     <p align="center">
-     <img src="img/Import_Asset_Step_12.png" alt="Import Asset Step 12">
+      <img src="img/Import_Asset_Step_12.png" alt="Import Asset Step 12">
     </p><br>
