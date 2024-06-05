@@ -10,13 +10,19 @@
        <img src="img/Import_Customer_Step_1.png" alt="Import Customer Step 1">
      </p>
 
-  2. Click "DOWNLOAD EXCEL TEMPLATE".<br>
+  2. Select the customer range to update.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_2.png" alt="Import Customer Step 2">
      </p>
 
-  3. Fill out the details of the new customers.<br>
+  3. Click "Download Customer excel data".<br>
+
+     <p align="center">
+       <img src="img/Import_Customer_Step_2.png" alt="Import Customer Step 2">
+     </p>
+  
+  4. Update the customers details.<br>
      a. The details include:<br>
         - Customer Name<br>
         - Company Name<br>
@@ -33,46 +39,49 @@
         - Inquiry Date<br>
         - Credit Balance<br>
     
-     *Note: Please include + and the international code for the phone number's country followed by the phone number itself. Eg: +60122780122; +60358805110.<br>
-
      <p align="center">
        <img src="img/Import_Customer_Step_3.png" alt="Import Customer Step 3">
      </p>
      
-  4. Make sure all the information of the customers is correct and save the file.<br>
+  5. Make sure all the updated information of the customers is correct and save the file.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_4.png" alt="Import Customer Step 4">
      </p>
 
-  5. Go back to the customer import page and choose the correct file by clicking "Choose File" to import.<br>
+  6. Go back to the customer bulk update page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_5.png" alt="Import Customer Step 5">
      </p>
 
-  6. Make sure the file uploaded is correct.<br>
+  7. Make sure the file uploaded is correct.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_6.png" alt="Import Customer Step 6">
      </p>
 
-  7. Click on the "SUBMIT" button.<br>
+  8. Click on the "SUBMIT" button.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_7.png" alt="Import Customer Step 7">
      </p>
 
-  8. Click "OK" and the customers have been imported successfully.<br>
+  9. Click "Yes" to confirm the action.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_8.png" alt="Import Customer Step 8">
      </p>
+
+  10. Click "OK" and the customer details have been updated successfully.<br>
+
+      <p align="center">
+        <img src="img/Import_Customer_Step_8.png" alt="Import Customer Step 8">
+      </p>
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Add New Customer?](Add_New_Customer.md)
-- [How to Add New Project?](Add_New_Project.md)
+- [How to Import New Customer?](Import_Customer.md)
 - [How to Import New User?](Import_User.md)
 - [How to Import New Product/Services?](Import_Product_Services.md)
 - [How to Import New UOM?](Import_UOM.md)
