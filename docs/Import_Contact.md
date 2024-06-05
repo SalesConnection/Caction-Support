@@ -55,11 +55,23 @@
        <img src="img/Import_Contact_Step_7.png" alt="Import Contact Step 7">
      </p>
 
-  8. Click "OK" and the contacts have been imported successfully.<br>
+  8. Click "Upload".<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_8.png" alt="Import Contact Step 8">
      </p>
+  
+  9. Click on the "Proceed" button to confirm the upload.<br>
+
+     <p align="center">
+       <img src="img/Import_Contact_Step_9.png" alt="Import Contact Step 9">
+     </p>
+  
+  10. When this prompt shows, it means the contacts have been imported successfully.<br>
+
+      <p align="center">
+        <img src="img/Import_Contact_Step_10.png" alt="Import Contact Step 10">
+      </p>
   <br><br><br>
 
 **Related Articles**<br>
