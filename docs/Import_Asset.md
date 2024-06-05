@@ -109,6 +109,7 @@
 <br><br><br>
 
 **Related Articles**<br>
+- [How to Add New Asset?](How_to_Add_New_Asset.md)
 - [How to Import New Customer/Project?](Import_Customer_Project.md)
 - [How to Import New Product/Services?](Import_Product_Services.md)
 - [How to Import New Contact?](Import_Contact.md)
