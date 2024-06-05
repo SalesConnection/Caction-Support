@@ -1,7 +1,7 @@
 ## How to Import New UOM?
     
-  1. At the desktop site's navigation bar, go to User Management > Contact Import.<br>
-     **Import Contact Here:** [https://salesconnection.my/contact/import](https://salesconnection.my/contact/import)<br>
+  1. At the desktop site's navigation bar, go to User Management > UOM Import.<br>
+     **Import UOM Here:** [https://salesconnection.my/importuom](https://salesconnection.my/importuom)<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_1.png" alt="Import Contact Step 1">
