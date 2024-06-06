@@ -85,4 +85,4 @@
 <br><br><br>
 
 **Related Articles**
-- [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
+- [How to Edit Reminder Template?](Edit_Reminder_Template.md)
