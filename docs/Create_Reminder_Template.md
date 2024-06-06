@@ -67,21 +67,21 @@
 
   10. Tick the box to show the reminder in the category.<br>
 
-     <p align="center">
-       <img src="img/Save_Reminder_Button.png" alt="Save Reminder Button">
-     </p>
+      <p align="center">
+        <img src="img/Save_Reminder_Button.png" alt="Save Reminder Button">
+      </p>
 
   11. Click "Save Changes".<br>
 
-     <p align="center">
-       <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
-     </p>
+      <p align="center">
+        <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
+      </p>
 
   12. Click "Yes" and the reminder will be shown in the category.<br>
 
-     <p align="center">
-       <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
-     </p>
+      <p align="center">
+        <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
+      </p>
 <br><br><br>
 
 **Related Articles**
