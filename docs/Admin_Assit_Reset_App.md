@@ -51,4 +51,38 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_5.png" alt="Admin Assit Reset App Step 5">
    </p>
 
-   *Note: If the selected user's account is no pending data, then the account will be successfully reset.
+   *Note: If the selected user's account is no pending data, then the account will be successfully reset.<br><br>
+
+   <a id="section4"></a><br>
+
+**User Offline**
+
+1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
+   **Open the User List:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
+   <p align="center">
+      <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assit Reset App Step 1">
+   </p>
+
+2. Click "Reset App Access" to reset the selected user's app access.
+
+   <p align="center">
+      <img src="img/Reset_App_Access_No_Pending_User_Online_Step_2.png" alt="Admin Assit Reset App Step 2">
+   </p>
+
+3. Click "Reset" button to reset app access for the user.
+
+   <p align="center">
+      <img src="img/Reset_App_Access_No_Pending_User_Online_Step_3.png" alt="Admin Assit Reset App Step 3">
+   </p>
+
+4. The system will automatically check for whether the user's account has pending data or not.
+
+   <p align="center">
+      <img src="img/Reset_App_Access_No_Pending_User_Online_Step_4.png" alt="Admin Assit Reset App Step 4">
+   </p>
+
+   *Note: The pre-condition of the system automatically check pending data is the user's phone must be online.
+   
+5. Click "Skip Pending Data" and the user account will be succesfully 
+
+  *Note: If the prompt "Unable to Retrieve Results" appear, means that either the user's phone is currently offline or the user has deleted Sales Connection mobile app.
