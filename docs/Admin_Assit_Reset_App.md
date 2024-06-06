@@ -2,6 +2,21 @@
 
 *Note: This feature allows admin to kick out users and perform resetting actions in situations where users have resigned, uninstalled the app, or are consistenly offline.
 
+**Navigate to the section by clicking it.**<br>
+
+- [User don't have pending data](#section1)<br>
+- [User has pending data](#section2)<br>
+<br><br><br>
+
+<a id="section1"></a><br>
+
+- [User online](#section3)<br>
+- [User offline](#section4)<br>
+
+<a id="section3"></a><br>
+
+### User don't have pending data (Online)
+
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
    **Open the User List:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
    <p align="center">
