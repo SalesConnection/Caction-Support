@@ -79,10 +79,14 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Get Remote Signature From Customer?](How_to_Get_Remote_Signature_From_Customer.md)
 
 
+### Reminder 
+- [How to Edit Reminder Template?](Edit_Reminder_Template.md)
+- [How to Create New Reminder Template?](Create_Reminder_Template.md)
+
+
 ### Notification
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
 - [I am Not Getting Any Notification From System.Why?](I_am_Not_Getting_Any_Notification_From_System_Why.md)
-
 
 
 ### Others
@@ -91,7 +95,6 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to comment with photo / attachment?](Comment_With_Photo.md)
 - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
-- [How to Edit Reminder Template?](Edit_Reminder_Template.md)
   
   
 ## Features Knowledge 
