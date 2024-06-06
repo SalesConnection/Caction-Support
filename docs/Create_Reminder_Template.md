@@ -4,25 +4,25 @@
      **Create Reminder Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
 
      <p align="center">
-       <img src="img/Reminder_Templates_Sidebar.png" alt="Reminder Templates Sidebar">
+       <img src="img/Create_Reminder_Template_Step_1.png" alt="Create Reminder Template Step 1">
      </p>
 
   2. Click on the expand button for categories.<br>
 
      <p align="center">
-       <img src="img/Expand_Button_For_Reminder.png" alt="Expand Button For Reminder">
+       <img src="img/Create_Reminder_Template_Step_2.png" alt="Create Reminder Template Step 2">
      </p>
 
   3. Select the category you want to create a new reminder for.<br>
 
      <p align="center">
-       <img src="img/Select_Project_For_Reminder.png" alt="Select Project For Reminder">
+       <img src="img/Create_Reminder_Template_Step_3.png" alt="Create Reminder Template Step 3">
      </p>
 
   4. Click "Create new template".<br>
 
      <p align="center">
-       <img src="img/Select_Reminder_To_Edit.png" alt="Select Reminder to Edit">
+       <img src="img/Create_Reminder_Template_Step_4.png" alt="Create Reminder Template Step 4">
      </p>
 
   5. Enter the details for the reminder.<br>
@@ -38,49 +38,49 @@
      | Internal Recipient | Specifies the unit of time for the numeric value entered in the second column. |
 
      <p align="center">
-       <img src="img/New_Reminder_Details.png" alt="New_Reminder_Details">
+       <img src="img/Create_Reminder_Template_Step_5.png" alt="Create Reminder Template Step 5">
      </p>
 
   6. Click on the "Save" button after entering the details.<br>
 
      <p align="center">
-       <img src="img/Change_Reminder_To_Day.png" alt="Change Reminder to Day">
+       <img src="img/Create_Reminder_Template_Step_6.png" alt="Create Reminder Template Step 6">
      </p>
 
   7. The new reminder has been saved when it showed here.<br>
 
      <p align="center">
-       <img src="img/Save_Reminder_Button.png" alt="Save Reminder Button">
+       <img src="img/Create_Reminder_Template_Step_7.png" alt="Create Reminder Template Step 7">
      </p>
 
   8. Click "Reminder Autopopulate Setting".<br>
 
      <p align="center">
-       <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
+       <img src="img/Create_Reminder_Template_Step_8.png" alt="Create Reminder Template Step 8">
      </p>
 
   9. Click on the category you want to include the new reminder in.<br>
 
      <p align="center">
-       <img src="img/Change_Reminder_To_Day.png" alt="Change Reminder to Day">
+       <img src="img/Create_Reminder_Template_Step_9.png" alt="Create Reminder Template Step 9">
      </p>
 
   10. Tick the box to show the reminder in the category.<br>
 
       <p align="center">
-        <img src="img/Save_Reminder_Button.png" alt="Save Reminder Button">
+       <img src="img/Create_Reminder_Template_Step_10.png" alt="Create Reminder Template Step 10">
       </p>
 
   11. Click "Save Changes".<br>
 
       <p align="center">
-        <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
+       <img src="img/Create_Reminder_Template_Step_11.png" alt="Create Reminder Template Step 11">
       </p>
 
   12. Click "Yes" and the reminder will be shown in the category.<br>
 
       <p align="center">
-        <img src="img/Update_Existing_Reminders.png" alt="Update Existing Reminder">
+       <img src="img/Create_Reminder_Template_Step_12.png" alt="Create Reminder Template Step 12">
       </p>
 <br><br><br>
 
