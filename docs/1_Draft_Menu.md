@@ -95,7 +95,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to comment with photo / attachment?](Comment_With_Photo.md)
 - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
-- [How do Admin Assist Reset App?](Admin_Assist_Reset_App.md)
+- [How do Admin Assists Reset App?](Admin_Assist_Reset_App.md)
   
   
 ## Features Knowledge 
