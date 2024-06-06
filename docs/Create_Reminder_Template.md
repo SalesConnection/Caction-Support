@@ -29,13 +29,13 @@
 
      | Terms | Meaning |
      |-------|---------|
-     | Template Name | Specifies the trigger for the reminder. |
-     | Reminder Type | Represents a numeric value associated with the time type. |
-     | Action Type | Specifies the unit of time for the numeric value entered in the second column. |
-     | Message Title | Indicates whether the reminder is to be executed before or after the specified. |
-     | Message Content | Specifies the trigger for the reminder. |
-     | Condition | Represents a numeric value associated with the time type. |
-     | Internal Recipient | Specifies the unit of time for the numeric value entered in the second column. |
+     | Template Name | Enter the name of the new reminder. |
+     | Reminder Type | Choose whether the reminder is internal or external. |
+     | Action Type | Choose the reminder notification type - push notification or email. |
+     | Message Title | Write the message title to show on the notification. |
+     | Message Content | Write the content about the reminder. |
+     | Condition | Select the condition for the reminder. |
+     | Internal Recipient | Choose the user type received. |
 
      <p align="center">
        <img src="img/Create_Reminder_Template_Step_5.png" alt="Create Reminder Template Step 5">
