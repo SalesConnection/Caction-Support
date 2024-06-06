@@ -10,12 +10,14 @@
 
 <a id="section1"></a><br>
 
+### User don't have pending data
+
 - [User online](#section3)<br>
 - [User offline](#section4)<br>
 
 <a id="section3"></a><br>
 
-### User don't have pending data (Online)
+**User Online**
 
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
    **Open the User List:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
