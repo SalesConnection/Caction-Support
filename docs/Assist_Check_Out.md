@@ -22,7 +22,7 @@ Updated: 29 May 2024<br>
      </p>
      <br>
   
-### How to Perform Assist Check Out - Done by Admin?
+### How to Perform Assist Check Out? - Done by Admin
 *Note: If you are **staff**, please find your admin to assist you.<br>
 
   **Desktop Version**<br>
