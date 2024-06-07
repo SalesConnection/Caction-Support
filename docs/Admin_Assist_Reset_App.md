@@ -56,7 +56,7 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_6.png" alt="Admin Assist Reset App Step 6">
    </p><br>
 
-7. The system will automatically check for whether the user's account has pending data or not.
+7. The system will automatically check whether the user's account has pending data or not.
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_7.png" alt="Admin Assist Reset App Step 7">
