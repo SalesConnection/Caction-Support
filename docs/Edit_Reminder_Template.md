@@ -13,7 +13,7 @@
        <img src="img/Expand_Button_For_Reminder.png" alt="Expand Button For Reminder">
      </p>
 
-  3. Select from the dropdown.<br>
+  3. Select one of the dropdown options based on Reminder level.<br>
 
      <p align="center">
        <img src="img/Select_Project_For_Reminder.png" alt="Select Project For Reminder">
@@ -37,7 +37,7 @@
      
      | Message Title | Message Content |
      |---------------|-------------------|
-     | The message title is a brief headline that grabs attention. | The message content gives more details about the title. |
+     | Headline of Reminder in Notification/Email Subject. | Content of the Reminder. |
 
      <br>
      
@@ -48,7 +48,7 @@
      | Time Type | Specifies the unit of time for the numeric value entered in the second column. |
      | Execution | Indicates whether the reminder is to be executed before or after the specified. |
     
-     *Note: **Do not** change the Reminder Type.<br>
+     *Note: **Do not** change the Reminder Type unless instructed to.<br>
      
      <p align="center">
        <img src="img/Change_Reminder_To_Day.png" alt="Change Reminder to Day">
