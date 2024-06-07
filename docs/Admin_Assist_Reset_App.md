@@ -62,15 +62,13 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_7.png" alt="Admin Assist Reset App Step 7">
    </p>
 
-   *Note: The pre-condition of the system automatically check pending data is the user's phone must be online.<br><br>
+   *Note: The pre-condition of this action is the user's phone must be online.<br><br>
    
 8. Click "OK" and the account has been reset successfully.
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_8.png" alt="Admin Assist Reset App Step 8">
-   </p>
-
-   *Note: If the selected user's account is no pending data, then the account will be successfully reset.<br>
+   </p><br>
 
 9. A new password will be generated. Please click on the "Copy" button to copy the user details and send them to your new user.
 
@@ -103,9 +101,7 @@
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_4.png" alt="Admin Assist Reset App Step 4">
-   </p>
-
-   *Note: The pre-condition of the system automatically check pending data is the user's phone must be online.<br><br>
+   </p><br>
    
 5. Click "Reset App Access" to reset the selected user's app access.
 
@@ -125,7 +121,7 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_7.png" alt="Admin Assist Reset App Step 7">
    </p>
 
-   *Note: The pre-condition of the system automatically check pending data is the user's phone must be online.<br><br>
+   *Note: *Note: The pre-condition of this action is the user's phone must be online.<br><br>
 
 8. Click "Skip Pending Data" to continue with resetting app. This action may causes data lost if there is any pending data.<br>
 
@@ -143,15 +139,15 @@
 
 10. Click "OK" and the account has been reset successfully.
 
-   <p align="center">
+    <p align="center">
       <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_10.png" alt="Admin Assist Reset App Skip Pending Step 10">
-   </p><br>
+    </p><br>
 
 11. A new password will be generated. Please click on the "Copy" button to copy the user details and send them to your new user.
 
-   <p align="center">
+    <p align="center">
       <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_11.png" alt="Admin Assist Reset App Skip Pending Step 11">
-   </p><br><br>
+    </p><br><br>
 
 <a id="section2"></a><br>
 
