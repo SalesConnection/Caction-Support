@@ -1,6 +1,17 @@
 ## How to Add New Asset?
 *Note: In your system, Asset may have been renamed to others (i.e Lift/Esc, Machine, Equipment, Printer, Aircond, etc.)<br>
 
+**Navigate to the section by clicking it.**<br>
+
+- [From Asset List](#section1)<br>
+- [From Job Creation Page](#section2)<br>
+- [From Customer Creation Page](#section3)
+<br><br><br>
+
+<a id="section1"></a>
+
+**From Asset List**<br>
+
 1.  Go to desktop site “Main Navigation" > "Business Management" > "Asset List".<br> 
    **Add New Asset here**: [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
 
@@ -58,6 +69,19 @@
    <p align="center">
      <img src="img/How_to_Create_Asset_Result.png" alt="How to add new asset Result">
    </p>
+   <br><br>
+   
+<a id="section2"></a>
+
+**From Job Creation Page**<br>
+
+1. 
+
+<a id="section3"></a>
+
+**From Customer Creation Page**<br>
+
+1. 
   <br><br><br>
 
 **Related Articles**
