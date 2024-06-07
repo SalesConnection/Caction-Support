@@ -6,19 +6,24 @@ Updated: 29 May 2024<br>
 ### Scenarios below will need assist check out:
 
   1. If staff **cannot** or **forgot** to check out from the previous task, what to do?<br>
-
+  
+     *Not within range: User currently not near Customer location when trying to Check In/Out.<br>
+     
      <p align="center">
         <img src="img/Check_Out_Range.png" alt="Check Out Range" width="300" height="600">
      </p>
      
   2. User cannot check in to the next task.<br>
-
+  
+     *Check out required: User id not check out from the previous job.<br>
+     
      <p align="center">
         <img src="img/Check_Out_Required.png" alt="Check Out Required">
      </p>
      <br>
   
-### How to Perform Assist Check Out?
+### How to Perform Assist Check Out - Done by Admin?
+*Note: If you are **staff**, please find your admin to assist you.<br>
 
   **Desktop Version**<br>
   1. To assist check out, go to desktop site navigation bar > Business Map > Overview.<br>
