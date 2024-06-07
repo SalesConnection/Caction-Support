@@ -6,7 +6,7 @@
 
 - [User don't have pending data](#section1)<br>
 - [User has pending data](#section2)<br>
-<br><br><br>
+<br><br>
 
 <a id="section1"></a><br>
 
@@ -120,4 +120,11 @@
 
    <p align="center">
       <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_7.png" alt="Admin Assit Reset App Skip Pending Step 7">
-   </p><br>
+   </p><br><br><br>
+
+<a id="section2"></a><br>
+
+### User has pending data
+
+
+   
