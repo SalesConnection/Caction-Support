@@ -68,5 +68,5 @@
 <br><br><br>
 
 **Related Articles**
+- [How to Create New Reminder Template?](Create_Reminder_Template.md)
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
-
