@@ -1,5 +1,15 @@
 ## How to Add New Customer?
 Note: In your system, Customer may have been renamed to other (i.e Site, Client, Company, etc.)<br>
+
+**Navigate to the section by clicking it.**<br>
+
+- [From Customer List](#section1)<br>
+- [From Job Creation Page](#section2)
+<br><br><br>
+
+<a id="section1"></a>
+
+**From Customer List**<br>
     
   1. At the desktop site's navigation bar, go to Business Management > Customer List.<br>
      **Add New Customer Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
@@ -48,6 +58,84 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
 
      <p align="center">
        <img src="img/Add_New_Customer_Step_5.png" alt="Add New Customer Step 5">
+     </p>
+   <br><br>
+
+<a id="section2"></a>
+
+**From Job Creation Page**<br>
+
+  1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
+     **Create Job Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
+     
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_1.png" alt="Add New Customer2 Step 1">
+     </p>
+
+  2. Click on the "+" button to create new job.<br>
+     *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new job.<br>
+
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_2.png" alt="Add New Customer2 Step 2">
+     </p>
+
+  3. Select the job category.<br>
+
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_3.png" alt="Add New Customer2 Step 3">
+     </p>
+  
+  4. Click on the "Save" button.<br>
+
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_4.png" alt="Add New Customer2 Step 4">
+     </p>
+  
+  5. Click on the "+" button to select customer for the job.<br>
+
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_5.png" alt="Add New Customer2 Step 5">
+     </p>
+  
+  6. Click "+" to add new customer.<br>
+
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_6.png" alt="Add New Customer2 Step 6">
+     </p>
+  
+  7. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
+
+     | Field Name| Description |
+     |-------|---------|
+     | Customer Status* | Indicates the current status of the customer. |
+     | Customer Category* | Classifies the customer based on their type. |
+     | Company Name* | The official name of the customer's company. |
+     | Customer Name | The full name of the customer contact person. |
+     | Asset | Any asset registered in the system associated with the customer. |
+     | Assigned User | The user responsible for managing this customer. |
+     | Customer Phone | The customer's contact phone number. |
+     | Customer Email | The customer's email address. |
+     | Customer Address | The physical address of the customer. |
+     | State | The state within Malaysia where the customer is located. |
+     | Inquiry Date | The date when the customer inquiry was made. |
+     | Credit Balance | The current credit balance of the customer. |
+     
+     *Note: Fields marked with an asterisk ( * ) are required.<br>
+     
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_7.png" alt="Add New Customer2 Step 7">
+     </p>
+
+  8. Click on the "Save Customer" button.<br>
+
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_8.png" alt="Add New Customer2 Step 8">
+     </p>
+
+  9. Click "OK" and the new customers are added successfully.<br>
+
+     <p align="center">
+       <img src="img/Add_New_Customer2_Step_9.png" alt="Add New Customer2 Step 9">
      </p>
      <br><br><br>
 
