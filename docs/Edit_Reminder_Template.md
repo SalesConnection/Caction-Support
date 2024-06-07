@@ -33,13 +33,21 @@
 
   6. For example, click on the expand button of "Time Type" and click "Day".<br>
 
+     Difference between Message Title and Message Condition<br>
+     
+     | Message Title | Message Content |
+     |---------------|-------------------|
+     | The message title is a brief headline that grabs attention. | The message content gives more details about the title. |
+
+     <br>
+     
      | Terms | Meaning |
      |-------|---------|
      | Condition | Specifies the trigger for the reminder. |
      | Duration | Represents a numeric value associated with the time type. |
      | Time Type | Specifies the unit of time for the numeric value entered in the second column. |
      | Execution | Indicates whether the reminder is to be executed before or after the specified. |
-
+    
      *Note: **Do not** change the Reminder Type.<br>
      
      <p align="center">
