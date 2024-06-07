@@ -29,7 +29,7 @@
 3. Fill out the details of the new Asset. Available fields may differ depending on your company’s system setup.
 
    |   Term  | Definition |
-   | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+   | :-----------: | :--------------------------------------------------------------------- |
    | Category | Indicates the type of asset |
    | Status | Indicates Current status of the asset|
    | Warranty Start Date | The date when the warranty period for the asset begins |
@@ -75,13 +75,132 @@
 
 **From Job Creation Page**<br>
 
-1. 
+1.  Go to desktop site “Main Navigation" > "Business Management" > "Asset List".<br> 
+   **Add New Asset here**: [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
+
+    <p align="center">
+       <img src="img/How_to_Create_Asset_Step_1.png" alt="How to add new asset Step 1">
+    </p><br>
+
+2. Click the "+ Add Asset" button.<br>
+   *Note: If you do not see a "+ Add Asset" button, you may need to request permission or help from your Admin to register new Asset.<br>
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset_Step_2.png" alt="How to add new asset Step 2">
+   </p><br>
+
+3. Fill out the details of the new Asset. Available fields may differ depending on your company’s system setup.
+
+   |   Term  | Definition |
+   | :-----------: | :--------------------------------------------------------------------- |
+   | Category | Indicates the type of asset |
+   | Status | Indicates Current status of the asset|
+   | Warranty Start Date | The date when the warranty period for the asset begins |
+   | Warranty End Date | The date when the warranty period for the asset ends|
+   | Serial No*| Unique code assigned to the asset by the manufacturer |
+   | Attachment Field |  Field to add attachments related to the asset|
+   | Asset Reminder | Notifications or alerts related to the asset maintenance or checks   |
+   |  Model | Specific model code of the asset |
+   | Remarks | Additional notes or comments about the asset |
+
+   *Note: Fields marked with an asterisk ( * ) are required.<br>
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset_Step_3.png" alt="How to add new asset Step 3">
+   </p><br>
+
+4. Click the save icon.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset_Step_4.png" alt="How to add new asset Step 4">
+   </p><br>
+
+5. Click "OK" to confirm your save.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset_Step_5.png" alt="How to add new asset Step 5">
+   </p><br>
+
+6. Your Asset is successfully saved when the “Successfully Saved” prompt appears.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset_Step_6.png" alt="How to add new asset Step 6">
+   </p><br>
+
+7. You will then be directed to the new Asset Details page.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset_Result.png" alt="How to add new asset Result">
+   </p>
+   <br><br>
 
 <a id="section3"></a>
 
 **From Customer Creation Page**<br>
 
-1. 
+1.  Go to desktop site “Main Navigation" > "Business Management" > "Customer List".<br> 
+   **Open Customer List Page here**: [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
+
+    <p align="center">
+       <img src="img/How_to_Create_Asset3_Step_1.png" alt="How to add new asset3 Step 1">
+    </p><br>
+
+2. Click the "+" button to create new Customer.<br>
+   *Note: If you do not see a "+" button, you may need to request permission or help from your Admin to register new Customer.<br>
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset3_Step_2.png" alt="How to add new asset3 Step 2">
+   </p><br>
+
+3. Click "Asset".
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset3_Step_3.png" alt="How to add new asset3 Step 23">
+   </p><br>
+
+4. Click "+ Add Asset" to add new asset.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset3_Step_4.png" alt="How to add new asset3 Step 4">
+   </p><br>
+  
+5. Fill out the details of the new Asset. Available fields may differ depending on your company’s system setup.
+
+   |   Term  | Definition |
+   | :-----------: | :--------------------------------------------------------------------- |
+   | Category | Indicates the type of asset |
+   | Status | Indicates Current status of the asset|
+   | Warranty Start Date | The date when the warranty period for the asset begins |
+   | Warranty End Date | The date when the warranty period for the asset ends|
+   | Serial No*| Unique code assigned to the asset by the manufacturer |
+   | Attachment Field |  Field to add attachments related to the asset|
+   | Asset Reminder | Notifications or alerts related to the asset maintenance or checks   |
+   |  Model | Specific model code of the asset |
+   | Remarks | Additional notes or comments about the asset |
+
+   *Note: Fields marked with an asterisk ( * ) are required.<br>
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset3_Step_5.png" alt="How to add new asset3 Step 5">
+   </p><br>
+
+6. Click on the "Save" button.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset3_Step_6.png" alt="How to add new asset3 Step 6">
+   </p><br>
+
+7. Click "OK" to confirm your save.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset3_Step_7.png" alt="How to add new asset3 Step 7">
+   </p><br>
+
+8. Your Asset is successfully saved when the “Successfully Saved” prompt appears. You may continue with creating new Customer.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset3_Step_8.png" alt="How to add new asset3 Step 8">
+   </p>
   <br><br><br>
 
 **Related Articles**
