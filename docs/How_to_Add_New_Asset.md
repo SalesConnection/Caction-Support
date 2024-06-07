@@ -1,4 +1,5 @@
 ## How to Add New Asset?
+*Note: In your system, Asset may have been renamed to others (i.e Lift/Esc, Machine, Equipment, Printer, Aircond, etc.)<br>
 
 1.  Go to desktop site “Main Navigation" > "Business Management" > "Asset List".<br> 
    **Add New Asset here**: [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
@@ -7,13 +8,14 @@
        <img src="img/How_to_Create_Asset_Step_1.png" alt="How to add new asset Step 1">
     </p><br>
 
-2. Click the "+ Add Asset" button.
+2. Click the "+ Add Asset" button.<br>
+   *Note: If you do not see a "+ Add Asset" button, you may need to request permission or help from your Admin to register new Asset.<br>
 
    <p align="center">
      <img src="img/How_to_Create_Asset_Step_2.png" alt="How to add new asset Step 2">
    </p><br>
 
-3. The "Add Asset" page shown below is to enter the information of the new asset.
+3. Fill out the details of the new Asset. Available fields may differ depending on your company’s system setup.
 
    |   Term  | Definition |
    | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,25 +35,25 @@
      <img src="img/How_to_Create_Asset_Step_3.png" alt="How to add new asset Step 3">
    </p><br>
 
-5. Click the save icon.
+4. Click the save icon.
 
    <p align="center">
      <img src="img/How_to_Create_Asset_Step_4.png" alt="How to add new asset Step 4">
    </p><br>
 
-6. Click "OK"
+5. Click "OK" to confirm your save.
 
    <p align="center">
      <img src="img/How_to_Create_Asset_Step_5.png" alt="How to add new asset Step 5">
    </p><br>
 
-7. When this "Successfully Saved" prompt appears, it means that your asset has been successfully saved.
+6. Your Asset is successfully saved when the “Successfully Saved” prompt appears.
 
    <p align="center">
      <img src="img/How_to_Create_Asset_Step_6.png" alt="How to add new asset Step 6">
    </p><br>
 
-8. This is the Asset Details result.
+7. You will then be directed to the new Asset Details page.
 
    <p align="center">
      <img src="img/How_to_Create_Asset_Result.png" alt="How to add new asset Result">
