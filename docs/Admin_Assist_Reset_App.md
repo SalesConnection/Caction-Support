@@ -78,6 +78,7 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_9.png" alt="Admin Assit Reset App Step 9">
    </p><br><br>
 
+<a id="section4"></a><br>
 **User Offline / App Deleted**
 
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
