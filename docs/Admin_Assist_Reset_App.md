@@ -132,25 +132,25 @@
    *Note: If the prompt "Unable to Retrieve Results" appear, it means that either the user's phone is currently offline or the user has deleted Sales Connection mobile app.
 
    <p align="center">
-      <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_5.png" alt="Admin Assit Reset App Skip Pending Step 5">
+      <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_8.png" alt="Admin Assit Reset App Skip Pending Step 8">
    </p><br>
 
 9. Click "Reset" to confirm skip pending data.
 
    <p align="center">
-      <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_6.png" alt="Admin Assit Reset App Skip Pending Step 6">
+      <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_9.png" alt="Admin Assit Reset App Skip Pending Step 9">
    </p><br>
 
 10. Click "OK" and the account has been reset successfully.
 
    <p align="center">
-      <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_7.png" alt="Admin Assit Reset App Skip Pending Step 7">
+      <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_10.png" alt="Admin Assit Reset App Skip Pending Step 10">
    </p><br>
 
 11. A new password will be generated. Please click on the "Copy" button to copy the user details and send them to your new user.
 
    <p align="center">
-      <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_8.png" alt="Admin Assit Reset App Skip Pending Step 8">
+      <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_11.png" alt="Admin Assit Reset App Skip Pending Step 11">
    </p><br><br>
 
 <a id="section2"></a><br>
