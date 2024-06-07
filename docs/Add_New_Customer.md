@@ -1,4 +1,5 @@
 ## How to Add New Customer?
+Note: In your system, Customer may have been renamed to other (i.e Site, Client, Company, etc.)<br>
     
   1. At the desktop site's navigation bar, go to Business Management > Customer List.<br>
      **Add New Customer Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
@@ -8,12 +9,13 @@
      </p>
 
   2. Click on the "+" button to add new customer.<br>
+     *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new Customer.<br>
 
      <p align="center">
        <img src="img/Add_New_Customer_Step_2.png" alt="Add New Customer Step 2">
      </p>
 
-  3. Fill out the details of the new customer.<br>
+  3. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
 
      | Field Name| Description |
      |-------|---------|
@@ -42,7 +44,7 @@
        <img src="img/Add_New_Customer_Step_4.png" alt="Add New Customer Step 4">
      </p>
 
-5. Click "OK" and the new customer has been saved successfully.<br>
+5. Click "OK" and the new customers are added successfully.<br>
 
      <p align="center">
        <img src="img/Add_New_Customer_Step_5.png" alt="Add New Customer Step 5">
