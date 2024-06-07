@@ -15,7 +15,7 @@ Updated: 29 May 2024<br>
      
   2. User cannot check in to the next task.<br>
   
-     *Check out required: User id not check out from the previous job.<br>
+     *Check out required: User did not checked out from the previous job.<br>
      
      <p align="center">
         <img src="img/Check_Out_Required.png" alt="Check Out Required">
