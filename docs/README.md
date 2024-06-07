@@ -59,6 +59,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
 
 
+### Reminder 
+- [How to Edit Reminder Template?](Edit_Reminder_Template.md)
+  
+
 ### Others
 - [How to comment with photo / attachment?](Comment_With_Photo.md)
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
