@@ -204,7 +204,7 @@
       <img src="img/Reset_App_Access_has_Pending_User_Online_Step_7a.png" alt="Admin Assist Reset App Step 7a">
    </p><br>
 
-8. Click "Retry Now" and the pending updates will update successfully, as the user has performed the action mentioned in step 7a.
+8. Click "Retry Now" and the pending data will update successfully if the user has performed the action mentioned in picture 7a.
 
    <p align="center">
       <img src="img/Reset_App_Access_has_Pending_User_Online_Step_8.png" alt="Admin Assist Reset App Step 8">
@@ -216,7 +216,7 @@
       <img src="img/Reset_App_Access_has_Pending_User_Online_Step_9.png" alt="Admin Assist Reset App Step 9">
    </p><br>
 
-10. Click "OK" as the pending updates has been updated successfully, and the accont has been reset.
+10. Click "OK" as the pending data has been updated successfully and the account has been reset.
 
     <p align="center">
       <img src="img/Reset_App_Access_has_Pending_User_Online_Step_10.png" alt="Admin Assist Reset App Step 10">
@@ -227,3 +227,11 @@
     <p align="center">
       <img src="img/Reset_App_Access_has_Pending_User_Online_Step_11.png" alt="Admin Assist Reset App Step 11">
     </p><br>
+<br><br><br>
+
+**Related Articles**
+- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Assist My New User to Login?](New_User_Login.md)
+- [I Can't Login to My Other Phone. Why?](IMEI.md)
+- [How to Turn Off Device Check (IMEI)?](Turn_Off_IMEI.md)
+- [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
