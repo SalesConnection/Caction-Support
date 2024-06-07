@@ -75,21 +75,45 @@
 
 **From Job Creation Page**<br>
 
-1.  Go to desktop site “Main Navigation" > "Business Management" > "Asset List".<br> 
-   **Add New Asset here**: [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
+1.  Go to desktop site “Main Navigation" > "Business Management" > "Schedule" > "Job Schedule".<br> 
+   **Open Job Schedule Page here**: [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
 
     <p align="center">
-       <img src="img/How_to_Create_Asset_Step_1.png" alt="How to add new asset Step 1">
+       <img src="img/How_to_Create_Asset2_Step_1.png" alt="How to add new asset2 Step 1">
     </p><br>
 
-2. Click the "+ Add Asset" button.<br>
-   *Note: If you do not see a "+ Add Asset" button, you may need to request permission or help from your Admin to register new Asset.<br>
+2. Click the "+" button to create new Job.<br>
+   *Note: If you do not see a "+" button, you may need to request permission or help from your Admin to register new Job.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Step_2.png" alt="How to add new asset Step 2">
+     <img src="img/How_to_Create_Asset2_Step_2.png" alt="How to add new asset2 Step 2">
    </p><br>
 
-3. Fill out the details of the new Asset. Available fields may differ depending on your company’s system setup.
+3. Select the Job Category.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset2_Step_3.png" alt="How to add new asset2 Step 3">
+   </p><br>
+
+4. Click on the "SAVE" button.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset2_Step_4.png" alt="How to add new asset2 Step 4">
+   </p><br>
+  
+5. Click the "+" button.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset2_Step_5.png" alt="How to add new asset2 Step 5">
+   </p><br>
+
+6. Click "+ Add Asset"  to add new asset.
+
+   <p align="center">
+     <img src="img/How_to_Create_Asset2_Step_6.png" alt="How to add new asset2 Step 6">
+   </p><br>
+
+7. Fill out the details of the new Asset. Available fields may differ depending on your company’s system setup.
 
    |   Term  | Definition |
    | :-----------: | :--------------------------------------------------------------------- |
@@ -106,31 +130,19 @@
    *Note: Fields marked with an asterisk ( * ) are required.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Step_3.png" alt="How to add new asset Step 3">
+     <img src="img/How_to_Create_Asset2_Step_7.png" alt="How to add new asset2 Step 7">
    </p><br>
 
-4. Click the save icon.
+8. Click on the "Save" button.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Step_4.png" alt="How to add new asset Step 4">
+     <img src="img/How_to_Create_Asset2_Step_8.png" alt="How to add new asset2 Step 8">
    </p><br>
 
-5. Click "OK" to confirm your save.
+9. Click "OK" to confirm your save and your asset is successfully saved. You may continue with creating new Job.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Step_5.png" alt="How to add new asset Step 5">
-   </p><br>
-
-6. Your Asset is successfully saved when the “Successfully Saved” prompt appears.
-
-   <p align="center">
-     <img src="img/How_to_Create_Asset_Step_6.png" alt="How to add new asset Step 6">
-   </p><br>
-
-7. You will then be directed to the new Asset Details page.
-
-   <p align="center">
-     <img src="img/How_to_Create_Asset_Result.png" alt="How to add new asset Result">
+     <img src="img/How_to_Create_Asset2_Step_9.png" alt="How to add new asset2 Step 9">
    </p>
    <br><br>
 
@@ -155,7 +167,7 @@
 3. Click "Asset".
 
    <p align="center">
-     <img src="img/How_to_Create_Asset3_Step_3.png" alt="How to add new asset3 Step 23">
+     <img src="img/How_to_Create_Asset3_Step_3.png" alt="How to add new asset3 Step 3">
    </p><br>
 
 4. Click "+ Add Asset" to add new asset.
