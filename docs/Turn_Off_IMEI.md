@@ -66,45 +66,57 @@
    **Open User Account Customisation Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
 
    <p align="center">
-     <img src="img/Turn_Off_IMEI_Step_1.png" alt="Turn Off IMEI Step 1">
+     <img src="img/Turn_Off_IMEI2_Step_1.png" alt="Turn Off IMEI2 Step 1">
    </p>
 
    *Note: Only certain admins can perform this action.<br>
 
-2. Click the "pencil" icon next to the "Company Settings".<br>
+2. Click on the department name.<br>
+
+   <p align="center">
+     <img src="img/Turn_Off_IMEI2_Step_2.png" alt="Turn Off IMEI2 Step 2">
+   </p>
+
+3. Enter the name of the user.<br>
+
+   <p align="center">
+     <img src="img/Turn_Off_IMEI2_Step_3.png" alt="Turn Off IMEI2 Step 3">
+   </p>
+
+4. Select on the "Select Department" button.<br>
+
+   <p align="center">
+     <img src="img/Turn_Off_IMEI2_Step_4.png" alt="Turn Off IMEI2 Step 4">
+   </p>
+
+5. Click the "pencil" icon next to the user.<br>
    
    <p align="center">
-     <img src="img/Turn_Off_IMEI_Step_2.png" alt="Turn Off IMEI Step 2">
+     <img src="img/Turn_Off_IMEI2_Step_5.png" alt="Turn Off IMEI2 Step 5">
    </p>
    
-3. Press Ctrl + F and enter "IMEI Login Check".<br>
+6. Press Ctrl + F and enter "IMEI Login Check".<br>
 
    <p align="center">
-     <img src="img/Turn_Off_IMEI_Step_3.png" alt="Turn Off IMEI Step 3">
+     <img src="img/Turn_Off_IMEI2_Step_6.png" alt="Turn Off IMEI2 Step 6">
    </p>
 
-4. Untoggle "IMEI Login Check" to turn off the IMEI check.<br>
+7. Toggle/untoggle "IMEI Login Check" to turn on/off the IMEI check.<br>
 
    <p align="center">
-     <img src="img/Turn_Off_IMEI_Step_4.png" alt="Turn Off IMEI Step 4">
-   </p>
-   
-5. Click "Save Control Settings".<br>
-
-   <p align="center">
-     <img src="img/Turn_Off_IMEI_Step_5.png" alt="Turn Off IMEI Step 5">
-   </p>
-
-6. Click "Apply to new users and update existing users" to turn off IMEI for all users.<br>
-
-   <p align="center">
-     <img src="img/Turn_Off_IMEI_Step_6.png" alt="Turn Off IMEI Step 6">
+     <img src="img/Turn_Off_IMEI2_Step_7.png" alt="Turn Off IMEI2 Step 7">
    </p>
    
-7. All users can login with different devices without approval now.<br>
+8. Click "Save Control Settings".<br>
 
    <p align="center">
-     <img src="img/Turn_Off_IMEI_Step_7.png" alt="Turn Off IMEI Step 1">
+     <img src="img/Turn_Off_IMEI2_Step_8.png" alt="Turn Off IMEI2 Step 8">
+   </p>
+
+9. "IMEI Login Check" has been turned on/off when the prompt appears.<br>
+
+   <p align="center">
+     <img src="img/Turn_Off_IMEI2_Step_9.png" alt="Turn Off IMEI2 Step 9">
    </p>
 <br><br><br>
 
