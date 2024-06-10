@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
-Updated: 24 May 2024<br>
+Updated: 10 June 2024<br>
 ##  What is user type? 
 
 User type sets what a user can see in the system. For instance, an Admin can see everything, including others' schedules and jobs, but a Staff can't. <br>
@@ -56,5 +56,5 @@ each team, etc. Note that a user can be in more than one Staff Category and a us
 <br><br><br>
 
 **Related Articles**<br>
-- [How to add staff category?](Add_New_User_Category.md)<br>
+- [How to add new user category?](Add_New_User_Category.md)<br>
 - [Data Level Structure](Data_Level_Structure.md)
