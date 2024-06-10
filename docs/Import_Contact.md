@@ -95,8 +95,8 @@
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Import New Customer/Project?](Import_Customer_Project.md)
-- [How to Import New Product/Services?](Import_Product_Services.md)
-- [How to Import New UOM?](Import_UOM.md)
+- [How do I Import New Customer(s)/Project(s)?](Import_Customer_Project.md)
+- [How do I Import New Product/Services(s)?](Import_Product_Services.md)
+- [How do I Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
