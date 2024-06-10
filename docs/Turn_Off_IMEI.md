@@ -33,7 +33,7 @@
      <img src="img/Turn_Off_IMEI_Step_3.png" alt="Turn Off IMEI Step 3">
    </p>
 
-4. Untoggle "IMEI Login Check" to turn off the IMEI check.<br>
+4. Toggle/untoggle "IMEI Login Check" to turn on/off the IMEI check.<br>
 
    <p align="center">
      <img src="img/Turn_Off_IMEI_Step_4.png" alt="Turn Off IMEI Step 4">
@@ -45,13 +45,13 @@
      <img src="img/Turn_Off_IMEI_Step_5.png" alt="Turn Off IMEI Step 5">
    </p>
 
-6. Click "Apply to new users and update existing users" to turn off IMEI for all users.<br>
+6. Click "Apply to new users and update existing users" to turn on/off IMEI for all users.<br>
 
    <p align="center">
      <img src="img/Turn_Off_IMEI_Step_6.png" alt="Turn Off IMEI Step 6">
    </p>
    
-7. All users can login with different devices without approval now.<br>
+7. For example if turn off IMEI, all users can login with different devices without approval now.<br>
 
    <p align="center">
      <img src="img/Turn_Off_IMEI_Step_7.png" alt="Turn Off IMEI Step 1">
