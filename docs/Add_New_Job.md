@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 10 June 2024<br>
+Updated: 10 June 2024<br>
 ## How to Add New Job?
     
   1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
