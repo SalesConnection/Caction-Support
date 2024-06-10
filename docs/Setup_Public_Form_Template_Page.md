@@ -7,4 +7,6 @@
       <img src="img/Public_Form_Template_Settings_Step_1.png" alt="Public Form Template Step 1">
    </p>
 
-2. 
+2. "Template Info" provides basic information about the public form template.
+
+   |Template Choices|
