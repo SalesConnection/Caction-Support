@@ -81,9 +81,9 @@
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Import New Customer?](Import_Customer.md)
+- [How do I Import New Customer(s)?](Import_Customer.md)
 - [How do I Import New User(s)?](Import_User.md)
-- [How to Import New Product/Services?](Import_Product_Services.md)
-- [How to Import New UOM?](Import_UOM.md)
+- [How do I Import New Product/Services(s)?](Import_Product_Services.md)
+- [How do I Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
-- [How to Import New Contact?](Import_Contact.md)
+- [How do I Import New Contact(s)?](Import_Contact.md)
