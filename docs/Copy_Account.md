@@ -4,7 +4,7 @@
      **Copy Account Here:** [https://salesconnection.my/transferAccount](https://salesconnection.my/transferAccount)<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_6.png" alt="Copy Account Step 6">
+       <img src="img/Copy_Account_Step_1.png" alt="Copy Account Step 1">
      </p>
 
      *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
@@ -12,13 +12,13 @@
   2. Click on the expand button.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_7.png" alt="Copy Account Step 7">
+       <img src="img/Copy_Account_Step_2.png" alt="Copy Account Step 2">
      </p>
 
   3. Select the user who needs to copy the account from.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_8.png" alt="Copy Account Step 8">
+       <img src="img/Copy_Account_Step_3.png" alt="Copy Account Step 3">
      </p>
 
      *Note: List of users are based on Activated and Deactivated users. Deleted users are excluded.<br>
@@ -26,14 +26,14 @@
   4. Click on the expand button.<br>
 
      <p align="center">
-       <img src="img/Copy_Account_Step_9.png" alt="Copy Account Step 9">
+       <img src="img/Copy_Account_Step_4.png" alt="Copy Account Step 4">
      </p>
 
   5. Select the user who needs to copy the account to.<br>
 
-      <p align="center">
-       <img src="img/Copy_Account_Step_10.png" alt="Copy Account Step 10">
-      </p>
+     <p align="center">
+       <img src="img/Copy_Account_Step_5.png" alt="Copy Account Step 5">
+     </p>
 
   6. Select the copy option.<br>
 
@@ -41,27 +41,27 @@
      |------------------------|----------------------------|
      | This will copy all Assign/View permission of the user to the selected user (Customers, Projects, Jobs, etc.) | This will copy all user account customization settings of the user to the selected user. |
      
-      <p align="center">
-       <img src="img/Copy_Account_Step_11.png" alt="Copy Account Step 11">
-      </p>
+     <p align="center">
+       <img src="img/Copy_Account_Step_6.png" alt="Copy Account Step 6">
+     </p>
 
-  8. Click on the "Begin Copy" button.<br>
+  7. Click on the "Begin Copy" button.<br>
 
-      <p align="center">
-       <img src="img/Copy_Account_Step_12.png" alt="Copy Account Step 12">
-      </p>
+     <p align="center">
+       <img src="img/Copy_Account_Step_7.png" alt="Copy Account Step 7">
+     </p>
 
-  9. Click "Yes" to copy the account.<br>
+  8. Click "Yes" to copy the account.<br>
 
-      <p align="center">
-       <img src="img/Copy_Account_Step_13.png" alt="Copy Account Step 13">
-      </p>
+     <p align="center">
+       <img src="img/Copy_Account_Step_8.png" alt="Copy Account Step 9">
+     </p>
 
-  10. The account has been copied successfully.<br>
+  9. The account has been copied successfully.<br>
 
-      <p align="center">
-       <img src="img/Copy_Account_Step_14.png" alt="Copy Account Step 14">
-      </p>
+     <p align="center">
+       <img src="img/Copy_Account_Step_9.png" alt="Copy Account Step 9">
+     </p>
   <br><br><br>
 
 **Related Articles**<br>
