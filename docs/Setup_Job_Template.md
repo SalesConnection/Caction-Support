@@ -4,84 +4,61 @@
    **Open Job Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
 
    <p align="center">
-      <img src="img/Create_Reminder_Template_Step_1.png" alt="Create Reminder Template Step 1">
+      <img src="img/Job_Template_Step_1.png" alt="Job Template Step 1">
    </p>
 
-2. Click on the expand button for categories.<br>
+2. "Template Info" provides basic information about the job template.<br>
 
-   <p align="center">
-      <img src="img/Create_Reminder_Template_Step_2.png" alt="Create Reminder Template Step 2">
-   </p>
-
-3. Select the category you want to manage the job template for.<br>
-
-   <p align="center">
-      <img src="img/Create_Reminder_Template_Step_3.png" alt="Create Reminder Template Step 3">
-   </p>
-
-4. Click "Create new template".<br>
-
-   <p align="center">
-      <img src="img/Create_Reminder_Template_Step_4.png" alt="Create Reminder Template Step 4">
-   </p>
-
-5. Enter the details for the job.<br>
-
-   | Terms | Meaning |
+   | Terms | Description |
    |-------|---------|
-   | Template Name | Enter the name of the new reminder. |
-   | Reminder Type | Choose whether the reminder is internal or external. |
-   | Action Type | Choose the reminder notification type - push notification or email. |
-   | Message Title | Write the message title to show on the notification. |
-   | Message Content | Write the content about the reminder. |
-   | Condition | Select the condition for the reminder. |
-   | Internal Recipient | Choose the user type received. |
+   | Category | Choose the job category (e.g. sales enquiry, site visit, etc.) |
+   | Template Short Code | Code starting with the specified alphabet for identification (e.g. J) |
+   | Template Name | Name of the template (e.g. Job) |
 
    <p align="center">
-      <img src="img/Create_Reminder_Template_Step_5.png" alt="Create Reminder Template Step 5">
+      <img src="img/Job_Template_Step_2.png" alt="Job Template Step 2">
    </p>
 
-6. Click on the "Save" button after entering the details.<br>
+3. "Prepopulate Assigned User During Job Creation" is used to automatically assign the user to jobs created under this category. For example, add a user here and the user will be auto-assigned when a "Sales Enquiry" job is created.<br>
 
    <p align="center">
-      <img src="img/Create_Reminder_Template_Step_6.png" alt="Create Reminder Template Step 6">
+      <img src="img/Job_Template_Step_3.png" alt="Job Template Step 3">
    </p>
 
-7. The new job template has been saved when it showed here.<br>
+4. "Address Prepopulate Settings" configured who addresses are prepopulated in the job form.<br>
+
+   | Field | Description |
+   |-------|---------|
+   | Display "Address not required" | Checkbox to show or hide the option to mark the address as not required. |
+   | Prepopulate Option | Select the option to prepopulate address (e.g. Prepopulate the main customer address in the list.) |
 
    <p align="center">
-      <img src="img/Create_Reminder_Template_Step_7.png" alt="Create Reminder Template Step 7">
+      <img src="img/Job_Template_Step_4.png" alt="Job Template Step 4">
    </p>
 
-8. Click "Reminder Autopopulate Setting".<br>
+5. "Default Field Prepopulate Value Settings" allows to set default values for various fields in the job template.<br>
+
+   | Field | Description |
+   |-------|---------|
+   | Description | Set a default description for the job. |
+   | Attachment | Specify any default attachments. |
+   | Start Time | Set a default start time for the job. |
+   | Duration | Set a default duration for the job (default: 2 hours) |
 
    <p align="center">
-      <img src="img/Create_Reminder_Template_Step_8.png" alt="Create Reminder Template Step 8">
+      <img src="img/Job_Template_Step_5.png" alt="Job Template Step 5">
    </p>
 
-9. Click on the category you want to include the new reminder in.<br>
+6. "Custom Field Settings" allows to add and configure custom fields for the job template. You can click on the "Custom Field Element" and edit it at the right side.<br>
+
+   | Field | Description |
+   |-------|---------|
+   | Custom Field Elements | Different types of custom fields: instruction, text, text area, number, date, date time, dropdown, multiple checkbox, attachment. |
+   | Custom Field View | Area to preview and edit custom fields added to the job template. |
 
    <p align="center">
-     <img src="img/Create_Reminder_Template_Step_9.png" alt="Create Reminder Template Step 9">
+      <img src="img/Job_Template_Step_6.png" alt="Job Template Step 6">
    </p>
-
-10. Tick the box to show the reminder in the category.<br>
-
-    <p align="center">
-       <img src="img/Create_Reminder_Template_Step_10.png" alt="Create Reminder Template Step 10">
-    </p>
-
-11. Click "Save Changes".<br>
-
-    <p align="center">
-      <img src="img/Create_Reminder_Template_Step_11.png" alt="Create Reminder Template Step 11">
-    </p>
-
-12. Click "Yes" and the reminder will be shown in the category.<br>
-
-    <p align="center">
-      <img src="img/Create_Reminder_Template_Step_12.png" alt="Create Reminder Template Step 12">
-    </p>
 <br><br><br>
 
 **Related Articles**
