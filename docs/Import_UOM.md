@@ -1,4 +1,4 @@
-## How to Import New UOM?
+## How do I Import New UOM(s)?
     
   1. At the desktop site's navigation bar, go to Import > UOM Import.<br>
      **Import UOM Here:** [https://salesconnection.my/importuom](https://salesconnection.my/importuom)<br>
@@ -70,7 +70,7 @@
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Import New Customer/Project?](Import_Customer_Project.md)
-- [How to Import New Product/Services?](Import_Product_Services.md)
+- [How do I Import New Customer(s)/Project(s)?](Import_Customer_Project.md)
+- [How do I Import New Product/Services(s)?](Import_Product_Services.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
