@@ -86,7 +86,7 @@ ii. User has already upload, but admin said did not receeived it:<br>
 
 <br><br><br>
 **Related Articles**
-- [How Does an Admin Reset App Access for a User?](Admin_Assist_Reset_App.md)
+- [How Does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 
 
