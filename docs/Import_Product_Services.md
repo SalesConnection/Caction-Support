@@ -1,4 +1,4 @@
-## How to Import New Product/Services?
+## How do I Import New Product/Services(s)?
     
   1. At the desktop site's navigation bar, go to Import > Product/Services Import.<br>
      **Import Product/Services Here:** [https://salesconnection.my/productupload](https://salesconnection.my/productupload)<br>
@@ -54,9 +54,9 @@
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Import New Customer/Project?](Import_Customer_Project.md)
-- [How to Import New UOM?](Import_UOM.md)
+- [How do I Import New Customer(s)/Project(s)?](Import_Customer_Project.md)
+- [How do I Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
-- [How to Import New Contact?](Import_Contact.md)
+- [How do I Import New Contact(s)?](Import_Contact.md)
   
