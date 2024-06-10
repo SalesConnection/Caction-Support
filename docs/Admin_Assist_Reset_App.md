@@ -1,4 +1,4 @@
-## How do Admin Assist Reset App?
+## How does  Admin Assist Reset App?
 
 *Note: This feature allows admin to kick out users and perform resetting actions in situations where users have resigned, uninstalled the app, or consistently offline.
 
