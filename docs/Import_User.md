@@ -65,6 +65,6 @@
 - [How to Add New User?](Add_New_User.md)
 - [How to Import New Customer/Project?](Import_Customer_Project.md)
 - [How to Import New Product/Services?](Import_Product_Services.md)
-- [How to Import New Asset?](Import_Asset.md)
+- [How do I Import New Asset(s)?](Import_Asset.md)
 - [How to Import New UOM?](Import_UOM.md)
 - [How to Import New Contact?](Import_Contact.md)
