@@ -62,4 +62,4 @@
 <br><br><br>
 
 **Related Articles**
-- [How to Edit Reminder Template?](Edit_Reminder_Template.md)
+- [How to Add New Job?](Add_New_Job.md)
