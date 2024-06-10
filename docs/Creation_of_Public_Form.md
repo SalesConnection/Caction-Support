@@ -1,7 +1,6 @@
 ## How to Generate Public Form?
 
-*Note: If you want to create a Public Form for an asset, you first need to generate a QR code for the asset. After that, you need to save it and send it to your customer to let them fill out the form.
-
+*Note: Provide a QR code for customers who prefer to submit service inquiries or tech support tickets via a form. This allows them to access and submit the form at their convenience.
 - [Desktop Version](#section1)<br>
 - [Mobile App Version](#section2)<br><br><br>
 
@@ -60,7 +59,8 @@
 
    <p align="center">
      <img src="img/Print_QR_For_Asset_in_Desktop_Step_2.png" alt="Print QR Code for Asset Step 2">
-   </p><br>
+   </p>
+   *Note: To ensure optimal printing, you can use your own preferred printer hardware.<br>
 
 3. Use the external QR code scanner to scan this QR code and the Public Form will show as the image below.
 
@@ -94,7 +94,8 @@
 
    <p align="center">
      <img src="img/Copy_and_Send_Link_of_Asset_to_WhatsApp_Step_4.png" alt="Copy and Send Link of Asset to Customer Step 4">
-   </p><br>
+   </p>
+   *Note: Due to WhatsApp's policy, users must either save your contact or reply to you at least once before they can open your link.<br>
 
 5. When the link is open, the Public Form will show as the image below.
 
@@ -153,8 +154,8 @@
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_5.png" alt="Creation of Public Form in App Step 5" width="280" height="550">
    </p><br>
 
-6. Select the "Template" you want
-
+6. Select the "Template" you want.<br><br>
+   *Note: This template refers to the placement of the company logo in the center of the QR code.
    <p align="center">
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_6.png" alt="Creation of Public Form in App Step 6" width="280" height="550">
    </p><br>
