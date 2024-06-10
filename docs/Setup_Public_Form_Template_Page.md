@@ -20,4 +20,12 @@
       <img src="img/Public_Form_Template_Settings_Step_2.png" alt="Public Form Template Step 2">
    </p>
 
-3. 
+3. "Report Form Setting" is the settings of the permission for generating Public Form for Job, Asset, or Public Form.
+
+   | Terms | Description |
+   |-------|:---------|
+   | Enable General QR | Choose the template |
+   | Enable QR for Job / Asset / Customer / Quotation / Digital Form | Enable to generate Public Form QR for each Job / Asset / Customer / Quotation / Digital Form |
+   | Product / Services Section |
+   | Banner Section | Show the banner of the organization
+   | Customer Rating Section | 
