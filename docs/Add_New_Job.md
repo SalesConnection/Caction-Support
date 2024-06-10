@@ -18,6 +18,8 @@
      <p align="center">
        <img src="img/Add_New_Job_Step_3.png" alt="Add New Job Step 3">
      </p>
+
+     *Note: Please select the correct job category before proceeding. Different categories may have different requirements for different purposes.<br>
      
   4. Click on the "SAVE" button.<br>
 
