@@ -1,7 +1,7 @@
 ## How to Setup Job Template Page?
     
-1. At the desktop site's navigation bar, go to Template Settings > Reminder Templates.<br>
-   **Create Reminder Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
+1. At the desktop site's navigation bar, go to Template Settings > Job Templates.<br>
+   **Open Job Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
 
    <p align="center">
       <img src="img/Create_Reminder_Template_Step_1.png" alt="Create Reminder Template Step 1">
@@ -13,7 +13,7 @@
       <img src="img/Create_Reminder_Template_Step_2.png" alt="Create Reminder Template Step 2">
    </p>
 
-3. Select the category you want to create a new reminder for.<br>
+3. Select the category you want to manage the job template for.<br>
 
    <p align="center">
       <img src="img/Create_Reminder_Template_Step_3.png" alt="Create Reminder Template Step 3">
@@ -25,7 +25,7 @@
       <img src="img/Create_Reminder_Template_Step_4.png" alt="Create Reminder Template Step 4">
    </p>
 
-5. Enter the details for the reminder.<br>
+5. Enter the details for the job.<br>
 
    | Terms | Meaning |
    |-------|---------|
@@ -47,7 +47,7 @@
       <img src="img/Create_Reminder_Template_Step_6.png" alt="Create Reminder Template Step 6">
    </p>
 
-7. The new reminder has been saved when it showed here.<br>
+7. The new job template has been saved when it showed here.<br>
 
    <p align="center">
       <img src="img/Create_Reminder_Template_Step_7.png" alt="Create Reminder Template Step 7">
