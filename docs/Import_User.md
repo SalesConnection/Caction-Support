@@ -1,12 +1,14 @@
-## How to Import New User?
+## How do I Import New User(s)?
     
   1. At the desktop site's navigation bar, go to User Management > User Import.<br>
-     **Import User Here:** [https://salesconnection.my/usermanage/userimport](https://salesconnection.my/usermanage/userimport)<br>
+     **Import User(s) Here:** [https://salesconnection.my/usermanage/userimport](https://salesconnection.my/usermanage/userimport)<br>
 
      <p align="center">
        <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
 
+     *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
+     
   2. Click "DOWNLOAD EXCEL TEMPLATE".<br>
 
      <p align="center">
@@ -17,7 +19,7 @@
      a. The details include:<br>
         - Name<br>
         - Mobile No<br>
-        - Email (optional if the user only uses a mobile device)<br>
+        - Email (optional if the user is a Staff account type that only accesses the mobile app)<br>
         - Account Type<br>
         - User Type<br>
         - Staff Category<br>
@@ -52,7 +54,7 @@
        <img src="img/Import_User_Step_7.png" alt="Import User Step 7">
      </p>
 
-  8. Click "OK" and the users have been imported successfully.<br>
+  8. Your user(s) are successfully added when the "Record Added!" prompt appears.<br>
 
      <p align="center">
        <img src="img/Import_User_Step_8.png" alt="Import User Step 8">
