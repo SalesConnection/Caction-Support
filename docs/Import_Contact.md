@@ -99,4 +99,4 @@
 - [How to Import New Product/Services?](Import_Product_Services.md)
 - [How to Import New UOM?](Import_UOM.md)
 - [How do I Import New User(s)?](Import_User.md)
-- [How to Import New Asset?](Import_Asset.md)
+- [How do I Import New Asset(s)?](Import_Asset.md)
