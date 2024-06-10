@@ -1,6 +1,6 @@
 ## How to enable or disable IMEI Login Check? (Device Changing Detection)
 
-**IMEI Login Check (Device Changing Detection)** prevents fraudulent logins to a user account from another mobile device without approval. When IMEI Login Check is enabled, the Admin must approve the login to ensure it is done by the respective account holder. This feature can be enabled for specific user accounts or every user account in the system.<br>
+**IMEI Login Check (Device Changing Detection)** prevents fraudulent logins to a user account from another mobile device without approval. When IMEI Login Check is enabled, the Admin must approve the login to ensure it is done by the respective account holder. This feature can be enabled for specific user accounts or every user account in the system.<br><br>
 
 1. To start, go to the desktop site’s navigation bar > User Management > User Account Customisation.<br>
    **Open User Account Customisation Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
