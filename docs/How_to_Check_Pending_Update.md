@@ -83,3 +83,5 @@ ii. User has already upload, but admin said did not receeived it:<br>
    </p><br>
 
 7. If the user has pending updates, they will be automatically updated in the system. On the contrary, if the action performed above shows that there are no pending updates, the user needs to update again.
+
+
