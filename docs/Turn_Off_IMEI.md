@@ -1,4 +1,4 @@
-## How to Turn Off Device Check (IMEI)?
+## How to enable or disable IMEI Login Check? (Device Changing Detection)
 
 1. To turn off the IMEI, go to the desktop site’s navigation bar > User Management > User Account Customisation.<br>
    **Open User Account Customisation Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
