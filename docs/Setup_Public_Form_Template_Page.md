@@ -12,10 +12,12 @@
    | Terms | Description |
    |-------|:---------|
    | Template Choices | Choose the template |
-   | Template Category | T
-   | Template Short Code | Code starting with the specified alphabet for identification (e.g. J) |
+   | Template Category | Choose the public form category (e.g. sales enquiry, service enquiry) |
+   | Template Short Code | Code starting with the specified alphabet for identification (e.g. P) |
    | Template Name | Name of the template (e.g. Public Form) |
 
    <p align="center">
-      <img src="img/Job_Template_Step_2.png" alt="Job Template Step 2">
+      <img src="img/Public_Form_Template_Settings_Step_2.png" alt="Public Form Template Step 2">
    </p>
+
+3. 
