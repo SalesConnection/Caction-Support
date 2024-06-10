@@ -114,4 +114,4 @@
 - [How to Import New Product/Services?](Import_Product_Services.md)
 - [How to Import New UOM?](Import_UOM.md)
 - [How to Import New Contact?](Import_Contact.md)
-- [How to Import New User?](Import_User.md)
+- [How do I Import New User(s)?](Import_User.md)
