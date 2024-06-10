@@ -85,7 +85,9 @@ ii. User has already upload, but admin said did not receeived it:<br>
 7. If the user has pending updates, they will be automatically updated in the system. On the contrary, if the action performed above shows that there are no pending updates, the user needs to update again.
 
 <br><br><br>
-**Related Article**
-- [How to](Admin_Assist_Reset_App.md)
+**Related Articles**
+- [How Does an Admin Reset App Access for a User?](Admin_Assist_Reset_App.md)
+- [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
+
 
 
