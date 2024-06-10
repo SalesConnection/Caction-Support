@@ -72,6 +72,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Access Control
 - [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
+- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 
 
 ### Remote Signature
@@ -109,6 +110,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Create PDF?](Create_PDF.md)
 - [How to Generate Public Form?](Creation_of_Public_Form.md)
 - [How to Setup Job Template Page?](Setup_Job_Template.md)
+- [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
 
 
 <br><br>
