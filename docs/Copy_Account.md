@@ -15,7 +15,7 @@
        <img src="img/Copy_Account_Step_2.png" alt="Copy Account Step 2">
      </p>
 
-  3. Select the user who needs to copy the account from.<br>
+  3. Select the user you would like to copy from.<br>
 
      <p align="center">
        <img src="img/Copy_Account_Step_3.png" alt="Copy Account Step 3">
@@ -29,7 +29,7 @@
        <img src="img/Copy_Account_Step_4.png" alt="Copy Account Step 4">
      </p>
 
-  5. Select the user who needs to copy the account to.<br>
+  5. Select the user you would like to copy to.<br>
 
      <p align="center">
        <img src="img/Copy_Account_Step_5.png" alt="Copy Account Step 5">
