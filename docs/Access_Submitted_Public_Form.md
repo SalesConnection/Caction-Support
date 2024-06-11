@@ -24,16 +24,16 @@
 4. Click on the 
 
    <p align="center">
-     <img src="img/Edit_Access_For_Digital_Form_Step_4.png" alt="Access Submitted Public Form Step 4">
+     <img src="img/Edit_Access_For_Public_Form_Step_4.png" alt="Access Submitted Public Form Step 4">
    </p>
 
 5. Press Ctrl + F and enter "Enable Public Form Access".
 
    <p align="center">
-     <img src="img/Edit_Access_For_Digital_Form_Step_5.png" alt="Access Submitted Public Form Step 5">
+     <img src="img/Edit_Access_For_Public_Form_Step_5.png" alt="Access Submitted Public Form Step 5">
    </p>
 
-6. Toggle "Enable Public Form Access" to turn on/off the IMEI check.
+6. Toggle/Untoggled "Enable Public Form Access" to turn on/off the IMEI check.
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_6.png" alt="How to edit access for Digital Form Step 6">
