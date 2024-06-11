@@ -51,17 +51,25 @@
 
  7. Tick the boxes next to the notifications you want to receive. For example, select all the job notifications.
 
+    | Terms | Meaning |
+    |-------|---------|
+    | Noti |  |
+    | Email |  |
+    | Mention |  |
+    | Assign |  |
+    | View |  |
+
     <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_7.png" alt="Enable Notification in UAC Step 7">
     </p>
 
- 8. Click "Save Notification Settings".
+ 9. Click "Save Notification Settings".
 
     <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_8.png" alt="Enable Notification in UAC Step 8">
     </p>
 
- 9. Notifications settings have been updated.
+ 10. Notifications settings have been updated.
 
     <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_9.png" alt="Enable Notification in UAC Step 9">
