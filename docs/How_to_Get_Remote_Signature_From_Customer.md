@@ -307,7 +307,7 @@
 
     <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_10_Email.png" alt="How to Get Remote Signature From Customer Using Email Step 10">
-   </p>
+    </p>
 <br><br><br>
 
 **Related Articles**
