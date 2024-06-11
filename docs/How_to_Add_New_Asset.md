@@ -360,41 +360,41 @@
 
 **Using Mobile**
 
-1.  At the mobile app's navigation bar, go to "Schedule".<br> 
+1.  At the mobile app's navigation bar, go to "Dashboard".<br> 
 
     <p align="center">
-       <img src="img/How_to_Create_Asset2_Mobile_Step_1.png" alt="How to add new asset2 Mobile Step 1">
+       <img src="img/How_to_Create_Asset3_Mobile_Step_1.png" alt="How to add new asset3 Mobile Step 1">
     </p><br>
 
-2. Click the "+" button to create new Job.<br>
+2. Click the "Customer".<br>
    *Note: If you do not see a "+" button, you may need to request permission or help from your Admin to register new Job.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Asset2_Mobile_Step_2.png" alt="How to add new asset2 Mobile Step 2">
+     <img src="img/How_to_Create_Asset3_Mobile_Step_2.png" alt="How to add new asset3 Mobile Step 2">
    </p><br>
 
-3. Select the Job Category.
+3. Click on the "+" button to add new customer.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset2_Mobile_Step_3.png" alt="How to add new asset2 Mobile Step 3">
+     <img src="img/How_to_Create_Asset3_Mobile_Step_3.png" alt="How to add new asset3 Mobile Step 3">
    </p><br>
 
 4. Click the "+" button for asset.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset2_Mobile_Step_4.png" alt="How to add new asset2 Mobile Step 4">
+     <img src="img/How_to_Create_Asset3_Mobile_Step_4.png" alt="How to add new asset3 Mobile Step 4">
    </p><br>
   
 5. Click the "+" button.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset2_Mobile_Step_5.png" alt="How to add new asset2 Mobile Step 5">
+     <img src="img/How_to_Create_Asset3_Mobile_Step_5.png" alt="How to add new asset3 Mobile Step 5">
    </p><br>
 
 6. Select the asset category.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset2_Mobile_Step_6.png" alt="How to add new asset2 Mobile Step 6">
+     <img src="img/How_to_Create_Asset3_Mobile_Step_6.png" alt="How to add new asset3 Mobile Step 6">
    </p><br>
 
 7. Fill out the details of the new Asset. Available fields may differ depending on your company’s system setup.
@@ -411,19 +411,19 @@
    *Note: Fields marked with an asterisk ( * ) are required.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Asset2_Mobile_Step_7.png" alt="How to add new asset2 Mobile Step 7">
+     <img src="img/How_to_Create_Asset3_Mobile_Step_7.png" alt="How to add new asset3 Mobile Step 7">
    </p><br>
 
 8. Click the "tick" icon.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset2_Mobile_Step_8.png" alt="How to add new asset2 Mobile Step 8">
+     <img src="img/How_to_Create_Asset3_Mobile_Step_8.png" alt="How to add new asset3 Mobile Step 8">
    </p><br>
 
-9. The new asset is saved successfully when this prompt appears. You may continue with creating new Job.
+9. The new asset is saved successfully when this prompt appears. You may continue with creating new Customer.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset2_Mobile_Step_9.png" alt="How to add new asset2 Mobile Step 9">
+     <img src="img/How_to_Create_Asset3_Mobile_Step_9.png" alt="How to add new asset3 Mobile Step 9">
    </p>
   <br><br><br>
 
