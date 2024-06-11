@@ -20,67 +20,67 @@
 
 **Through WhatsApp**
 
-1. For example, if you want to get a remote signature of Service Sheet from customer. At the desktop site's navigation bar, go to Business Reports > Digital Form Report.<br>
+1. For example, if you want to get a remote signature of Service Sheet from customer. At the mobile app's navigation bar, go to Customer.<br>
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_1.png" alt="How to Get Remote Signature From Customer Mobile Step 1">
    </p>
  
-2. Click the expand button to select the type of Digital Form.
+2. Click on the Customer that the Service Sheet is from.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_2.png" alt="How to Get Remote Signature From Customer Mobile Step 2">
    </p>
 
-3. Select Form you would like to view.
+3. Scroll to the right to find "Service Sheet".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_3.png" alt="How to Get Remote Signature From Customer Mobile Step 3">
    </p>
 
-4. Click the expand button of the "Service Sheet" that you want to get signature from customer.
+4. Click "Service Sheet".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_4.png" alt="How to Get Remote Signature From Customer Mobile Step 4">
    </p>
 
-5. You will see this result. Scroll down until you see "Acknowledge and Feedback".
+5. Click on the Service Sheet that needs to request remote signature from the customer.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_5.png" alt="How to Get Remote Signature From Customer Mobile Step 5">
    </p>
 
-6. Click "Get Signature/Feedback".
+6. Scroll down until you see "Customer Feedback".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_6.png" alt="How to Get Remote Signature From Customer Mobile Step 6">
    </p>
 
-7. Click "SEND WhatsApp".
+7. Click the WhatsApp icon.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_7.png" alt="How to Get Remote Signature From Customer Mobile Step 7">
    </p>
 
-8. Click "Yes".
+8. Select the customer.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_8.png" alt="How to Get Remote Signature From Customer Mobile Step 8">
    </p>
 
-9. Click "Open WhatsApp".
+9. Click on the "arrow" icon.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_9.png" alt="How to Get Remote Signature From Customer Mobile Step 9">
    </p>
 
-10. Select the customer and tick the box.
+10. Edit the message before sending to the customer.
 
     <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_10.png" alt="How to Get Remote Signature From Customer Mobile Step 10">
     </p>
 
-11. Click "Forward". 
+11. Click on the "send" icon.
 
     <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_11.png" alt="How to Get Remote Signature From Customer Mobile Step 11">
