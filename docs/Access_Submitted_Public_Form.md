@@ -9,19 +9,19 @@
       <img src="img/Access_Submitted_Public_Form_Step_1.png" alt="Access Submitted Public Form Step 1">
    </p>
 
-2. Click "Digital Form".
+2. If you wish to change the public form access for the staff of another department, click "Currently Selected Department".
 
    <p align="center">
-     <img src="img/Edit_Access_For_Digital_Form_Step_2.png" alt="How to edit access for Digital Form Step 2">
+     <img src="img/Access_Submitted_Public_Form_Step_2.png" alt="Access Submitted Public Form Step 2">
    </p>
 
-3. Click "Manage Access".
+3. For example, if you want to edit the access permission of submitted public form for yourself. Click "Select Department" beside "Admin".
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_3.png" alt="How to edit access for Digital Form Step 3">
    </p>
 
-4. For example, if you want to manage user access for Quotation. Click the expand button to change the access for the user.
+4. Click on the 
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_4.png" alt="How to edit access for Digital Form Step 4">
