@@ -39,13 +39,13 @@
      <img src="img/Edit_Access_For_Digital_Form_Step_6.png" alt="How to edit access for Digital Form Step 6">
    </p>
 
-7. Click "Save Control Settings.
+7. Click "Save Control Settings" and your
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_7.png" alt="How to edit access for Digital Form Step 7">
    </p>
 
-8. 
+8. Click "Apply to new users and update existing users" to turn on/off IMEI for all users.
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Result.png" alt="How to edit access for Digital Form Result">
