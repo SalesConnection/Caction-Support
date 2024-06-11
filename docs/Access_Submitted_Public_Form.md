@@ -2,6 +2,9 @@
 
 *Note: If you are unable to access the Public Form, please reach out to your admin for assistance.
 
+**If you are already have the access permission of public form, click the link below to jump to step 9.**<br>
+[View Submitted Public Form](#section1)<br>
+
 1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
      **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
      
