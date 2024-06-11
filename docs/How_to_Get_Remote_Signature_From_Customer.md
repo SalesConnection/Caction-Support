@@ -14,6 +14,8 @@
 
 - [Through WhatsApp](#section3)
 - [Through Email](#section4)
+- [Through Get Feedback](#section7)
+- [Through Copy Link](#section8)
 <br><br>
 
 <a id="section3"></a>
@@ -151,30 +153,27 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_8.png" alt="How to Get Remote Signature From Customer Mobile Step 8">
    </p>
 
-10. Click "SEND EMAIL"
+9. Click "SEND EMAIL"
 
     <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_9.png" alt="How to Get Remote Signature From Customer Mobile Step 9">
     </p>
 
-11. Edit the message before sending to the customer.
+10. The email has been sent successfully when this prompt appears.
 
     <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_10.png" alt="How to Get Remote Signature From Customer Mobile Step 10">
     </p>
-
-12. Click on the "send" icon.
-
-    <p align="center">
-      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_11.png" alt="How to Get Remote Signature From Customer Mobile Step 11">
-    </p>
-
-13. The message has been sent successfully as the picture shown below.
-
-    <p align="center">
-      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_12.png" alt="How to Get Remote Signature From Customer Mobile Step 12">
-    </p>
    <br><br>
+
+<a id="section7"></a>
+
+**Through Get Feedback**
+
+
+<a id="section8"></a>
+
+**Through Copy Link**
 
 <a id="section2"></a>
 
