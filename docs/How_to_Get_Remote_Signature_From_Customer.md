@@ -256,7 +256,7 @@
 7. Click the Email icon.
 
    <p align="center">
-      <img src="img/How_to_Get_Remote_Signature_From_Customer4_Mobile_Step_7.png" alt="How to Get Remote Signature From Customer4 Mobile Step 7">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_7.png" alt="How to Get Remote Signature From Customer3 Mobile Step 7">
    </p>
    <br><br
    
