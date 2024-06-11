@@ -26,6 +26,6 @@
    |-------|:---------|
    | Enable General QR | Choose the template |
    | Enable QR for Job / Asset / Customer / Quotation / Digital Form | Enable to generate Public Form QR for each Job / Asset / Customer / Quotation / Digital Form |
-   | Product / Services Section |
+   | Product / Services Section | Hu
    | Banner Section | Show the banner of the organization
    | Customer Rating Section | 
