@@ -36,19 +36,19 @@
 6. Toggle/untoggle "Enable Public Form Access" to turn on/off the access of submitted public form.
 
    <p align="center">
-     <img src="img/Edit_Access_For_Digital_Form_Step_6.png" alt="How to edit access for Digital Form Step 6">
+     <img src="img/Edit_Access_For_Public_Form_Step_6.png" alt="Access Submitted Public Form Step 6">
    </p>
 
 7. Click "Save Control Settings".
 
    <p align="center">
-     <img src="img/Edit_Access_For_Digital_Form_Step_7.png" alt="How to edit access for Digital Form Step 7">
+     <img src="img/Edit_Access_For_Digital_Form_Step_7.png" alt="Access Submitted Public Form Step 7">
    </p>
 
 8. "Enable Public Form Access" has been turned on/off when the prompt appears.
  
    <p align="center">
-     <img src="img/Edit_Access_For_Digital_Form_Step_8" alt="How to edit access for Digital Form Step 8">
+     <img src="img/Edit_Access_For_Digital_Form_Step_8" alt="Access Submitted Public Form Step 8">
    </p>
 
 <br><br><br>
