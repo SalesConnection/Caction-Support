@@ -33,13 +33,13 @@
      <img src="img/Edit_Access_For_Public_Form_Step_5.png" alt="Access Submitted Public Form Step 5">
    </p>
 
-6. Toggle/Untoggled "Enable Public Form Access" to turn on/off the IMEI check.
+6. Toggle/untoggle "Enable Public Form Access" to turn on/off the access of submitted public form.
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_6.png" alt="How to edit access for Digital Form Step 6">
    </p>
 
-7. Now, the user is able to access the Digital Form.
+8. Now, the user is able to access the Digital Form.
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Result.png" alt="How to edit access for Digital Form Result">
