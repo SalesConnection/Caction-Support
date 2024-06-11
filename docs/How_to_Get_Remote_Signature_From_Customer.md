@@ -28,7 +28,7 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_1.png" alt="How to Get Remote Signature From Customer Mobile Step 1">
    </p>
  
-2. Click on the Customer that the Service Sheet is from.
+2. Click on the Customer that the Service Sheet is from.<br>
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_2.png" alt="How to Get Remote Signature From Customer Mobile Step 2">
