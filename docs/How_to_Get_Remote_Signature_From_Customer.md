@@ -206,11 +206,35 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_6.png" alt="How to Get Remote Signature From Customer Mobile Step 6">
    </p>
 
-7. Click the Email icon.
+7. Click "Get Feedback".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_7.png" alt="How to Get Remote Signature From Customer3 Mobile Step 7">
    </p>
+
+8. Scroll down until you see "Customer Signature" and "Tech Signature".
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_8.png" alt="How to Get Remote Signature From Customer3 Mobile Step 8">
+   </p>
+
+9. Request the signature from customer.
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_9.png" alt="How to Get Remote Signature From Customer3 Mobile Step 9">
+   </p>
+   
+10. After getting the signature from customer and technician, click on "SAVE".
+
+    <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_10.png" alt="How to Get Remote Signature From Customer3 Mobile Step 10">
+    </p>
+
+11. The remote signature is saved when this prompt appears.
+
+    <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_11.png" alt="How to Get Remote Signature From Customer3 Mobile Step 11">
+    </p>
    <br><br>
    
 <a id="section8"></a>
@@ -253,12 +277,30 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_6.png" alt="How to Get Remote Signature From Customer Mobile Step 6">
    </p>
 
-7. Click the Email icon.
+7. Click "Get Feedback".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_7.png" alt="How to Get Remote Signature From Customer3 Mobile Step 7">
    </p>
-   <br><br
+
+8. Click on the "Copy" icon.
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_8.png" alt="How to Get Remote Signature From Customer3 Mobile Step 8">
+   </p>
+
+9. Click either "Copy URL" and "Copy URL & message" and send it by pasting the link on the chatbox.
+
+   | Terms | Description |
+   |-------|-------------|
+   | Copy URL | Only the link of the remote signature will be copied. |
+   | Copy URL & message | Link and the template message of the remote signature will be copied. |
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_9.png" alt="How to Get Remote Signature From Customer3 Mobile Step 9">
+   </p>
+
+   <br><br>
    
 <a id="section2"></a>
 
