@@ -69,26 +69,20 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
 
 **Using Mobile**<br>
 
-  1. At the mobile app's navigation bar, go to Dashboard.<br>
+  1. At the mobile app's navigation bar, go to Customer.<br>
      
      <p align="center">
        <img src="img/Add_New_Customer_Mobile_Step_1.png" alt="Add New Customer Mobile Step 1">
      </p>
 
-  2. Click on "Customer".<br>
+  2. Click on the "+" button to add new customer.<br>
+     *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new Customer.<br>
 
      <p align="center">
        <img src="img/Add_New_Customer_Mobile_Step_2.png" alt="Add New Customer Mobile Step 2">
      </p>
   
-  3. Click on the "+" button to add new customer.<br>
-     *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new Customer.<br>
-
-     <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_3.png" alt="Add New Customer Mobile Step 3">
-     </p>
-
-  4. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
+  3. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
 
      | Field Name| Description |
      |-------|---------|
@@ -103,21 +97,21 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      | Asset | Any asset registered in the system associated with the customer. |
 
      *Note: Fields marked with an asterisk ( * ) are required.<br>
+
+     <p align="center">
+       <img src="img/Add_New_Customer_Mobile_Step_3.png" alt="Add New Customer Mobile Step 3">
+     </p>
+
+  4. Click on the "tick" icon to save the customer.<br>
      
      <p align="center">
        <img src="img/Add_New_Customer_Mobile_Step_4.png" alt="Add New Customer Mobile Step 4">
      </p>
 
-  5. Click on the "tick" icon to save the customer.<br>
+  5. The new customer is added successfully when this prompt appears.<br>
 
      <p align="center">
        <img src="img/Add_New_Customer_Mobile_Step_5.png" alt="Add New Customer Mobile Step 5">
-     </p>
-
-  6. The new customer is added successfully when this prompt appears.<br>
-
-     <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_6.png" alt="Add New Customer Mobile Step 6">
      </p>
      <br><br>
      
