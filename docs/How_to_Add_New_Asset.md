@@ -35,10 +35,7 @@
    | Warranty Start Date | The date when the warranty period for the asset begins |
    | Warranty End Date | The date when the warranty period for the asset ends|
    | Serial No*| Unique code assigned to the asset by the manufacturer |
-   | Attachment Field |  Field to add attachments related to the asset|
-   | Asset Reminder | Notifications or alerts related to the asset maintenance or checks   |
-   |  Model | Specific model code of the asset |
-   | Remarks | Additional notes or comments about the asset |
+   | Model | Specific model code of the asset |
 
    *Note: Fields marked with an asterisk ( * ) are required.<br>
 
@@ -122,10 +119,7 @@
    | Warranty Start Date | The date when the warranty period for the asset begins |
    | Warranty End Date | The date when the warranty period for the asset ends|
    | Serial No*| Unique code assigned to the asset by the manufacturer |
-   | Attachment Field |  Field to add attachments related to the asset|
-   | Asset Reminder | Notifications or alerts related to the asset maintenance or checks   |
-   |  Model | Specific model code of the asset |
-   | Remarks | Additional notes or comments about the asset |
+   | Model | Specific model code of the asset |
 
    *Note: Fields marked with an asterisk ( * ) are required.<br>
 
@@ -185,10 +179,7 @@
    | Warranty Start Date | The date when the warranty period for the asset begins |
    | Warranty End Date | The date when the warranty period for the asset ends|
    | Serial No*| Unique code assigned to the asset by the manufacturer |
-   | Attachment Field |  Field to add attachments related to the asset|
-   | Asset Reminder | Notifications or alerts related to the asset maintenance or checks   |
-   |  Model | Specific model code of the asset |
-   | Remarks | Additional notes or comments about the asset |
+   | Model | Specific model code of the asset |
 
    *Note: Fields marked with an asterisk ( * ) are required.<br>
 
