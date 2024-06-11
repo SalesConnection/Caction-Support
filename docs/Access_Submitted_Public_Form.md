@@ -1,13 +1,12 @@
 ## How to Access Submitted Public Form?
 
-*Note: If you are unable to access the Digital Form, please reach out to your admin for assistance.
+*Note: If you are unable to access the Public Form, please reach out to your admin for assistance.
 
-1. Click "Wizard".
-
-   *Note: Only certain admins can perform this access.
-   
+1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
+     **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+     
    <p align="center">
-     <img src="img/Edit_Access_For_Digital_Form_Step_1.png" alt="How to edit access for Digital Form Step 1">
+      <img src="img/Access_Submitted_Public_Form_Step_1.png" alt="Access Submitted Public Form Step 1">
    </p>
 
 2. Click "Digital Form".
