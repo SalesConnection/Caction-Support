@@ -64,10 +64,16 @@
      <img src="img/Edit_Access_For_Digital_Form_Step_9" alt="Access Submitted Public Form Step 9">
    </p><br>
 
-10. Picture below is a sample of a public form submitted by a customer.
+10. Click the expand button to view the details of the public form.
+
+   <p align="center">
+     <img src="img/Edit_Access_For_Digital_Form_Step_10" alt="Access Submitted Public Form Step 10">
+   </p><br>
+
+11. Picture below is a sample of a public form submitted by a customer.
 
     <p align="center">
-      <img src="img/Edit_Access_For_Digital_Form_Step_10" alt="Access Submitted Public Form Step 10">
+      <img src="img/Edit_Access_For_Digital_Form_Step_11" alt="Access Submitted Public Form Step 11">
     </p>
 <br><br><br>
 
