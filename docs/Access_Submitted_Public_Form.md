@@ -54,6 +54,15 @@
      <img src="img/Edit_Access_For_Digital_Form_Step_8" alt="Access Submitted Public Form Step 8">
    </p>
 
+   <a id="section2"></a>
+
+9. At the navigation bar, go to Business Report > Public Form Report.
+
+   <p align="center">
+     <img src="img/Edit_Access_For_Digital_Form_Step_9" alt="Access Submitted Public Form Step 9">
+   </p>
+
+10. 
 <br><br><br>
 
 **Related Articles**
