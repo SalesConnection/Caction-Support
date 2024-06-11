@@ -150,19 +150,19 @@
    | Bcc | "Blind Carbon Copy." Recipients who receive the email without others knowing. Email addresses in this field are hidden from other recipients. |
 
    <p align="center">
-      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_8.png" alt="How to Get Remote Signature From Customer Mobile Step 8">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer2_Mobile_Step_8.png" alt="How to Get Remote Signature From Customer2 Mobile Step 8">
    </p>
 
 9. Click "SEND EMAIL"
 
     <p align="center">
-      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_9.png" alt="How to Get Remote Signature From Customer Mobile Step 9">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer2_Mobile_Step_9.png" alt="How to Get Remote Signature From Customer2 Mobile Step 9">
     </p>
 
 10. The email has been sent successfully when this prompt appears.
 
     <p align="center">
-      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_10.png" alt="How to Get Remote Signature From Customer Mobile Step 10">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer2_Mobile_Step_10.png" alt="How to Get Remote Signature From Customer2 Mobile Step 10">
     </p>
    <br><br>
 
@@ -170,11 +170,96 @@
 
 **Through Get Feedback**
 
+1. For example, if you want to get a remote signature of Service Sheet from customer. At the mobile app's navigation bar, go to Customer.<br>
 
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_1.png" alt="How to Get Remote Signature From Customer Mobile Step 1">
+   </p>
+ 
+2. Click on the Customer that the Service Sheet is from.
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_2.png" alt="How to Get Remote Signature From Customer Mobile Step 2">
+   </p>
+
+3. Scroll to the right to find "Service Sheet".
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_3.png" alt="How to Get Remote Signature From Customer Mobile Step 3">
+   </p>
+
+4. Click "Service Sheet".
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_4.png" alt="How to Get Remote Signature From Customer Mobile Step 4">
+   </p>
+
+5. Click on the Service Sheet that needs to request remote signature from the customer.
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_5.png" alt="How to Get Remote Signature From Customer Mobile Step 5">
+   </p>
+
+6. Scroll down until you see "Customer Feedback".
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_6.png" alt="How to Get Remote Signature From Customer Mobile Step 6">
+   </p>
+
+7. Click the Email icon.
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_7.png" alt="How to Get Remote Signature From Customer Mobile Step 7">
+   </p>
+   <br><br>
+   
 <a id="section8"></a>
 
 **Through Copy Link**
 
+1. For example, if you want to get a remote signature of Service Sheet from customer. At the mobile app's navigation bar, go to Customer.<br>
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_1.png" alt="How to Get Remote Signature From Customer Mobile Step 1">
+   </p>
+ 
+2. Click on the Customer that the Service Sheet is from.
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_2.png" alt="How to Get Remote Signature From Customer Mobile Step 2">
+   </p>
+
+3. Scroll to the right to find "Service Sheet".
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_3.png" alt="How to Get Remote Signature From Customer Mobile Step 3">
+   </p>
+
+4. Click "Service Sheet".
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_4.png" alt="How to Get Remote Signature From Customer Mobile Step 4">
+   </p>
+
+5. Click on the Service Sheet that needs to request remote signature from the customer.
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_5.png" alt="How to Get Remote Signature From Customer Mobile Step 5">
+   </p>
+
+6. Scroll down until you see "Customer Feedback".
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_6.png" alt="How to Get Remote Signature From Customer Mobile Step 6">
+   </p>
+
+7. Click the Email icon.
+
+   <p align="center">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_7.png" alt="How to Get Remote Signature From Customer Mobile Step 7">
+   </p>
+   <br><br
+   
 <a id="section2"></a>
 
 ### Desktop Version
