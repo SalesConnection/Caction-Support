@@ -33,7 +33,7 @@
      <img src="img/Edit_Access_For_Digital_Form_Step_5.png" alt="Access Submitted Public Form Step 5">
    </p>
 
-6. Toggle "IMEI Login Check" to turn on/off the IMEI check.
+6. Toggle "Enable Public Form Access" to turn on/off the IMEI check.
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_6.png" alt="How to edit access for Digital Form Step 6">
