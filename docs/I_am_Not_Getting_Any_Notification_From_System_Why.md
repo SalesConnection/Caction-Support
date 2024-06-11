@@ -53,11 +53,11 @@
 
     | Terms | Meaning |
     |-------|---------|
-    | Noti |  |
-    | Email |  |
-    | Mention |  |
-    | Assign |  |
-    | View |  |
+    | Noti | General notifications within the system. |
+    | Email | Notifications sent to your email address. |
+    | Mention | Alerts when someone mentions you in a comment. |
+    | Assign | Notifications when a task or job is assigned to you. |
+    | View | Notifications for activities that require your view. |
 
     <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_7.png" alt="Enable Notification in UAC Step 7">
