@@ -6,7 +6,7 @@
 [View Submitted Public Form](#section1)<br><br><br>
 
 1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
-     **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+   **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
      
    <p align="center">
       <img src="img/Access_Submitted_Public_Form_Step_1.png" alt="Access Submitted Public Form Step 1">
