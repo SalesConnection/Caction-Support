@@ -39,7 +39,13 @@
      <img src="img/Edit_Access_For_Digital_Form_Step_6.png" alt="How to edit access for Digital Form Step 6">
    </p>
 
-8. Now, the user is able to access the Digital Form.
+7. Click "Save Control Settings.
+
+   <p align="center">
+     <img src="img/Edit_Access_For_Digital_Form_Step_7.png" alt="How to edit access for Digital Form Step 7">
+   </p>
+
+8. 
 
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Result.png" alt="How to edit access for Digital Form Result">
