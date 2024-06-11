@@ -38,9 +38,6 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      | Customer Phone | The customer's contact phone number. |
      | Customer Email | The customer's email address. |
      | Customer Address | The physical address of the customer. |
-     | State | The state within Malaysia where the customer is located. |
-     | Inquiry Date | The date when the customer inquiry was made. |
-     | Credit Balance | The current credit balance of the customer. |
      
      *Note: Fields marked with an asterisk ( * ) are required.<br>
      
@@ -116,9 +113,6 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      | Customer Phone | The customer's contact phone number. |
      | Customer Email | The customer's email address. |
      | Customer Address | The physical address of the customer. |
-     | State | The state within Malaysia where the customer is located. |
-     | Inquiry Date | The date when the customer inquiry was made. |
-     | Credit Balance | The current credit balance of the customer. |
      
      *Note: Fields marked with an asterisk ( * ) are required.<br>
      
