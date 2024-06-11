@@ -217,7 +217,7 @@
 
 **Using Mobile**
 
-1.  Go to desktop site “Main Navigation" > "Business Management" > "Schedule" > "Job Schedule".<br> 
+1.  At the mobile app's navigation bar, go to "Schdule".<br> 
    **Open Job Schedule Page here**: [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
 
     <p align="center">
@@ -237,7 +237,7 @@
      <img src="img/How_to_Create_Asset2_Step_3.png" alt="How to add new asset2 Step 3">
    </p><br>
 
-4. Click on the "SAVE" button.
+4. Click the "+" button for asset.
 
    <p align="center">
      <img src="img/How_to_Create_Asset2_Step_4.png" alt="How to add new asset2 Step 4">
@@ -249,7 +249,7 @@
      <img src="img/How_to_Create_Asset2_Step_5.png" alt="How to add new asset2 Step 5">
    </p><br>
 
-6. Click "+ Add Asset"  to add new asset.
+6. Select the asset category.
 
    <p align="center">
      <img src="img/How_to_Create_Asset2_Step_6.png" alt="How to add new asset2 Step 6">
@@ -272,13 +272,13 @@
      <img src="img/How_to_Create_Asset2_Step_7.png" alt="How to add new asset2 Step 7">
    </p><br>
 
-8. Click on the "Save" button.
+8. Click the "tick" icon.
 
    <p align="center">
      <img src="img/How_to_Create_Asset2_Step_8.png" alt="How to add new asset2 Step 8">
    </p><br>
 
-9. Click "OK" to confirm your save and your asset is successfully saved. You may continue with creating new Job.
+9. The new asset is saved successfully when this prompt appears. You may continue with creating new Job.
 
    <p align="center">
      <img src="img/How_to_Create_Asset2_Step_9.png" alt="How to add new asset2 Step 9">
