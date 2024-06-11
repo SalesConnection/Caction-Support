@@ -61,7 +61,7 @@
        <img src="img/Enable_Notification_In_UAC_Step_8.png" alt="Enable Notification in UAC Step 8">
     </p>
 
- 9. The notifications have been enabled.
+ 9. Notifications settings have been updated.
 
     <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_9.png" alt="Enable Notification in UAC Step 9">
@@ -75,8 +75,10 @@
 
     <p align="center">
       <img src="img/Did_Not_Get_Any_Notification_From_System_Step_1.png" alt="Notification Setting Step 1" width="280" height="550">
-    </p><br>
+    </p>
 
+    *Note: Phone settings may vary depending on the phone model.<br>
+    
  2. Click "Apps".
 
     <p align="center">
