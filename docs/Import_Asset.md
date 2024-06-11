@@ -5,7 +5,9 @@
 
    <p align="center">
      <img src="img/Import_Asset_Step_1.png" alt="Import Asset Step 1">
-   </p><br>
+   </p>
+
+   *Note: You must have access to Import menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
 
 2. Select for the asset category that you want to import.
 
@@ -54,8 +56,8 @@
      <img src="img/Import_Asset_Step_5b.png" alt="Import Asset Step 5b">
    </p><br>
 
-6. Fill out the details of the asset.<br>
-   a. The detials indlude:<br>
+6. Fill out the details of the new Asset. Available column fields may differ depending on your company’s system setup.<br>
+   a. The details include:<br>
       - Serial No<br>
       - Status<br>
       - Warranty<br>
@@ -101,7 +103,7 @@
      <img src="img/Import_Asset_Step_11.png" alt="Import Asset Step 11">
     </p><br>
 
-12. Click "OK" and the assets have been uploaded successfully.
+12. Your Assets are successfully added when the “Uploaded successfully” prompt appears.
 
     <p align="center">
       <img src="img/Import_Asset_Step_12.png" alt="Import Asset Step 12">
