@@ -25,7 +25,7 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_2.png" alt="How to Get Remote Signature From Customer Step 2">
    </p>
 
-3. Select "Form you would like to view.
+3. Select Form you would like to view.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_3.png" alt="How to Get Remote Signature From Customer Step 3">
