@@ -196,7 +196,7 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
        <img src="img/Add_New_Customer2_Step_8.png" alt="Add New Customer2 Step 8">
      </p>
 
-  9. Click "OK" and the new customer is added successfully.<br>
+  9. Click "OK" and the new customer is added successfully. You may continue with creating a new Job.<br>
 
      <p align="center">
        <img src="img/Add_New_Customer2_Step_9.png" alt="Add New Customer2 Step 9">
@@ -264,7 +264,7 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
        <img src="img/Add_New_Customer2_Mobile_Step_7.png" alt="Add New Customer2 Mobile Step 7">
      </p>
 
-  8. The new customer is added successfully when this prompt appears.<br>
+  8. The new customer is added successfully when this prompt appears. You may continue with creating a new Job<br>
 
      <p align="center">
        <img src="img/Add_New_Customer2_Mobile_Step_8.png" alt="Add New Customer2 Mobile Step 8">
