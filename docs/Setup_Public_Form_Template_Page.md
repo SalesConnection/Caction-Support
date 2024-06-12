@@ -54,5 +54,5 @@
 
 <br><br><br>
 **Related Articles**
-- [How to Add New Job?](Creation_of_Public_Form.md)
+- [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 - [How to Setup Public Form Template?](Setup_Public_Form_Template_Page.md))
