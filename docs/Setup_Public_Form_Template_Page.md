@@ -50,5 +50,8 @@
  
    <p align="center">
       <img src="img/Public_Form_Template_Settings_Step_5.png" alt="Public Form Template Step 5">
-   </p>
+   </p><br>
 
+<br><br><br>
+**Related Articles:**
+= Creation_of_Public_Form.md
