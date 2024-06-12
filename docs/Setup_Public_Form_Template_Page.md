@@ -26,7 +26,7 @@
    |-------|:---------|
    | Section Visibility | This section allows you to control the visibility of various sections within the public form. You can toggle each option to show or hide specific sections based on your requirements.  |
    | Fields Control | This section allows you to manage the display of customer-specific fields within the form. You can enable or disable the visibility of these fields to customize the form according to your data collection needs.|
-   | Craation Control | The Creation Control section allows you to manage the functionality of creating new customer records directly through the Public Form.|
+   | Creation Control | This section allows you to manage the functionality of creating new customer records directly through the Public Form.|
  
    <p align="center">
       <img src="img/Public_Form_Template_Settings_Step_3.png" alt="Public Form Template Step 3">
@@ -36,7 +36,7 @@
 
    | Field | Description |
    |-------|---------|
-   | Default Field Elements | Different types of default fields: text, date, date time, dropdown, multiple checkbox, attachment. |
+   | Default Field Elements | Different types of default fields: text, date, date time, dropdown, multiple checkboxes, and attachment. |
 
    <p align="center">
       <img src="img/Public_Form_Template_Settings_Step_4.png" alt="Public Form Template Step 4">
@@ -46,7 +46,7 @@
 
    | Field | Description |
    |-------|---------|
-   | Custom Field Elements | Different types of custom fields: header, instruction, break line, text, text area, number, date, date time, time, dropdown, multiple checkbox, attachment. |
+   | Custom Field Elements | Different types of custom fields: header, instruction, break line, text, text area, number, date, date time, time, dropdown, multiple checkboxes, and attachment. |
  
    <p align="center">
       <img src="img/Public_Form_Template_Settings_Step_5.png" alt="Public Form Template Step 5">
