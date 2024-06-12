@@ -28,6 +28,8 @@
      <img src="img/Add_New_Project_Mobile_Step_3.png" alt="Add New Project Mobile Step 3">
    </p>
 
+   *Note: If you do not see a “+” button, you may need to request permission or help from your Admin to register new Project.<br>
+
 4. Click the "Add Project" icon to add a new project for the customer.<br>
 
    <p align="center">
@@ -89,6 +91,8 @@
    <p align="center">
      <img src="img/Add_New_Project_Step_3.png" alt="Add New Project Step 3">
    </p>
+
+   *Note: If you do not see a “+” button, you may need to request permission or help from your Admin to register new Project.<br>
 
 4. Click on the "New Project" button to add a new project for the customer.<br>
 
