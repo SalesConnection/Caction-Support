@@ -3,6 +3,8 @@ Created: 10 June 2024<br>
 Updated: 10 June 2024<br>
 ## How to Add New Job?
 
+*Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Deal, etc.)<br><br>
+
 **Navigate to the section by clicking it.**<br>
 
 - [Mobile Version](#section1)<br>
