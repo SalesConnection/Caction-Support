@@ -14,7 +14,7 @@
 
 - [Through WhatsApp](#section3)
 - [Through Email](#section4)
-- [Through Get Feedback](#section7)
+- [Through Meet Physically](#section7)
 - [Through Copy Link](#section8)
 <br><br>
 
@@ -168,7 +168,7 @@
 
 <a id="section7"></a>
 
-**Through Get Feedback**
+**Through Meet Physically**
 
 1. For example, if you want to get a remote signature of Service Sheet from customer. At the mobile app's navigation bar, go to Customer.<br>
 
