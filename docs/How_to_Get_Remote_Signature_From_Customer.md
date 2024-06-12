@@ -5,7 +5,7 @@
 **Navigate to the section by clicking it.**<br>
 
 - [Mobile Version](#section1)<br>
-- [Version Version](#section2)
+- [Desktop Version](#section2)
 <br><br>
 
 <a id="section1"></a>
