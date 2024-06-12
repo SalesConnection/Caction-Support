@@ -11,9 +11,9 @@
 
    | Terms | Description |
    |-------|:---------|
-   | Template Choices | Choose the template |
-   | Template Category | Choose the public form category (e.g. sales enquiry, service enquiry) |
-   | Template Short Code | Code starting with the specified alphabet for identification (e.g. P) |
+   | Template Choices | Choose the template (e.g. Public Form) |
+   | Template Category | Choose the public form category (e.g. Sales Enquiry, Service Enquiry) |
+   | Template Short Code | Code starting with the specified alphabet for identification (e.g. PF) |
    | Template Name | Name of the template (e.g. Public Form) |
 
    <p align="center">
