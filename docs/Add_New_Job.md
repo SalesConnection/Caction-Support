@@ -37,7 +37,7 @@ Updated: 10 June 2024<br>
 
    *Note: Please select the correct job category before proceeding. Different categories may have different requirements for different purposes.<br>
      
-4. Fill out the details of the new job.<br>
+4. Fill out the details of the new job. Available fields may differ depending on your company’s system setup.<br>
 
    | Field Name| Description |
    |-------|---------|
@@ -104,7 +104,7 @@ Updated: 10 June 2024<br>
      <img src="img/Add_New_Job_Step_4.png" alt="Add New Job Step 4">
    </p>
      
-5. Fill out the details of the new job.<br>
+5. Fill out the details of the new job. Available fields may differ depending on your company’s system setup..<br>
 
    | Field Name| Description |
    |-------|---------|
