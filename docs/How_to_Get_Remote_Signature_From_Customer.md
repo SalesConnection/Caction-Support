@@ -286,7 +286,7 @@
 8. Click on the "Copy" icon.
 
    <p align="center">
-      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_8.png" alt="How to Get Remote Signature From Customer3 Mobile Step 8">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer4_Mobile_Step_8.png" alt="How to Get Remote Signature From Customer3 Mobile Step 8">
    </p>
 
 9. Click either "Copy URL" and "Copy URL & message" and send it by pasting the link on the chatbox.
@@ -297,7 +297,7 @@
    | Copy URL & message | Link and the template message of the remote signature will be copied. |
 
    <p align="center">
-      <img src="img/How_to_Get_Remote_Signature_From_Customer3_Mobile_Step_9.png" alt="How to Get Remote Signature From Customer3 Mobile Step 9">
+      <img src="img/How_to_Get_Remote_Signature_From_Customer4_Mobile_Step_9.png" alt="How to Get Remote Signature From Customer3 Mobile Step 9">
    </p>
 
    <br><br>
