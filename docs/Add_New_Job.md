@@ -43,7 +43,7 @@ Updated: 10 June 2024<br>
    |-------|---------|
    | Category* | Classifies the type of job. |
    | Status* | Indicates the current status of the job. |
-   | Select Customer | Choose a customer from those registered in the system. |
+   | Select Customer | Choose a customer from those registered in the system. After selecting Customer, you will be asked to select Project under that Customer. |
    | Select Asset | Choose an asset from those registered in the system. |
    | Start End Date* | The date range when the job is planned to start and end. |
    | Recurrent Job | Indicates if the job recurs. |
@@ -110,7 +110,7 @@ Updated: 10 June 2024<br>
    |-------|---------|
    | Select Job Category* | Classifies the type of job. |
    | Status* | Indicates the current status of the job. |
-   | Select Customer | Choose a customer from those registered in the system. |
+   | Select Customer | Choose a customer from those registered in the system. After selecting Customer, you will be asked to select Project under that Customer. |
    | Select Asset | Choose an asset from those registered in the system. |
    | Job Start End Date* | The date range when the job is planned to start and end. |
    | Recurrent Job | Indicates if the job recurs. |
