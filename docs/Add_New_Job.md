@@ -13,34 +13,29 @@ Updated: 10 June 2024<br>
 
 **Mobile Version**
 
-1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
-   **Add New Job Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
+1. At the mobile app's navigation bar, go to Schedule.<br>
      
    <p align="center">
-     <img src="img/Add_New_Job_Step_1.png" alt="Add New Job Step 1">
+     <img src="img/Add_New_Job_Mobile_Step_1.png" alt="Add New Job Mobile Step 1">
    </p>
 
 2. Click on the "+" button to add new job.<br>
 
    <p align="center">
-     <img src="img/Add_New_Job_Step_2.png" alt="Add New Job Step 2">
+     <img src="img/Add_New_Job_Mobile_Step_2.png" alt="Add New Job Mobile Step 2">
    </p>
+
+   *Note: If you do not see a “+” button, you may need to request permission or help from your Admin to register new job.
 
 3. Select the job category.<br>
 
    <p align="center">
-     <img src="img/Add_New_Job_Step_3.png" alt="Add New Job Step 3">
+     <img src="img/Add_New_Job_Mobile_Step_3.png" alt="Add New Job Mobile Step 3">
    </p>
 
    *Note: Please select the correct job category before proceeding. Different categories may have different requirements for different purposes.<br>
      
-4. Click on the "SAVE" button.<br>
-
-   <p align="center">
-     <img src="img/Add_New_Job_Step_4.png" alt="Add New Job Step 4">
-   </p>
-     
-5. Fill out the details of the new job.<br>
+4. Fill out the details of the new job.<br>
 
    | Field Name| Description |
    |-------|---------|
@@ -56,21 +51,21 @@ Updated: 10 June 2024<br>
    | Attachment (Document or Receipt) | Upload any relevant documents or receipts. |
      
    *Note: Fields marked with an asterisk ( * ) are required.<br>
+
+   <p align="center">
+     <img src="img/Add_New_Job_Mobile_Step_4.png" alt="Add New Job Mobile Step 4">
+   </p>
+     
+5. Click on the "Save Job" button.<br>
      
    <p align="center">
-     <img src="img/Add_New_Job_Step_5.png" alt="Add New Job Step 5">
+     <img src="img/Add_New_Job_Mobile_Step_5.png" alt="Add New Job Mobile Step 5">
    </p>
 
-6. Click on the "Save Job" button.<br>
+6. The new job has been saved successfully when this prompt appears.<br>
 
    <p align="center">
-     <img src="img/Add_New_Job_Step_6.png" alt="Add New Job Step 6">
-   </p>
-
-7. Click "OK" and the new job has been saved successfully.<br>
-
-   <p align="center">
-     <img src="img/Add_New_Job_Step_7.png" alt="Add New Job Step 7">
+     <img src="img/Add_New_Job_Mobile_Step_6.png" alt="Add New Job Mobile Step 6">
    </p>
    <br><br>
    
@@ -90,6 +85,8 @@ Updated: 10 June 2024<br>
    <p align="center">
      <img src="img/Add_New_Job_Step_2.png" alt="Add New Job Step 2">
    </p>
+
+   *Note: If you do not see a “+” button, you may need to request permission or help from your Admin to register new job.
 
 3. Select the job category.<br>
 
