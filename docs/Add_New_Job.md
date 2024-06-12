@@ -39,13 +39,13 @@ Updated: 10 June 2024<br>
 
    | Field Name| Description |
    |-------|---------|
-   | Select Job Category* | Classifies the type of job. |
+   | Category* | Classifies the type of job. |
    | Status* | Indicates the current status of the job. |
    | Select Customer | Choose a customer from those registered in the system. |
    | Select Asset | Choose an asset from those registered in the system. |
-   | Job Start End Date* | The date range when the job is planned to start and end. |
+   | Start End Date* | The date range when the job is planned to start and end. |
    | Recurrent Job | Indicates if the job recurs. |
-   | Assigned User | The user responsible for the job. |
+   | Assigned To | The user responsible for the job. |
    | Reminder | Set a reminder for the job. |
    | Description | Detailed description of the job. |
    | Attachment (Document or Receipt) | Upload any relevant documents or receipts. |
