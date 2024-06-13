@@ -1,6 +1,6 @@
 ## How does an Admin Reset App Access for a User?
 
-*Note: This feature allows admin to kick out users and perform resetting actions in situations where users have resigned, uninstalled the app, or consistently offline.
+*Note: This feature allows admin to perform resetting actions in situations where users have resigned, uninstalled the app, or consistently offline.
 
 **Navigate to the section by clicking it.**<br>
 
@@ -24,7 +24,9 @@
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">
-   </p><br>
+   </p>
+
+   *Note: The following steps are done by Admin.<br>
 
 2. Before reset the selected user's app access, click on the pencil icon to edit the user's details including email and phone number to avoid login by the old user.
 
@@ -32,7 +34,7 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_2.png" alt="Admin Assist Reset App Step 2">
    </p><br>
 
-3. Edit the user details.
+3. Change user details to new user’s details.
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_3.png" alt="Admin Assist Reset App Step 3">
@@ -83,7 +85,9 @@
    **Open the User List:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">
-   </p><br>
+   </p>
+
+   *Note: The following steps are done by Admin.<br>
 
 2. Before reset the selected user's app access, click on the pencil icon to edit the user's details including email and phone number to avoid login by the old user.
 
@@ -91,7 +95,7 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_2.png" alt="Admin Assist Reset App Step 2">
    </p><br>
 
-3. Edit the user details.
+3. Change user details to new user’s details.
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_3.png" alt="Admin Assist Reset App Step 3">
@@ -121,7 +125,7 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_7.png" alt="Admin Assist Reset App Step 7">
    </p>
 
-   *Note: *Note: The pre-condition of this action is the user's phone must be online.<br><br>
+   *Note: The pre-condition of this action is the user's phone must be online.<br><br>
 
 8. Click "Skip Pending Data" to continue with resetting app. This action may causes data lost if there is any pending data.<br>
 
@@ -158,7 +162,9 @@
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">
-   </p><br>
+   </p>
+
+   *Note: The following steps are done by Admin.<br>
 
 2. Before reset the selected user's app access, click on the pencil icon to edit the user's details including email and phone number to avoid login by the old user.
 
@@ -166,7 +172,7 @@
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_2.png" alt="Admin Assist Reset App Step 2">
    </p><br>
 
-3. Edit the user details.
+3. Change user details to new user’s details.
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_3.png" alt="Admin Assist Reset App Step 3">
@@ -202,8 +208,10 @@
 
    <p align="center">
       <img src="img/Reset_App_Access_has_Pending_User_Online_Step_7a.png" alt="Admin Assist Reset App Step 7a">
-   </p><br>
+   </p>
 
+   *Note: This step is done by the user.
+  
 8. Click "Retry Now" and the pending data will update successfully if the user has performed the action mentioned in picture 7a.
 
    <p align="center">
