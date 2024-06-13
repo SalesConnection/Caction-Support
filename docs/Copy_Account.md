@@ -15,7 +15,7 @@
        <img src="img/Copy_Account_Step_2.png" alt="Copy Account Step 2">
      </p>
 
-  3. Select the user you would like to copy from.<br>
+  3. Select the existing user you would like to copy settings from.<br>
 
      <p align="center">
        <img src="img/Copy_Account_Step_3.png" alt="Copy Account Step 3">
@@ -29,17 +29,17 @@
        <img src="img/Copy_Account_Step_4.png" alt="Copy Account Step 4">
      </p>
 
-  5. Select the user you would like to copy to.<br>
+  5. Select the new user you would like to apply the settings to.<br>
 
      <p align="center">
        <img src="img/Copy_Account_Step_5.png" alt="Copy Account Step 5">
      </p>
 
-  6. Select the copy option.<br>
+  6. Select the copy option needed.<br>
 
      | Access Permission Copy | Configuration Setting Copy |
      |------------------------|----------------------------|
-     | This will copy all Assign/View permission of the user to the selected user (Customers, Projects, Jobs, etc.) | This will copy all user account customization settings of the user to the selected user. |
+     | Customers, Projects, Jobs, etc. that are Assigned/Viewed by the existing user will be Assigned/Viewed by the new user as well. | This will copy all user account customization settings of the user to the selected user. |
      
      <p align="center">
        <img src="img/Copy_Account_Step_6.png" alt="Copy Account Step 6">
