@@ -28,7 +28,28 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 <a id="section1"></a>
 
+### Export Report 
 
-<p align="center">
-  <img src="img/User_List.png" alt="User List">
-</p>
+1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
+
+   <p align="center">
+     <img src="img/Report_Page_Export_Report_Step_1.png" alt="Report Page Export Report Step 1">
+   </p>
+
+2. Wait for the system to export the file.
+
+   <p align="center">
+     <img src="img/Report_Page_Export_Report_Step_2.png" alt="Report Page Export Report Step 2">
+   </p>
+
+3. Click "Download" to download the file needed.
+
+   <p align="center">
+     <img src="img/Report_Page_Export_Report_Step_3.png" alt="Report Page Export Report Step 3">
+   </p>
+
+4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
+
+   <p align="center">
+     <img src="img/Report_Page_Export_Report_Step_4.png" alt="Report Page Export Report Step 4">
+   </p>
