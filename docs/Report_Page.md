@@ -1,7 +1,7 @@
 ## Report Page
-
-Report Page 
-Open Report Page Here: [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)<br>
+<br>
+Report Page <br>
+**Open Report Page Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01) <br>
 
 | No | Terms | Description |
 |----|-------|---------|
@@ -14,6 +14,7 @@ Open Report Page Here: [https://salesconnection.my/reports/digitalform?code=DR01
 <p align="center">
   <img src="img/User_List.png" alt="User List">
 </p>
+<br><br>
 
 **Navigate to the section by clicking it.**<br>
 
