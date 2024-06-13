@@ -47,6 +47,14 @@ The Report Page allows you to **generate** and **customize** reports across vari
    <p align="center">
      <img src="img/Report_Page_DF_Category_Step_3.png" alt="Report Page DF Category Step 3">
    </p>
+   <br><br>
+
+<a id="section2"></a>
+
+### Filter
+
+1. 
+
 
 <a id="section5"></a>
 
