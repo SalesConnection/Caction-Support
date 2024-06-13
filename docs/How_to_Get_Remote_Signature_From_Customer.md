@@ -14,7 +14,7 @@
 
 - [Through WhatsApp](#section3)
 - [Through Email](#section4)
-- [Through Meet Physically](#section7)
+- [In Person with Customer](#section7)
 - [Through Copy Link](#section8)
 <br><br>
 
@@ -34,19 +34,19 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_2.png" alt="How to Get Remote Signature From Customer Mobile Step 2">
    </p>
 
-3. Scroll to the right to find "Service Sheet".
+3. Scroll to the right to find the relevant "Digital Form".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_3.png" alt="How to Get Remote Signature From Customer Mobile Step 3">
    </p>
 
-4. Click "Service Sheet".
+4. Click the relevant "Digital Form".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_4.png" alt="How to Get Remote Signature From Customer Mobile Step 4">
    </p>
 
-5. Click on the Service Sheet that needs to request remote signature from the customer.
+5. Click on the relevant "Digital Form" that needs to request remote signature from the customer.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_5.png" alt="How to Get Remote Signature From Customer Mobile Step 5">
@@ -111,19 +111,19 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_2.png" alt="How to Get Remote Signature From Customer Mobile Step 2">
    </p>
 
-3. Scroll to the right to find "Service Sheet".
+3. Scroll to the right to find the relevant "Digital Form".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_3.png" alt="How to Get Remote Signature From Customer Mobile Step 3">
    </p>
 
-4. Click "Service Sheet".
+4. Click the relevant "Digital Form".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_4.png" alt="How to Get Remote Signature From Customer Mobile Step 4">
    </p>
 
-5. Click on the Service Sheet that needs to request remote signature from the customer.
+5. Click on the relevant "Digital Form" that needs to request remote signature from the customer.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_5.png" alt="How to Get Remote Signature From Customer Mobile Step 5">
@@ -168,7 +168,7 @@
 
 <a id="section7"></a>
 
-**Through Meet Physically**
+**In Person with Customer**
 
 1. For example, if you want to get a remote signature of Service Sheet from customer. At the mobile app's navigation bar, go to Customer.<br>
 
@@ -182,19 +182,19 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_2.png" alt="How to Get Remote Signature From Customer Mobile Step 2">
    </p>
 
-3. Scroll to the right to find "Service Sheet".
+3. Scroll to the right to find the relevant "Digital Form".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_3.png" alt="How to Get Remote Signature From Customer Mobile Step 3">
    </p>
 
-4. Click "Service Sheet".
+4. Click the relevant "Digital Form".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_4.png" alt="How to Get Remote Signature From Customer Mobile Step 4">
    </p>
 
-5. Click on the Service Sheet that needs to request remote signature from the customer.
+5. Click on the relevant "Digital Form" that needs to request remote signature from the customer.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_5.png" alt="How to Get Remote Signature From Customer Mobile Step 5">
@@ -253,19 +253,19 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_2.png" alt="How to Get Remote Signature From Customer Mobile Step 2">
    </p>
 
-3. Scroll to the right to find "Service Sheet".
+3. Scroll to the right to find the relevant "Digital Form".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_3.png" alt="How to Get Remote Signature From Customer Mobile Step 3">
    </p>
 
-4. Click "Service Sheet".
+4. Click the relevant "Digital Form".
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_4.png" alt="How to Get Remote Signature From Customer Mobile Step 4">
    </p>
 
-5. Click on the Service Sheet that needs to request remote signature from the customer.
+5. Click on the relevant "Digital Form" that needs to request remote signature from the customer.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Mobile_Step_5.png" alt="How to Get Remote Signature From Customer Mobile Step 5">
@@ -333,7 +333,7 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_3.png" alt="How to Get Remote Signature From Customer Step 3">
    </p>
 
-4. Click the expand button of the "Service Sheet" that you want to get signature from customer.
+4. Click the expand button of the "Digital Form" that you want to get signature from customer.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_4.png" alt="How to Get Remote Signature From Customer Step 4">
@@ -411,7 +411,7 @@
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_3.png" alt="How to Get Remote Signature From Customer Step 3">
    </p>
 
-4. Click the expand button of the "Service Sheet" that you want to get signature from customer.
+4. Click the expand button of the "Digital Form" that you want to get signature from customer.
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_4.png" alt="How to Get Remote Signature From Customer Step 4">
