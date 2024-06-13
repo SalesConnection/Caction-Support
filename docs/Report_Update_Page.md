@@ -1,8 +1,8 @@
 ### Report Update Page
 
-The Report Update Page allows you to 
+The Report Update Page allows you to **generate** and **customize** reports across various types similar to the Report Page. In addition to the comprehensive report generation and customization features, this page includes a **comment section** which allowing you to view and manage comments related to each report, enhancing collaboration and tracking.<br>
 
-**Open Report Update Page Here:** []()<br>
+**Open Report Update Page Here:** [https://salesconnection.my/reports/digitalform-update?code=DR01](https://salesconnection.my/reports/digitalform-update?code=DR01)<br>
 
 | No | Terms | Description |
 |----|-------|---------|
@@ -13,7 +13,7 @@ The Report Update Page allows you to
 | 5 | Export Report | Export your report in different formats for further analysis or sharing. |
 
 <p align="center">
-  <img src="img/Report_Page_Introduce.png" alt="Report Page Introduce">
+  <img src="img/Report_Update_Page_Introduce.png" alt="Report Update Page Introduce">
 </p>
 <br><br>
 
