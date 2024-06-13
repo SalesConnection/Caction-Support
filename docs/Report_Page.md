@@ -28,6 +28,28 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 <a id="section1"></a>
 
+### Digital Form Category
+
+1. Select the Digital Form category you want by clicking the expand button beside Quotation.
+
+   <p align="center">
+     <img src="img/Report_Page_DF_Category_Step_1.png" alt="Report Page DF Category Step 1">
+   </p>
+
+2. Click on the category you want to select. For example, if you want to have Service Sheet Report, click "Service Sheet".
+
+   <p align="center">
+     <img src="img/Report_Page_DF_Category_Step_2.png" alt="Report Page DF Category Step 2">
+   </p>
+
+3. The Service Sheet Report will be shown as below.
+
+   <p align="center">
+     <img src="img/Report_Page_DF_Category_Step_3.png" alt="Report Page DF Category Step 3">
+   </p>
+
+<a id="section5"></a>
+
 ### Export Report 
 
 1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
