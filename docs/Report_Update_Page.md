@@ -1,8 +1,8 @@
-### Report Update Page
+### Update Report Page
 
-The Report Update Page allows you to **generate** and **customize** reports across various types similar to the Report Page. In addition to the comprehensive report generation and customization features, this page includes a **comment section** which allowing you to view and manage comments related to each report, enhancing collaboration and tracking.<br>
+The Update Report Page allows you to **generate** and **customize** reports across various types similar to the Report Page. In addition to the comprehensive report generation and customization features, this page includes a **comment section** which allowing you to view and manage comments related to each report, enhancing collaboration and tracking.<br>
 
-**Open Report Update Page Here:** [https://salesconnection.my/reports/digitalform-update?code=DR01](https://salesconnection.my/reports/digitalform-update?code=DR01)<br>
+**Open Update Report Page Here:** [https://salesconnection.my/reports/digitalform-update?code=DR01](https://salesconnection.my/reports/digitalform-update?code=DR01)<br>
 
 | No | Terms | Description |
 |----|-------|---------|
@@ -17,9 +17,9 @@ The Report Update Page allows you to **generate** and **customize** reports acro
 </p>
 <br><br>
 
-**Difference between Report Page and Report Update Page**<br>
+**Difference between Report Page and Update Report Page**<br>
 
-| Report Page | Report Update Page |
+| Report Page | Update Report Page |
 |-------------|--------------------|
 | Not consist of comment section | Consist of comment section |
 
@@ -44,13 +44,13 @@ The Report Update Page allows you to **generate** and **customize** reports acro
      <img src="img/Report_Update_Page_DF_Category_Step_1.png" alt="Report Update Page DF Category Step 1">
    </p>
 
-2. Click on the category you want to select. For example, if you want to have Service Sheet Report, click "Service Sheet".
+2. Click on the category you want to select. For example, if you want to have Service Sheet Update Report, click "Service Sheet".
 
    <p align="center">
      <img src="img/Report_Update_Page_DF_Category_Step_2.png" alt="Report Update Page DF Category Step 2">
    </p>
 
-3. The Service Sheet Report will be shown as below.
+3. The Service Sheet Update Report will be shown as below.
 
    <p align="center">
      <img src="img/Report_Update_Page_DF_Category_Step_3.png" alt="Report Update Page DF Category Step 3">
@@ -97,7 +97,7 @@ The Report Update Page allows you to **generate** and **customize** reports acro
 
 ### Export Report 
 
-1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
+1. Click on the format you want to export. For example, if you want to export the Quotation Update Report in Excel, click "Excel".
 
    <p align="center">
      <img src="img/Report_Update_Page_Export_Report_Step_1.png" alt="Report Update Page Export Report Step 1">
