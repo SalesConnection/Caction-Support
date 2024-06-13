@@ -50,6 +50,3 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
 
-   <p align="center">
-     <img src="img/Report_Page_Export_Report_Step_4.png" alt="Report Page Export Report Step 4">
-   </p>
