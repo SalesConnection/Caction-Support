@@ -53,8 +53,37 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 ### Filter
 
-1. 
+1. Filter
 
+   <p align="center">
+     <img src="img/Report_Page_Filter_Step_1.png" alt="Report Page Filter Step 1">
+   </p>
+
+   <br><br>
+
+<a id="section3"></a>
+
+### Favourite Filter
+
+1. Favourite filter
+
+   <p align="center">
+     <img src="img/Report_Page_Favourite_Filter_Step_1.png" alt="Report Page Favourite Filter Step 1">
+   </p>
+
+   <br><br>
+
+<a id="section4"></a>
+
+### Default Columns
+
+1. Default Columns
+
+   <p align="center">
+     <img src="img/Report_Page_Default_Columns_Step_1.png" alt="Report Page Default Columns Step 1">
+   </p>
+
+   <br><br>
 
 <a id="section5"></a>
 
