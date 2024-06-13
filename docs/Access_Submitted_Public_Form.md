@@ -82,6 +82,8 @@
 **Related Articles**
 - [How to Generate Public Form?](Creation_of_Public_Form.md)
 - [ow to Setup Public Form Template?](Setup_Public_Form_Template_Page.md)
+- [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)
 - [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
 - [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
 - [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
+- [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
