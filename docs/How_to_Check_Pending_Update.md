@@ -82,7 +82,7 @@ ii. User has already upload, but admin said did not receeived it:<br>
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_6a.png" alt="Check Pending Data Using Desktop Step 6a">
    </p><br>
 
-7. If the user has pending updates, they will be automatically updated in the system. On the contrary, if the action performed above shows that there are no pending updates, the user needs to update again.
+7. Note: If the user has pending updates, these will be updated automatically. Please advise the user to perform this action when their network is stable.
 
 <br><br><br>
 **Related Articles**
