@@ -17,6 +17,14 @@ The Report Update Page allows you to **generate** and **customize** reports acro
 </p>
 <br><br>
 
+**Difference between Report Page and Report Update Page**<br>
+
+| Report Page | Report Update Page |
+|-------------|--------------------|
+| Not consist of comment section | Consist of comment section |
+
+<br><br>
+
 **Navigate to the section by clicking it.**<br>
 
 - [Digital Form Category](#section1)<br>
