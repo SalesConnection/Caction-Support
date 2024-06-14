@@ -85,7 +85,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
      <img src="img/Report_Updated_Page_Filter_Step_4.png" alt="Report Update Page Filter Step 4">
    </p>
 
-5. Click on the blank space in the space bar to enter the update content that you want. 
+5. Click on the blank space in the text box to enter the update content you want.
 
    <p align="center">
      <img src="img/Report_Updated_Page_Filter_Step_5.png" alt="Report Update Page Filter Step 5">
