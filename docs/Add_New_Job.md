@@ -141,3 +141,4 @@ Updated: 10 June 2024<br>
 **Related Articles**<br>
 - [How to Add New User?](Add_New_User.md)
 - [How to Add New User Category?](Add_New_User_Category.md)
+- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
