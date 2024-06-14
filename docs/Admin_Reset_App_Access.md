@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 14 June 2024<br>
+Updated: 14 June 2024<br>
 ## How does an Admin Reset App Access for a User?
 
 *Note: This feature allows admin to perform resetting actions in situations where users have resigned, uninstalled the app, or consistently offline.
@@ -240,6 +243,4 @@
 **Related Articles**
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
-- [I Can't Login to My Other Phone. Why?](IMEI.md)
-- [How to Turn Off Device Check (IMEI)?](Turn_Off_IMEI.md)
-- [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
+
