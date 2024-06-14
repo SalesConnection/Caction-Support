@@ -255,7 +255,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img/Report_Page_Favourite_Filter_Step_12.png" alt="Report Page Favourite Filter Step 12">
     </p>
 
-13. The "Default Favourite Filter" has been set successfully.
+13. The "Default Favourite Filter" has been set successfully. Everytime when you enter this page, it will automatically show the "Default Favourite Filter".S
 
     <p align="center">
      <img src="img/Report_Page_Favourite_Filter_Step_13.png" alt="Report Page Favourite Filter Step 13">
