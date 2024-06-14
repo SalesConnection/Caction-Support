@@ -53,12 +53,47 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 ### Filter
 
-1. Filter
+1. For example, if you want to filter status in Service Sheet Report, click on "Filter Table Record".
 
    <p align="center">
      <img src="img/Report_Page_Filter_Step_1.png" alt="Report Page Filter Step 1">
    </p>
 
+2. Click on the group you want to filter. For example, click "# Service Sheet".
+
+   <p align="center">
+     <img src="img/Report_Page_Filter_Step_2.png" alt="Report Page Filter Step 2">
+   </p>
+
+3. Click on the "Filter Variable" you want. For example, click "Service Sheet Status".
+
+   <p align="center">
+     <img src="img/Report_Page_Filter_Step_3.png" alt="Report Page Filter Step 3">
+   </p>
+
+4. Click on the "Operator" you want. For example, click "Contains".
+
+   <p align="center">
+     <img src="img/Report_Page_Filter_Step_4.png" alt="Report Page Filter Step 4">
+   </p>
+
+5. Click on the "Filter Value" you want. For example, tick "Created".
+
+   <p align="center">
+     <img src="img/Report_Page_Filter_Step_5.png" alt="Report Page Filter Step 5">
+   </p>
+
+6. Click on the "Done" button after selecting the filter.
+
+   <p align="center">
+     <img src="img/Report_Page_Filter_Step_6.png" alt="Report Page Filter Step 6">
+   </p>
+
+7. The result will be shown as below.
+
+   <p align="center">
+     <img src="img/Report_Page_Filter_Step_7.png" alt="Report Page Filter Step 7">
+   </p>
    <br><br>
 
 <a id="section3"></a>
