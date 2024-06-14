@@ -112,7 +112,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Setup Job Template Page?](Setup_Job_Template.md)
 - [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
-
+- [Report Page](Report_Page.md)
+- [Udpate Report Page](Report_Update_Page.md)
 
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
