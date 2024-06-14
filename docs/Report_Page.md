@@ -21,8 +21,8 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 - [Digital Form Category](#section1)<br>
 - [Filter](#section2)<br>
-- [Favourite Filter](#section)<br>
-- [Default Columns](#section4)<br>
+- [Default Columns](#section3)<br>
+- [Favourite Filter](#section4)<br>
 - [Export Report](#section5)
 <br><br><br>
 
@@ -98,24 +98,47 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 <a id="section3"></a>
 
+### Default Columns
+
+1. If you want to display different columns for the Report, click on "Default Columns".
+
+   <p align="center">
+     <img src="img/Report_Page_Default_Columns_Step_1.png" alt="Report Page Default Columns Step 1">
+   </p>
+
+2. Click on the "+ Create" button.
+
+   <p align="center">
+     <img src="img/Report_Page_Default_Columns_Step_2.png" alt="Report Page Default Columns Step 2">
+   </p>
+
+3. Select the columns you wish to have from here.
+
+   <p align="center">
+     <img src="img/Report_Page_Default_Columns_Step_3.png" alt="Report Page Default Columns Step 3">
+   </p>
+
+4. After selecting the columns you want to display, click "Save".
+
+   <p align="center">
+     <img src="img/Report_Page_Default_Columns_Step_4.png" alt="Report Page Default Columns Step 4">
+   </p>
+
+5. The new Report with different columns will be shown as below.
+
+   <p align="center">
+     <img src="img/Report_Page_Default_Columns_Step_5.png" alt="Report Page Default Columns Step 5">
+   </p>
+   <br><br>
+
+<a id="section4"></a>
+
 ### Favourite Filter
 
 1. Favourite filter
 
    <p align="center">
      <img src="img/Report_Page_Favourite_Filter_Step_1.png" alt="Report Page Favourite Filter Step 1">
-   </p>
-
-   <br><br>
-
-<a id="section4"></a>
-
-### Default Columns
-
-1. Default Columns
-
-   <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_1.png" alt="Report Page Default Columns Step 1">
    </p>
 
    <br><br>
