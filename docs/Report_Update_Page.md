@@ -59,7 +59,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 <a id="section2"></a>
 
-### Filter
+### Filter 
 
 1. For example, if you want to filter update status in Service Sheet Update Report, click on "Filter Table Record".
 
@@ -111,13 +111,85 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 ### Default Columns
 
-1. Default Columns
+1. If you want to display different columns for the Update Report, click on "Default Columns".
 
    <p align="center">
      <img src="img/Report_Update_Page_Default_Columns_Step_1.png" alt="Report Update Page Default Columns Step 1">
    </p>
 
-   <br><br>
+2. Click on the "+ Create" button.
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_2.png" alt="Report Update Page Default Columns Step 2">
+   </p>
+   
+3. Select the columns you wish to have from here.
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_3.png" alt="Report Update Page Default Columns Step 3">
+   </p>
+  
+4. After selecting the columns you want to display, click "Save".
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_4.png" alt="Report Update Page Default Columns Step 4">
+   </p>
+
+5. The new Update Report with different columns will be shown as below. 
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_5.png" alt="Report Update Page Default Columns Step 5">
+   </p>
+
+6. If you wish to name the default columns, click "Column Group 2".
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_6.png" alt="Report Update Page Default Columns Step 6">
+   </p>
+
+7. Click the "pencil" icon.
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_7.png" alt="Report Update Page Default Columns Step 7">
+   </p>
+
+8. Enter the name of the "Default Columns".
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_8.png" alt="Report Update Page Default Columns Step 8">
+   </p>
+
+9. Click on the "tick" icon.
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_9.png" alt="Report Update Page Default Columns Step 9">
+   </p>
+
+10. The "Default Columns" has been renamed successfully.
+
+    <p align="center">
+      <img src="img/Report_Update_Page_Default_Columns_Step_10.png" alt="Report Update Page Default Columns Step 10">
+    </p>
+
+11. On the next time you enter this page, click on the "Default Columns".
+
+    <p align="center">
+      <img src="img/Report_Update_Page_Default_Columns_Step_11.png" alt="Report Update Page Default Columns Step 11">
+    </p>
+
+12. Click on the "Default Columns" that you want.
+
+    <p align="center">
+      <img src="img/Report_Update_Page_Default_Columns_Step_12.png" alt="Report Update Page Default Columns Step 12">
+    </p>
+
+13. The Report with chosen "Default Columns" will be shown as below.
+
+    <p align="center">
+      <img src="img/Report_Update_Page_Default_Columns_Step_13.png" alt="Report Update Page Default Columns Step 13">
+    </p>
+
+<br><br>
 
 <a id="section4"></a>
 
