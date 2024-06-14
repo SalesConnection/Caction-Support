@@ -243,4 +243,6 @@ Updated: 14 June 2024<br>
 **Related Articles**
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
+- [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
+- [How to Copy Account for New User?](Copy_Account.md)
 
