@@ -24,8 +24,10 @@
      <p align="center">
        <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
      </p>
+
+     *Note: Digital Form Templates available are based on the access given by your admin. If you do not find your template, please request permission or help from your admin.<br>
      
-  5. Fill out the details of the new quotation.<br>
+  5. Fill out the details of the new quotation. Available fields may differ depending on your company’s system setup.<br>
 
      | Field Name| Description |
      |-------|---------|
@@ -59,7 +61,7 @@
        <img src="img/Create_Digital_Form_Step_7.png" alt="Create Digital Form Step 7">
      </p>
 
-8. Click "OK" and the new quotation has been added successfully.<br>
+8. Your form is successfully saved when the “Successfully Saved” prompt appears.<br>
 
      <p align="center">
        <img src="img/Create_Digital_Form_Step_8.png" alt="Create Digital Form Step 8">
