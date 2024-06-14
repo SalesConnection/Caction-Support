@@ -20,6 +20,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New User Category?](Add_New_User_Category.md)
 - [How to Copy Account for New User?](Copy_Account.md)
 
+
+### Import
+- [How do I Import New User(s)?](Import_User.md)
+
   
 ### Password
 - [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
