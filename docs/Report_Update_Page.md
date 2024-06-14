@@ -116,3 +116,8 @@ The Update Report Page allows you to **generate** and **customize** reports acro
    </p>
 
 4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
+
+<br><br><br>
+
+**Related Articles**
+- [Report Page](Report_Page.md)
