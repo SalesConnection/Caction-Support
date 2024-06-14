@@ -61,12 +61,10 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 ### Filter
 
-1. Filter
 
-   <p align="center">
-     <img src="img/Report_Update_Page_Filter_Step_1.png" alt="Report Update Page Filter Step 1">
-   </p>
 
+
+  <br><br>
    <br><br>
 
 <a id="section3"></a>
