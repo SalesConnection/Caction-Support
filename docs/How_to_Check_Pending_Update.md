@@ -32,13 +32,14 @@ i. Poor Internet Connnection:
 
 ii. User has already upload, but admin said did not receeived it:<br>
 
+*Note: Only certain admins can perform this action.<br>
+
 1. At the desktop site's Main Navigation, go to User Management > Check Pending Update.<br>
    **Check Pending Update here**: [https://salesconnection.my/checkPendingUploads](https://salesconnection.my/checkPendingUploads)<br>
 
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_1.png" alt="Check Pending Data Using Desktop Step 1">
    </p>
-*Note: Only certain admins can perform this action.<br>
 
 2. Click on the refresh button for the user with pending upload.
 
