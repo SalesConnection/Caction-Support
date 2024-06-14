@@ -2,7 +2,7 @@
 
 The Report Page allows you to **generate** and **customize** reports across various type including job, project, asset, digital form, public form, and reminder which provide a comprehensive overview and detailed insights into your data.<br>
 
-*Note: The tutorial below is based on Digital Form Report Page but all of these can be apply to other Report Page.<br>
+*Note: The tutorial below is based on Digital Form Report Page but all of these can be applied to other Report Page.<br>
 
 **Open Report Page Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)<br>
 
