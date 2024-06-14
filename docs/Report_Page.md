@@ -109,3 +109,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
 
+<br><br><br>
+
+**Related Articles**
+- [Update Report Page](Report_Update_Page.md)
