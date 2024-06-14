@@ -2,6 +2,8 @@
 
 The Update Report Page allows you to **generate** and **customize** reports across various types similar to the Report Page. In addition to the comprehensive report generation and customization features, this page includes a **comment section** which allowing you to view and manage comments related to each report, enhancing collaboration and tracking.<br>
 
+*Note: The tutorial below is based on Digital Form Update Report Page but all of these can be applied to other Update Report Page.
+
 **Open Update Report Page Here:** [https://salesconnection.my/reports/digitalform-update?code=DR01](https://salesconnection.my/reports/digitalform-update?code=DR01)<br>
 
 | No | Terms | Description |
