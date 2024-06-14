@@ -71,3 +71,4 @@
 - [How to Add New Project?](Add_New_Project.md)
 - [How to Add New Job?](Add_New_Job.md)
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
+- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
