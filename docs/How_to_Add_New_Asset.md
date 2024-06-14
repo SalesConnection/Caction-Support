@@ -432,3 +432,4 @@
 - [How to Add New Project?](Add_New_Project.md)
 - [How to Add New Job?](Add_New_Job.md)
 - [How to Create Digital Form?](Create_Digital_Form.md)
+- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
