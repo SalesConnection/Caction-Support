@@ -29,8 +29,8 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 - [Digital Form Category](#section1)<br>
 - [Filter](#section2)<br>
-- [Favourite Filter](#section)<br>
-- [Default Columns](#section4)<br>
+- [Default Columns](#section3)<br>
+- [Favourite Filter](#section4)<br>
 - [Export Report](#section5)
 <br><br><br>
 
