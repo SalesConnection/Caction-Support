@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 14 June 2024<br>
+Updated: 14 June 2024<br>
 ## How do I Import New User(s)?
     
   1. At the desktop site's navigation bar, go to User Management > User Import.<br>
@@ -63,8 +66,4 @@
 
 **Related Articles**<br>
 - [How to Add New User?](Add_New_User.md)
-- [How do I Import New Customer(s)/Project(s)?](Import_Customer_Project.md)
-- [How do I Import New Product/Services(s)?](Import_Product_Services.md)
-- [How do I Import New Asset(s)?](Import_Asset.md)
-- [How do I Import New UOM(s)?](Import_UOM.md)
-- [How do I Import New Contact(s)?](Import_Contact.md)
+
