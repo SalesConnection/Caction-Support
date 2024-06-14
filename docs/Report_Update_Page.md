@@ -106,7 +106,20 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 <br><br>
    <br><br>
 
+
 <a id="section3"></a>
+
+### Default Columns
+
+1. Default Columns
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_1.png" alt="Report Update Page Default Columns Step 1">
+   </p>
+
+   <br><br>
+
+<a id="section4"></a>
 
 ### Favourite Filter
 
@@ -118,17 +131,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
    <br><br>
 
-<a id="section4"></a>
 
-### Default Columns
-
-1. Default Columns
-
-   <p align="center">
-     <img src="img/Report_Update_Page_Default_Columns_Step_1.png" alt="Report Update Page Default Columns Step 1">
-   </p>
-
-   <br><br>
 
 <a id="section5"></a>
 
