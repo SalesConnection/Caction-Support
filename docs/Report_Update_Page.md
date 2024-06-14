@@ -195,13 +195,86 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 ### Favourite Filter
 
-1. Favourite filter
+1. Ensure that the "Filter" and "Default Columns" you want is applied.
 
    <p align="center">
-     <img src="img/Report_Update_Page_Favourite_Filter_Step_1.png" alt="Report Update Page Favourite Filter Step 1">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_1.png" alt="Update Report Page Favourite Filter Step 1">
    </p>
 
+2. Click on the "Favourite Filter".
+
+   <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_2.png" alt="Update Report Page Favourite Filter Step 2">
+   </p>
+
+3. Click on "+ Add".
+
+   <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_3.png" alt="Update Report Page Favourite Filter Step 3">
+   </p>
+
+4. Enter the name of the "Favourite Filter".
+
+   <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_4.png" alt="Update Report Page Favourite Filter Step 4">
+   </p>
+
+5. Click on the "Save" button.
+
+   <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_5.png" alt="Update Report Page Favourite Filter Step 5">
+   </p>
+
+6. The "Favourite Filter" has been saved successfully.
+
+   <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_6.png" alt="Update Report Page Favourite Filter Step 6">
+   </p>
+
+7. On the next time you enter the page, click on "Favourite Filter".
+
+   <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_7.png" alt="Update Report Page Favourite Filter Step 7">
+   </p>
+
+8. Click the "Favourite Filter" you want to apply.
+
+   <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_8.png" alt="Update Report Page Favourite Filter Step 8">
+   </p>
+
+9. The "Favourite Filter" is applied successfully.
+
+   <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_9.png" alt="Update Report Page Favourite Filter Step 9">
+   </p>
+
+10. If you wish to set the "Favourite Filter" as "Default Favourite Filter", click "Favourite Filter".
+
+    <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_10.png" alt="Update Report Page Favourite Filter Step 10">
+    </p>
+
+11. Click "Default Filter" to expand it.
+
+    <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_11.png" alt="Update Report Page Favourite Filter Step 11">
+    </p>
+
+12. Click the "Favourite Filter" you want to set as default.
+
+    <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_12.png" alt="Update Report Page Favourite Filter Step 12">
+    </p>
+
+13. The "Default Favourite Filter" has been set successfully. Everytime when you enter this page, it will automatically show the "Default Favourite Filter".
+
+    <p align="center">
+     <img src="img/Update_Report_Page_Favourite_Filter_Step_13.png" alt="Update Report Page Favourite Filter Step 13">
+    </p>
    <br><br>
+
+ 
 
 
 
