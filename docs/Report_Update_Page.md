@@ -61,10 +61,49 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 ### Filter
 
-1. 
+1. For example, if you want to filter update status in Service Sheet Update Report, click on "Filter Table Record".
 
+   <p align="center">
+     <img src="img/Report_Updated_Page_Filter_Step_1.png" alt="Report Update Page Filter Step 1">
+   </p>
 
-  <br><br>
+2. Click on the group you want to filter. For example, click "# Service Sheet".
+
+   <p align="center">
+     <img src="img/Report_Updated_Page_Filter_Step_2.png" alt="Report Update Page Filter Step 2">
+   </p>
+
+3. Click on the "Filter Variable" you want. For example, click "Update Content".
+
+   <p align="center">
+     <img src="img/Report_Updated_Page_Filter_Step_3.png" alt="Report Update Page Filter Step 3">
+   </p>
+
+4. Click on the "Operator" you want. For example, click "Contains".
+
+   <p align="center">
+     <img src="img/Report_Updated_Page_Filter_Step_4.png" alt="Report Update Page Filter Step 4">
+   </p>
+
+5. Click on the blank space in the space bar to enter the update content that you want. 
+
+   <p align="center">
+     <img src="img/Report_Updated_Page_Filter_Step_5.png" alt="Report Update Page Filter Step 5">
+   </p>
+
+6. For example, search for the term "Alert" and press the Enter button on your keyboard.
+
+   <p align="center">
+     <img src="img/Report_Updated_Page_Filter_Step_6.png" alt="Report Update Page Filter Step 6">
+   </p>
+
+7. The result will be shown as below.
+
+   <p align="center">
+     <img src="img/Report_Updated_Page_Filter_Step_7.png" alt="Report Update Page Filter Step 7">
+   </p>
+
+<br><br>
    <br><br>
 
 <a id="section3"></a>
