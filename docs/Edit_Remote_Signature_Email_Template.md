@@ -39,3 +39,8 @@ Updated: 24 May 2024<br>
    <p align="center">
       <img src="img/Remote_Signature_Email_Template_Settings_Step_6.png" alt="Remote Signature Email Template Settings Step 6">
    </p>
+   <br><br><br>
+
+**Related Article**
+- [How to Request for Remote Signature From Customer?](How_to_Get_Remote_Signature_From_Customer.md)
+
