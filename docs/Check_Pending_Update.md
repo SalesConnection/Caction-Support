@@ -38,16 +38,18 @@ i. User has already upload, but admin said did not received it:<br>
 5. After the user press the prompt from previous step, their app will either show one of the result as pictures below.<br>
 
    a. The user has pending data:
+
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_5.png" alt="Check Pending Data Using Desktop Step 5" width="280" height="550">
    </p><br>
 
    b. The user didn't have pending data:
+
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_5a.png" alt="Check Pending Data Using Desktop Step 5a" width="280" height="550">
    </p><br>
 
-6. In the desktop admin's view, either one of the results shown in the pictures below will appear.<br>
+7. In the desktop admin's view, either one of the results shown in the pictures below will appear.<br>
 
    a. The user has pending data:
    <p align="center">
@@ -59,5 +61,5 @@ i. User has already upload, but admin said did not received it:<br>
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_6a.png" alt="Check Pending Data Using Desktop Step 6a">
    </p><br>
 
-7. Note: If the user has pending data, these will be updated automatically. Please advise the user to perform this action when their network is stable.
+8. Note: If the user has pending data, these will be updated automatically. Please advise the user to perform this action when their network is stable.
 
