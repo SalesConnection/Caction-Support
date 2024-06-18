@@ -1,4 +1,4 @@
- ## I am not getting any notification from system. Why?
+## I am not getting any notification from system. Why?
 
  **Navigate to the section by clicking it.**<br>
 
