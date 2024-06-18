@@ -30,25 +30,27 @@
        <img src="img/Import_Product_Services_Step_4.png" alt="Import Product Services Step 4">
      </p>
 
-  5. Go back to the product/services import page and choose the correct file by clicking "Choose File" to import.<br>
+     *Note: Make sure that "Name" of the product/services is unique.<br>
+     
+  6. Go back to the product/services import page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
        <img src="img/Import_Product_Services_Step_5.png" alt="Import Product Services Step 5">
      </p>
 
-  6. Make sure the file uploaded is correct.<br>
+  7. Make sure the file uploaded is correct.<br>
 
      <p align="center">
        <img src="img/Import_Product_Services_Step_6.png" alt="Import Product Services Step 6">
      </p>
 
-  7. Click on the "SUBMIT" button.<br>
+  8. Click on the "SUBMIT" button.<br>
 
      <p align="center">
        <img src="img/Import_Product_Services_Step_7.png" alt="Import Product Services Step 7">
      </p>
 
-  8. Your items are successfully added when the “Uploaded successfully” prompt appears.<br>
+  9. Your items are successfully added when the “Uploaded successfully” prompt appears.<br>
 
      <p align="center">
        <img src="img/Import_Product_Services_Step_8.png" alt="Import Product Services Step 8">
