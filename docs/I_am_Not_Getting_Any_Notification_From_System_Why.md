@@ -12,10 +12,10 @@
 
   *Note: Only certain admins can edit the notification settings. Please contact your admin if you wish to enable the notifications.<br>
  
-1. To enable notifications for users, go to desktop site navigation bar > User Management > User Account Customisation.<br>
+ 1. To enable notifications for users, go to desktop site navigation bar > User Management > User Account Customisation.<br>
      **Open UAC Page Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
      
-   <p align="center">
+    <p align="center">
       <img src="img/User_Account_Customisation.png" alt="User Account Customisation">
     </p>
      
@@ -71,9 +71,9 @@
 
  10. Notifications settings have been updated.
 
-    <p align="center">
+     <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_9.png" alt="Enable Notification in UAC Step 9">
-    </p>
+     </p>
      
  <a id="section2"></a><br><br>
 
