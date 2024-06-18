@@ -172,21 +172,21 @@
 
 10. Enter the details of the product/services.<br>
 
-   <p align="center">
-     <img src="img/Create_Digital_Form2_Step_10.png" alt="Create Digital Form2 Step 10">
-   </p>
+    <p align="center">
+      <img src="img/Create_Digital_Form2_Step_10.png" alt="Create Digital Form2 Step 10">
+    </p>
 
 11. Click on the "Save" icon.<br>
 
-   <p align="center">
-     <img src="img/Create_Digital_Form2_Step_11.png" alt="Create Digital Form2 Step 11">
-   </p>
+    <p align="center">
+      <img src="img/Create_Digital_Form2_Step_11.png" alt="Create Digital Form2 Step 11">
+    </p>
 
 12. Click "OK" to confirm the save change.<br>
 
-   <p align="center">
-     <img src="img/Create_Digital_Form2_Step_12.png" alt="Create Digital Form2 Step 12">
-   </p>
+    <p align="center">
+      <img src="img/Create_Digital_Form2_Step_12.png" alt="Create Digital Form2 Step 12">
+    </p>
 
 13. Your form is successfully saved when the “Successfully Saved” prompt appears.<br>
 
