@@ -54,23 +54,47 @@
      <img src="img/Create_Digital_Form_Step_5.png" alt="Create Digital Form Step 5">
    </p>
 
-6. Click on the "Save" icon.<br>
+6. Click "+ Product/Service" if needed.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form_Step_6.png" alt="Create Digital Form Step 6">
    </p>
 
-7. Click "OK" to confirm the save change.<br>
+7. Select the Product/Services that needed in this form.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form_Step_7.png" alt="Create Digital Form Step 7">
    </p>
 
-8. Your form is successfully saved when the “Successfully Saved” prompt appears.<br>
+8. Click on the "SAVE" button.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form_Step_8.png" alt="Create Digital Form Step 8">
    </p>
+
+9. Enter the details of the product/services.<br>
+
+   <p align="center">
+     <img src="img/Create_Digital_Form_Step_9.png" alt="Create Digital Form Step 9">
+   </p>
+
+10. Click on the "Save" icon.<br>
+
+    <p align="center">
+      <img src="img/Create_Digital_Form_Step_10.png" alt="Create Digital Form Step 10">
+    </p>
+
+11. Click "OK" to confirm the save change.<br>
+
+    <p align="center">
+      <img src="img/Create_Digital_Form_Step_11.png" alt="Create Digital Form Step 11">
+    </p>
+
+12. Your form is successfully saved when the “Successfully Saved” prompt appears.<br>
+
+    <p align="center">
+      <img src="img/Create_Digital_Form_Step_12.png" alt="Create Digital Form Step 12">
+    </p>
    <br><br>
 
 <a id="section2"></a>
