@@ -5,6 +5,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
+- [How to enable or disable IMEI Login Check? (Device Changing Detection)](Turn_Off_IMEI.md)
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
 
 
