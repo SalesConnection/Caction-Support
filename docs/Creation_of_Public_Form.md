@@ -18,7 +18,7 @@
 2. Choose the asset you want and click the expand button beside.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Public_Form_Step_2.png" alt="Creation of Public Form Step 2">
+     <img src="img/How_to_Create_Public_Form_Step_2.png" alt="Creation of Public Form Step 2">      
    </p>
 
 3. At the top right corner of "Asset Details" page, click the ellipsis.<br>
@@ -33,6 +33,7 @@
      <img src="img/How_to_Create_Public_Form_Step_4.png" alt="Creation of Public Form Step 4">
    </p>
 
+  *Note: If you don't see this option to generate a QR, please contact your admin to request for permission.<br><br>
 5. The generated QR code will appear as the image below.<br>
 
    <p align="center">
