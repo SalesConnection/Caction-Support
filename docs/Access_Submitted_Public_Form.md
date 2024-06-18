@@ -32,6 +32,8 @@
 
 <a id="section2"></a>
 
+**Configure access in UAC (done by Admin)**
+
 1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
    **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
      
