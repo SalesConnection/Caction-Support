@@ -45,12 +45,8 @@
    | Customer | Select the address of the customer or attach the customer. |
    | Project | The project associated with this quotation. |
    | Start Date | The date when the quotation is created. |
-   | Ref No | The reference number for the quotation. |
-   | Payment Term | The terms of payment for the quotation. |
    | Assigned User | The user responsible for this quotation. |
    | Reminder | Set a reminder for follow-ups or important dates. |
-   | Validity | The validity period of the quotation. |
-   | Delivery Date | The expected delivery date for the products/services. |
    | Product/Services List | The list of products or services included in the quotation. |
    | Description | Additional details or description of the quotation. |
           
@@ -141,12 +137,8 @@
    | Customer | Select the address of the customer or attach the customer. |
    | Project | The project associated with this quotation. |
    | Start Date | The date when the quotation is created. |
-   | Ref No | The reference number for the quotation. |
-   | Payment Term | The terms of payment for the quotation. |
    | Assigned User | The user responsible for this quotation. |
    | Reminder | Set a reminder for follow-ups or important dates. |
-   | Validity | The validity period of the quotation. |
-   | Delivery Date | The expected delivery date for the products/services. |
    | Product/Services List | The list of products or services included in the quotation. |
    | Description | Additional details or description of the quotation. |
           
