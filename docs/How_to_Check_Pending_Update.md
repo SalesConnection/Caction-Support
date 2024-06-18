@@ -4,7 +4,7 @@
 
 i. Poor Internet Connection:
 
-**Mobile App**
+**The following step done is done by User - Mobile App**
 
 1. On the Sales Connection mobile app, go to the "Dashboard" page.
 
@@ -30,7 +30,7 @@ i. Poor Internet Connection:
       <img src="img/Check_Pending_Data_Using_App_Step_4.png" alt="Check Pending Data Using App Step 4" width="280" height="550">
    </p><br>
 
-5. If the comment been showing pending for a long time in job details page, you can take screenshot from pending data page and send it to your admin so that admin can check on it.<br><br><br>
+5. If the comment has been showing as pending for a long time on the job details page, you can take a screenshot of the pending data page and send it to your admin so they can check on it.<br><br><br>
 
 ii. User has already upload, but admin said did not received it:<br>
 
