@@ -104,41 +104,45 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Data Level Structure](Data_Level_Structure.md)
 - [User Type Default Access](User_Types_Default_Access.md)
 
+### How to Create
+- [How to Add New Project?](Add_New_Project.md)
+- [How to Create Digital Form?](Create_Digital_Form.md)
+- [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
-### Customer
+
+## Business Managament
+
+### Schedule
+- [How to Add New Job?](Add_New_Job.md)
+
+
+### Customer List
 - [How to Add New Customer?](Add_New_Customer.md)
 
 
-### Project
-- [How to Add New Project?](Add_New_Project.md)
-
-
-### Job
-- [How to Add New Job?](Add_New_Job.md)
-- [How to Setup Job Template Page?](Setup_Job_Template.md)
-
-
-### Asset
+### Asset List
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
 
 
-### Digital Form
-- [How to Create Digital Form?](Create_Digital_Form.md)
-
-
-### Public Form
-- [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
-- [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
+## Business Reports
+- [Report Page](Report_Page.md)
+- [Update Report Page](Report_Update_Page.md)
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 
 
-### PDF
+## Template Settings
+
+### Job
+- [How to Setup Job Template Page?](Setup_Job_Template.md)
+
+
+### Digital Form
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
 
 
-### Report 
-- [Report Page](Report_Page.md)
-- [Update Report Page](Report_Update_Page.md)
+### Public Form
+- [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
+
 
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
