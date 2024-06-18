@@ -81,26 +81,44 @@
 
 ### From Project
 
-1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
-   **Create Digital Form Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
+1. At the desktop site's navigation bar, go to Business Management > Schedule > Project Schedule.<br>
+   **Create Digital Form Here:** [https://salesconnection.my/calendar/projectactivityschedule](https://salesconnection.my/calendar/projectactivityschedule)<br>
      
    <p align="center">
      <img src="img/Create_Digital_Form_Step_1.png" alt="Create Digital Form Step 1">
    </p>
 
-2. Click on the job that needs to create digital form.<br>
+2. Scroll up to the top of the page.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form_Step_2.png" alt="Create Digital Form Step 2">
    </p>
 
-3. Click on the "Create Digital Form" icon.<br>
+3. Click on the "Customer".<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form_Step_3.png" alt="Create Digital Form Step 3">
    </p>
      
-4. Select the type of digital form you want to create. For this example, select "Quotation".<br>
+4. Select the Customer that the Project is under from.<br>
+
+   <p align="center">
+     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+   </p>
+
+5. Click on the expand button beside the specific project.<br>
+
+   <p align="center">
+     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+   </p>
+
+6. Click on the "+" button.<br>
+
+   <p align="center">
+     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+   </p>
+
+7. Click "Create Digital Form".<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
@@ -108,7 +126,13 @@
 
    *Note: Digital Form Templates available are based on the access given by your admin. If you do not find your template, please request permission or help from your admin.<br>
      
-5. Fill out the details of the new quotation. Available fields may differ depending on your company’s system setup.<br>
+8. Choose the category of the Digital Form. For example, select Quotation.<br>
+
+   <p align="center">
+     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+   </p>
+
+9. Fill out the details of the new quotation. Available fields may differ depending on your company’s system setup.<br>
 
    | Field Name| Description |
    |-------|---------|
