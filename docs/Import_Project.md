@@ -4,7 +4,7 @@
      **Import Project(s) Here:** [https://salesconnection.my/dealupload](https://salesconnection.my/dealupload)<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_1.png" alt="Import Customer Step 1">
+       <img src="img/Import_Project_Step_1.png" alt="Import Project Step 1">
      </p>
 
      *Note: You must have access to Import menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
@@ -12,7 +12,7 @@
   2. Click "DOWNLOAD EXCEL TEMPLATE".<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_2.png" alt="Import Customer Step 2">
+       <img src="img/Import_Project_Step_2.png" alt="Import Project Step 2">
      </p>
 
   3. Fill out the details of the new projects. Available column fields may differ depending on your company’s system setup.<br>
@@ -35,37 +35,37 @@
      *Note: Please include + and the international code for the phone number's country followed by the phone number itself. Eg: +60122780122; +60358805110.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_3.png" alt="Import Customer Step 3">
+       <img src="img/Import_Project_Step_3.png" alt="Import Project Step 3">
      </p>
      
   4. Make sure all the information of the projects is correct and save the file.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_4.png" alt="Import Customer Step 4">
+       <img src="img/Import_Project_Step_4.png" alt="Import Project Step 4">
      </p>
 
   5. Go back to the customer import page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_5.png" alt="Import Customer Step 5">
+       <img src="img/Import_Project_Step_5.png" alt="Import Project Step 5">
      </p>
 
   6. Make sure the file uploaded is correct.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_6.png" alt="Import Customer Step 6">
+       <img src="img/Import_Project_Step_6.png" alt="Import Project Step 6">
      </p>
 
   7. Click on the "SUBMIT" button.<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_7.png" alt="Import Customer Step 7">
+       <img src="img/Import_Project_Step_7.png" alt="Import Project Step 7">
      </p>
 
   8. Your items are successfully added when the “Records Added” prompt appears<br>
 
      <p align="center">
-       <img src="img/Import_Customer_Step_8.png" alt="Import Customer Step 8">
+       <img src="img/Import_Project_Step_8.png" alt="Import Project Step 8">
      </p>
   <br><br><br>
 
