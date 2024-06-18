@@ -1,10 +1,8 @@
 ## How to Check Pending Data?
 
-### Here are the potential issues and solutions:
+Pending data is usually used to check if the user complained the comment been showing pending for a long time in job details page, there’s where support will require staff to take screenshot from pending data so the team can check on it.
 
-i. Poor Internet Connection:
-
-*Note: The following step done is done by user in Mobile App
+*Note: The following step done is done by user in Mobile App.
 
 1. On the Sales Connection mobile app, go to the "Dashboard" page.
 
