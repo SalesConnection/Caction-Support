@@ -20,7 +20,7 @@
      </p><br>
 
   4. Fill out the details of asset updated.<br>
-     a. The details include:<br>
+     a. Examples of details include:<br>
      - Serial No
      - Status
      - Warranty Start Date
