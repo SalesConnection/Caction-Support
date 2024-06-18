@@ -1,8 +1,8 @@
-## How to Check Pending Update?
+## How to Check Pending Data?
 
 ### Here are the potential issues and solutions:
 
-i. Poor Internet Connnection:
+i. Poor Internet Connection:
 
 **Mobile App**
 
@@ -28,9 +28,11 @@ i. Poor Internet Connnection:
 
    <p align="center">
       <img src="img/Check_Pending_Data_Using_App_Step_4.png" alt="Check Pending Data Using App Step 4" width="280" height="550">
-   </p><br><br><br>
+   </p><br>
 
-ii. User has already upload, but admin said did not receeived it:<br>
+5. If the comment been showing pending for a long time in job details page, you can take screenshot from pending data page and send it to your admin so that admin can check on it.<br><br><br>
+
+ii. User has already upload, but admin said did not received it:<br>
 
 *Note: Only certain admins can perform this action.<br>
 
@@ -61,29 +63,29 @@ ii. User has already upload, but admin said did not receeived it:<br>
 
 5. After the user press the prompt from previous step, their app will either show one of the result as pictures below.<br>
 
-   a. The user has pending upload:
+   a. The user has pending data:
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_5.png" alt="Check Pending Data Using Desktop Step 5" width="280" height="550">
    </p><br>
 
-   b. The user didn't have pending upload:
+   b. The user didn't have pending data:
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_5a.png" alt="Check Pending Data Using Desktop Step 5a" width="280" height="550">
    </p><br>
 
 6. In the desktop admin's view, either one of the results shown in the pictures below will appear.<br>
 
-   a. The user has pending upload:
+   a. The user has pending data:
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_6.png" alt="Check Pending Data Using Desktop Step 6">
    </p><br>
 
-   b. The user didn't have pending upload:
+   b. The user didn't have pending data:
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_6a.png" alt="Check Pending Data Using Desktop Step 6a">
    </p><br>
 
-7. Note: If the user has pending updates, these will be updated automatically. Please advise the user to perform this action when their network is stable.
+7. Note: If the user has pending data, these will be updated automatically. Please advise the user to perform this action when their network is stable.
 
 <br><br><br>
 **Related Articles**
