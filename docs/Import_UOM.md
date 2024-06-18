@@ -39,7 +39,7 @@
         - Max Discount<br>
         - Product seq no*<br>
 
-        *Note: Fields marked with an asterisk ( * ) are required.
+        *Note: Fields marked with an asterisk ( * ) are required.<br>
      
      <p align="center">
        <img src="img/Import_UOM_Step_4.png" alt="Import UOM Step 4">
