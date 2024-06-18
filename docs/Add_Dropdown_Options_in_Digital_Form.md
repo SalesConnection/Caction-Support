@@ -86,5 +86,6 @@ Updated: 24 May 2024<br>
     </p>
     <br><br><br>
 
-**Related Article**<br>
-[How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
+**Related Articles**<br>
+- [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
+- [How to Use Dropdown Field in Job/Project/Customer?](How_to_Use_Dropdown_Field_in_Job_Project_Customer.md)
