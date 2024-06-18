@@ -56,9 +56,9 @@
      <img src="img/Access_Submitted_Public_Form_Step_8.png" alt="Access Submitted Public Form Step 8">
    </p><br>
 
- <a id="section1"></a>
+   <a id="section1"></a>
 
-### View Submitted Public Form
+**View Submitted Public Form**
 
 9. At the navigation bar, go to Business Report > Public Form Report.
 
