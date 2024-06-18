@@ -4,7 +4,7 @@
 
 i. Poor Internet Connection:
 
-*Note: The following step done is done by User in Mobile App
+*Note: The following step done is done by user in Mobile App
 
 1. On the Sales Connection mobile app, go to the "Dashboard" page.
 
