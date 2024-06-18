@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 10 June 2024<br>
-Updated: 10 June 2024<br>
+Updated: 18 June 2024<br>
 ## How to Add New Job?
 
 *Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Deal, etc.)<br><br>
@@ -141,4 +141,3 @@ Updated: 10 June 2024<br>
 **Related Articles**<br>
 - [How to Add New User?](Add_New_User.md)
 - [How to Add New User Category?](Add_New_User_Category.md)
-- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
