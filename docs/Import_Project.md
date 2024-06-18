@@ -29,20 +29,17 @@
   
   4. Fill out the details of the new Projects. Available column fields may differ depending on your company’s system setup.<br>
      a. The details include:<br>
-        - Customer Name<br>
-        - Company Name<br>
-        - Phone<br>
-        - Email<br>
-        - Address<br>
-        - Assign<br>
-        - View<br>
+        - Title<br>
+        - Description<br>
+        - Start date<br>
+        - End date<br>
         - Category<br>
         - Status<br>
+        - Assign<br>
+        - View<br>
         - Depart assign<br>
         - Depart view<br>
-        - State<br>
-        - Inquiry Date<br>
-        - Credit Balance<br>
+        - Customer Seq No<br>
     
      *Note: Please include + and the international code for the phone number's country followed by the phone number itself. Eg: +60122780122; +60358805110.<br>
 
