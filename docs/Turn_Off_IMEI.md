@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 18 June 2024<br>
+Updated: 18 June 2024<br>
 ## How to enable or disable IMEI Login Check? (Device Changing Detection)
 
 **IMEI Login Check (Device Changing Detection)** prevents fraudulent logins to a user account from another mobile device without approval. When IMEI Login Check is enabled, the Admin must approve the login to ensure it is done by the respective account holder. This feature can be enabled for specific user accounts or every user account in the system.<br><br>
