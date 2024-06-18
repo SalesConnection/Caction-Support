@@ -23,6 +23,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Import
 - [How do I Import New User(s)?](Import_User.md)
+- [How do I Import New Asset(s)?](Import_Asset.md)
 
   
 ### Password
