@@ -85,43 +85,43 @@
    **Create Digital Form Here:** [https://salesconnection.my/calendar/projectactivityschedule](https://salesconnection.my/calendar/projectactivityschedule)<br>
      
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_1.png" alt="Create Digital Form Step 1">
+     <img src="img/Create_Digital_Form2_Step_1.png" alt="Create Digital Form2 Step 1">
    </p>
 
 2. Scroll up to the top of the page.<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_2.png" alt="Create Digital Form Step 2">
+     <img src="img/Create_Digital_Form2_Step_2.png" alt="Create Digital Form2 Step 2">
    </p>
 
 3. Click on the "Customer".<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_3.png" alt="Create Digital Form Step 3">
+     <img src="img/Create_Digital_Form2_Step_3.png" alt="Create Digital Form2 Step 3">
    </p>
      
 4. Select the Customer that the Project is under from.<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+     <img src="img/Create_Digital_Form2_Step_4.png" alt="Create Digital Form2 Step 4">
    </p>
 
 5. Click on the expand button beside the specific project.<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+     <img src="img/Create_Digital_Form2_Step_5.png" alt="Create Digital Form2 Step 5">
    </p>
 
 6. Click on the "+" button.<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+     <img src="img/Create_Digital_Form2_Step_6.png" alt="Create Digital Form2 Step 6">
    </p>
 
 7. Click "Create Digital Form".<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+     <img src="img/Create_Digital_Form2_Step_7.png" alt="Create Digital Form2 Step 7">
    </p>
 
    *Note: Digital Form Templates available are based on the access given by your admin. If you do not find your template, please request permission or help from your admin.<br>
@@ -129,7 +129,7 @@
 8. Choose the category of the Digital Form. For example, select Quotation.<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
+     <img src="img/Create_Digital_Form2_Step_8.png" alt="Create Digital Form2 Step 8">
    </p>
 
 9. Fill out the details of the new quotation. Available fields may differ depending on your company’s system setup.<br>
@@ -151,25 +151,25 @@
    | Description | Additional details or description of the quotation. |
           
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_5.png" alt="Create Digital Form Step 5">
+     <img src="img/Create_Digital_Form2_Step_9.png" alt="Create Digital Form2 Step 9">
    </p>
 
-6. Click on the "Save" icon.<br>
+10. Click on the "Save" icon.<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_6.png" alt="Create Digital Form Step 6">
+     <img src="img/Create_Digital_Form2_Step_10.png" alt="Create Digital Form2 Step 10">
    </p>
 
-7. Click "OK" to confirm the save change.<br>
+11. Click "OK" to confirm the save change.<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_7.png" alt="Create Digital Form Step 7">
+     <img src="img/Create_Digital_Form2_Step_11.png" alt="Create Digital Form2 Step 11">
    </p>
 
-8. Your form is successfully saved when the “Successfully Saved” prompt appears.<br>
+12. Your form is successfully saved when the “Successfully Saved” prompt appears.<br>
 
    <p align="center">
-     <img src="img/Create_Digital_Form_Step_8.png" alt="Create Digital Form Step 8">
+     <img src="img/Create_Digital_Form2_Step_12.png" alt="Create Digital Form2 Step 12">
    </p>
    <br><br><br>
 
