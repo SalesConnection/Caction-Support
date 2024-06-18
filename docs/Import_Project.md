@@ -17,6 +17,10 @@
 
      This is the sample of the Project sequence number Excel file.<br>
 
+     <p align="center">
+       <img src="img/Import_Project_Step_2a.png" alt="Import Project Step 2a">
+     </p>
+
   3. Click "DOWNLOAD EXCEL TEMPLATE".
 
      <p align="center">
