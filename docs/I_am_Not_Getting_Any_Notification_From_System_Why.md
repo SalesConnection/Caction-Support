@@ -1,4 +1,4 @@
-## I am not getting any notification from system. Why?
+ ## I am not getting any notification from system. Why?
 
  **Navigate to the section by clicking it.**<br>
 
@@ -63,13 +63,13 @@
        <img src="img/Enable_Notification_In_UAC_Step_7.png" alt="Enable Notification in UAC Step 7">
     </p>
 
- 9. Click "Save Notification Settings".
+ 8. Click "Save Notification Settings".
 
     <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_8.png" alt="Enable Notification in UAC Step 8">
     </p>
 
- 10. Notifications settings have been updated.
+ 9. Notifications settings have been updated.
 
      <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_9.png" alt="Enable Notification in UAC Step 9">
