@@ -7,6 +7,8 @@
        <img src="img/Import_Product_Services_Step_1.png" alt="Import Product Services Step 1">
      </p>
 
+     *Note: You must have access to Import menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
+
   2. Click "Excel Template".<br>
 
      <p align="center">
