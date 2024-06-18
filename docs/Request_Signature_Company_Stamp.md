@@ -1,4 +1,4 @@
-## How to Request for Remote Signature From Customer?
+## How to Get Signature and Company Stamp?
 
 1. For example, if you want to get a remote signature of Service Sheet from customer. At the mobile app's navigation bar, go to Customer.<br>
 
