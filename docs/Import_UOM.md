@@ -39,36 +39,37 @@
         - Max Discount<br>
         - Product seq no*<br>
 
-        
+        *Note: Fields marked with an asterisk ( * ) are required.
+     
      <p align="center">
        <img src="img/Import_UOM_Step_4.png" alt="Import UOM Step 4">
      </p>
      
-  5. Make sure all the information of the UOM is correct and save the file.<br>
+  6. Make sure all the information of the UOM is correct and save the file.<br>
 
      <p align="center">
        <img src="img/Import_UOM_Step_5.png" alt="Import UOM Step 5">
      </p>
 
-  6. Go back to the UOM import page and choose the correct file by clicking "Choose File" to import.<br>
+  7. Go back to the UOM import page and choose the correct file by clicking "Choose File" to import.<br>
 
      <p align="center">
        <img src="img/Import_UOM_Step_6.png" alt="Import UOM Step 6">
      </p>
 
-  7. Make sure the file uploaded is correct.<br>
+  8. Make sure the file uploaded is correct.<br>
 
      <p align="center">
        <img src="img/Import_UOM_Step_7.png" alt="Import UOM Step 7">
      </p>
 
-  8. Click on the "SUBMIT" button.<br>
+  9. Click on the "SUBMIT" button.<br>
 
      <p align="center">
        <img src="img/Import_UOM_Step_8.png" alt="Import UOM Step 8">
      </p>
 
-  9. Click "OK" and the UOM has been imported successfully.<br>
+  10. Click "OK" and the UOM has been imported successfully.<br>
       <p align="center">
        <img src="img/Import_UOM_Step_9.png" alt="Import UOM Step 9">
       </p>
