@@ -85,8 +85,17 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
 - [User Type Default Access](User_Types_Default_Access.md)
+
+
+### Customer
 - [How to Add New Customer?](Add_New_Customer.md)
+
+
+### Job
 - [How to Add New Job?](Add_New_Job.md)
+
+
+### Asset
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
 
 
