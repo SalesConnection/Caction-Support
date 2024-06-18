@@ -1,7 +1,6 @@
 ## How do I Import New Customer(s)/Project(s)?
     
-  1. If you want to import new customers, at the desktop site's navigation bar, go to Import > Customer Import.<br>
-     **Import Customer(s) Here:** [https://salesconnection.my/customerimport](https://salesconnection.my/customerimport)<br>
+  1. At the desktop site's navigation bar, go to Import > Customer Import.<br>
      **Import Project(s) Here:** [https://salesconnection.my/dealupload](https://salesconnection.my/dealupload)<br>
 
      <p align="center">
@@ -16,7 +15,7 @@
        <img src="img/Import_Customer_Step_2.png" alt="Import Customer Step 2">
      </p>
 
-  3. Fill out the details of the new customers. Available column fields may differ depending on your company’s system setup.<br>
+  3. Fill out the details of the new projects. Available column fields may differ depending on your company’s system setup.<br>
      a. The details include:<br>
         - Customer Name<br>
         - Company Name<br>
@@ -39,7 +38,7 @@
        <img src="img/Import_Customer_Step_3.png" alt="Import Customer Step 3">
      </p>
      
-  4. Make sure all the information of the customers is correct and save the file.<br>
+  4. Make sure all the information of the projects is correct and save the file.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_4.png" alt="Import Customer Step 4">
@@ -71,8 +70,8 @@
   <br><br><br>
 
 **Related Articles**<br>
-- [How to Add New Customer?](Add_New_Customer.md)
 - [How to Add New Project?](Add_New_Project.md)
+- [How do I Import New Customer(s)?](Import_Customer.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
 - [How do I Import New UOM(s)?](Import_UOM.md)
