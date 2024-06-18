@@ -15,7 +15,7 @@
        <img src="img/Import_Product_Services_Step_2.png" alt="Import Product Services Step 2">
      </p>
 
-  3. Fill out the details of the new product/services.<br>
+  3. Fill out the details of the new product/services. Available column fields may differ depending on your company’s system setup.<br>
      a. The details include:<br>
         - Name<br>
         - Product Description<br>
@@ -48,7 +48,7 @@
        <img src="img/Import_Product_Services_Step_7.png" alt="Import Product Services Step 7">
      </p>
 
-  8. Click "OK" and the product/services have been imported successfully.<br>
+  8. Your items are successfully added when the “Uploaded successfully” prompt appears.<br>
 
      <p align="center">
        <img src="img/Import_Product_Services_Step_8.png" alt="Import Product Services Step 8">
