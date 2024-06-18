@@ -8,13 +8,15 @@
        <img src="img/Import_Customer_Step_1.png" alt="Import Customer Step 1">
      </p>
 
+     *Note: You must have access to Import menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
+
   2. Click "DOWNLOAD EXCEL TEMPLATE".<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_2.png" alt="Import Customer Step 2">
      </p>
 
-  3. Fill out the details of the new customers.<br>
+  3. Fill out the details of the new customers. Available column fields may differ depending on your company’s system setup.<br>
      a. The details include:<br>
         - Customer Name<br>
         - Company Name<br>
@@ -61,7 +63,7 @@
        <img src="img/Import_Customer_Step_7.png" alt="Import Customer Step 7">
      </p>
 
-  8. Click "OK" and the customers have been imported successfully.<br>
+  8. Your items are successfully added when the “Records Added” prompt appears<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_8.png" alt="Import Customer Step 8">
