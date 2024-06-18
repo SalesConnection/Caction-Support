@@ -1,12 +1,10 @@
-## How to check if my staff have any pending data?
+## How to check if my staff have any pending updates?
 
 Check on any pending upload item(s) by each of your user. If you receive a message saying "Unable to Retrieve Results", it could mean the following reason(s):
 
 1. Selected user has an unstable connection and system is unable to connect to their device.
 2. Selected user did not have the app running in the background.
-3. Selected user had swiped off the app.
-
-i. User has already upload, but admin said did not received it:<br>
+3. Selected user had swiped off the app.<br><br>
 
 *Note: Only certain admins can perform this action.<br>
 
