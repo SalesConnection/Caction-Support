@@ -76,7 +76,8 @@
   <br><br><br>
 
 **Related Articles**<br>
-- [How do I Import New Customer(s)/Project(s)?](Import_Customer_Project.md)
+- [How do I Import New Customer(s)?](Import_Customer.md)
+- [How to Import New Project(s)?](Import_Project.md)
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
