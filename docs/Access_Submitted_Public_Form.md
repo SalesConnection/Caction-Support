@@ -2,10 +2,37 @@
 
 *Note: If you are unable to access the Public Form, please reach out to your admin for assistance.
 
-**If you dont' have the access permission of public form, click the link below to configure the ac.**<br>
-[View Submitted Public Form](#section1)<br>
+**Navigate to the section by clicking it.**<br>
 
-<br>
+- [Access Public Form](#section1)<br>
+- [Configure access in UAC (done by Admin)](#section2)
+<br><br><br>
+
+<a id="section1"></a>
+
+
+**If you dont' have the access permission of public form, click the link below to configure the ac.**<br>
+[Access Public Form](#section1)<br>
+
+**Access Public Form**
+
+1. At the navigation bar, go to Business Report > Public Form Report.
+
+   <p align="center">
+      <img src="img/View_Submitted_Public_Form_Step_1.png" alt="Access Submitted Public Form Step 1">
+   </p><br>
+
+2. Click the expand button to view the details of the public form.
+
+   <p align="center">
+      <img src="img/View_Submitted_Public_Form_Step_2.png" alt="Access Submitted Public Form Step 2">
+   </p><br>
+
+3. Picture below is a sample of a public form submitted by a customer.
+
+   <p align="center">
+      <img src="img/View_Submitted_Public_Form_Step_3.png" alt="Access Submitted Public Form Step 3">
+   </p><br>
 
 1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
    **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
