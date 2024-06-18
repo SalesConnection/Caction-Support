@@ -30,6 +30,8 @@
       <img src="img/View_Submitted_Public_Form_Step_3.png" alt="Access Submitted Public Form Step 3">
    </p><br>
 
+<a id="section2"></a>
+
 1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
    **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
      
