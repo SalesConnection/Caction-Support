@@ -115,7 +115,4 @@ Updated: 18 June 2024<br>
 
 **Related Articles**<br>
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
-- [How do I Import New Customer(s)/Project(s)?](Import_Customer_Project.md)
-- [How do I Import New Product/Services(s)?](Import_Product_Services.md)
-- [How do I Import New Contact(s)?](Import_Contact.md)
 - [How do I Import New User(s)?](Import_User.md)
