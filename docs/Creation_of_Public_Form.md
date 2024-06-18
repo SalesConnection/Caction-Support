@@ -153,8 +153,9 @@
 
    <p align="center">
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_5.png" alt="Creation of Public Form in App Step 5" width="280" height="550">
-   </p><br>
+   </p>
 
+   *Note: If you see this option to generate a QR, please contact your admin to request for permission.<br><br>
 6. Select the "Template" you want.<br><br>
    *Note: This template refers to the placement of the company logo in the center of the QR code.
    <p align="center">
