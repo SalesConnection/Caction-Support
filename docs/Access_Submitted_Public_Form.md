@@ -5,7 +5,7 @@
 **Navigate to the section by clicking it.**<br>
 
 - [Access Public Form](#section1)<br>
-- [Configure access in UAC (done by Admin)](#section2)
+- [Configure Public Form Access in UAC (Done by Admin)](#section2)
 <br><br><br>
 
 <a id="section1"></a>
@@ -32,7 +32,7 @@
 
 <a id="section2"></a>
 
-**Configure Access in UAC (done by Admin)**
+**Configure Public Form Access in UAC (Done by Admin)**
 
 1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
    **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
