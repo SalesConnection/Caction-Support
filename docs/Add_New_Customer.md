@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 18 June 2024<br>
+Updated: 18 June 2024<br>
 ## How to Add New Customer?
 Note: In your system, Customer may have been renamed to other (i.e Site, Client, Company, etc.)<br>
 
@@ -266,8 +269,5 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      <br><br><br>
 
 **Related Articles**<br>
-- [How to Add New Project?](Add_New_Project.md)
 - [How to Add New Job?](Add_New_Job.md)
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
-- [How to Create Digital Form?](Create_Digital_Form.md)
-- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
