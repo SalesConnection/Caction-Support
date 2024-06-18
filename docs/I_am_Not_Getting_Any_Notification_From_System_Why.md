@@ -75,7 +75,7 @@
        <img src="img/Enable_Notification_In_UAC_Step_9.png" alt="Enable Notification in UAC Step 9">
      </p>
      
- <a id="section2"></a><br><br>
+   <a id="section2"></a><br><br>
 
  - **Mobile App**:
 
