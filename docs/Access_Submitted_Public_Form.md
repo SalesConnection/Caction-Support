@@ -58,7 +58,7 @@
 
    <a id="section1"></a>
 
-**View Submitted Public Form**
+   **View Submitted Public Form**
 
 9. At the navigation bar, go to Business Report > Public Form Report.
 
