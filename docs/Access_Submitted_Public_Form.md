@@ -10,8 +10,6 @@
 
 <a id="section1"></a>
 
-
-**If you dont' have the access permission of public form, click the link below to configure the ac.**<br>
 [Access Public Form](#section1)<br>
 
 **Access Public Form**
