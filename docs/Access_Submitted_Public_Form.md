@@ -2,7 +2,7 @@
 
 *Note: If you are unable to access the Public Form, please reach out to your admin for assistance.
 
-**If you are already have the access permission of public form, click the link below to jump to step 9.**<br>
+**If you dont' have the access permission of public form, click the link below to configure the ac.**<br>
 [View Submitted Public Form](#section1)<br>
 
 <br>
@@ -60,23 +60,7 @@
 
    **View Submitted Public Form**
 
-9. At the navigation bar, go to Business Report > Public Form Report.
 
-   <p align="center">
-     <img src="img/Access_Submitted_Public_Form_Step_9.png" alt="Access Submitted Public Form Step 9">
-   </p><br>
-
-10. Click the expand button to view the details of the public form.
-
-    <p align="center">
-      <img src="img/Access_Submitted_Public_Form_Step_10.png" alt="Access Submitted Public Form Step 10">
-    </p><br>
-
-11. Picture below is a sample of a public form submitted by a customer.
-
-    <p align="center">
-      <img src="img/Access_Submitted_Public_Form_Step_11.png" alt="Access Submitted Public Form Step 11">
-    </p>
 <br><br><br>
 
 **Related Articles**
