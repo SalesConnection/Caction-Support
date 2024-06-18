@@ -10,8 +10,6 @@
 
 <a id="section1"></a>
 
-[Access Public Form](#section1)<br>
-
 **Access Public Form**
 
 1. At the navigation bar, go to Business Report > Public Form Report.
