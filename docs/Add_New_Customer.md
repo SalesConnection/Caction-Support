@@ -271,3 +271,4 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
 **Related Articles**<br>
 - [How to Add New Job?](Add_New_Job.md)
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
+- [How to Import New Customer(s)?](Import_Customer.md)
