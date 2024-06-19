@@ -25,9 +25,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
 - [Customer Feedback Settings](#section6)
 <br><br><br>
 
-<a id="section1"></a>
+   <a id="section1"></a>
 
-### Template Info
+   **Template Info**
 
 1. Select the Digital Form category you want by clicking the expand button beside Quotation.
 
@@ -48,9 +48,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
    </p>
    <br><br>
 
-<a id="section2"></a>
+   <a id="section2"></a>
 
-### Digital Form Category Configuration
+   **Digital Form Category Configuration**
 
 1. If you want to display different columns for the Report, click on "Default Columns".
 
@@ -131,9 +131,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
     </p>
    <br><br>
 
-<a id="section3"></a>
+   <a id="section3"></a>
 
-### Default Field Settings
+   **Default Field Settings**
 
 1. For example, if you want to filter status in Service Sheet Report, click on "Filter Table Record".
 
@@ -178,9 +178,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
    </p>
    <br><br>
 
-<a id="section4"></a>
+   <a id="section4"></a>
 
-### Custom Field Settings
+   **Custom Field Settings**
 
 1. Ensure that the "Filter" and "Default Columns" you want is applied.
 
@@ -261,9 +261,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
     </p>
    <br><br>
 
-<a id="section5"></a>
+   <a id="section5"></a>
 
-### Product/Services Settings
+   **Product/Services Settings**
 
 1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
 
@@ -287,9 +287,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 <br><br>
 
-<a id="section6"></a>
+   <a id="section6"></a>
 
-### Customer Feedback Settings
+   **Customer Feedback Settings**
 
 1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
 
