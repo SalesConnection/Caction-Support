@@ -138,6 +138,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ### Digital Form
+- [Digital Form Template Settings](Digital_Form_Template_Settings.md)
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
 
 
