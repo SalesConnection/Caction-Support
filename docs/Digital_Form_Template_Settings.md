@@ -100,247 +100,82 @@ The Digital Form Template Settings page enables users to **configure** and **man
      <img src="img/DF_Template_Settings_Step_6a.png" alt="DF Template Settings Step 6a">
    </p>
 
-7. After selecting the columns you want to display, click "Save".
+7. "Report Form Settings" allows users to customize the appearance and behavior of digital form reports.
+
+   | No | Fields | Description |
+   |----|--------|-------------|
+   | a | Section Visibility | Manage the visibility of different sections in the report. |
+   | b | Auto Populate | Automatically fill in data fields based on predefined rules. |
+   | c | Fields Control | Customize and control the fields that appear in the report. |
+   | d | Mapping Control | Define how data fields are mapped and transferred. |
+   | e | PDF Watermark Control | Configure and apply watermarks to the PDF version of the report. |
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
+     <img src="img/DF_Template_Settings_Step_7.png" alt="DF Template Settings Step 7">
    </p>
-
-8. The new Report with different columns will be shown as below.
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
+     <img src="img/DF_Template_Settings_Step_7a.png" alt="DF Template Settings Step 7a">
    </p>
 
-9. If you wish to name the default columns, click "Column Group 2".
+8. User(s) who has been added in "Prepopulate Assigned User During Digital Form Creation" will be automatically assigned when the new digital form is created.
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
+     <img src="img/DF_Template_Settings_Step_8.png" alt="DF Template Settings Step 8">
    </p>
-
-10. Click the "pencil" icon.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-11. Enter the name of the "Default Columns".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-12. Click on the "tick" icon.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-13. The "Default Columns" has been renamed successfully.
-
-    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-    </p>
-   
-14. On the next time you enter this page, click on the "Default Columns".
-
-    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-    </p>
-
-15. Click on the "Default Columns" that you want.
-
-    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-    </p>
-
-16. The Report with chosen "Default Columns" will be shown as below.
-
-    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-    </p>
-   <br><br>
 
    <a id="section3"></a>
 
    **Default Field Settings**
 
-1. For example, if you want to filter status in Service Sheet Report, click on "Filter Table Record".
+9. "Default Fields Element" allows to set default values for various templates in the digital form.
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
+     <img src="img/DF_Template_Settings_Step_9.png" alt="DF Template Settings Step 9">
    </p>
-
-2. Click on the group you want to filter. For example, click "# Service Sheet".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-3. Click on the "Filter Variable" you want. For example, click "Service Sheet Status".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-4. Click on the "Operator" you want. For example, click "Contains".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-5. Click on the "Filter Value" you want. For example, tick "Created".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-6. Click on the "Done" button after selecting the filter.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-7. The result will be shown as below.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-   <br><br>
 
    <a id="section4"></a>
 
    **Custom Field Settings**
 
-1. Ensure that the "Filter" and "Default Columns" you want is applied.
+10. "Custom Fields Settings" allows to add and configure custom fields for the digital form template. You can click on the "Custom Field Element" and edit it at the right side.
 
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-2. Click on the "Favourite Filter".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-3. Click on "+ Add".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-4. Enter the name of the "Favourite Filter".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-5. Click on the "Save" button.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-6. The "Favourite Filter" has been saved successfully.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-7. On the next time you enter the page, click on "Favourite Filter".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-8. Click the "Favourite Filter" you want to apply.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-9. The "Favourite Filter" is applied successfully.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-10. If you wish to set the "Favourite Filter" as "Default Favourite Filter", click "Favourite Filter".
+    | No | Field | Description |
+    |----|-------|-------------|
+    | a | Custom Field Element | Different types of custom fields: header, instruction, break line, checklist, text, and many more. |
+    | b | Custom Field View | Area to preview and edit custom fields added to the digital form template. |
 
     <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
+      <img src="img/DF_Template_Settings_Step_10.png" alt="DF Template Settings Step 10">
     </p>
-
-11. Click "Default Filter" to expand it.
-
-    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-    </p>
-
-12. Click the "Favourite Filter" you want to set as default.
-
-    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-    </p>
-
-13. The "Default Favourite Filter" has been set successfully. Everytime when you enter this page, it will automatically show the "Default Favourite Filter".
-
-    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-    </p>
-   <br><br>
 
    <a id="section5"></a>
 
    **Product/Services Settings**
+   
+11. Enter the name of the "Default Columns".
 
-1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_11.png" alt="DF Template Settings Step 11">
+    </p>
 
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
+12. Click on the "tick" icon.
 
-2. Wait for the system to export the file.
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_12.png" alt="DF Template Settings Step 12">
+    </p>
 
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
+13. The "Default Columns" has been renamed successfully.
 
-3. Click "Download" to download the file needed.
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_13.png" alt="DF Template Settings Step 13">
+    </p>
+   
+14. On the next time you enter this page, click on the "Default Columns".
 
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
-
-<br><br>
-
-   <a id="section6"></a>
-
-   **Customer Feedback Settings**
-
-1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-2. Wait for the system to export the file.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-3. Click "Download" to download the file needed.
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
-   </p>
-
-4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
-
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_14.png" alt="DF Template Settings Step 14">
+    </p>
 <br><br><br>
 
 **Related Articles**
