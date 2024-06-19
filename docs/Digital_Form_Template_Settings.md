@@ -153,28 +153,52 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
    **Product/Services Settings**
    
-11. Enter the name of the "Default Columns".
+11. "Product/Services Element" allows users to enable or disable specific fields for product/services such as description and remarks.
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_11.png" alt="DF Template Settings Step 11">
     </p>
 
-12. Click on the "tick" icon.
+12. "Product/Services Prepopulate Settings" allows users to add product/services to prepopulate certain fields automatically.
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_12.png" alt="DF Template Settings Step 12">
     </p>
 
-13. The "Default Columns" has been renamed successfully.
+13. "Product/Services Disclaimers" allows users to add disclaimers related to product/services to appear in the digital form.
+
+    | No | Fields | Description |
+    | a | Section Title | Enter the title for the disclaimer section. |
+    | b | Note | Add a note that will be displayed in the disclaimer section. |
+    | c | Description | Provide a detailed description or additional information for the disclaimer. |
+    | d | Modify Permission | Set permissions to control who can modify this disclaimer. |
+    | e | Add Disclaimers | Click to add a new disclaimer to the product/services settings. |
+    | f | Visibility Field | Toggle to control the visibility of the disclaimer field within the digital form. |
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_13.png" alt="DF Template Settings Step 13">
     </p>
    
-14. On the next time you enter this page, click on the "Default Columns".
+14. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
+
+    | No | Fields | Description |
+    |----|--------|-------------|
+    | a | Add Text Field | Click to add a new text field for customer feedback. |
+    | b | Add Drop Down | CLick to add a new dropdown menu for customer feedback options. |
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_14.png" alt="DF Template Settings Step 14">
+    </p>
+
+15. After done for the digital form template settings, click these icons to preview and save.
+
+    | No | Icon | Description |
+    |----|------|-------------|
+    | a | Preview | Click to preview the current configuration of the digital form. |
+    | b | Save | Click to save the current configuration and changes made to the digital form. |
+
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_15.png" alt="DF Template Settings Step 15">
     </p>
 <br><br><br>
 
