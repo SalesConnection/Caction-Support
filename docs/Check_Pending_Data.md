@@ -4,7 +4,7 @@ Pending data is usually used to check if the user complained the comment been sh
 
    <p align="center">
       <img src="img/Pending_Data_Problem.png" alt="Pending Data Problem" width="280" height="550">
-   </p><br>
+   </p><br><br><br>
 
 *Note: The following step done is done by user in Mobile App.
 
