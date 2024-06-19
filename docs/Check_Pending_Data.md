@@ -39,6 +39,6 @@ Pending data is usually used to check if the user complained the comment been sh
 **Related Articles**
 - [How Does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
-- [](Check_Pending_Update.md)
+- [How to check if my staff have any pending updates?](Check_Pending_Update.md)
 
 
