@@ -64,3 +64,4 @@
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
 - [How to Setup Public Form Template?](Setup_Public_Form_Template_Page.md))
+- [Digital Form Template Settings](Digital_Form_Template_Settings.md)
