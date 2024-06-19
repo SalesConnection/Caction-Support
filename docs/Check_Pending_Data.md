@@ -1,6 +1,10 @@
 ## How to Check Pending Data?
 
-Pending data is usually used to check if the user complained the comment been showing pending for a long time in job details page, there’s where support will require staff to take screenshot from pending data so the team can check on it.
+Pending data is usually used to check if the user complained the comment been showing pending for a long time in job details page, there’s where support will require staff to take screenshot from pending data so the team can check on it. (As shown below)
+
+   <p align="center">
+      <img src="img/Pending_Data_Problem.png" alt="Pending Data Problem" width="280" height="550">
+   </p><br>
 
 *Note: The following step done is done by user in Mobile App.
 
