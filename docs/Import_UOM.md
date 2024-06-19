@@ -9,7 +9,7 @@
        <img src="img/Import_UOM_Step_1.png" alt="Import UOM Step 1">
      </p>
 
-     *Note: You must have access to Company Settings menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.
+     *Note: You must have access to Import menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.
 
   2. Download this file and refer to the product sequence number.<br>
 
@@ -34,9 +34,9 @@
         - UOM Name*<br>
         - Qty<br>
         - Unit Price<br>
-        - Tax<br>
-        - Min Discount<br>
-        - Max Discount<br>
+        - Tax (Data is in range of 0-100 percentage)<br>
+        - Min Discount (Data is in range of 0-100 percentage)<br>
+        - Max Discount (Data is in range of 0-100 percentage)<br>
         - Product seq no*<br>
 
         *Note: Fields marked with an asterisk ( * ) are required.<br>
