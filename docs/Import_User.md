@@ -66,5 +66,6 @@ Updated: 14 June 2024<br>
 
 **Related Articles**<br>
 - [How to Add New User?](Add_New_User.md)
-- [How do I Import New Asset(s)?](Import_Asset.md)
+- [How to Import New Customer(s)?](Import_Customer.md)
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
+- [How do I Import New Asset(s)?](Import_Asset.md)
