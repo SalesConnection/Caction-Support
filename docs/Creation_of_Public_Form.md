@@ -219,9 +219,8 @@
    </p><br>
 
 **Related Articles**<br>
-- [How to Add New Customer?](Add_New_Customer.md)
-- [How to Add New Project?](Add_New_Project.md)
-- [How to Add New Job?](Add_New_Job.md)
-- [How to Add New Asset?](How_to_Add_New_Asset.md)
 - [How to Create Digital Form?](Create_Digital_Form.md)
+- [Digital Form Template Settings](Digital_Form_Template_Settings.md)
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
+- [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
+- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
