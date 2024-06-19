@@ -40,7 +40,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ### Updates
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How to Check Pending Update?](How_to_Check_Pending_Update.md)
-
+- [How to Check Pending Data?](Check_Pending_Data.md)
 
 ### Password 
 - [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
