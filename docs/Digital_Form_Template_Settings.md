@@ -13,9 +13,6 @@ The Digital Form Template Settings page enables users to **configure** and **man
 | 5 | Product/Services Settings | Manage product/services elements, pre-populate settings, and disclaimers. |
 | 6 | Customer Feedback Settings | Add and configure feedback fields such as signature, rating, and instruction. |
 
-<p align="center">
-  <img src="img/Report_Page_Introduce.png" alt="Report Page Introduce">
-</p>
 <br><br>
 
 **Navigate to the section by clicking it.**<br>
@@ -30,7 +27,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 <a id="section1"></a>
 
-### Digital Form Category
+### Template Info
 
 1. Select the Digital Form category you want by clicking the expand button beside Quotation.
 
@@ -53,7 +50,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 <a id="section2"></a>
 
-### Default Columns
+### Digital Form Category Configuration
 
 1. If you want to display different columns for the Report, click on "Default Columns".
 
@@ -136,7 +133,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 <a id="section3"></a>
 
-### Filter
+### Default Field Settings
 
 1. For example, if you want to filter status in Service Sheet Report, click on "Filter Table Record".
 
@@ -183,7 +180,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 <a id="section4"></a>
 
-### Favourite Filter
+### Custom Field Settings
 
 1. Ensure that the "Filter" and "Default Columns" you want is applied.
 
@@ -266,7 +263,31 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 <a id="section5"></a>
 
-### Export Report 
+### Product/Services Settings
+
+1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
+
+   <p align="center">
+     <img src="img/Report_Page_Export_Report_Step_1.png" alt="Report Page Export Report Step 1">
+   </p>
+
+2. Wait for the system to export the file.
+
+   <p align="center">
+     <img src="img/Report_Page_Export_Report_Step_2.png" alt="Report Page Export Report Step 2">
+   </p>
+
+3. Click "Download" to download the file needed.
+
+   <p align="center">
+     <img src="img/Report_Page_Export_Report_Step_3.png" alt="Report Page Export Report Step 3">
+   </p>
+
+4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
+
+<br><br>
+
+### Customer Feedback Settings
 
 1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
 
