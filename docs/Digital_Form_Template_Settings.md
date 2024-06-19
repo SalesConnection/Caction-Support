@@ -1,18 +1,17 @@
 ## Digital Form Template Settings
 
-The Report Page allows you to **generate** and **customize** reports across various type including job, project, asset, digital form, public form, and reminder which provide a comprehensive overview and detailed insights into your data.<br>
+The Digital Form Template Settings page enables users to **configure** and **manage** digital form templates comprehensively, providing flexibility and control over various business processes.<br>
 
-*Note: The tutorial below is based on Digital Form Report Page but all of these can be applied to other Report Page.<br>
-
-**Open Report Page Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)<br>
+**Open Digital Form Template Settings Here:** [https://salesconnection.my/ServiceReport/TemplateSetting](https://salesconnection.my/ServiceReport/TemplateSetting)<br>
 
 | No | Terms | Description |
 |----|-------|---------|
-| 1 | Digital Form Category | Select from various digital form categories. |
-| 2 | Filter | Use filter groups to refine your search based on specific criteria. |
-| 3 | Favourite Filter | Save your current filter and column settings as a favourite for easy access and automatic application next time. |
-| 4 | Default Columns | Customize which columns are displayed by default and save your preferences for future reports. |
-| 5 | Export Report | Export your report in different formats for further analysis or sharing. |
+| 1 | Template Info | Configure the basic details like template choices, category, short code, and labels. |
+| 2 | Digital Form Category Configuration | Set up detailed settings for the digital form category. |
+| 3 | Default Field Settings | Set default fields that will apply to all types of digital forms. |
+| 4 | Custom Field Settings | Customize fields and their layout for the digital form. |
+| 5 | Product/Services Settings | Manage product/services elements, pre-populate settings, and disclaimers. |
+| 6 | Customer Feedback Settings | Add and configure feedback fields such as signature, rating, and instruction. |
 
 <p align="center">
   <img src="img/Report_Page_Introduce.png" alt="Report Page Introduce">
@@ -21,11 +20,12 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 **Navigate to the section by clicking it.**<br>
 
-- [Digital Form Category](#section1)<br>
-- [Default Columns](#section2)<br>
-- [Filter](#section3)<br>
-- [Favourite Filter](#section4)<br>
-- [Export Report](#section5)
+- [Template Info](#section1)<br>
+- [Digital Form Categpry Configuration](#section2)<br>
+- [Default Field Settings](#section3)<br>
+- [Custom Field Settings](#section4)<br>
+- [Product/Services Settings](#section5)<br>
+- [Customer Feedback Settings](#section6)
 <br><br><br>
 
 <a id="section1"></a>
