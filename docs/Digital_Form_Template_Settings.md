@@ -29,19 +29,37 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
    **Template Info**
 
-1. Select the Digital Form category you want by clicking the expand button beside Quotation.
+1. "Template Info" allows users to define and configure the basic attributes of the digital form template.
+
+   | No | Field Name | Description |
+   |----|------------|-------------|
+   | a | Template Choices | Choose the type of digital form before starting to edit the template. |
+   | b | Template Category | Define the category of the template. |
+   | c | Template Short Code | Short code for the template type. |
+   | d | Template Name | Name of the template. |
+   | e | Outstanding Label | Label for indicating outstanding items. |
+   | f | Collection Label | Label for indicating collection items. |
 
    <p align="center">
      <img src="img/Report_Page_DF_Category_Step_1.png" alt="Report Page DF Category Step 1">
    </p>
 
-2. Click on the category you want to select. For example, if you want to have Service Sheet Report, click "Service Sheet".
+2. "Details Variable Settings" 
+
+   | No | Terms | Meaning |
+   |----|-------|---------|
+   | a | Detail Variable 1 | Digital Form Code (e.g. QT00001) |
+   | b | Detail Variable 2 | - |
+   | c | Detail Variable 3 | Start Date |
+   | d | Detail Variable 4 | - |
+   | e | Detail Variable 5 | Amount |
+   | f | Detail Variable 6 | - |
 
    <p align="center">
      <img src="img/Report_Page_DF_Category_Step_2.png" alt="Report Page DF Category Step 2">
    </p>
 
-3. The Service Sheet Report will be shown as below.
+4. The Service Sheet Report will be shown as below.
 
    <p align="center">
      <img src="img/Report_Page_DF_Category_Step_3.png" alt="Report Page DF Category Step 3">
