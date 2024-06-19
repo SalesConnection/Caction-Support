@@ -178,6 +178,10 @@ The Digital Form Template Settings page enables users to **configure** and **man
     <p align="center">
       <img src="img/DF_Template_Settings_Step_13.png" alt="DF Template Settings Step 13">
     </p>
+
+   <a id="section6"></a>
+
+   **Customer Feedback Settings**
    
 14. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
 
