@@ -23,6 +23,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ### Import
+- [How to Import New Product/Services(s)?](Import_Product_Services.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
 
