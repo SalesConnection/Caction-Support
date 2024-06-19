@@ -61,3 +61,8 @@ Check on any pending upload item(s) by each of your user. If you receive a messa
 
 8. Note: If the user has pending data, these will be updated automatically. Please advise the user to perform this action when their network is stable.
 
+<br><br><br>
+**Related Articles**
+- [How Does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
+- [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
+- [](Check_Pending_Data.md)
