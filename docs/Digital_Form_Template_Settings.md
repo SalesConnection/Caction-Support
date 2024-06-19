@@ -287,6 +287,8 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 <br><br>
 
+<a id="section6"></a>
+
 ### Customer Feedback Settings
 
 1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
