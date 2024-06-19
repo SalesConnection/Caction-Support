@@ -46,7 +46,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 2. "Details Variable Settings" 
 
-   | No | Terms | Meaning |
+   | No | Terms | Representative |
    |----|-------|---------|
    | a | Detail Variable 1 | Digital Form Code (e.g. QT00001) |
    | b | Detail Variable 2 | - |
