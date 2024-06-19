@@ -41,12 +41,16 @@ The Digital Form Template Settings page enables users to **configure** and **man
    | f | Collection Label | Label for indicating collection items. |
 
    <p align="center">
-     <img src="img/Report_Page_DF_Category_Step_1.png" alt="Report Page DF Category Step 1">
+     <img src="img/DF_Template_Settings_Step_1.png" alt="DF Template Settings Step 1">
    </p>
 
-2. "Details Variable Settings" 
+   <a id="section2"></a>
 
-   | No | Terms | Representative |
+   **Digital Form Category Configuration**
+
+2. "Details Variable Settings" is used to show six details of the digital form in the card view.
+
+   | No | Terms | Represent |
    |----|-------|---------|
    | a | Detail Variable 1 | Digital Form Code (e.g. QT00001) |
    | b | Detail Variable 2 | - |
@@ -56,96 +60,104 @@ The Digital Form Template Settings page enables users to **configure** and **man
    | f | Detail Variable 6 | - |
 
    <p align="center">
-     <img src="img/Report_Page_DF_Category_Step_2.png" alt="Report Page DF Category Step 2">
+     <img src="img/DF_Template_Settings_Step_2.png" alt="DF Template Settings Step 2">
    </p>
 
-4. The Service Sheet Report will be shown as below.
+   For example, Quotation form will be shown as below.
 
    <p align="center">
-     <img src="img/Report_Page_DF_Category_Step_3.png" alt="Report Page DF Category Step 3">
+     <img src="img/DF_Template_Settings_Step_2a.png" alt="DF Template Settings Step 2a">
    </p>
-   <br><br>
 
-   <a id="section2"></a>
-
-   **Digital Form Category Configuration**
-
-1. If you want to display different columns for the Report, click on "Default Columns".
+3. To replace the Detail Variable with other fields, click "Open Setting".
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_1.png" alt="Report Page Default Columns Step 1">
+     <img src="img/DF_Template_Settings_Step_3.png" alt="DF Template Settings Step 3">
    </p>
 
-2. Click on the "+ Create" button.
+   
+4. Determine the elements from the default field and custom field that you want to replace the Detail Variable.
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_2.png" alt="Report Page Default Columns Step 2">
+     <img src="img/DF_Template_Settings_Step_4.png" alt="DF Template Settings Step 4">
    </p>
 
-3. Select the columns you wish to have from here.
+5. Drag the element to the left box to replace the original Detail Variable.
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_3.png" alt="Report Page Default Columns Step 3">
+     <img src="img/DF_Template_Settings_Step_5.png" alt="DF Template Settings Step 5">
    </p>
 
-4. After selecting the columns you want to display, click "Save".
+6. Replace the Detail Variable following the sequence.
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_4.png" alt="Report Page Default Columns Step 4">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
-5. The new Report with different columns will be shown as below.
+   The result will be shown as below.
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_5.png" alt="Report Page Default Columns Step 5">
+     <img src="img/DF_Template_Settings_Step_6a.png" alt="DF Template Settings Step 6a">
    </p>
 
-6. If you wish to name the default columns, click "Column Group 2".
+7. After selecting the columns you want to display, click "Save".
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_6.png" alt="Report Page Default Columns Step 6">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
-7. Click the "pencil" icon.
+8. The new Report with different columns will be shown as below.
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_7.png" alt="Report Page Default Columns Step 7">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
-8. Enter the name of the "Default Columns".
+9. If you wish to name the default columns, click "Column Group 2".
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_8.png" alt="Report Page Default Columns Step 8">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
-9. Click on the "tick" icon.
+10. Click the "pencil" icon.
 
    <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_9.png" alt="Report Page Default Columns Step 9">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
-10. The "Default Columns" has been renamed successfully.
+11. Enter the name of the "Default Columns".
+
+   <p align="center">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
+   </p>
+
+12. Click on the "tick" icon.
+
+   <p align="center">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
+   </p>
+
+13. The "Default Columns" has been renamed successfully.
 
     <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_10.png" alt="Report Page Default Columns Step 10">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
     </p>
    
-11. On the next time you enter this page, click on the "Default Columns".
+14. On the next time you enter this page, click on the "Default Columns".
 
     <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_11.png" alt="Report Page Default Columns Step 11">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
     </p>
 
-12. Click on the "Default Columns" that you want.
+15. Click on the "Default Columns" that you want.
 
     <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_12.png" alt="Report Page Default Columns Step 12">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
     </p>
 
-13. The Report with chosen "Default Columns" will be shown as below.
+16. The Report with chosen "Default Columns" will be shown as below.
 
     <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_13.png" alt="Report Page Default Columns Step 13">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
     </p>
    <br><br>
 
@@ -156,43 +168,43 @@ The Digital Form Template Settings page enables users to **configure** and **man
 1. For example, if you want to filter status in Service Sheet Report, click on "Filter Table Record".
 
    <p align="center">
-     <img src="img/Report_Page_Filter_Step_1.png" alt="Report Page Filter Step 1">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 2. Click on the group you want to filter. For example, click "# Service Sheet".
 
    <p align="center">
-     <img src="img/Report_Page_Filter_Step_2.png" alt="Report Page Filter Step 2">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 3. Click on the "Filter Variable" you want. For example, click "Service Sheet Status".
 
    <p align="center">
-     <img src="img/Report_Page_Filter_Step_3.png" alt="Report Page Filter Step 3">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 4. Click on the "Operator" you want. For example, click "Contains".
 
    <p align="center">
-     <img src="img/Report_Page_Filter_Step_4.png" alt="Report Page Filter Step 4">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 5. Click on the "Filter Value" you want. For example, tick "Created".
 
    <p align="center">
-     <img src="img/Report_Page_Filter_Step_5.png" alt="Report Page Filter Step 5">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 6. Click on the "Done" button after selecting the filter.
 
    <p align="center">
-     <img src="img/Report_Page_Filter_Step_6.png" alt="Report Page Filter Step 6">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 7. The result will be shown as below.
 
    <p align="center">
-     <img src="img/Report_Page_Filter_Step_7.png" alt="Report Page Filter Step 7">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
    <br><br>
 
@@ -203,79 +215,79 @@ The Digital Form Template Settings page enables users to **configure** and **man
 1. Ensure that the "Filter" and "Default Columns" you want is applied.
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_1.png" alt="Report Page Favourite Filter Step 1">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 2. Click on the "Favourite Filter".
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_2.png" alt="Report Page Favourite Filter Step 2">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 3. Click on "+ Add".
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_3.png" alt="Report Page Favourite Filter Step 3">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 4. Enter the name of the "Favourite Filter".
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_4.png" alt="Report Page Favourite Filter Step 4">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 5. Click on the "Save" button.
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_5.png" alt="Report Page Favourite Filter Step 5">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 6. The "Favourite Filter" has been saved successfully.
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_6.png" alt="Report Page Favourite Filter Step 6">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 7. On the next time you enter the page, click on "Favourite Filter".
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_7.png" alt="Report Page Favourite Filter Step 7">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 8. Click the "Favourite Filter" you want to apply.
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_8.png" alt="Report Page Favourite Filter Step 8">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 9. The "Favourite Filter" is applied successfully.
 
    <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_9.png" alt="Report Page Favourite Filter Step 9">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 10. If you wish to set the "Favourite Filter" as "Default Favourite Filter", click "Favourite Filter".
 
     <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_10.png" alt="Report Page Favourite Filter Step 10">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
     </p>
 
 11. Click "Default Filter" to expand it.
 
     <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_11.png" alt="Report Page Favourite Filter Step 11">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
     </p>
 
 12. Click the "Favourite Filter" you want to set as default.
 
     <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_12.png" alt="Report Page Favourite Filter Step 12">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
     </p>
 
 13. The "Default Favourite Filter" has been set successfully. Everytime when you enter this page, it will automatically show the "Default Favourite Filter".
 
     <p align="center">
-     <img src="img/Report_Page_Favourite_Filter_Step_13.png" alt="Report Page Favourite Filter Step 13">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
     </p>
    <br><br>
 
@@ -286,19 +298,19 @@ The Digital Form Template Settings page enables users to **configure** and **man
 1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
 
    <p align="center">
-     <img src="img/Report_Page_Export_Report_Step_1.png" alt="Report Page Export Report Step 1">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 2. Wait for the system to export the file.
 
    <p align="center">
-     <img src="img/Report_Page_Export_Report_Step_2.png" alt="Report Page Export Report Step 2">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 3. Click "Download" to download the file needed.
 
    <p align="center">
-     <img src="img/Report_Page_Export_Report_Step_3.png" alt="Report Page Export Report Step 3">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
@@ -312,19 +324,19 @@ The Digital Form Template Settings page enables users to **configure** and **man
 1. Click on the format you want to export. For example, if you want to export the Quotation Report in Excel, click "Excel".
 
    <p align="center">
-     <img src="img/Report_Page_Export_Report_Step_1.png" alt="Report Page Export Report Step 1">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 2. Wait for the system to export the file.
 
    <p align="center">
-     <img src="img/Report_Page_Export_Report_Step_2.png" alt="Report Page Export Report Step 2">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 3. Click "Download" to download the file needed.
 
    <p align="center">
-     <img src="img/Report_Page_Export_Report_Step_3.png" alt="Report Page Export Report Step 3">
+     <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
 4. The file is successfully downloaded and it can be viewed in your desktop "File Explorer".
