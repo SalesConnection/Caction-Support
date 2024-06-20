@@ -243,15 +243,14 @@
 
    | Field Name| Description |
    |-------|---------|
-   | Category | Classifies the type of quotation. |
-   | Status | Indicates the current status of the quotation. |
+   | Category | Classifies the type of sales order. |
+   | Status | Indicates the current status of the sales order. |
    | Customer | Select the address of the customer or attach the customer. |
-   | Project | The project associated with this quotation. |
-   | Start Date | The date when the quotation is created. |
-   | Assigned User | The user responsible for this quotation. |
+   | Project | The project associated with this sales order. |
+   | Start Date | The date when the sales order is created. |
+   | Assigned User | The user responsible for this sales order. |
    | Reminder | Set a reminder for follow-ups or important dates. |
-   | Product/Services List | The list of products or services included in the quotation. |
-   | Description | Additional details or description of the quotation. |
+   | Product/Services List | The list of products or services included in the sales order. |
 
    <p align="center">
      <img src="img/Create_Digital_Form3_Step_7.png" alt="Create Digital Form3 Step 7">
