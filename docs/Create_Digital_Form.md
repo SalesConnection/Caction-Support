@@ -201,7 +201,7 @@
 ### From Digital Form
 
 1. At the desktop site's navigation bar, go to Business Reports > Digital Form Report.<br>
-   **Create Digital Form Here:** [https://salesconnection.my/reports/deal](https://salesconnection.my/reports/deal)<br>
+   **Create Digital Form Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)<br>
      
    <p align="center">
      <img src="img/Create_Digital_Form3_Step_1.png" alt="Create Digital Form3 Step 1">
