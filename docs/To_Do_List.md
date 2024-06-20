@@ -1,7 +1,5 @@
 ## To-do List
 
-Note: In your system, Customer may have been renamed to other (i.e Site, Client, Company, etc.)<br>
-
 **Navigate to the section by clicking it.**<br>
 
 - [Job To-do List Settings](#section1)<br>
