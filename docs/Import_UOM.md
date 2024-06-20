@@ -31,13 +31,13 @@
 
   4. Fill out the details of the new UOM.<br>
      a. The details include:<br>
-        - UOM Name*<br>
+        - **UOM Name***<br>
         - Qty<br>
         - Unit Price<br>
         - Tax (Data is in range of 0-100 percentage)<br>
         - Min Discount (Data is in range of 0-100 percentage)<br>
         - Max Discount (Data is in range of 0-100 percentage)<br>
-        - Product seq no*<br>
+        - **Product seq no***<br>
 
         *Note: Fields marked with an asterisk ( * ) are required.<br>
      
