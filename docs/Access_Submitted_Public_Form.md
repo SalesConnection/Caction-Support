@@ -22,7 +22,7 @@
 
    <p align="center">
       <img src="img/View_Submitted_Public_Form_Step_2.png" alt="Access Submitted Public Form Step 2">
-   </p><br>
+   </p>
 
    *Note: If you want to use another way to filter Public Form, click "Filter Table Record".<br>
 
