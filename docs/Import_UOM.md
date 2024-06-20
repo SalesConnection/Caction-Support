@@ -1,6 +1,6 @@
 ## How do I Import New UOM(s)?
 
-**UOM** stands for Unit Of Measurement. It allows you to attach information such as quantity, unit price, discount, tac to a product/services.
+**UOM** stands for Unit Of Measurement. It allows you to attach information such as quantity, unit price, discount, tax to a product/services.
 
   1. At the desktop site's navigation bar, go to Import > UOM Import.<br>
      **Import UOM(s) Here:** [https://salesconnection.my/importuom](https://salesconnection.my/importuom)<br>
