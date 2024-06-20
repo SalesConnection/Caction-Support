@@ -142,4 +142,5 @@ Updated: 18 June 2024<br>
 - [How to Add New User?](Add_New_User.md)
 - [How to Add New User Category?](Add_New_User_Category.md)
 - [How to Add New Customer?](Add_New_Customer.md)
+- [How to Add New Project?](Add_New_Project.md)
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
