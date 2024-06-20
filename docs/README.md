@@ -89,6 +89,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [User Type Default Access](User_Types_Default_Access.md)
 
 
+### How to Create
+- [How to Add New Project?](Add_New_Project.md)
+
+  
 ### Customer
 - [How to Add New Customer?](Add_New_Customer.md)
 
