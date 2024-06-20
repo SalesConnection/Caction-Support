@@ -33,11 +33,11 @@
      a. The details include:<br>
         - **UOM Name***<br>
         - Qty<br>
-        - Unit Price<br>
+        - Unit Price (Specific number indicates a fixed price while unit price = "0" allows free pricing which can input any value later)<br>
         - Tax (Data is in range of 0-100 percentage)<br>
         - Min Discount (Data is in range of 0-100 percentage)<br>
         - Max Discount (Data is in range of 0-100 percentage)<br>
-        - **Product seq no***<br>
+        - **Product seq no***: Correspond to code from file in Step 2<br>
 
         *Note: Fields marked with an asterisk ( * ) are required.<br>
      
