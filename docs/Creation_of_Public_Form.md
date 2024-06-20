@@ -4,7 +4,9 @@
 - [Desktop Version](#section1)<br>
 - [Mobile App Version](#section2)<br><br><br>
 
-   <a id="section1"></a>
+*Note: The tutorial below is based on Asset Page but all of these can be applied to other data level such as Customer, Project, Job, Digital Form, and Public Form.
+
+  <a id="section1"></a>
    
 ### Generate QR Code For Asset - Desktop
 
