@@ -17,8 +17,11 @@
 
      <p align="center">
        <img src="img/Asset_Bulk_Update_Step_3.png" alt="Asset Bulk Update Step 3">
-     </p><br>
+     </p>
 
+     *Note: This file cannot be reused after doing Update previously. Always download a new “Download Asset Excel data” when doing Asset Bulk Update.  
+
+   
   4. Fill out the details of asset updated.<br>
      a. Examples of details include:<br>
      - Serial No
@@ -31,7 +34,8 @@
      - Customer Seq No
      - Project Seq No
 
-     *Note: Asset No, Category, Customer Name, Project Name can't be edited in this excel file.
+     *Note: Asset No, Category, Customer Name, Project Name can't be edited in this excel file. Column headers in Excel file may vary depending on your system set up. 
+Data in Column C must be Unique and is compulsory to fill in. 
 
      <p align="center">
        <img src="img/Asset_Bulk_Update_Step_4.png" alt="Asset Bulk Update Step 4">
