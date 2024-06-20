@@ -32,7 +32,7 @@
       <img src="img/View_Submitted_Public_Form_Step_3.png" alt="Access Submitted Public Form Step 3">
    </p><br>
 
-4. Click "Done" and the filter value for Public Form will shown.
+4. Click "Done" and the filter value for Public Form will be shown.
 
    <p align="center">
       <img src="img/View_Submitted_Public_Form_Step_4.png" alt="Access Submitted Public Form Step 4">
