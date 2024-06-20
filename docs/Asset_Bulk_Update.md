@@ -19,7 +19,7 @@
        <img src="img/Asset_Bulk_Update_Step_3.png" alt="Asset Bulk Update Step 3">
      </p>
 
-     *Note: This file cannot be reused after doing Update previously. Always download a new “Download Asset Excel data” when doing Asset Bulk Update.  
+     *Note: This file cannot be reused after doing Update previously. Always download a new “Download Asset Excel data” when doing Asset Bulk Update.<br>
 
    
   4. Fill out the details of asset updated.<br>
