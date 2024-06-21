@@ -15,121 +15,109 @@
      **Open Job To Do List Settings Here:** [https://salesconnection.my/settings/commentRequirementSettings](https://salesconnection.my/settings/commentRequirementSettings)<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer_Step_1.png" alt="Add New Customer Step 1">
+       <img src="img/To_Do_List_Step_1.png" alt="To Do List Step 1">
      </p>
 
-  2. Click on the "+" button to add new customer.<br>
-     *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new Customer.<br>
+  2. Click on "Sales Enquiry".<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Step_2.png" alt="Add New Customer Step 2">
+       <img src="img/To_Do_List_Step_2.png" alt="To Do List Step 2">
      </p>
 
-  3. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
-
-     | Field Name| Description |
-     |-------|---------|
-     | Customer Status* | Indicates the current status of the customer. |
-     | Customer Category* | Classifies the customer based on their type. |
-     | Company Name* | The official name of the customer's company. |
-     | Customer Name | The full name of the customer contact person. |
-     | Asset | Any asset registered in the system associated with the customer. |
-     | Assigned User | The user responsible for managing this customer. |
-     | Customer Phone | The customer's contact phone number. |
-     | Customer Email | The customer's email address. |
-     | Customer Address | The physical address of the customer. |
-     
-     *Note: Fields marked with an asterisk ( * ) are required.<br>
-     
-     <p align="center">
-       <img src="img/Add_New_Customer_Step_3.png" alt="Add New Customer Step 3">
-     </p>
-
-  4. Click on the "Save Customer" button.<br>
+  3. Select the Job Category.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Step_4.png" alt="Add New Customer Step 4">
+       <img src="img/To_Do_List_Step_3.png" alt="To Do List Step 3">
      </p>
 
-  5. Click "OK" and the new customer is added successfully.<br>
+  4. Drag the comment category and drop it to the job status accordingly.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Step_5.png" alt="Add New Customer Step 5">
+       <img src="img/To_Do_List_Step_4.png" alt="To Do List Step 4">
      </p>
+
+  5. Click on the "three dots" icon if you want to have an attachment for the comment.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List_Step_5.png" alt="To Do List Step 5">
+     </p>
+
+  6. Choose the type of attachment you want to attach in the comment.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List_Step_6.png" alt="To Do List Step 6">
+     </p>
+
+  7. If you wish to have minimum attachment count for the comment, tick the box and enter a number for the minimum attachment required.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List_Step_7.png" alt="To Do List Step 7">
+     </p>
+
+  8. Click on the "Done" button.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List_Step_8.png" alt="To Do List Step 8">
+     </p>
+
+  9. You will see the attachment is changed to Asset(1) which means this comment required at least one asset attachment.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List_Step_9.png" alt="To Do List Step 9">
+     </p>
+
+  10. Click "Save Changes" after the to-do list is done.<br>
+
+      <p align="center">
+       <img src="img/To_Do_List_Step_10.png" alt="To Do List Step 10">
+      </p>
+
+  11. Your to-do list is successfully saved when the “Saved” prompt appears.
+
+      <p align="center">
+       <img src="img/To_Do_List_Step_11.png" alt="To Do List Step 11">
+      </p>
    <br><br>
 
 <a id="section2"></a>
 
 **Job Status Segmentation**<br>
 
-  1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
-     **Create Job Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
+  1. At the desktop site's navigation bar, go to Company Settings > Job Settings > Job Status Segmentation.<br>
+     **Open Job Status Segmentation Here:** [https://salesconnection.my/settings/statusTransaction?page=act](https://salesconnection.my/settings/statusTransaction?page=act)<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer2_Step_1.png" alt="Add New Customer2 Step 1">
+       <img src="img/To_Do_List2_Step_1.png" alt="To Do List2 Step 1">
      </p>
 
-  2. Click on the "+" button to create new job.<br>
-     *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new job.<br>
+  2. Select the data level you want. For example, click "JOB".<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Step_2.png" alt="Add New Customer2 Step 2">
+       <img src="img/To_Do_List2_Step_2.png" alt="To Do List2 Step 2">
      </p>
 
-  3. Select the job category.<br>
+  3. Click on the job category you want to add the to-do list.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Step_3.png" alt="Add New Customer2 Step 3">
-     </p>
-  
-  4. Click on the "Save" button.<br>
-
-     <p align="center">
-       <img src="img/Add_New_Customer2_Step_4.png" alt="Add New Customer2 Step 4">
+       <img src="img/To_Do_List2_Step_3.png" alt="To Do List2 Step 3">
      </p>
   
-  5. Click on the "+" button to select customer for the job.<br>
+  4. Tick on the box of the to-do list and select the visibility of the to-do list.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Step_5.png" alt="Add New Customer2 Step 5">
+       <img src="img/To_Do_List2_Step_4.png" alt="To Do List2 Step 4">
      </p>
   
-  6. Click "+" to add new customer.<br>
+  5. Click on the "Save Changes" button.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Step_6.png" alt="Add New Customer2 Step 6">
-     </p>
-  
-  7. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
-
-     | Field Name| Description |
-     |-------|---------|
-     | Customer Status* | Indicates the current status of the customer. |
-     | Customer Category* | Classifies the customer based on their type. |
-     | Company Name* | The official name of the customer's company. |
-     | Customer Name | The full name of the customer contact person. |
-     | Asset | Any asset registered in the system associated with the customer. |
-     | Assigned User | The user responsible for managing this customer. |
-     | Customer Phone | The customer's contact phone number. |
-     | Customer Email | The customer's email address. |
-     | Customer Address | The physical address of the customer. |
-     
-     *Note: Fields marked with an asterisk ( * ) are required.<br>
-     
-     <p align="center">
-       <img src="img/Add_New_Customer2_Step_7.png" alt="Add New Customer2 Step 7">
+       <img src="img/To_Do_List2_Step_5.png" alt="To Do List2 Step 5">
      </p>
 
-  8. Click on the "Save Customer" button.<br>
+  6. Your to-do list segmentation is successfully saved when the “Saved” prompt appears.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Step_8.png" alt="Add New Customer2 Step 8">
-     </p>
-
-  9. Click "OK" and the new customer is added successfully. You may continue with creating a new Job.<br>
-
-     <p align="center">
-       <img src="img/Add_New_Customer2_Step_9.png" alt="Add New Customer2 Step 9">
+       <img src="img/To_Do_List2_Step_6.png" alt="To Do List2 Step 6">
      </p>
      <br><br>
      
@@ -137,49 +125,58 @@
 
 **User Account Customization**<br>
 
-  1. At the mobile app's navigation bar, go to Customer.<br>
+  1. At the desktop navigation bar, go to User Management > User Account Customisation.<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_1.png" alt="Add New Customer Mobile Step 1">
+       <img src="img/To_Do_List3_Step_1.png" alt="To Do List3 Step 1">
      </p>
 
-  2. Click on the "+" button to add new customer.<br>
-     *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new Customer.<br>
+  2. Click "Finance".<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_2.png" alt="Add New Customer Mobile Step 2">
+       <img src="img/To_Do_List3_Step_2.png" alt="To Do List3 Step 2">
      </p>
   
-  3. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
-
-     | Field Name| Description |
-     |-------|---------|
-     | Category* | Classifies the customer based on their type. |
-     | Status* | Indicates the current status of the customer. |
-     | Company Name* | The official name of the customer's company. |
-     | Customer Name | The full name of the customer contact person. |
-     | Phone | The customer's contact phone number. |
-     | Email Address | The customer's email address. |
-     | Address | The physical address of the customer. |
-     | Assigned User | The user responsible for managing this customer. |
-     | Asset | Any asset registered in the system associated with the customer. |
-
-     *Note: Fields marked with an asterisk ( * ) are required.<br>
+  3. Enter the name of the user.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_3.png" alt="Add New Customer Mobile Step 3">
+       <img src="img/To_Do_List3_Step_3.png" alt="To Do List3 Step 3">
      </p>
 
-  4. Click on the "tick" icon to save the customer.<br>
+  4. Click "Select Department".<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_4.png" alt="Add New Customer Mobile Step 4">
+       <img src="img/To_Do_List3_Step_4.png" alt="To Do List3 Step 4">
      </p>
 
-  5. The new customer is added successfully when this prompt appears.<br>
+  5. Click on the "pencil" icon beside the user who needs to follow the to-do-list.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_5.png" alt="Add New Customer Mobile Step 5">
+       <img src="img/To_Do_List3_Step_5.png" alt="To Do List3 Step 5">
+     </p>
+
+  6. Press Ctrl + F and enter "To-do List Settings".<br>
+     
+     <p align="center">
+       <img src="img/To_Do_List3_Step_6.png" alt="To Do List3 Step 6">
+     </p>
+
+  7. Toggle the "To-Do List Settings".<br>
+
+     <p align="center">
+       <img src="img/To_Do_List3_Step_7.png" alt="To Do List3 Step 7">
+     </p>
+
+  8. Click "Save Control Settings".<br>
+     
+     <p align="center">
+       <img src="img/To_Do_List3_Step_8.png" alt="To Do List3 Step 8">
+     </p>
+
+  9. The to-do list is successfully on when this prompt appears.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List3_Step_9.png" alt="To Do List3 Step 9">
      </p>
      <br><br><br>
 
