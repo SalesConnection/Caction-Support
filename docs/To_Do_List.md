@@ -11,8 +11,8 @@
 
 **Job To-do List Settings**<br>
     
-  1. At the desktop site's navigation bar, go to Business Management > Customer List.<br>
-     **Add New Customer Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
+  1. At the desktop site's navigation bar, go to Company Settings > Job Settings > Job To Do List.<br>
+     **Open Job To Do List Settings Here:** [https://salesconnection.my/settings/commentRequirementSettings](https://salesconnection.my/settings/commentRequirementSettings)<br>
      
      <p align="center">
        <img src="img/Add_New_Customer_Step_1.png" alt="Add New Customer Step 1">
