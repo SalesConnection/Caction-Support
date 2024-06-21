@@ -29,15 +29,12 @@
         - Phone<br>
         - Email<br>
         - Address<br>
-        - Assign<br>
-        - View<br>
-        - Category<br>
-        - Status<br>
-        - Depart assign<br>
-        - Depart view<br>
-        - State<br>
-        - Inquiry Date<br>
-        - Credit Balance<br>
+        - Assign - Which user is assigned to this [Customer]<br>
+        - View - Which user can view this [Customer]<br>
+        - Category - If blank, default category (First in the list will be selected)<br>
+        - Status - If blank, default status (First in the list will be selected)<br>
+        - Depart assign - Which Department is assigned to this [Customer]<br>
+        - Depart view - Which Department can view this [Customer]<br>
     
      <p align="center">
        <img src="img/Customer_Bulk_Update_Step_4.png" alt="Customer Bulk Update Step 4">
