@@ -131,6 +131,12 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 
 
+## Company Settings
+
+### Job Settings 
+- [To-do List](To_Do_List.md)
+
+
 ## Template Settings
 
 ### Job
