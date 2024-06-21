@@ -181,6 +181,7 @@
      <br><br><br>
 
 **Related Articles**<br>
+- [Data Level Structure](Data_Level_Structure.md)
 - [How to Add New Job?](Add_New_Job.md)
-- [How to Add New Asset?](How_to_Add_New_Asset.md)
-- [How to Import New Customer(s)?](Import_Customer.md)
+- [How to Add New Project?](Add_New_Project.md)
+
