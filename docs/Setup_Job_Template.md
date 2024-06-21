@@ -59,6 +59,17 @@
    <p align="center">
       <img src="img/Job_Template_Step_6.png" alt="Job Template Step 6">
    </p>
+
+7. Upon saving with clicking the "Save" icon on the right side of the page, there are two options.<br>
+
+   | Field | Description |
+   |-------|-------------|
+   | Overwrite All Templates | Applky for all customer category. |
+   | Overwrite Current Template | Apply for existing customer category. |
+
+   <p align="center">
+      <img src="img/Job_Template_Step_7.png" alt="Job Template Step 7">
+   </p>
 <br><br><br>
 
 **Related Articles**
