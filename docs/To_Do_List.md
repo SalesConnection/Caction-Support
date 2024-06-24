@@ -123,7 +123,7 @@
        <img src="img/To_Do_List2_Step_6.png" alt="To Do List2 Step 6">
      </p>
 
-  7. For example, when the to-do list is ticked for "Site Visit" Job with the status "In Progress", the to-do list box will be shown in the job as below.<br>
+  7. For example, when the to-do list is ticked for "Site Visit" Job with the status "In Progress", the to-do list box will be displayed in the job as below.<br>
 
      <p align="center">
        <img src="img/To_Do_List2_Step_7.png" alt="To Do List2 Step 7">
