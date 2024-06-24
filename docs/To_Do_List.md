@@ -1,4 +1,6 @@
-## To-do List
+## To-do List Setup
+
+*Note: <br>
 
 **Navigate to the section by clicking it.**<br>
 
@@ -131,7 +133,7 @@
        <img src="img/To_Do_List3_Step_1.png" alt="To Do List3 Step 1">
      </p>
 
-  2. Click "Finance".<br>
+  2. Click "Currently selected Department".<br>
 
      <p align="center">
        <img src="img/To_Do_List3_Step_2.png" alt="To Do List3 Step 2">
