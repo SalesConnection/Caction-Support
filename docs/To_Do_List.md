@@ -166,17 +166,22 @@
 
   7. Toggle the "To-Do List Settings".<br>
 
+     | Terms | Description |
+     |-------|-------------|
+     | Enabled | To-Do List requirement is applied to that user. |
+     | Disabled | To-Do List requirement is NOT applied to that user. The user can bypass all To-Do List requirements set in the system. |
+     
      <p align="center">
        <img src="img/To_Do_List3_Step_7.png" alt="To Do List3 Step 7">
      </p>
 
-  8. Click "Save Control Settings".<br>
+  9. Click "Save Control Settings".<br>
      
      <p align="center">
        <img src="img/To_Do_List3_Step_8.png" alt="To Do List3 Step 8">
      </p>
 
-  9. The to-do list is successfully on when this prompt appears.<br>
+  10. The to-do list is successfully on when this prompt appears.<br>
 
      <p align="center">
        <img src="img/To_Do_List3_Step_9.png" alt="To Do List3 Step 9">
