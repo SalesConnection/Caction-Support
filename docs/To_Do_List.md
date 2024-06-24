@@ -1,6 +1,6 @@
 ## To-do List Setup
 
-*Note: The tutorial below is based on Job Page but all of these can be applied to other data level such as Digital Form and Project.
+*Note: The tutorial below is based on Job Page but all of these can be applied to other data level such as Project, Digital Form and others.
 <br>
 
 **Navigate to the section by clicking it.**<br>
