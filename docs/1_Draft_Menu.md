@@ -106,7 +106,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Data Level Structure](Data_Level_Structure.md)
 - [User Type Default Access](User_Types_Default_Access.md)
 
-### How to Create
+### General
 - [How to Add New Project?](Add_New_Project.md)
 - [How to Create Digital Form?](Create_Digital_Form.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
@@ -153,6 +153,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
 
 
+## User Management 
+- [UAC Policy Management](UAC_Policy_Management.md)
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
 
