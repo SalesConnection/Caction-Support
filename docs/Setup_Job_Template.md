@@ -7,6 +7,8 @@
       <img src="img/Job_Template_Step_1.png" alt="Job Template Step 1">
    </p>
 
+   *Note: You must have access to Template Settings menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
+
 2. "Template Info" provides basic information about the job template.<br>
 
    | Terms | Description |
@@ -64,7 +66,7 @@
 
    | Field | Description |
    |-------|-------------|
-   | Overwrite All Templates | Applky for all job category. |
+   | Overwrite All Templates | Apply for all job category. |
    | Overwrite Current Template | Apply for existing job category. |
 
    <p align="center">
