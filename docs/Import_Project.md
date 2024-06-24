@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 24 June 2024<br>
+Updated: 24 June 2024<br>
 ## How do I Import New Project(s)?
     
   1. At the desktop site's navigation bar, go to Import > Project Import.<br>
@@ -83,6 +86,4 @@
 - [How do I Import New Customer(s)?](Import_Customer.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
-- [How do I Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
-- [How do I Import New Contact(s)?](Import_Contact.md)
