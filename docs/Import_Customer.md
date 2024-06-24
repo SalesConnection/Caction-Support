@@ -65,7 +65,7 @@ Updated: 19 June 2024<br>
        <img src="img/Import_Customer_Step_7.png" alt="Import Customer Step 7">
      </p>
 
-  8. Your items are successfully added when the “Records Added” prompt appears<br>
+  8. Your items are successfully added when the “Records Added” prompt appears.<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_8.png" alt="Import Customer Step 8">
