@@ -6,6 +6,8 @@
      <img src="img/UAC_Policy_Management_Step_1.png" alt="UAC Policy Management Step 1">
    </p>
 
+   *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
+
 2. Click "+ New Policy" to add a new UAC policy.
 
    <p align="center">
