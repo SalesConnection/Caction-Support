@@ -135,7 +135,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ## Company Settings
 
 ### Job Settings 
-- [To-do List](To_Do_List.md)
+- [To-do List Setup](To_Do_List.md)
 
 
 ## Template Settings
