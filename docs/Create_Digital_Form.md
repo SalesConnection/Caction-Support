@@ -17,7 +17,7 @@
      <img src="img/Create_Digital_Form_Step_1.png" alt="Create Digital Form Step 1">
    </p>
 
-2. Click on the job that needs to create digital form.<br>
+2. Click on the Job that you would like to create the Digital Form in.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form_Step_2.png" alt="Create Digital Form Step 2">
@@ -31,7 +31,7 @@
 
    *Note: Digital Form Templates available are based on the access given by your admin. If you do not find your template, please request permission or help from your admin.<br>
 
-4. Select the type of digital form you want to create. For this example, select "Quotation".<br>
+4. Select the type of digital form that you would like to create. For this example, we will select “Quotation”.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form_Step_4.png" alt="Create Digital Form Step 4">
@@ -60,6 +60,8 @@
    <p align="center">
      <img src="img/Create_Digital_Form_Step_6.png" alt="Create Digital Form Step 6">
    </p>
+
+  *Note: Product/Service section may not be available in your selected digital form.<br>
 
 7. Select the Product/Services that needed in this form.<br>
 
@@ -109,7 +111,7 @@
      <img src="img/Create_Digital_Form2_Step_1.png" alt="Create Digital Form2 Step 1">
    </p>
 
-2. Click on the expand button beside the project that needs to create digital form.<br>
+2.  Click on the expand button beside the project that you would like to create the digital form in.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form2_Step_2.png" alt="Create Digital Form2 Step 2">
@@ -129,7 +131,7 @@
 
    *Note: Digital Form Templates available are based on the access given by your admin. If you do not find your template, please request permission or help from your admin.<br>
 
-5. Select the type of digital form you want to create. For this example, select "Quotation".<br>
+5. Select the type of digital form that you would like to create. For this example, we will select “Quotation”.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form2_Step_5.png" alt="Create Digital Form2 Step 5">
@@ -158,6 +160,8 @@
    <p align="center">
      <img src="img/Create_Digital_Form2_Step_7.png" alt="Create Digital Form2 Step 7">
    </p>
+
+   *Note: Product/Service section may not be available in your selected digital form.<br>
      
 8. Select the Product/Services that needed in this form.<br>
 
@@ -207,7 +211,7 @@
      <img src="img/Create_Digital_Form3_Step_1.png" alt="Create Digital Form3 Step 1">
    </p>
 
-2. Click on the expand button beside Quotation.<br>
+2. Click on the dropdown button to select the digital form template to use.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form3_Step_2.png" alt="Create Digital Form3 Step 2">
@@ -219,7 +223,7 @@
      <img src="img/Create_Digital_Form3_Step_3.png" alt="Create Digital Form3 Step 3">
    </p>
    
-4. Click on the expand button beside the digital form that needs to create a new digital form.<br>
+4. Click on the expand button beside the digital form that you would like to create the new digital form in.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form3_Step_4.png" alt="Create Digital Form3 Step 4">
@@ -233,7 +237,7 @@
 
    *Note: Digital Form Templates available are based on the access given by your admin. If you do not find your template, please request permission or help from your admin.<br>
 
-6. Select the type of digital form you want to create. For this example, select "Sales Order".<br>
+6. Select the type of digital form that you would like to create. For this example, we will select “Sales Order”.<br>
 
    <p align="center">
      <img src="img/Create_Digital_Form3_Step_6.png" alt="Create Digital Form3 Step 6">
@@ -261,6 +265,8 @@
    <p align="center">
      <img src="img/Create_Digital_Form3_Step_8.png" alt="Create Digital Form3 Step 8">
    </p>
+
+   *Note: Product/Service section may not be available in your selected digital form.<br>
 
 9. Select the Product/Services that needed in this form.<br>
 
