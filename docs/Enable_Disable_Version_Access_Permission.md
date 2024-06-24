@@ -24,6 +24,18 @@
    </p>
 
 4. Tick the box to give desktop access to the user.<br>
+
+   <p align="center">
+      <img src="img/Assisted_Check_Out_Done.png" alt="Assisted Check Out Done">
+   </p>
+
+5. Click "Submit Form".<br>
+
+   <p align="center">
+      <img src="img/Assisted_Check_Out_Done.png" alt="Assisted Check Out Done">
+   </p>
+
+6. 
   <br><br><br>
 
 **Related Articles**
