@@ -1,4 +1,4 @@
-## How to Enable Version Access Permission?
+## How to Enable/Disable Version Access Permission?
 
 ### Scenarios below will need assist check out:
 
