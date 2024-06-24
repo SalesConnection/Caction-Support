@@ -122,6 +122,12 @@
      <p align="center">
        <img src="img/To_Do_List2_Step_6.png" alt="To Do List2 Step 6">
      </p>
+
+  7. For example, when the to-do list is ticked for "In Progress", the to-do list box will be shown in the job as below.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List2_Step_7.png" alt="To Do List2 Step 7">
+     </p>
      <br><br>
      
 <a id="section3"></a>
