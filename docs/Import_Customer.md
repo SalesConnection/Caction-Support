@@ -74,6 +74,7 @@ Updated: 19 June 2024<br>
 
 **Related Articles**<br>
 - [How to Add New Customer?](Add_New_Customer.md)
+- [How do I Import New Project(s)?](Import_Project.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
