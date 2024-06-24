@@ -9,17 +9,21 @@
       <img src="img/Business_Map_Overview.png" alt="Business Map - Overview - Desktop">
    </p>
      
-2. Click on the "pencil" icon beside the user that need desktop access.<br>
+   *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
+   
+2. Click on the "pencil" icon beside the user that needs desktop access.<br>
 
    <p align="center">
       <img src="img/Assisted_Check_Out_Button_Desktop.png" alt="Assisted Check Out Button - Desktop">
    </p>
      
-3. Once the action is done, ask the user to refresh the job detail page to confirm the "Assisted Check out" was successful.
+3. Ensure the email of the user is correct.<br>
   
    <p align="center">
       <img src="img/Assisted_Check_Out_Done.png" alt="Assisted Check Out Done">
    </p>
+
+4. Tick the box to give desktop access to the user.<br>
   <br><br><br>
 
 **Related Articles**
