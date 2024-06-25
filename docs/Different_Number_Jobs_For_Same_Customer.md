@@ -1,4 +1,4 @@
-## Why Console Tab Showing Different Number of Jobs for The Same Customer?
+## Why is the Console Tab showing a different number of jobs for the same customer?
 
 ### Here are the potential issues and solutions:
 (If yes to each, move on to the next scenario).<br><br>
@@ -8,20 +8,21 @@
 a. Different filters applied will affect the result. Make sure the same filter is applied or click "Clear All" to clear the filters.<br>
 
    <p align="center">
-      <img src="img2/Different_Number_Jobs_For_Same_Customer_Step_1a.png" alt="Different Number Jobs for Same Custoemr Step 1a">
+      <img src="img2/Different_Number_Jobs_For_Same_Customer_Step_1a.png" alt="Different Number Jobs for Same Customer Step 1a">
    </p>
    <br>
     
 **2. User Type**<br>
   
-a. Different user types will affect job visibility. <br>
+a. Different user types will affect job visibility. Contact your admin for user access.<br>
 
    | User Type | Description |
    |-----------|-------------|
-   | Admin |  |
-   | Sub admin |  |
-   | Staff |  |
-   | Associate User |  |
+   | Main Admin | The account holder. |
+   | Admin | Can access everything in the system. |
+   | Sub-Admin | Can see everything within the department. |
+   | Staff | Can access within the department with some limitations. |
+   | Associate User | Limited access. |
 
    **Click here to know more about user type:** [User Type Default Access](User_Types_Default_Access.md)<br>
    <br>
