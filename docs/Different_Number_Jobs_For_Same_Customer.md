@@ -5,7 +5,9 @@
 
 1. Filter<br>
 
-   a. Different filters applied will affect the result.
+   a. Different filters applied will affect the result. Make sure the same filter is applied or clear the filter.<br>
+
+      
   
 2. User Type<br>
   
