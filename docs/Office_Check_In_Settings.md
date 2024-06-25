@@ -59,46 +59,46 @@
   
 10. The office check-in has been saved successfully when this prompt appears.
 
-   <p align="center">
-      <img src="img/Office_Check_In_Settings_Step_10.png" alt="Office Check In Settings Step 10">
-   </p>
+    <p align="center">
+       <img src="img/Office_Check_In_Settings_Step_10.png" alt="Office Check In Settings Step 10">
+    </p>
   
 11. Click on the "Clear" icon to clear the assigned user.
 
-   <p align="center">
-      <img src="img/Office_Check_In_Settings_Step_11.png" alt="Office Check In Settings Step 11">
-   </p>
+    <p align="center">
+       <img src="img/Office_Check_In_Settings_Step_11.png" alt="Office Check In Settings Step 11">
+    </p>
   
 12. Click "Save Changes".
 
-   <p align="center">
-      <img src="img/Office_Check_In_Settings_Step_12.png" alt="Office Check In Settings Step 12">
-   </p>
+    <p align="center">
+       <img src="img/Office_Check_In_Settings_Step_12.png" alt="Office Check In Settings Step 12">
+    </p>
   
 13. All the users assigned have been cleared when this prompt appears.
 
-   <p align="center">
-      <img src="img/Office_Check_In_Settings_Step_13.png" alt="Office Check In Settings Step 13">
-   </p>
+    <p align="center">
+       <img src="img/Office_Check_In_Settings_Step_13.png" alt="Office Check In Settings Step 13">
+    </p>
   
 14. Click on the "Delete" icon.
 
-   <p align="center">
-      <img src="img/Office_Check_In_Settings_Step_14.png" alt="Office Check In Settings Step 14">
-   </p>
+    <p align="center">
+       <img src="img/Office_Check_In_Settings_Step_14.png" alt="Office Check In Settings Step 14">
+    </p>
   
 15. Click "Save Changes".
 
-   <p align="center">
-      <img src="img/Office_Check_In_Settings_Step_15.png" alt="Office Check In Settings Step 15">
-   </p>
+    <p align="center">
+       <img src="img/Office_Check_In_Settings_Step_15.png" alt="Office Check In Settings Step 15">
+    </p>
   
 16. The office check-in has been deleted when this prompt appears.
 
-   <p align="center">
-      <img src="img/Office_Check_In_Settings_Step_16.png" alt="Office Check In Settings Step 16">
-   </p>  
-  <br><br><br>
+    <p align="center">
+       <img src="img/Office_Check_In_Settings_Step_16.png" alt="Office Check In Settings Step 16">
+    </p>  
+   <br><br><br>
 
 **Related Articles**
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
