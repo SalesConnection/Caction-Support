@@ -17,7 +17,7 @@
      b. When contacting support, please provide the following information:<br>
      1. Your account details.<br>
      2. The time when the issue occurred.<br>
-     3. A screenshot of the error page.<br>
+     3. A screenshot of the error page.<br><br>
      
   3. Assign Access<br>
 
