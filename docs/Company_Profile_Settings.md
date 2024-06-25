@@ -71,7 +71,5 @@
    <br><br><br>
 
 **Related Articles**
-- [I Forgot to Check Out, How?](Assist_Check_Out.md)
-- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
-- [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
-- [How to Adjust Geofencing Radius?](Adjust_Geofencing_Radius.md)
+- [Office Check-In Settings](Office_Check_In_Settings.md)
+
