@@ -39,4 +39,4 @@ a. Different user types will affect job visibility. <br>
 <br><br><br>
 
 **Related Articles**<br>
-- [My updates are not received by my admin and other team menbers. Why?](Updates_Not_Received_by_Team_Members.md)
+- [User Type Default Access](User_Types_Default_Access.md)
