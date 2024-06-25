@@ -9,7 +9,7 @@
 
 <a id="section1"></a>
 
-## Add Office Check-In
+### Add Office Check-In
 
 1. At the desktop site navigation bar, go to HR Suite > Office Check-in Settings.<br>
    **Open Office Check-In Settings Here:** [https://salesconnection.my/officecheckin/setting](https://salesconnection.my/officecheckin/setting)<br>
@@ -79,7 +79,7 @@
 
 <a id="section2"></a>
 
-## Clear Assigned User
+### Clear Assigned User
 
 1. Click on the "Clear" icon to clear the assigned user.
 
@@ -102,7 +102,7 @@
 
 <a id="section3"></a>
 
-## Delete Office Check-In
+### Delete Office Check-In
 
 1. Click on the "Delete" icon beside the office check-in you want to delete.
 
