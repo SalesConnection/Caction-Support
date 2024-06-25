@@ -132,6 +132,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 
 
+## HR Suite
+- [Office Check-In Settings](Office_Check_In_Settings.md)
+
+
 ## Company Settings
 
 ### Job Settings 
