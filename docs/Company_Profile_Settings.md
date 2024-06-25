@@ -63,7 +63,7 @@
        <img src="img/Company_Profile_Settings_Step_10.png" alt="Company Profile Settings Step 10">
     </p>
   
-11. Click "OK" and an email will be sent to the varified email. Click on the link in the email to verify it.
+11. Click "OK" and an email will be sent to the verified email. Click on the link in the email to verify it.
 
     <p align="center">
        <img src="img/Company_Profile_Settings_Step_11.png" alt="Company Profile Settings Step 11">
