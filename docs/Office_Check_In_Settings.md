@@ -7,7 +7,7 @@
       <img src="img/Enable_Version_Access_Permission_Step_1.png" alt="Enable Version Access Permission Step 1">
    </p>
      
-   *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
+   *Note: You must have access to HR Suite menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
    
 2. Click on the "pencil" icon beside the user that needs desktop access.<br>
 
