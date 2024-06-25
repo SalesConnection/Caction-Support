@@ -27,15 +27,15 @@ a. Different user types will affect job visibility. <br>
      
 **3. Assign Access**<br>
 
-    a. If the user type is the same, assign access might be the cause of job visibility. Only the assigned jobs will be shown.<br>
+   a. If the user type is the same, assign access might be the cause of job visibility. Only the assigned jobs will be shown.<br>
 
-    b. Make sure the user has been assigned to the job.<br><br>
+   b. Make sure the user has been assigned to the job.<br><br>
 
 **4. View Access**<br>
 
-    a. If the user type is the same and the job is not assigned to the user, view access might be the cause of the job visibility.<br>
+   a. If the user type is the same and the job is not assigned to the user, view access might be the cause of the job visibility.<br>
 
-    b. Make sure the user is given the view access to the job.
+   b. Make sure the user is given the view access to the job.
 <br><br><br>
 
 **Related Articles**<br>
