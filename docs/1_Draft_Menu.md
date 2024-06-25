@@ -163,7 +163,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ## Wizard
-- [Wizard](Wizard_Page.md)
+- [Wizard Page](Wizard_Page.md)
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
 
