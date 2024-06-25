@@ -1,71 +1,35 @@
 ## Wizard Page
 
-1. At the desktop site navigation bar, go to Wizard.<br>
+1. At the desktop site navigation bar, go to Wizard.
    **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
 
    <p align="center">
-      <img src="img/Company_Profile_Settings_Step_1.png" alt="Company Profile Settings Step 1">
+      <img src="img/Wizard_Page_Step_1.png" alt="Wizard Page Step 1">
    </p>
         
-2. Fill in the company details.
+2. Click to select the menu.
 
    <p align="center">
-      <img src="img/Company_Profile_Settings_Step_2.png" alt="Company Profile Settings Step 2">
+      <img src="img/Wizard_Page_Step_2.png" alt="Wizard Page Step 2">
    </p>
   
-3. Click "Choose Location"
+3. After selecting the menu, click on the sub-menu.
 
    <p align="center">
-      <img src="img/Company_Profile_Settings_Step_3.png" alt="Company Profile Settings Step 3">
+      <img src="img/Wizard_Page_Step_3.png" alt="Wizard Page Step 3">
    </p>
   
-4. Enter the company name.
+4. Click on the "Save" icon after editing to save your changes.
 
    <p align="center">
-      <img src="img/Company_Profile_Settings_Step_4.png" alt="Company Profile Settings Step 4">
+      <img src="img/Wizard_Page_Step_4.png" alt="Wizard Page Step 4">
    </p>
   
-5. Make sure the company's location is correct.
+5. Click "Previous" if you wish to access the previous sub-menu page while clicking "Next" if you wish to access the next sub-menu page.
 
    <p align="center">
-      <img src="img/Company_Profile_Settings_Step_5.png" alt="Company Profile Settings Step 5">
+      <img src="img/Wizard_Page_Step_5.png" alt="Wizard Page Step 5">
    </p>
-  
-6. Click "Select company icon".
-
-   <p align="center">
-      <img src="img/Company_Profile_Settings_Step_6.png" alt="Company Profile Settings Step 6">
-   </p>
-  
-7. Click "SAVE" to save all the company details.
-
-   <p align="center">
-      <img src="img/Company_Profile_Settings_Step_7.png" alt="Company Profile Settings Step 7">
-   </p>
-  
-8. The company details have been saved successfully when this prompt appears.
-
-   <p align="center">
-      <img src="img/Company_Profile_Settings_Step_8.png" alt="Company Profile Settings Step 8">
-   </p>
-  
-9. Click "Email List".
-
-   <p align="center">
-      <img src="img/Company_Profile_Settings_Step_9.png" alt="Company Profile Settings Step 9">
-   </p>
-  
-10. Click on the "Verify Email" icon to verify the email for company's primary email.
-
-    <p align="center">
-       <img src="img/Company_Profile_Settings_Step_10.png" alt="Company Profile Settings Step 10">
-    </p>
-  
-11. Click "OK" and an email will be sent to the verified email. Click on the link in the email to verify it.
-
-    <p align="center">
-       <img src="img/Company_Profile_Settings_Step_11.png" alt="Company Profile Settings Step 11">
-    </p>
    <br><br><br>
 
 **Related Articles**
