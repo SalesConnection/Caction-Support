@@ -1,6 +1,6 @@
 ## Office Check-In Settings
 
-1. At the desktop site navigation bar, go to HR Suite > Office Check-in Settings.
+1. At the desktop site navigation bar, go to HR Suite > Office Check-in Settings.<br>
    **Open Office Check-In Settings Here:** [https://salesconnection.my/officecheckin/setting](https://salesconnection.my/officecheckin/setting)<br>
 
    <p align="center">
