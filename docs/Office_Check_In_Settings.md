@@ -1,7 +1,7 @@
 ## Office Check-In Settings
 
-1. Go to desktop site navigation bar > User Management > User List.<br>
-   **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
+1. At the desktop site navigation bar, go to HR Suite > Office Check-in Settings.<br>
+   **Open Office Check-In Settings Here:** [https://salesconnection.my/officecheckin/setting](https://salesconnection.my/officecheckin/setting)<br>
 
    <p align="center">
       <img src="img/Enable_Version_Access_Permission_Step_1.png" alt="Enable Version Access Permission Step 1">
