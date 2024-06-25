@@ -5,10 +5,10 @@
 
 1. Filter<br>
 
-   a. Different filters applied will affect the result. Make sure the same filter is applied or clear the filter.<br>
+   a. Different filters applied will affect the result. Make sure the same filter is applied or click "Clear All" to clear the filters.<br>
 
       <p align="center">
-        <img src="img2/Company_Profile_Settings_Step_1.png" alt="Company Profile Settings Step 1">
+        <img src="img2/Different_Number_Jobs_For_Same_Customer_Step_1a.png" alt="Different Number Jobs for Same Custoemr Step 1a">
       </p>
     
 2. User Type<br>
