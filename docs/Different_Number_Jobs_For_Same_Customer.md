@@ -23,6 +23,7 @@ a. Different user types will affect job visibility. <br>
    | Staff |  |
    | Associate User |  |
 
+   **Click here to know more about user type:** [User Type Default Access](User_Types_Default_Access.md)<br>
    <br>
      
 **3. Assign Access**<br>
