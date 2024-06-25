@@ -90,21 +90,26 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [User Type Default Access](User_Types_Default_Access.md)
 
 
-### How to Create
+## General 
 - [How to Add New Project?](Add_New_Project.md)
 
   
-### Customer
-- [How to Add New Customer?](Add_New_Customer.md)
-
-
-### Job
+## Business Management 
+### Schedule
 - [How to Add New Job?](Add_New_Job.md)
 
 
-### Asset
+### Customer List
+- [How to Add New Customer?](Add_New_Customer.md)
+
+
+### Asset List
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
 
+
+## Template Settings
+### Job
+- [How to Setup Job Template Page?](Setup_Job_Template.md)
 
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
