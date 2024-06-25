@@ -7,8 +7,10 @@
 
    a. Different filters applied will affect the result. Make sure the same filter is applied or clear the filter.<br>
 
-      
-  
+      <p align="center">
+        <img src="img2/Company_Profile_Settings_Step_1.png" alt="Company Profile Settings Step 1">
+      </p>
+    
 2. User Type<br>
   
    a. 
