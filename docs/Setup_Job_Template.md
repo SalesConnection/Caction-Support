@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 25 June 2024<br>
+Updated: 25 June 2024<br>
 ## How to Setup Job Template Page?
     
 1. At the desktop site's navigation bar, go to Template Settings > Job Templates.<br>
@@ -76,5 +79,4 @@
 
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
-- [How to Setup Public Form Template?](Setup_Public_Form_Template_Page.md))
-- [Digital Form Template Settings](Digital_Form_Template_Settings.md)
+
