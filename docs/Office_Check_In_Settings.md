@@ -82,19 +82,19 @@
 1. Click on the "Clear" icon to clear the assigned user.
 
    <p align="center">
-      <img src="img/Office_Check_In_Settings2_Step_1.png" alt="Office Check In Settings2 Step 1">
+      <img src="img2/Office_Check_In_Settings2_Step_1.png" alt="Office Check In Settings2 Step 1">
    </p>
   
 2. Click "Save Changes".
 
    <p align="center">
-      <img src="img/Office_Check_In_Settings2_Step_2.png" alt="Office Check In Settings2 Step 2">
+      <img src="img2/Office_Check_In_Settings2_Step_2.png" alt="Office Check In Settings2 Step 2">
    </p>
   
 3. All the users assigned have been cleared when this prompt appears.
 
    <p align="center">
-      <img src="img/Office_Check_In_Settings2_Step_3.png" alt="Office Check In Settings2 Step 3">
+      <img src="img2/Office_Check_In_Settings2_Step_3.png" alt="Office Check In Settings2 Step 3">
    </p>
    <br><br>
 
@@ -105,19 +105,19 @@
 1. Click on the "Delete" icon beside the office check-in you want to delete.
 
    <p align="center">
-      <img src="img/Office_Check_In_Settings3_Step_1.png" alt="Office Check In Settings3 Step 1">
+      <img src="img2/Office_Check_In_Settings3_Step_1.png" alt="Office Check In Settings3 Step 1">
    </p>
   
 2. Click "Save Changes".
 
    <p align="center">
-      <img src="img/Office_Check_In_Settings3_Step_2.png" alt="Office Check In Settings3 Step 2">
+      <img src="img2/Office_Check_In_Settings3_Step_2.png" alt="Office Check In Settings3 Step 2">
    </p>
   
 3. The office check-in has been deleted when this prompt appears.
 
    <p align="center">
-      <img src="img/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+      <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
    </p>  
    <br><br><br>
 
