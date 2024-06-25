@@ -90,7 +90,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Notification
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
-- [I am Not Getting Any Notification From System.Why?](I_am_Not_Getting_Any_Notification_From_System_Why.md)
+- [I am Not Getting Any Notification From System. Why?](I_am_Not_Getting_Any_Notification_From_System_Why.md)
 
 
 ### Others
@@ -100,6 +100,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
 - [How does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
+- [Why is the Console Tab showing a different number of jobs for the same customer?](Different_Number_Jobs_For_Sames_Customer.md)
   
   
 ## Features Knowledge 
