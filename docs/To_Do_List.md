@@ -181,18 +181,18 @@
        <img src="img/To_Do_List3_Step_7.png" alt="To Do List3 Step 7">
      </p>
 
-  9. Click "Save Control Settings".<br>
+  8. Click "Save Control Settings".<br>
      
      <p align="center">
        <img src="img/To_Do_List3_Step_8.png" alt="To Do List3 Step 8">
      </p>
 
-  10. The to-do list is successfully on when this prompt appears.<br>
+  9. The to-do list is successfully on when this prompt appears.<br>
 
-      <p align="center">
-        <img src="img/To_Do_List3_Step_9.png" alt="To Do List3 Step 9">
-      </p>
-      <br><br><br>
+     <p align="center">
+       <img src="img/To_Do_List3_Step_9.png" alt="To Do List3 Step 9">
+     </p>
+     <br><br><br>
 
 **Related Articles**<br>
 - [Data Level Structure](Data_Level_Structure.md)
