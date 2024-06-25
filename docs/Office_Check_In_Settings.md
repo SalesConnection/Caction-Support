@@ -73,6 +73,8 @@
     <p align="center">
        <img src="img/Office_Check_In_Settings_Step_10.png" alt="Office Check In Settings Step 10">
     </p>
+
+    *Note: If no location is set, the user will be able to perform office check-in/out anywhere.<br>
     <br><br>
 
 <a id="section2"></a>
