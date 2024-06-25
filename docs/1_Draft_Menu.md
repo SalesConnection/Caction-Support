@@ -159,7 +159,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ## User Management 
 - [UAC Policy Management](UAC_Policy_Management.md)
-- [Company_Profile_Settings](Company_Profile_Settings.md)
+- [Company Profile Settings](Company_Profile_Settings.md)
 
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
