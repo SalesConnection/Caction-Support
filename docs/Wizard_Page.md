@@ -1,14 +1,12 @@
 ## Wizard Page
 
-1. At the desktop site navigation bar, go to User Management > Company Profile Settings.<br>
-   **Open Company Profile Settings Here:** [https://salesconnection.my/settings/companysettings](https://salesconnection.my/settings/companysettings)<br>
+1. At the desktop site navigation bar, go to Wizard.<br>
+   **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_1.png" alt="Company Profile Settings Step 1">
    </p>
-     
-   *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
-   
+        
 2. Fill in the company details.
 
    <p align="center">
