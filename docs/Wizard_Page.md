@@ -33,5 +33,5 @@
    <br><br><br>
 
 **Related Articles**
-- [Office Check-In Settings](Office_Check_In_Settings.md)
-- [UAC Policy Management](UAC_Policy_Management.md)
+- [Data Level Structure](Data_Level_Structure.md)
+- [User Type Default Access](User_Types_Default_Access.md)
