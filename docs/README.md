@@ -31,6 +31,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How do I Import New User(s)?](Import_User.md)
 
   
+### Bulk Update
+- [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
+
+  
 ### Password
 - [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
 - [How to Change Account Password?](Change_Account_Password.md)
