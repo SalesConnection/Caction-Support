@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 26 June 2024<br>
+Updated: 26 June 2024<br>
 ## How do I Import New UOM(s)?
 
 **UOM** stands for Unit Of Measurement. It allows you to attach information such as quantity, unit price, discount, tax to a product/services.
@@ -79,5 +82,5 @@
 - [How do I Import New Customer(s)?](Import_Customer.md)
 - [How to Import New Project(s)?](Import_Project.md)
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
-- [How do I Import New User(s)?](Import_User.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
+- [How do I Import New User(s)?](Import_User.md)
