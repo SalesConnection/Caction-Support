@@ -111,15 +111,15 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 10. Enter the name of the "Default Columns".
 
-   <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_10.png" alt="Report Page Default Columns Step 10">
-   </p>
+    <p align="center">
+      <img src="img/Report_Page_Default_Columns_Step_10.png" alt="Report Page Default Columns Step 10">
+    </p>
 
 11. Click on the "tick" icon.
 
-   <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_11.png" alt="Report Page Default Columns Step 11">
-   </p>
+    <p align="center">
+      <img src="img/Report_Page_Default_Columns_Step_11.png" alt="Report Page Default Columns Step 11">
+    </p>
 
 12. The "Default Columns" has been renamed successfully.
 
