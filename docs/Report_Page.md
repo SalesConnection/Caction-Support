@@ -73,64 +73,76 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img/Report_Page_Default_Columns_Step_3.png" alt="Report Page Default Columns Step 3">
    </p>
 
-4. After selecting the columns you want to display, click "Save".
+4. After selecting the columns you want to display, click to scroll down.
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_4.png" alt="Report Page Default Columns Step 4">
    </p>
 
-5. The new Report with different columns will be shown as below.
+5. Tick the box if you want to display assets or products/services separately.
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_5.png" alt="Report Page Default Columns Step 5">
    </p>
 
-6. If you wish to name the default columns, click "Column Group 2".
+6. Click "Save".
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_6.png" alt="Report Page Default Columns Step 6">
    </p>
 
-7. Click the "pencil" icon.
+7. The new Report with different columns will be shown as below.
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_7.png" alt="Report Page Default Columns Step 7">
    </p>
 
-8. Enter the name of the "Default Columns".
+8. If you wish to name the default columns, click "Column Group 2".
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_8.png" alt="Report Page Default Columns Step 8">
    </p>
 
-9. Click on the "tick" icon.
+9. Click the "pencil" icon.
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_9.png" alt="Report Page Default Columns Step 9">
    </p>
 
-10. The "Default Columns" has been renamed successfully.
+10. Enter the name of the "Default Columns".
 
-    <p align="center">
+   <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_10.png" alt="Report Page Default Columns Step 10">
-    </p>
-   
-11. On the next time you enter this page, click on the "Default Columns".
+   </p>
 
-    <p align="center">
+11. Click on the "tick" icon.
+
+   <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_11.png" alt="Report Page Default Columns Step 11">
-    </p>
+   </p>
 
-12. Click on the "Default Columns" that you want.
+12. The "Default Columns" has been renamed successfully.
 
     <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_12.png" alt="Report Page Default Columns Step 12">
     </p>
-
-13. The Report with chosen "Default Columns" will be shown as below.
+   
+13. On the next time you enter this page, click on the "Default Columns".
 
     <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_13.png" alt="Report Page Default Columns Step 13">
+    </p>
+
+14. Click on the "Default Columns" that you want.
+
+    <p align="center">
+     <img src="img/Report_Page_Default_Columns_Step_14.png" alt="Report Page Default Columns Step 14">
+    </p>
+
+15. The Report with chosen "Default Columns" will be shown as below.
+
+    <p align="center">
+     <img src="img/Report_Page_Default_Columns_Step_15.png" alt="Report Page Default Columns Step 15">
     </p>
    <br><br>
 
