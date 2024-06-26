@@ -7,7 +7,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
 **Open Report Page Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)<br>
 
 | No | Terms | Description |
-|----|-------|---------|
+|----|-------|-------------|
 | 1 | Digital Form Category | Select from various digital form categories. |
 | 2 | Filter | Use filter groups to refine your search based on specific criteria. |
 | 3 | Favourite Filter | Save your current filter and column settings as a favourite for easy access and automatic application next time. |
