@@ -64,5 +64,6 @@ Updated: 19 June 2024<br>
 - [How to Import New Customer(s)?](Import_Customer.md)
 - [How do I Import New Project(s)?](Import_Project.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
+- [How to Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New User(s)?](Import_User.md)
 
