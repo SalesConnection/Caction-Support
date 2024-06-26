@@ -1,10 +1,18 @@
 ## Asset Dashboard
 
+**Asset Dashboard** allows users to <br>
+
 **Navigate to the section by clicking it.**<br>
 
-- [Add Office Check-In](#section1)<br>
-- [Clear Assigned User](#section2)<br>
-- [Delete Office Check-In](#section3)
+- [Dashboard Selection](#section1)<br>
+- [Add New Asset](#section2)<br>
+- [Refresh](#section3)<br>
+- [Asset Card Customization](#section4)<br>
+- [Sort By](#section5)<br>
+- [Filter](#section6)<br>
+- [Favourite Filter](#section7)<br>
+- [Default Filter](#section8)<br>
+- [Clear Filter](#section9)
 <br><br><br>
 
 1. At the desktop site navigation bar, go to Business Management > Dashboard > Asset.<br>
@@ -58,84 +66,241 @@
 
    **Customise Asset Card**  
 
-6. Enter the user name that you want to assign to the office check-in.
+6. Click on the "Settings" icon to customise the asset card.
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_6.png" alt="Office Check In Settings Step 6">
    </p>
   
-7. Tick the box of the user accordingly.
+7. Click "+ Add Field".
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_7.png" alt="Office Check In Settings Step 7">
    </p>
   
-8. Click on the "Save" button.
+8. Select the field you want to display in the dashboard.
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_8.png" alt="Office Check In Settings Step 8">
    </p>
   
-9. Click "Save Changes".
+9. Click on the "Done" button.
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_9.png" alt="Office Check In Settings Step 9">
    </p>
   
-10. The office check-in has been saved successfully when this prompt appears.
+10. Click on the asset category that you want to show custom fields in the dashboard.
 
     <p align="center">
        <img src="img/Office_Check_In_Settings_Step_10.png" alt="Office Check In Settings Step 10">
     </p>
 
-    *Note: If no location is set, the user will be able to perform office check-in/out anywhere.<br>
-    <br><br>
+11. Click "+ Add Field".
 
-<a id="section2"></a>
-
-### Clear Assigned User
-
-1. Click on the "Clear" icon to clear the assigned user.
-
-   <p align="center">
-      <img src="img2/Office_Check_In_Settings2_Step_1.png" alt="Office Check In Settings2 Step 1">
-   </p>
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings2_Step_1.png" alt="Office Check In Settings2 Step 1">
+    </p>
   
-2. Click "Save Changes".
+12. Select the custom field you want to display in the dashboard.
 
-   <p align="center">
-      <img src="img2/Office_Check_In_Settings2_Step_2.png" alt="Office Check In Settings2 Step 2">
-   </p>
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings2_Step_2.png" alt="Office Check In Settings2 Step 2">
+    </p>
   
-3. All the users assigned have been cleared when this prompt appears.
+13. Click on the "Done" button.
 
-   <p align="center">
-      <img src="img2/Office_Check_In_Settings2_Step_3.png" alt="Office Check In Settings2 Step 3">
-   </p>
-   <br><br>
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings2_Step_3.png" alt="Office Check In Settings2 Step 3">
+    </p>
 
-<a id="section3"></a>
+14. Click on the "three dots" icon.
 
-### Delete Office Check-In
-
-1. Click on the "Delete" icon beside the office check-in you want to delete.
-
-   <p align="center">
-      <img src="img2/Office_Check_In_Settings3_Step_1.png" alt="Office Check In Settings3 Step 1">
-   </p>
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_1.png" alt="Office Check In Settings3 Step 1">
+    </p>
   
-2. Click "Save Changes".
+15. Select the width size for the dashboard column and the field name's display type.
 
-   <p align="center">
-      <img src="img2/Office_Check_In_Settings3_Step_2.png" alt="Office Check In Settings3 Step 2">
-   </p>
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_2.png" alt="Office Check In Settings3 Step 2">
+    </p>
   
-3. The office check-in has been deleted when this prompt appears.
+16. Click on the "Save" button.
 
-   <p align="center">
-      <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
-   </p>  
-   <br><br><br>
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>  
+
+17. The asset dashboard with the asset card customization will be shown as below.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>  
+    <br>
+
+    <a id="section5"></a>
+
+    **Sort By**  
+
+18. Click on the "Last Update D..." to change the sort by.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+19. Click on the expand button beside "Last Update Date".
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+20. Choose the condition to sort the asset.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+21. Click on the expand button beside "Direction".
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+22. Choose ascending or descending to sort.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+23. The result will be shown as below.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+    <br>
+
+    <a id="section6"></a>
+
+    **Filter**  
+
+24. Click "+ Add Filter" to filter the asset.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+25. Click on the filter variable you want. For example, click "Asset Serial No"
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+26. Click on the operator you want to apply. For example, click "Contains".
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+27. Enter the filter value you want to apply.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+28. Press "Enter" to apply the filter.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+29. The filter applied will be shown in the filter bubble and the result will be shown as below.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+    <br>
+
+    <a id="section7"></a>
+
+    **Favourite Filter**  
+
+30. Click "Favourite Filter" if you want to save the filter.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+31. Click "+ Add" to add a favourite filter.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+32. Enter the name of the favourite filter.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+33. Click "Save" to save the favourite filter.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+34. You can now apply the filter everytime when you enter this page.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+    <br>
+
+    <a id="section8"></a>
+
+    **Default Filter**  
+
+35. Click "Favourite Filter" if you want to set default filter.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+36. Click "Default Filter".
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+37. Select the filter you want to set as default filter.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+38. The default filter has been saved successfully and the filter will be applied automatically when you enter this page.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+    <br>
+
+    <a id="section9"></a>
+
+    **Clear Filter**  
+
+39. Click "Clear All" if you want to clear all the filter applied.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+
+40. The filter applied has been cleared successfully.
+    
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+    </p>
+    <br><br><br>
 
 **Related Articles**
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
