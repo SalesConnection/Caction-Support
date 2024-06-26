@@ -3,49 +3,49 @@
 1. Navigate to the Digital Form to be signed. 
 
    <p align="center">
-      <img src="img/Request_Signature_Company_Stamp_Step_5.png" alt="Request Signature Company Stamp Step 5">
+      <img src="img/Request_Signature_Company_Stamp_Step_1.png" alt="Request Signature Company Stamp Step 1">
    </p>
 
 2. Scroll down until you see "Customer Feedback".
 
    <p align="center">
-      <img src="img/Request_Signature_Company_Stamp_Step_6.png" alt="Request Signature Company Stamp Step 6">
+      <img src="img/Request_Signature_Company_Stamp_Step_2.png" alt="Request Signature Company Stamp Step 2">
    </p>
 
 3. Rate for the technician.
 
    <p align="center">
-      <img src="img/Request_Signature_Company_Stamp_Step_8.png" alt="Request Signature Company Stamp Step 8">
+      <img src="img/Request_Signature_Company_Stamp_Step_3.png" alt="Request Signature Company Stamp Step 3">
    </p>
 
 4. Sign on the space. Click the “CLEAR” button to clear the signature box if any mistake during signature.
 
     <p align="center">
-      <img src="img/Request_Signature_Company_Stamp_Step_12.png" alt="Request Signature Company Stamp Step 12">
+      <img src="img/Request_Signature_Company_Stamp_Step_4.png" alt="Request Signature Company Stamp Step 4">
     </p>
 
 5. Click on the camera icon to take photo for the company stamp.
 
     <p align="center">
-      <img src="img/Request_Signature_Company_Stamp_Step_13.png" alt="Request Signature Company Stamp Step 13">
+      <img src="img/Request_Signature_Company_Stamp_Step_5.png" alt="Request Signature Company Stamp Step 5">
     </p>
 
 6. Enter the name. 
 
     <p align="center">
-      <img src="img/Request_Signature_Company_Stamp_Step_14.png" alt="Request Signature Company Stamp Step 14">
+      <img src="img/Request_Signature_Company_Stamp_Step_6.png" alt="Request Signature Company Stamp Step 6">
     </p>
 
 7. Click "SAVE".
 
     <p align="center">
-      <img src="img/Request_Signature_Company_Stamp_Step_16.png" alt="Request Signature Company Stamp Step 16">
+      <img src="img/Request_Signature_Company_Stamp_Step_7.png" alt="Request Signature Company Stamp Step 7">
     </p>
 
 8. The feedback has been submitted when this prompt shows.
 
     <p align="center">
-      <img src="img/Request_Signature_Company_Stamp_Step_17.png" alt="Request Signature Company Stamp Step 17">
+      <img src="img/Request_Signature_Company_Stamp_Step_8.png" alt="Request Signature Company Stamp Step 8">
     </p>
     <br><br><br>
 
