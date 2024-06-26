@@ -112,6 +112,11 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
 
 
+## Company Settings
+### Job Settings 
+- [To-do List Setup](To_Do_List.md)
+
+
 ## Template Settings
 ### Job
 - [How to Setup Job Template Page?](Setup_Job_Template.md)
