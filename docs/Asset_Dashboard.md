@@ -7,43 +7,57 @@
 - [Delete Office Check-In](#section3)
 <br><br><br>
 
-<a id="section1"></a>
-
-### Add Office Check-In
-
-1. At the desktop site navigation bar, go to HR Suite > Office Check-in Settings.<br>
-   **Open Office Check-In Settings Here:** [https://salesconnection.my/officecheckin/setting](https://salesconnection.my/officecheckin/setting)<br>
+1. At the desktop site navigation bar, go to Business Management > Dashboard > Asset.<br>
+   **Open Asset Dashboard Here:** [https://salesconnection.my/dashboard/asset](https://salesconnection.my/dashboard/asset)<br>
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_1.png" alt="Office Check In Settings Step 1">
    </p>
-     
-   *Note: You must have access to HR Suite menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
-   
-2. Click "+ Add Location" to add an office check-in.
+   <br>
+
+   <a id="section1"></a>
+
+   **Dashboard Selection**
+
+2. Click "Asset Dashboard" to access another dashboard.
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_2.png" alt="Office Check In Settings Step 2">
    </p>
   
-3. Tick the box of the customer's location.
+3. Click on the dashboard that you want to access.
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_3.png" alt="Office Check In Settings Step 3">
    </p>
-  
-4. Click "Apply Address".
+   <br>
+
+   <a id="section2"></a>
+
+   **Add New Asset**
+
+4. Click "New Asset" to add a new asset.
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_4.png" alt="Office Check In Settings Step 4">
    </p>
-  
-5. Click on the "Add User" icon.
+   <br>
+
+   <a id="section3"></a>
+
+   **Refresh** 
+
+5. Click on the "Refresh" icon to get the latest information on assets.
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_5.png" alt="Office Check In Settings Step 5">
    </p>
-  
+   <br>
+
+   <a id="section4"></a>
+
+   **Customise Asset Card**  
+
 6. Enter the user name that you want to assign to the office check-in.
 
    <p align="center">
