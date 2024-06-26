@@ -303,7 +303,9 @@
     <br><br><br>
 
 **Related Articles**
-- [I Forgot to Check Out, How?](Assist_Check_Out.md)
-- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
-- [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
-- [How to Adjust Geofencing Radius?](Adjust_Geofencing_Radius.md)
+- [How to Add New Asset?](How_to_Add_New_Asset.md)
+- [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)
+- [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
+- [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
+- [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
+- [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
