@@ -1,6 +1,6 @@
 ## Asset Dashboard
 
-**Asset Dashboard** allows users to <br>
+**Asset Dashboard** provides an overview of all assets, categorized into different statuses such as Under Warranty, Warranty Expired, Active, and Inactive. It allows users to filter, sort, and view details of each asset, including company name, asset number, warranty dates, and serial number, helping to efficiently manage and track assets.<br><br>
 
 **Navigate to the section by clicking it.**<br>
 
