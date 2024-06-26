@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 26 June 2024<br>
+Updated: 26 June 2024<br>
 ## To-do List Setup
 
 *Note: The tutorial below is based on Job Page but all of these can be applied to other data level such as Project, Digital Form and others.
@@ -198,4 +201,3 @@
 - [Data Level Structure](Data_Level_Structure.md)
 - [How to Add New Job?](Add_New_Job.md)
 - [How to Add New Project?](Add_New_Project.md)
-
