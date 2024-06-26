@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 26 June 2024<br>
+Updated: 26 June 2024<br>
 ## How to do Asset Bulk Update?
 
   1. At the desktop site's navigation bar, go to Import > Asset Bulk Update.<br>
@@ -81,5 +84,4 @@ Data in Column C must be Unique and is compulsory to fill in.
   <br><br><br>
 
 **Related Articles**<br>
-- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Company_Bulk_Update.md)
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
