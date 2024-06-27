@@ -117,6 +117,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Schedule
 - [How to Add New Job?](Add_New_Job.md)
+- [Job Schedule Page](Job_Schedule_Page.md)
 - [Project Schedule Page](Project_Schedule_Page.md)
 
 
