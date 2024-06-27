@@ -147,42 +147,41 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_20.png" alt="Job Dashboard Page Tutorial Step 20">
       </p><br>
 
-      <a id="section3"></a>
-  **Favourite Filter**
-  
   21. Select for yes or no, and the filter value will apply successfully. 
   
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_21.png" alt="Job Dashboard Page Tutorial Step 21">
       </p><br>
  
-      **Favourite Filter**<br>
+      <a id="section3"></a>
   
-  22. If you want to save the filter from previous step, you can click on the "Favourite Filter".
+**Favourite Filter**<br>
+  
+  23. If you want to save the filter from previous step, you can click on the "Favourite Filter".
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_22.png" alt="Job Dashboard Page Tutorial Step 22">
       </p><br>
 
-  23. Click "+ Add" to apply favourite filter.
+  24. Click "+ Add" to apply favourite filter.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_23.png" alt="Job Dashboard Page Tutorial Step 23">
       </p><br>
 
-  24. Click on the text box to enter the label name of the favourite filter.
+  25. Click on the text box to enter the label name of the favourite filter.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_24.png" alt="Job Dashboard Page Tutorial Step 24">
       </p><br>
 
-  25. Click on the "Save" button to apply the favourite filter.
+  26. Click on the "Save" button to apply the favourite filter.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_25.png" alt="Job Dashboard Page Tutorial Step 25">
       </p><br>
 
-  26. The favourite filter has been saved successfully when you see this.
+  27. The favourite filter has been saved successfully when you see this.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_26.png" alt="Job Dashboard Page Tutorial Step 26">
