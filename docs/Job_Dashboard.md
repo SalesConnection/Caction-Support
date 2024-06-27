@@ -1,5 +1,14 @@
 ## How to use Job Dashboard?
 
+   **Navigate to the section by clicking it.**<br>
+
+   - [Select Job Category](#section1)<br>
+   - [Mobile Version - Phone](#section2)<br>
+   - [Mobile Version - Email](#section3)
+   <br><br><br>
+
+   
+    
    1. At the desktop site's navigation bar, go to Business Management > Dashboard > Job.<br>
       **Open Job Dashboard Page Here:** [https://salesconnection.my/dashboard/task](https://salesconnection.my/dashboard/task)<br>
      
@@ -13,6 +22,10 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_2.png" alt="Job Dashboard Page Tutorial Step 2">
       </p><br>
   
+   <a id="section1"></a>
+   
+   **Select Job Category**
+   
    3. You can the job status that you want to view.
 
       <p align="center">
