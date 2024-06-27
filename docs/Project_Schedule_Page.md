@@ -1,6 +1,6 @@
 ## Project Schedule Page
 
-**Project Schedule** provides an overview of project timelines, including key details such as project names, descriptions, statuses, assigned personnel, and scheduled dates. It helps users track the progress and deadlines of various projects in a calendar format.<br><br>
+**Project Schedule** provides an overview of the job timelines of the project. It helps users track the progress and deadlines of various jobs under one project in a calendar format.<br><br>
 
 
 1. At the desktop site navigation bar, go to Business Management > Schedule > Project Schedule.<br>
