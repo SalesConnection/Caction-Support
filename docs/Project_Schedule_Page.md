@@ -1,304 +1,119 @@
 ## Project Schedule Page
 
-**Asset Dashboard** provides an overview of all assets, categorized into different statuses such as Under Warranty, Warranty Expired, Active, and Inactive. It allows users to filter, sort, and view details of each asset, including company name, asset number, warranty dates, and serial number, helping to efficiently manage and track assets.<br><br>
+**Project Schedule** provides an overview of project timelines, including key details such as project names, descriptions, statuses, assigned personnel, and scheduled dates. It helps users track the progress and deadlines of various projects in a calendar format.<br><br>
 
-**Navigate to the section by clicking it.**<br>
 
-- [Dashboard Selection](#section1)<br>
-- [Add New Asset](#section2)<br>
-- [Refresh](#section3)<br>
-- [Asset Card Customization](#section4)<br>
-- [Sort By](#section5)<br>
-- [Filter](#section6)<br>
-- [Favourite Filter](#section7)<br>
-- [Default Filter](#section8)<br>
-- [Clear Filter](#section9)
-<br><br><br>
-
-1. At the desktop site navigation bar, go to Business Management > Dashboard > Asset.<br>
-   **Open Asset Dashboard Here:** [https://salesconnection.my/dashboard/asset](https://salesconnection.my/dashboard/asset)<br>
+1. At the desktop site navigation bar, go to Business Management > Schedule > Project Schedule.<br>
+   **Open Project Schedule Here:** [https://salesconnection.my/calendar/projectactivityschedule](https://salesconnection.my/calendar/projectactivityschedule)<br>
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_1.png" alt="Asset Dashboard Step 1">
+      <img src="img2/Project_Schedule_Step_1.png" alt="Project Schedule Step 1">
    </p>
-   <br>
 
-   <a id="section1"></a>
-
-   **Dashboard Selection**
-
-2. Click "Asset Dashboard" to access another dashboard.
+2. Click the "three lines" icon.
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_2.png" alt="Asset Dashboard Step 2">
+      <img src="img2/Project_Schedule_Step_2.png" alt="Project Schedule Step 2">
    </p>
   
-3. Click on the dashboard that you want to access.
+3. Click "Customer Filter" to filter the customer list.
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_3.png" alt="Asset Dashboard Step 3">
+      <img src="img2/Project_Schedule_Step_3.png" alt="Project Schedule Step 3">
    </p>
-   <br>
-
-   <a id="section2"></a>
-
-   **Add New Asset**
-
-4. Click "New Asset" to add a new asset.
+   
+4. Click "Advanced Filter" if you wish to have more filter options.
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_4.png" alt="Asset Dashboard Step 4">
+      <img src="img2/Project_Schedule_Step_4.png" alt="Project Schedule Step 4">
    </p>
-   <br>
 
-   <a id="section3"></a>
-
-   **Refresh** 
-
-5. Click on the "Refresh" icon to get the latest information on assets.
+5. Select the advanced filter options you want.
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_5.png" alt="Asset Dashboard Step 5">
+      <img src="img2/Project_Schedule_Step_5.png" alt="Project Schedule Step 5">
    </p>
-   <br>
 
-   <a id="section4"></a>
-
-   **Customise Asset Card**  
-
-6. Click on the "Settings" icon to customise the asset card.
+6. Click on the "Done" button.
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_6.png" alt="Asset Dashboard Step 6">
+      <img src="img2/Project_Schedule_Step_6.png" alt="Project Schedule Step 6">
    </p>
   
-7. Click "+ Add Field".
+7. Enter the customer details to filter.
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_7.png" alt="Asset Dashboard Step 7">
+      <img src="img2/Project_Schedule_Step_7.png" alt="Project Schedule Step 7">
    </p>
   
-8. Select the field you want to display in the dashboard.
+8. Click "Apply Filter".
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_8.png" alt="Asset Dashboard Step 8">
+      <img src="img2/Project_Schedule_Step_8.png" alt="Project Schedule Step 8">
    </p>
   
-9. Click on the "Done" button.
+9. Click on the Customer you want.
 
    <p align="center">
-      <img src="img2/Asset_Dashboard_Step_9.png" alt="Asset Dashboard Step 9">
+      <img src="img2/Project_Schedule_Step_9.png" alt="Project Schedule Step 9">
    </p>
   
-10. Click on the asset category that you want to show custom fields in the dashboard.
+10. Click on the Project you want to view.
 
     <p align="center">
-       <img src="img2/Asset_Dashboard_Step_10.png" alt="Asset Dashboard Step 10">
+      <img src="img2/Project_Schedule_Step_10.png" alt="Project Schedule Step 10">
     </p>
 
-11. Click "+ Add Field".
+11. Click "Month View".
 
     <p align="center">
-       <img src="img2/Asset_Dashboard_Step_11.png" alt="Asset Dashboard Step 11">
+      <img src="img2/Project_Schedule_Step_11.png" alt="Project Schedule Step 11">
     </p>
   
-12. Select the custom field you want to display in the dashboard.
+12. Select the view options you want. For example, click "Days View".
 
     <p align="center">
-       <img src="img2/Asset_Dashboard_Step_12.png" alt="Asset Dashboard Step 12">
+      <img src="img2/Project_Schedule_Step_12.png" alt="Project Schedule Step 12">
     </p>
   
-13. Click on the "Done" button.
+13. Click the "previous" and "next" buttons to view another month's jobs.
 
     <p align="center">
-       <img src="img2/Asset_Dashboard_Step_13.png" alt="Asset Dashboard Step 13">
+      <img src="img2/Project_Schedule_Step_13.png" alt="Project Schedule Step 13">
     </p>
 
-14. Click on the "three dots" icon.
+14. If you wish to change the date of the job, drag the job to the new date.
+
+    *Note: The duration of the job will not be changed.<br>
 
     <p align="center">
-       <img src="img2/Asset_Dashboard_Step_14.png" alt="Asset Dashboard Step 14">
-    </p>
-  
-15. Select the width size for the dashboard column and the field name's display type.
-
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_15.png" alt="Asset Dashboard Step 15">
+      <img src="img2/Project_Schedule_Step_14.png" alt="Project Schedule Step 14">
     </p>
   
-16. Click on the "Save" button.
+15. As the next job is related to the job, click "Update 1 Job" if you wish to extend the next job.
+
+    *Note: The duration of the job will not be changed.<br>
 
     <p align="center">
-       <img src="img2/Asset_Dashboard_Step_16.png" alt="Asset Dashboard Step 16">
+      <img src="img2/Project_Schedule_Step_15.png" alt="Project Schedule Step 15">
+    </p>
+  
+16. The new date of the jobs have been changed successfully.
+
+    <p align="center">
+      <img src="img2/Project_Schedule_Step_16.png" alt="Project Schedule Step 16">
     </p>  
 
-17. The asset dashboard with the asset card customization will be shown as below.
+17. Click the "Refresh" button if you wish to get the latest information of the jobs.
     
     <p align="center">
-       <img src="img2/Asset_Dashboard_Step_17.png" alt="Asset Dashboard Step 17">
+      <img src="img2/Project_Schedule_Step_17.png" alt="Project Schedule Step 17">
     </p>  
-    <br>
 
-    <a id="section5"></a>
-
-    **Sort By**  
-
-18. Click on the "Last Update D..." to change the sort by.
+18. Click on the "+" button if you want to add a new job under this project.
     
     <p align="center">
-       <img src="img2/Asset_Dashboard_Step_18.png" alt="Asset Dashboard Step 18">
-    </p>
-
-19. Click on the expand button beside "Last Update Date".
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_19.png" alt="Asset Dashboard Step 19">
-    </p>
-
-20. Choose the condition to sort the asset.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_20.png" alt="Asset Dashboard Step 20">
-    </p>
-
-21. Click on the expand button beside "Direction".
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_21.png" alt="Asset Dashboard Step 21">
-    </p>
-
-22. Choose ascending or descending to sort.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_22.png" alt="Asset Dashboard Step 22">
-    </p>
-
-23. The result will be shown as below.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_23.png" alt="Asset Dashboard Step 23">
-    </p>
-    <br>
-
-    <a id="section6"></a>
-
-    **Filter**  
-
-24. Click "+ Add Filter" to filter the asset.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_24.png" alt="Asset Dashboard Step 24">
-    </p>
-
-25. Click on the filter variable you want. For example, click "Asset Serial No"
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_25.png" alt="Asset Dashboard Step 25">
-    </p>
-
-26. Click on the operator you want to apply. For example, click "Contains".
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_26.png" alt="Asset Dashboard Step 26">
-    </p>
-
-27. Enter the filter value you want to apply.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_27.png" alt="Asset Dashboard Step 27">
-    </p>
-
-28. Press "Enter" to apply the filter.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_28.png" alt="Asset Dashboard Step 28">
-    </p>
-
-29. The filter applied will be shown in the filter bubble and the result will be shown as below.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_29.png" alt="Asset Dashboard Step 29">
-    </p>
-    <br>
-
-    <a id="section7"></a>
-
-    **Favourite Filter**  
-
-30. Click "Favourite Filter" if you want to save the filter.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_30.png" alt="Asset Dashboard Step 30">
-    </p>
-
-31. Click "+ Add" to add a favourite filter.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_31.png" alt="Asset Dashboard Step 31">
-    </p>
-
-32. Enter the name of the favourite filter.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_32.png" alt="Asset Dashboard Step 32">
-    </p>
-
-33. Click "Save" to save the favourite filter.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_33.png" alt="Asset Dashboard Step 33">
-    </p>
-
-34. You can now apply the filter everytime when you enter this page.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_34.png" alt="Asset Dashboard Step 34">
-    </p>
-    <br>
-
-    <a id="section8"></a>
-
-    **Default Filter**  
-
-35. Click "Favourite Filter" if you want to set default filter.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_35.png" alt="Asset Dashboard Step 35">
-    </p>
-
-36. Click "Default Filter".
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_36.png" alt="Asset Dashboard Step 36">
-    </p>
-
-37. Select the filter you want to set as default filter.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_37.png" alt="Asset Dashboard Step 37">
-    </p>
-
-38. The default filter has been saved successfully and the filter will be applied automatically when you enter this page.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_38.png" alt="Asset Dashboard Step 38">
-    </p>
-    <br>
-
-    <a id="section9"></a>
-
-    **Clear Filter**  
-
-39. Click "Clear All" if you want to clear all the filter applied.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_39.png" alt="Asset Dashboard Step 39">
-    </p>
-
-40. The filter applied has been cleared successfully.
-    
-    <p align="center">
-       <img src="img2/Asset_Dashboard_Step_40.png" alt="Asset Dashboard Step 40">
+      <img src="img2/Project_Schedule_Step_18.png" alt="Project Schedule Step 18">
     </p>
     <br><br><br>
 
