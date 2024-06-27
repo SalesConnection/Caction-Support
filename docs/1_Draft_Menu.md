@@ -123,6 +123,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Dashboard
 - [Asset Dashboard](Asset_Dashboard.md)
+- [Job Dashboard](Job_Dashboard.md)
 
 
 ### Customer List
