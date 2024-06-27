@@ -4,7 +4,7 @@
 
    - [Select Job Category](#section1)<br>
    - [Filter](#section2)<br>
-   - [Mobile Version - Email](#section3)
+   - [Favourite Filter](#section3)
    <br><br><br>
 
    
@@ -129,25 +129,28 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_17.png" alt="Job Dashboard Page Tutorial Step 17">
       </p><br>
       
-  19. Select/unselect the job category by ticking/unticking them.
+  18. Select/unselect the job category by ticking/unticking them.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_18.png" alt="Job Dashboard Page Tutorial Step 18">
       </p><br>
   
-  20. Click "Done" to apply the job category filter value.
+  19. Click "Done" to apply the job category filter value.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_19.png" alt="Job Dashboard Page Tutorial Step 19">
       </p><br>
   
-  21. Click on this filter bubble if you want to filter job by either include / no include job without customer.
+  20. Click on this filter bubble if you want to filter job by either include / no include job without customer.
   
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_20.png" alt="Job Dashboard Page Tutorial Step 20">
       </p><br>
+
+  <a id="section3"></a>
+  **Favourite Filter"
   
-  22. Select for yes or no, and the filter value will apply successfully. 
+  21. Select for yes or no, and the filter value will apply successfully. 
   
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_21.png" alt="Job Dashboard Page Tutorial Step 21">
@@ -155,41 +158,40 @@
  
       **Favourite Filter**<br>
   
-  23. If you want to save the filter from previous step, you can click on the "Favourite Filter".
+  22. If you want to save the filter from previous step, you can click on the "Favourite Filter".
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_22.png" alt="Job Dashboard Page Tutorial Step 22">
       </p><br>
 
-  24. Click "+ Add" to apply favourite filter.
+  23. Click "+ Add" to apply favourite filter.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_23.png" alt="Job Dashboard Page Tutorial Step 23">
       </p><br>
 
-  25. Click on the text box to enter the label name of the favourite filter.
+  24. Click on the text box to enter the label name of the favourite filter.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_24.png" alt="Job Dashboard Page Tutorial Step 24">
       </p><br>
 
-  26. Click on the "Save" button to apply the favourite filter.
+  25. Click on the "Save" button to apply the favourite filter.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_25.png" alt="Job Dashboard Page Tutorial Step 25">
       </p><br>
 
-  27. The favourite filter has been saved successfully when you see this.
+  26. The favourite filter has been saved successfully when you see this.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_26.png" alt="Job Dashboard Page Tutorial Step 26">
       </p><br>
-
-  **Default Filter**
   
-  *Note: After you save the favourite filter, if you want to apply that favourite filter as default 
+   <a id="section4"></a>
+   **Set Favourite Filter as Default Filter**
   
-  27. Click the favourite filter.
+  27. Click the favourite filter, if you want to apply that favourite filter as default filter. 
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_27.png" alt="Job Dashboard Page Tutorial Step 27">
