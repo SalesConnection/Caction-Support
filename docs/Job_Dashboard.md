@@ -22,7 +22,7 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_2.png" alt="Job Dashboard Page Tutorial Step 2">
       </p><br>
   
-   <a id="section1"></a>
+      <a id="section1"></a>
    
    **Select Job Category**
    
@@ -71,13 +71,13 @@
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_8.png" alt="Job Dashboard Page Tutorial Step 8">
-      </p>
+      </p><br>
 
   9. Click on the search bar to enter the filter value you want.
 
-       <p align="center">
-         <img src="img2/Job_Dashboard_Tutorial_Step_9.png" alt="Job Dashboard Page Tutorial Step 9">
-       </p><br>
+     <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_9.png" alt="Job Dashboard Page Tutorial Step 9">
+     </p><br>
  
   10. After enter the customer name on the search bar, press enter key in your keyboard to search for the job of the customer.
 
@@ -147,8 +147,8 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_20.png" alt="Job Dashboard Page Tutorial Step 20">
       </p><br>
 
-  <a id="section3"></a>
-  **Favourite Filter"
+      <a id="section3"></a>
+  **Favourite Filter**
   
   21. Select for yes or no, and the filter value will apply successfully. 
   
