@@ -7,11 +7,13 @@
    - [Favourite Filter](#section3)
    - [Default Filter](#section4)
    - [Clear All Filter](#section5)
+   - [Change Job Status](#section6)
+   - [Edit Job Details](#section7)
+   - [Add New Job](#section8)
+   - [Refresh Page](#section9)
    <br><br><br>
 
-   
-    
-   1. At the desktop site's navigation bar, go to Business Management > Dashboard > Job.<br>
+  1. At the desktop site's navigation bar, go to Business Management > Dashboard > Job.<br>
       **Open Job Dashboard Page Here:** [https://salesconnection.my/dashboard/task](https://salesconnection.my/dashboard/task)<br>
      
       <p align="center">
@@ -229,7 +231,9 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_31.png" alt="Job Dashboard Page Tutorial Step 31">
       </p><br>
   
-  **Change Job Status**
+      <a id="section6"></a>
+
+**Change Job Status**
 
   32. For example, if you want to change a job's status from service confirm to Postponed / Cancelled. Click on the "Service Confirmed".
 
@@ -267,7 +271,9 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_37.png" alt="Job Dashboard Page Tutorial Step 37">
       </p><br>
 
-  **Edit Job Details**
+      <a id="section7"></a>
+
+**Edit Job Details**
   
   38. You can click the expand button to edit the job details.
 
@@ -277,7 +283,9 @@
 
       *Note: The expand button will appears when your mouse pointer is placed at the top right corner of each job.
 
-  **Add New Job**
+      <a id="section8"></a>
+      
+**Add New Job**
   
   39. Click the on the + button at the bottom right corner if you want to create a new job.
 
@@ -285,11 +293,13 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_39.png" alt="Job Dashboard Page Tutorial Step 39">
       </p><br>
 
-  **Refresh Page**
+      <a id="section9"></a>
+      
+**Refresh Page**
   
   40. Click on the refresh button to ensure all newly created jobs or job status changes are shown on this page.
 
-       <p align="center">
+      <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_40.png" alt="Job Dashboard Page Tutorial Step 40">
       </p><br>
 
