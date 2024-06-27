@@ -19,7 +19,7 @@
         <img src="img/Job_Dashboard_Tutorial_Step_3.png" alt="Job Dashboard Page Tutorial Step 3">
       </p><br>
 
-   4. For example, select 'Completed.' The job dashboard will display the completed jobs as shown in the picture below.
+   4. For example, select "Completed". The job dashboard will display the completed jobs as shown in the picture below.
 
       <p align="center">
         <img src="img/Job_Dashboard_Tutorial_Step_4.png" alt="Job Dashboard Page Tutorial Step 4">
@@ -45,11 +45,7 @@
         <img src="img/Job_Dashboard_Tutorial_Step_7.png" alt="Job Dashboard Page Tutorial Step 7">
       </p><br>
 
-   8. Click on the "Operator" you want. For example, select "Contains", and all the filter values available will be shown.
-
-      <p align="center">
-        <img src="img/Job_Dashboard_Tutorial_Step_8.png" alt="Job Dashboard Page Tutorial Step 8">
-      </p>
+   8. Click on the "Operator" you want. For example, select "Contain", and all the filter values available will be shown.
 
       | Operator | Definition | 
       |---------|:-----|
@@ -58,11 +54,15 @@
       | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
       | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) |
 
-   9. Click on the search bar to enter the filter value you want.
-
       <p align="center">
-        <img src="img/Job_Dashboard_Tutorial_Step_9.png" alt="Job Dashboard Page Tutorial Step 9">
-      </p><br>
+        <img src="img/Job_Dashboard_Tutorial_Step_8.png" alt="Job Dashboard Page Tutorial Step 8">
+      </p>
+
+  9. Click on the search bar to enter the filter value you want.
+
+       <p align="center">
+         <img src="img/Job_Dashboard_Tutorial_Step_9.png" alt="Job Dashboard Page Tutorial Step 9">
+       </p><br>
  
   10. After enter the customer name on the search bar, press enter key in your keyboard to search for the job of the customer.
 
@@ -88,7 +88,7 @@
         <img src="img/Job_Dashboard_Tutorial_Step_13.png" alt="Job Dashboard Page Tutorial Step 13">
       </p><br>
       
-  14. Click on this filter bubble if you want to change the job range.
+  14. Click on this filter bubble if you want to change the job date range.
 
       *Note: The default Job Date Range is filtered by this month.
 
@@ -198,4 +198,76 @@
         <img src="img/Job_Dashboard_Tutorial_Step_30.png" alt="Job Dashboard Page Tutorial Step 30">
       </p><br>
 
+  31. If you want to clear all filters that you have applied manually, click "Clear All" and all filters will be cleared.
   
+      *Note: The first four filter bubble are system default filter, these filters would not cleared by clicking "Clear All". If you want to clear these default filter.
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_31.png" alt="Job Dashboard Page Tutorial Step 31">
+      </p><br>
+  
+  **Change Job Status**
+
+  32. For example, if you want to change a job's status from service confirm to Postponed / Cancelled. Click on the "Service Confirmed".
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_32.png" alt="Job Dashboard Page Tutorial Step 32">
+      </p><br>
+
+  33. Select the job that you want to change the job status.
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_33.png" alt="Job Dashboard Page Tutorial Step 33">
+      </p><br>
+
+  34. Drag the job to the right side.
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_34.png" alt="Job Dashboard Page Tutorial Step 34">
+      </p><br>
+
+  35. Put the job in "Postponed / Cancelled" job status.
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_35.png" alt="Job Dashboard Page Tutorial Step 35">
+      </p><br>
+
+  36. Click "Update" to confirm your job update status.
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_36.png" alt="Job Dashboard Page Tutorial Step 36">
+      </p><br>
+
+  37. The job status has been changed successfully when this prompt appears.
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_37.png" alt="Job Dashboard Page Tutorial Step 37">
+      </p><br>
+
+  **Edit Job Details**
+  
+  38. You can click the expand button to edit the job details.
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_38.png" alt="Job Dashboard Page Tutorial Step 38">
+      </p><br>
+
+      *Note: The expand button will appears when your mouse pointer is placed at the top right corner of each job.
+
+  **Add New Job**
+  
+  39. Click the on the + button at the bottom right corner if you want to create a new job.
+
+      <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_39.png" alt="Job Dashboard Page Tutorial Step 39">
+      </p><br>
+
+  **Refresh Page**
+  
+  40. Click on the refresh button to ensure all newly created jobs or job status changes are shown on this page.
+
+       <p align="center">
+        <img src="img/Job_Dashboard_Tutorial_Step_40.png" alt="Job Dashboard Page Tutorial Step 40">
+      </p><br>
+
+      
