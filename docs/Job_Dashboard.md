@@ -159,7 +159,7 @@
  
       <a id="section3"></a>
   
-**Favourite Filter**<br>
+      **Favourite Filter**<br>
   
   23. If you want to save the filter from previous step, you can click on the "Favourite Filter".
 
@@ -193,7 +193,7 @@
   
       <a id="section4"></a>
 
-**Default Filter**
+      **Default Filter**
   
   27. Click the favourite filter, if you want to apply that favourite filter as default filter. 
 
@@ -221,7 +221,7 @@
 
       <a id="section5"></a>
 
-**Clear All Filter**
+      **Clear All Filter**
   
   31. If you want to clear all filters that you have applied manually, click "Clear All" and all filters will be cleared.
   
@@ -233,7 +233,7 @@
   
       <a id="section6"></a>
 
-**Change Job Status**
+      **Change Job Status**
 
   32. For example, if you want to change a job's status from service confirm to Postponed / Cancelled. Click on the "Service Confirmed".
 
@@ -273,7 +273,7 @@
 
       <a id="section7"></a>
 
-**Edit Job Details**
+      **Edit Job Details**
   
   38. You can click the expand button to edit the job details.
 
@@ -285,7 +285,7 @@
 
       <a id="section8"></a>
       
-**Add New Job**
+      **Add New Job**
   
   39. Click the on the + button at the bottom right corner if you want to create a new job.
 
@@ -295,7 +295,7 @@
 
       <a id="section9"></a>
       
-**Refresh Page**
+      **Refresh Page**
   
   40. Click on the refresh button to ensure all newly created jobs or job status changes are shown on this page.
 
