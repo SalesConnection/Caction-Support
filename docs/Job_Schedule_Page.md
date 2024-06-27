@@ -1,10 +1,10 @@
 ## Job Schedule Page
 
-**Project Schedule** provides an overview of the job timelines of the project. It helps users track the progress and deadlines of various jobs under one project in a calendar format.<br><br>
+**Job Schedule** organizes and displays upcoming jobs and tasks in a calendar format, detailing job descriptions, statuses, and assigned personnel. It helps users manage and track the scheduling and progress of various jobs.<br><br>
 
 
-1. At the desktop site navigation bar, go to Business Management > Schedule > Project Schedule.<br>
-   **Open Project Schedule Here:** [https://salesconnection.my/calendar/projectactivityschedule](https://salesconnection.my/calendar/projectactivityschedule)<br>
+1. At the desktop site navigation bar, go to Business Management > Schedule > Job Schedule.<br>
+   **Open Job Schedule Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
 
    <p align="center">
       <img src="img2/Project_Schedule_Step_1.png" alt="Project Schedule Step 1">
