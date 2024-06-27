@@ -5,6 +5,8 @@
    - [Select Job Category](#section1)<br>
    - [Filter](#section2)<br>
    - [Favourite Filter](#section3)
+   - [Default Filter](#section4)
+   - [Clear All Filter](#section5)
    <br><br><br>
 
    
@@ -187,8 +189,9 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_26.png" alt="Job Dashboard Page Tutorial Step 26">
       </p><br>
   
-   <a id="section4"></a>
-   **Set Favourite Filter as Default Filter**
+      <a id="section4"></a>
+
+**Default Filter**
   
   27. Click the favourite filter, if you want to apply that favourite filter as default filter. 
 
@@ -214,6 +217,10 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_30.png" alt="Job Dashboard Page Tutorial Step 30">
       </p><br>
 
+      <a id="section5"></a>
+
+**Clear All Filter**
+  
   31. If you want to clear all filters that you have applied manually, click "Clear All" and all filters will be cleared.
   
       *Note: The first four filter bubble are system default filter, these filters would not cleared by clicking "Clear All". If you want to clear these default filter.
