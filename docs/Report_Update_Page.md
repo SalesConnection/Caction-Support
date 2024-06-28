@@ -131,13 +131,19 @@ The Update Report Page allows you to **generate** and **customize** reports acro
      <img src="img/Report_Update_Page_Default_Columns_Step_3.png" alt="Report Update Page Default Columns Step 3">
    </p>
   
-4. After selecting the columns you want to display, click "Save".
+4. Tick the box if you want to display assets or products/services separately.
 
    <p align="center">
      <img src="img/Report_Update_Page_Default_Columns_Step_4.png" alt="Report Update Page Default Columns Step 4">
    </p>
 
-5. The new Update Report with different columns will be shown as below. 
+5. After selecting the columns you want to display, click "Save".
+
+   <p align="center">
+     <img src="img/Report_Update_Page_Default_Columns_Step_5.png" alt="Report Update Page Default Columns Step 5">
+   </p>
+
+6. The new Update Report with different columns will be shown as below. 
 
    <p align="center">
      <img src="img/Report_Update_Page_Default_Columns_Step_5.png" alt="Report Update Page Default Columns Step 5">
