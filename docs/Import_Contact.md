@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 28 June 2024<br>
+Updated: 28 June 2024<br>
 ## How do I Import New Contact(s)?
     
   1. At the desktop site's navigation bar, go to Import > Contact Import.<br>
