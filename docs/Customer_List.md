@@ -182,10 +182,10 @@
 
     | Icon | Description |
     |------|-------------|
-    | Global |  |
-    | Share |  |
-    | Edit |  |
-    | Delete |  |
+    | Global | Enable the usage for all users in the system. |
+    | Share | Share the link with other users and paste it into the label name. |
+    | Edit | Edit the name of the favourite filter. |
+    | Delete | Delete the favourite filter. |
 
    <p align="center">
      <img src="img2/Customer_List_Step_25.png" alt="Customer List Step 25">
