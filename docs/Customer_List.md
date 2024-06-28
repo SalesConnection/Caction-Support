@@ -107,6 +107,13 @@
 
 16. Select the operator you want to apply.
 
+    | Operator | Definition | 
+    |---------|:-----|
+    | Contain | The result will show all relevant results based on the filter values. (Not consider capital letter and small letter, recommend to use it if you are not remember the exact customer name.) |
+    | Not Contain | The results will show all relevant results except the selected filter values. (Not consider capital letter and small letter.)| 
+    | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
+    | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) |
+
    <p align="center">
      <img src="img/Customer_List_Step_1.png" alt="Customer List Step 1">
    </p>
