@@ -1,4 +1,4 @@
-## How to Enable/Disable Version Access Permission?
+## How to Enable/Disable Version Access Permission? (For Staff)
 
 1. At the desktop site navigation bar, go to User Management > User List.<br>
    **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
