@@ -4,22 +4,24 @@
 
 **Navigate to the section by clicking it.**<br>
 
-- [Digital Form Category](#section1)<br>
-- [Default Columns](#section2)<br>
-- [Filter](#section3)<br>
-- [Favourite Filter](#section4)<br>
-- [Export Report](#section5)
+- [Default Columns](#section1)<br>
+- [Filter](#section2)<br>
+- [Favourite Filter](#section3)<br>
+- [Export](#section4)<br>
+- [Refresh](#section5)<br>
+- [Add New Customer](#section6)
 <br><br><br>
-
-<a id="section1"></a>
-
-### Digital Form Category
 
 1. At the desktop's navigation bar, go to Business Management > Customer List.
 
    <p align="center">
      <img src="img2/Customer_List_Step_1.png" alt="Customer List Step 1">
    </p>
+   <br><br>
+
+   <a id="section1"></a>
+
+   ### Default Columns
 
 2. Click "Default Columns".
 
@@ -86,6 +88,11 @@
    <p align="center">
      <img src="img2/Customer_List_Step_12.png" alt="Customer List Step 12">
    </p>
+   <br><br>
+
+   <a id="section2"></a>
+
+   ### Filter
 
 13. Click "Filter Table Record" to filter the customer.
 
@@ -135,7 +142,12 @@
    <p align="center">
      <img src="img2/Customer_List_Step_19.png" alt="Customer List Step 19">
    </p>
+   <br><br>
 
+   <a id="section3"></a>
+
+   ### Favourite Filter
+   
 20. Click "Favourite Filter" if you want to add a favourite filter.
 
    <p align="center">
@@ -202,7 +214,12 @@
    <p align="center">
      <img src="img2/Customer_List_Step_29.png" alt="Customer List Step 29">
    </p>
+   <br><br>
 
+   <a id="section4"></a>
+
+   ### Export
+   
 30. Click "Export" button if you want to export the customer list.
 
    <p align="center">
@@ -214,13 +231,23 @@
    <p align="center">
      <img src="img2/Customer_List_Step_31.png" alt="Customer List Step 31">
    </p>
+   <br><br>
 
+   <a id="section6"></a>
+
+   ### Refresh
+   
 32. Click on the "Refresh" button to get the latest information.
 
    <p align="center">
      <img src="img2/Customer_List_Step_32.png" alt="Customer List Step 32">
    </p>
+   <br><br>
 
+   <a id="section6"></a>
+
+   ### Add New Customer
+   
 33. Click on the "+" button to add a new customer.
 
    <p align="center">
