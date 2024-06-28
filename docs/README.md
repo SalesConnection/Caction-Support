@@ -29,6 +29,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How do I Import New Asset(s)?](Import_Asset.md)
 - [How to Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New User(s)?](Import_User.md)
+- [How to Import New Contact(s)?](Import_Contact.md)
 
   
 ### Bulk Update
