@@ -1,6 +1,6 @@
 ## Customer List
 
-**Customer List** allows you to **generate** and **customize** reports across various type including job, project, asset, digital form, public form, and reminder which provide a comprehensive overview and detailed insights into your data.<br>
+**Customer List** displays detailed information about all customers, including sequence numbers, names, company affiliations, addresses, and phone numbers. It allows users to manage and access customer data efficiently.<br>
 
 *Note: The tutorial below is based on Digital Form Report Page but all of these can be applied to other Report Page.<br>
 
