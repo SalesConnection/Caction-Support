@@ -7,6 +7,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [How to enable or disable IMEI Login Check? (Device Changing Detection)](Turn_Off_IMEI.md)
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
+- [How to Enable/Disable Version Access Permission? (For Staff)](Enable_Disable_Version_Access_Permission.md)
 
 
 ### Check In/Check Out
