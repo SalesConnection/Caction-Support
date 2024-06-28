@@ -216,5 +216,4 @@
     <br><br><br>
 
 **Related Articles**
-- [Asset Dashboard](Asset_Dashboard.md)
-- [Wizard Page](Wizard_Page.md)
+- [Project Schedule Page](Project_Schedule_Page.md)
