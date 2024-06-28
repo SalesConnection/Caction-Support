@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 28 June 2024<br>
+Updated: 28 June 2024<br>
 ## How to Sign and Upload Company Stamp into Digital Form？
 
 1. Navigate to the Digital Form to be signed. 
