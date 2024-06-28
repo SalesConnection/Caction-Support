@@ -216,4 +216,6 @@
     <br><br><br>
 
 **Related Articles**
+- [How to Add New Job?](Add_New_Job.md)
 - [Project Schedule Page](Project_Schedule_Page.md)
+- [Wizard Page](Wizard_Page.md)
