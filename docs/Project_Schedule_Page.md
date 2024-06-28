@@ -118,6 +118,6 @@
     <br><br><br>
 
 **Related Articles**
-- [Add New Project](Add_New_Project.md)
+- [How to Add New Project?](Add_New_Project.md)
 - [Job Schedule Page](Job_Schedule_Page.md)
 - [Wizard Page](Wizard_Page.md)
