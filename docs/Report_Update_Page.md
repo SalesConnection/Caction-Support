@@ -83,6 +83,13 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 4. Click on the "Operator" you want. For example, click "Contains".
 
+   | Operator | Definition | 
+   |---------|:-----|
+   | Contain | The result will show all relevant results based on the filter values. (Not consider capital letter and small letter, recommend to use it if you are not remember the exact customer name.) |
+   | Not Contain | The results will show all relevant results except the selected filter values. (Not consider capital letter and small letter.)| 
+   | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
+   | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) |
+
    <p align="center">
      <img src="img/Report_Updated_Page_Filter_Step_4.png" alt="Report Update Page Filter Step 4">
    </p>
@@ -281,10 +288,6 @@ The Update Report Page allows you to **generate** and **customize** reports acro
      <img src="img/Update_Report_Page_Favourite_Filter_Step_13.png" alt="Update Report Page Favourite Filter Step 13">
     </p>
    <br><br>
-
- 
-
-
 
 <a id="section5"></a>
 
