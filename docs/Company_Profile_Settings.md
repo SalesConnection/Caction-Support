@@ -68,6 +68,30 @@
     <p align="center">
        <img src="img/Company_Profile_Settings_Step_11.png" alt="Company Profile Settings Step 11">
     </p>
+
+12. After email has been verified, click the [3 dots] button in the email list and
+
+    <p align="center">
+       <img src="img/Company_Profile_Settings_Step_12.png" alt="Company Profile Settings Step 12">
+    </p>
+
+13. Select “Set as Primary”.
+
+    <p align="center">
+       <img src="img/Company_Profile_Settings_Step_13.png" alt="Company Profile Settings Step 13">
+    </p>
+
+14. Click "Yes".
+
+    <p align="center">
+       <img src="img/Company_Profile_Settings_Step_14.png" alt="Company Profile Settings Step 14">
+    </p>
+
+15. The primary email was saved successfully when this prompt showed. This Primary email will be used by the system to send out any information to customers via email such as Remote Signatures or Generated PDFs. 
+
+    <p align="center">
+       <img src="img/Company_Profile_Settings_Step_15.png" alt="Company Profile Settings Step 15">
+    </p>
    <br><br><br>
 
 **Related Articles**
