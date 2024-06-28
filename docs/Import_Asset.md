@@ -120,3 +120,4 @@ Updated: 18 June 2024<br>
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
 - [How to Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New User(s)?](Import_User.md)
+- [How to Import New Contact(s)?](Import_Contact.md)
