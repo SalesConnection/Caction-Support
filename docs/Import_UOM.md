@@ -84,3 +84,4 @@ Updated: 26 June 2024<br>
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
 - [How do I Import New Asset(s)?](Import_Asset.md)
 - [How do I Import New User(s)?](Import_User.md)
+- [How to Import New Contact(s)?](Import_Contact.md)
