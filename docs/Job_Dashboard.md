@@ -13,13 +13,13 @@
    - [Refresh Page](#section9)
    <br><br><br>
 
- 1.   At the desktop site's navigation bar, go to Business Management > Dashboard > Job.<br>
+   1. At the desktop site's navigation bar, go to Business Management > Dashboard > Job.<br>
       **Open Job Dashboard Page Here:** [https://salesconnection.my/dashboard/task](https://salesconnection.my/dashboard/task)<br>
      
       <p align="center">
        <img src="img2/Job_Dashboard_Tutorial_Step_1.png" alt="Job Dashboard Page Tutorial Step 1">
       </p><br>
-
+                         
    2. There are three choices at the top right corner of Job Dashboard page. You can click on them to enter another dashboard page.
 
       <p align="center">
@@ -40,59 +40,6 @@
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_4.png" alt="Job Dashboard Page Tutorial Step 4">
-      </p><br>
-
-      <a id="section2"></a>
-
-      **Filter**
-   
-   5. Click on the search bar to filter for job.
-
-      <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_5.png" alt="Job Dashboard Page Tutorial Step 5">
-      </p><br>
-
-   6. Click on the group you want to filter. For example, click "# Customer. 
-
-      <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_6.png" alt="Job Dashboard Page Tutorial Step 6">
-      </p><br>
-
-   7. Click on the "Filter Variable" you want. For example, click "Customer Name".
-
-      <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_7.png" alt="Job Dashboard Page Tutorial Step 7">
-      </p><br>
-
-   8. Click on the "Operator" you want. For example, select "Contain", and all the filter values available will be shown.
-
-      | Operator | Definition | 
-      |---------|:-----|
-      | Contain | The result will show all relevant results based on the filter values. (Not consider capital letter and small letter, recommend to use it if you are not remember the exact customer name.) |
-      | Not Contain | The results will show all relevant results except the selected filter values. (Not consider capital letter and small letter.)| 
-      | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
-      | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) |
-
-      <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_8.png" alt="Job Dashboard Page Tutorial Step 8">
-      </p><br>
-
-  9. Click on the search bar to enter the filter value you want.
-
-     <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_9.png" alt="Job Dashboard Page Tutorial Step 9">
-     </p><br>
- 
-  10. After enter the customer name on the search bar, press enter key in your keyboard to search for the job of the customer.
-
-      <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_10.png" alt="Job Dashboard Page Tutorial Step 10">
-      </p><br>
-
-  11. The filter applied will show in the filter bubble and the result will be shown as below. 
-
-      <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_11.png" alt="Job Dashboard Page Tutorial Step 11">
       </p><br>
 
   12. Click on this filter bubble if you want to sort the order of job created date.
@@ -157,7 +104,60 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_21.png" alt="Job Dashboard Page Tutorial Step 21">
       </p><br>
  
-      <a id="section3"></a>
+      <a id="section2"></a>
+
+      **Filter**
+   
+  15. Click on the search bar to filter for job.
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_15.png" alt="Job Dashboard Page Tutorial Step 15">
+      </p><br>
+
+  16. Click on the group you want to filter. For example, click "# Customer. 
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_16.png" alt="Job Dashboard Page Tutorial Step 16">
+      </p><br>
+
+  17. Click on the "Filter Variable" you want. For example, click "Customer Name".
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_17.png" alt="Job Dashboard Page Tutorial Step 17">
+      </p><br>
+
+  18. Click on the "Operator" you want. For example, select "Contain", and all the filter values available will be shown.
+
+      | Operator | Definition | 
+      |---------|:-----|
+      | Contain | The result will show all relevant results based on the filter values. (Not consider capital letter and small letter, recommend to use it if you are not remember the exact customer name.) |
+      | Not Contain | The results will show all relevant results except the selected filter values. (Not consider capital letter and small letter.)| 
+      | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
+      | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) |
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_18.png" alt="Job Dashboard Page Tutorial Step 18">
+      </p><br>
+
+  19. Click on the search bar to enter the filter value you want.
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_19.png" alt="Job Dashboard Page Tutorial Step 19">
+      </p><br>
+ 
+  20. After enter the customer name on the search bar, press enter key in your keyboard to search for the job of the customer.
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_20.png" alt="Job Dashboard Page Tutorial Step 20">
+      </p><br>
+
+  21. The filter applied will show in the filter bubble and the result will be shown as below. 
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_21.png" alt="Job Dashboard Page Tutorial Step 21">
+      </p><br>
+
+       <a id="section3"></a>
   
       **Favourite Filter**<br>
   
