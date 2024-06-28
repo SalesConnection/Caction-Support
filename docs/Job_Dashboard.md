@@ -301,6 +301,10 @@
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_40.png" alt="Job Dashboard Page Tutorial Step 40">
-      </p><br>
+      </p>
+      <br><br><br>
 
+**Related Articles**
+- [How to Add New Job?](Add_New_Job.md)
+- [Asset Dashboard](Asset_Dashboard.md)
       
