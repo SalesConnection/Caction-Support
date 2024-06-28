@@ -170,23 +170,30 @@ The Report Page allows you to **generate** and **customize** reports across vari
 
 4. Click on the "Operator" you want. For example, click "Contains".
 
+   | Operator | Definition | 
+   |---------|:-----|
+   | Contain | The result will show all relevant results based on the filter values. (Not consider capital letter and small letter, recommend to use it if you are not remember the exact customer name.) |
+   | Not Contain | The results will show all relevant results except the selected filter values. (Not consider capital letter and small letter.)| 
+   | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
+   | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) |
+   
    <p align="center">
      <img src="img/Report_Page_Filter_Step_4.png" alt="Report Page Filter Step 4">
    </p>
 
-5. Click on the "Filter Value" you want. For example, tick "Created".
+6. Click on the "Filter Value" you want. For example, tick "Created".
 
    <p align="center">
      <img src="img/Report_Page_Filter_Step_5.png" alt="Report Page Filter Step 5">
    </p>
 
-6. Click on the "Done" button after selecting the filter.
+7. Click on the "Done" button after selecting the filter.
 
    <p align="center">
      <img src="img/Report_Page_Filter_Step_6.png" alt="Report Page Filter Step 6">
    </p>
 
-7. The result will be shown as below.
+8. The result will be shown as below.
 
    <p align="center">
      <img src="img/Report_Page_Filter_Step_7.png" alt="Report Page Filter Step 7">
