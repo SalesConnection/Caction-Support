@@ -1,5 +1,7 @@
 ## How to Enable/Disable Version Access Permission? (For Staff)
 
+*Note: Sub-Admin and Admin users will automatically have access to Desktop Version.<br><br>
+
 1. At the desktop site navigation bar, go to User Management > User List.<br>
    **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
 
