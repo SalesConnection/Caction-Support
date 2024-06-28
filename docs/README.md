@@ -70,6 +70,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ### Remote Signature
 - [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
 - [How to Request for Remote Signature From Customer?](How_to_Get_Remote_Signature_From_Customer.md)
+- [How to Sign and Upload Company Stamp into Digital Form？](Request_Signature_Company_Stamp.md)
 
 
 ### Notification
