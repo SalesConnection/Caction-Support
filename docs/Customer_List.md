@@ -17,7 +17,7 @@
    <p align="center">
      <img src="img2/Customer_List_Step_1.png" alt="Customer List Step 1">
    </p>
-   <br><br>
+   <br>
 
    <a id="section1"></a>
 
@@ -88,7 +88,7 @@
    <p align="center">
      <img src="img2/Customer_List_Step_12.png" alt="Customer List Step 12">
    </p>
-   <br><br>
+   <br>
 
    <a id="section2"></a>
 
@@ -142,7 +142,7 @@
    <p align="center">
      <img src="img2/Customer_List_Step_19.png" alt="Customer List Step 19">
    </p>
-   <br><br>
+   <br>
 
    <a id="section3"></a>
 
@@ -214,7 +214,7 @@
    <p align="center">
      <img src="img2/Customer_List_Step_29.png" alt="Customer List Step 29">
    </p>
-   <br><br>
+   <br>
 
    <a id="section4"></a>
 
@@ -231,7 +231,7 @@
    <p align="center">
      <img src="img2/Customer_List_Step_31.png" alt="Customer List Step 31">
    </p>
-   <br><br>
+   <br>
 
    <a id="section6"></a>
 
@@ -242,7 +242,7 @@
    <p align="center">
      <img src="img2/Customer_List_Step_32.png" alt="Customer List Step 32">
    </p>
-   <br><br>
+   <br>
 
    <a id="section6"></a>
 
