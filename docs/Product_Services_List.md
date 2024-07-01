@@ -39,16 +39,22 @@
    <p align="center">
      <img src="img2/Product_Services_List_Step_4.png" alt="Product/Services List Step 4">
    </p>
+
+5. Click on the "Blue Arrow" button to open the product/services detail page.
+
+   <p align="center">
+     <img src="img2/Product_Services_List_Step_5.png" alt="Product/Services List Step 5">
+   </p>
    <br>
 
    <a id="section2"></a>
 
    ### Refresh
 
-5. Click on the "Refresh" icon to get the latest information on the product/services.
+6. Click on the "Refresh" icon to get the latest information on the product/services.
 
    <p align="center">
-     <img src="img2/Product_Services_List_Step_5.png" alt="Product/Services List Step 1">
+     <img src="img2/Product_Services_List_Step_6.png" alt="Product/Services List Step 6">
    </p>
    <br>
 
@@ -56,10 +62,10 @@
 
    ### Sort By
 
-6. Click the "Arrow" icon to choose sort ascending or descending for the list.
+7. Click the "Arrow" icon to choose sort ascending or descending for the list.
 
    <p align="center">
-     <img src="img2/Product_Services_List_Step_6.png" alt="Product/Services List Step 6">
+     <img src="img2/Product_Services_List_Step_7.png" alt="Product/Services List Step 7">
    </p>
    <br>
 
@@ -67,10 +73,10 @@
 
    ### Add New Product/Services
 
-7. Click on the "+" button to add new product/services.
+8. Click on the "+" button to add new product/services.
 
    <p align="center">
-     <img src="img2/Product_Services_List_Step_7.png" alt="Product/Services List Step 7">
+     <img src="img2/Product_Services_List_Step_8.png" alt="Product/Services List Step 8">
    </p>
 <br><br><br>
 
