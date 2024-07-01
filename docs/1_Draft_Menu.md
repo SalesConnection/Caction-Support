@@ -74,8 +74,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Access Control
 - [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
-- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
-
+- [How to Configure Public Form Access in UAC (Done by Admin)?](Configure_Public_Form_Access_in_UAC.md)
 
 ### Remote Signature
 - [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
@@ -101,6 +100,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
 - [How does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
 - [Why is the Console Tab showing a different number of jobs for the same customer?](Different_Number_Jobs_For_Same_Customer.md)
+- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
   
   
 ## Features Knowledge 
