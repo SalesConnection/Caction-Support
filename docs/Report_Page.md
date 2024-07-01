@@ -79,7 +79,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img/Report_Page_Default_Columns_Step_4.png" alt="Report Page Default Columns Step 4">
    </p>
 
-5. Tick the box if you want to display assets or products/services separately.
+5. Select the box to display data with assets or products/services in separate rows.
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_5.png" alt="Report Page Default Columns Step 5">
