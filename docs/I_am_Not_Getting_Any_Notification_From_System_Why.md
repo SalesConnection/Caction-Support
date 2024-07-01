@@ -44,7 +44,7 @@
      
    <a id="section2"></a><br><br>
 
- - **Desktop App**:
+ - **Desktop Version**:
 
 *Note: Only certain admins can edit the notification settings. Please contact your admin if you wish to enable the notifications.<br>
  
@@ -89,7 +89,7 @@
 
     | Terms | Meaning |
     |-------|---------|
-    | Noti | General notifications within the system. |
+    | Noti | Push notifications that will appear on your device (such as your phone lock screen). |
     | Email | Notifications sent to your email address. |
     | Mention | Alerts when someone mentions you in a comment. |
     | Assign | Notifications when a task or job is assigned to you. |
@@ -105,7 +105,7 @@
        <img src="img/Enable_Notification_In_UAC_Step_8.png" alt="Enable Notification in UAC Step 8">
     </p>
 
- 9. Notifications settings have been updated.
+ 9. Notification settings are successfully updated once you see the “Settings Successfully Updated!” prompt appear.
 
      <p align="center">
        <img src="img/Enable_Notification_In_UAC_Step_9.png" alt="Enable Notification in UAC Step 9">
