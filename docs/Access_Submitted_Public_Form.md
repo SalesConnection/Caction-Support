@@ -2,16 +2,6 @@
 
 *Note: If you are unable to access the Public Form, please reach out to your admin for assistance.
 
-**Navigate to the section by clicking it.**<br>
-
-- [Access Public Form](#section1)<br>
-- [Configure Public Form Access in UAC (Done by Admin)](#section2)
-<br><br><br>
-
-<a id="section1"></a>
-
-**Access Public Form**
-
 1. At the navigation bar, go to Business Report > Public Form Report.
 
    <p align="center">
@@ -49,8 +39,6 @@
    <p align="center">
       <img src="img/View_Submitted_Public_Form_Step_6.png" alt="Access Submitted Public Form Step 6">
    </p><br>
-
-<a id="section2"></a>
 
 **Configure Public Form Access in UAC (Done by Admin)**
 
@@ -106,6 +94,7 @@
 <br><br><br>
 
 **Related Articles**
+- [How to Configure Public Form Access in UAC (Done by Admin)?](Configure_Public_Form_Access_in_UAC.md)
 - [How to Generate Public Form?](Creation_of_Public_Form.md)
 - [How to Setup Public Form Template?](Setup_Public_Form_Template_Page.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
