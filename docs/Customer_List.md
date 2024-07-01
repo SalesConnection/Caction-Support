@@ -13,6 +13,7 @@
 <br><br><br>
 
 1. At the desktop's navigation bar, go to Business Management > Customer List.
+   **Open Customer List Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
 
    <p align="center">
      <img src="img2/Customer_List_Step_1.png" alt="Customer List Step 1">
