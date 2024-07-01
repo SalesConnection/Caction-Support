@@ -12,7 +12,7 @@
 - [Add New Customer](#section6)
 <br><br><br>
 
-1. At the desktop's navigation bar, go to Business Management > Customer List.
+1. At the desktop's navigation bar, go to Business Management > Customer List.<br>
    **Open Customer List Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
 
    <p align="center">
