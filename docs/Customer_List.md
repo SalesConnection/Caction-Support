@@ -74,44 +74,44 @@
 
 10. Enter the name of the default column.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_10.png" alt="Customer List Step 10">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_10.png" alt="Customer List Step 10">
+    </p>
 
 11. Click the "tick" icon to save the name.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_11.png" alt="Customer List Step 11">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_11.png" alt="Customer List Step 11">
+    </p>
 
 12. The "Default Column" has been saved successfully.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_12.png" alt="Customer List Step 12">
-   </p>
-   <br>
+    <p align="center">
+      <img src="img2/Customer_List_Step_12.png" alt="Customer List Step 12">
+    </p>
+    <br>
 
-   <a id="section2"></a>
+    <a id="section2"></a>
 
-   ### Filter
+    ### Filter
 
 13. Click "Filter Table Record" to filter the customer.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_13.png" alt="Customer List Step 13">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_13.png" alt="Customer List Step 13">
+    </p>
 
 14. Select the filter group you want.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_14.png" alt="Customer List Step 14">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_14.png" alt="Customer List Step 14">
+    </p>
 
 15. Select the filter variable.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_15.png" alt="Customer List Step 15">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_15.png" alt="Customer List Step 15">
+    </p>
 
 16. Select the operator you want to apply.
 
@@ -122,62 +122,62 @@
     | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
     | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) |
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_16.png" alt="Customer List Step 16">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_16.png" alt="Customer List Step 16">
+    </p>
 
 17. For example, enter the customer name to filter.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_17.png" alt="Customer List Step 17">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_17.png" alt="Customer List Step 17">
+    </p>
 
 18. After typing the value, press "Enter".
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_18.png" alt="Customer List Step 18">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_18.png" alt="Customer List Step 18">
+    </p>
 
 19. The result will be shown as below.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_19.png" alt="Customer List Step 19">
-   </p>
-   <br>
+    <p align="center">
+      <img src="img2/Customer_List_Step_19.png" alt="Customer List Step 19">
+    </p>
+    <br>
 
-   <a id="section3"></a>
+    <a id="section3"></a>
 
-   ### Favourite Filter
+    ### Favourite Filter
    
 20. Click "Favourite Filter" if you want to add a favourite filter.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_20.png" alt="Customer List Step 20">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_20.png" alt="Customer List Step 20">
+    </p>
 
 21. Click "+ Add".
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_21.png" alt="Customer List Step 21">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_21.png" alt="Customer List Step 21">
+    </p>
 
 22. Enter the name of the favourite filter.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_22.png" alt="Customer List Step 22">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_22.png" alt="Customer List Step 22">
+    </p>
 
 23. Click on the "Save" button and the favourite filter has been saved successfully.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_23.png" alt="Customer List Step 23">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_23.png" alt="Customer List Step 23">
+    </p>
 
 24. Click "Favourite Filter".
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_24.png" alt="Customer List Step 24">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_24.png" alt="Customer List Step 24">
+    </p>
 
 25. Click on the icon beside the favourite filter to have more actions.
 
@@ -188,72 +188,72 @@
     | Edit | Edit the name of the favourite filter. |
     | Delete | Delete the favourite filter. |
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_25.png" alt="Customer List Step 25">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_25.png" alt="Customer List Step 25">
+    </p>
 
 26. Click "Default Filter" if you want to set a default filter.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_26.png" alt="Customer List Step 26">
-   </p>
+    <p align="center">
+       <img src="img2/Customer_List_Step_26.png" alt="Customer List Step 26">
+    </p>
 
 27. Select the favourite filter you want to set as the default filter.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_27.png" alt="Customer List Step 27">
-   </p>
-
+    <p align="center">
+      <img src="img2/Customer_List_Step_27.png" alt="Customer List Step 27">
+    </p>
+ 
 28. Default filter has been set successfully and it will apply automatically when you enter this page.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_28.png" alt="Customer List Step 28">
-   </p>
-
+    <p align="center">
+      <img src="img2/Customer_List_Step_28.png" alt="Customer List Step 28">
+    </p>
+ 
 29. Click "Clear All" if you want to clear all the filter applied.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_29.png" alt="Customer List Step 29">
-   </p>
-   <br>
+    <p align="center">
+      <img src="img2/Customer_List_Step_29.png" alt="Customer List Step 29">
+    </p>
+    <br>
 
-   <a id="section4"></a>
+    <a id="section4"></a>
 
-   ### Export
+    ### Export
    
 30. Click "Export" button if you want to export the customer list.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_30.png" alt="Customer List Step 30">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_30.png" alt="Customer List Step 30">
+    </p>
 
 31. Select the export options to export the customer list.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_31.png" alt="Customer List Step 31">
-   </p>
-   <br>
+    <p align="center">
+      <img src="img2/Customer_List_Step_31.png" alt="Customer List Step 31">
+    </p>
+    <br>
 
-   <a id="section6"></a>
+    <a id="section6"></a>
 
-   ### Refresh
+    ### Refresh
    
 32. Click on the "Refresh" button to get the latest information.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_32.png" alt="Customer List Step 32">
-   </p>
-   <br>
+    <p align="center">
+      <img src="img2/Customer_List_Step_32.png" alt="Customer List Step 32">
+    </p>
+    <br>
 
-   <a id="section6"></a>
+    <a id="section6"></a>
 
-   ### Add New Customer
+    ### Add New Customer
    
 33. Click on the "+" button to add a new customer.
 
-   <p align="center">
-     <img src="img2/Customer_List_Step_33.png" alt="Customer List Step 33">
-   </p>
+    <p align="center">
+      <img src="img2/Customer_List_Step_33.png" alt="Customer List Step 33">
+    </p>
 
 <br><br><br>
 
