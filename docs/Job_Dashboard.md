@@ -209,7 +209,11 @@
        | Share | You can copy this link and share it with other users so they can apply the same filter in the Job Dashboard.<br>*Note: Paste the link into the text box in step 25. |
        | Edit | Rename the favourite filter. |
        | Delete | Delete the favourite filter. |
-     
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_28.png" alt="Job Dashboard Page Tutorial Step 28">
+      </p><br>
+  
   29. Click on the "Default Filter" to select Favourite Filter and set it as default filter.
 
       <p align="center">
