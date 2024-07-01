@@ -10,11 +10,10 @@
 
 2. Change filter accordingly if unable to find a particular Public Form. For example, filter date range by clicking "Public Form Date Range".
 
+   *Note: If you want to further narrow down the results, you can click on "Filter Table Record".
    <p align="center">
       <img src="img/View_Submitted_Public_Form_Step_2.png" alt="Access Submitted Public Form Step 2">
-   </p>
-
-   *Note: If you want to further narrow down the results, you can click on "Filter Table Record".<br><br>
+   </p><br>
 
 3. Select the filter value you want to view.
 
