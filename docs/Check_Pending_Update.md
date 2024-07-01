@@ -15,6 +15,8 @@ Check on any pending upload item(s) by each of your user. If you receive a messa
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_1.png" alt="Check Pending Data Using Desktop Step 1">
    </p>
 
+   *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br><br>
+
 2. Click on the refresh button for the user with pending upload.
 
    <p align="center">
