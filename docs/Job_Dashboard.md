@@ -201,8 +201,9 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_27.png" alt="Job Dashboard Page Tutorial Step 27">
       </p><br>
 
-  28. There were 4 buttons behind each favourite filter.
+  28. There were 4 buttons behind each favourite filter.<br>
 
+      *Note: This guide can also be applied to Project and Digital Form Dashboard.
        | Button | Function |
        |-------|:---------|
        | Set Global | The filter option will be shared and used by all other users once enable.<br>*Note: This action can only performed by an admin.|
