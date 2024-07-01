@@ -1,6 +1,6 @@
 ## UAC Policy Management
 
-**UAC Policy Management** is a feature for you to set user setting templates for your users to easily be applied for new users or users being moved to different roles in the system.<br>
+**UAC Policy Management** is a feature for you to set user setting templates for your users to easily be applied for new users or users being moved to different roles in the system.<br><br>
 
 **Navigate to the section by clicking it.**<br>
 
