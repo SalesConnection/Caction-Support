@@ -1,2 +1,2 @@
-## How to Add New Product/Service(s)?
+## How to Add New Product/Services?
 
