@@ -42,66 +42,66 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_4.png" alt="Job Dashboard Page Tutorial Step 4">
       </p><br>
 
-  12. Click on this filter bubble if you want to sort the order of job created date.
+   5. Click on this filter bubble if you want to sort the order of job created date.
   
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_12.png" alt="Job Dashboard Page Tutorial Step 12">
+        <img src="img2/Job_Dashboard_Tutorial_Step_5.png" alt="Job Dashboard Page Tutorial Step 5">
       </p><br>
 
-  13. The default filter value sorts the jobs by ascending order. You can change it to sort by descending order based on your preference.
+   6. The default filter value sorts the jobs by ascending order. You can change it to sort by descending order based on your preference.
 
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_13.png" alt="Job Dashboard Page Tutorial Step 13">
+        <img src="img2/Job_Dashboard_Tutorial_Step_6.png" alt="Job Dashboard Page Tutorial Step 6">
       </p><br>
       
-  14. Click on this filter bubble if you want to change the job date range.
+   7. Click on this filter bubble if you want to change the job date range.
 
       *Note: The default Job Date Range is filtered by this month.
 
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_14.png" alt="Job Dashboard Page Tutorial Step 14">
+        <img src="img2/Job_Dashboard_Tutorial_Step_7.png" alt="Job Dashboard Page Tutorial Step 7">
       </p><br>
 
-  15. You can select the job filter date range based on your own preference.  
+   8. You can select the job filter date range based on your own preference.  
 
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_15.png" alt="Job Dashboard Page Tutorial Step 15">
+        <img src="img2/Job_Dashboard_Tutorial_Step_8.png" alt="Job Dashboard Page Tutorial Step 8">
       </p><br>
 
-  16. Click "Done" to apply job by the selected the job date range.
+   9. Click "Done" to apply job by the selected the job date range.
    
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_16.png" alt="Job Dashboard Page Tutorial Step 16">
+        <img src="img2/Job_Dashboard_Tutorial_Step_9.png" alt="Job Dashboard Page Tutorial Step 9">
       </p><br>
 
-  17. Click on this filter bubble if you want to filter job by job category.
+  10. Click on this filter bubble if you want to filter job by job category.
     
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_17.png" alt="Job Dashboard Page Tutorial Step 17">
+        <img src="img2/Job_Dashboard_Tutorial_Step_10.png" alt="Job Dashboard Page Tutorial Step 10">
       </p><br>
       
-  18. Select/unselect the job category by ticking/unticking them.
+  11. Select/unselect the job category by ticking/unticking them.
 
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_18.png" alt="Job Dashboard Page Tutorial Step 18">
+        <img src="img2/Job_Dashboard_Tutorial_Step_11.png" alt="Job Dashboard Page Tutorial Step 11">
       </p><br>
   
-  19. Click "Done" to apply the job category filter value.
+  12. Click "Done" to apply the job category filter value.
 
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_19.png" alt="Job Dashboard Page Tutorial Step 19">
+        <img src="img2/Job_Dashboard_Tutorial_Step_12.png" alt="Job Dashboard Page Tutorial Step 12">
       </p><br>
   
-  20. Click on this filter bubble if you want to filter job by either include / no include job without customer.
+  13. Click on this filter bubble if you want to filter job by either include / no include job without customer.
   
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_20.png" alt="Job Dashboard Page Tutorial Step 20">
+        <img src="img2/Job_Dashboard_Tutorial_Step_13.png" alt="Job Dashboard Page Tutorial Step 13">
       </p><br>
 
-  21. Select for yes or no, and the filter value will apply successfully. 
+  14. Select for yes or no, and the filter value will apply successfully. 
   
       <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_21.png" alt="Job Dashboard Page Tutorial Step 21">
+        <img src="img2/Job_Dashboard_Tutorial_Step_14.png" alt="Job Dashboard Page Tutorial Step 14">
       </p><br>
  
       <a id="section2"></a>
