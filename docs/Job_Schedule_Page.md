@@ -10,7 +10,7 @@
       <img src="img2/Job_Schedule_Step_1.png" alt="Job Schedule Step 1">
    </p>
 
-2. Click on the "Calendar".
+2. Click either (a) or (b) 
 
    <p align="center">
       <img src="img2/Job_Schedule_Step_2.png" alt="Job Schedule Step 2">
@@ -196,7 +196,7 @@
       <img src="img2/Job_Schedule_Step_32.png" alt="Job Schedule Step 32">
     </p>  
 
-33. Click "Clear All" if you want to delete all the filter applied.
+33. Click “Clear All” if you want to reset all filters applied previously. 
     
     <p align="center">
       <img src="img2/Job_Schedule_Step_33.png" alt="Job Schedule Step 33">
