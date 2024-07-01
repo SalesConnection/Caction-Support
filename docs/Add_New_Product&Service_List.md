@@ -8,3 +8,11 @@
    </p>
    <br>
 
+2. Click the "+" button to add new product/services.
+
+   <p align="center">
+     <img src="img2/Product_Services_List_Step_2.png" alt="Product/Services List Step 2">
+   </p>
+   <br>
+
+3. Click on the text box to add new product/service name.
