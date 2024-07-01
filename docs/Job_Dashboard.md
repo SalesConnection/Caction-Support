@@ -201,22 +201,24 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_27.png" alt="Job Dashboard Page Tutorial Step 27">
       </p><br>
 
-  28. Click on the "Default Filter" to select Favourite Filter and set it as default filter.
-
-      <p align="center">
-        <img src="img2/Job_Dashboard_Tutorial_Step_28.png" alt="Job Dashboard Page Tutorial Step 28">
-      </p><br>
+  28. 
   
-  29. Select for the favourite filter and apply it as default filter.
+  29. Click on the "Default Filter" to select Favourite Filter and set it as default filter.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_29.png" alt="Job Dashboard Page Tutorial Step 29">
       </p><br>
-
-  30. When you saw this, it means that the default filter as been set successfully. When you log in the next time, it will automatically show you the results applying the default filter you’ve selected.
+  
+  30. Select for the favourite filter and apply it as default filter.
 
       <p align="center">
         <img src="img2/Job_Dashboard_Tutorial_Step_30.png" alt="Job Dashboard Page Tutorial Step 30">
+      </p><br>
+
+  31. When you saw this, it means that the default filter as been set successfully. When you log in the next time, it will automatically show you the results applying the default filter you’ve selected.
+
+      <p align="center">
+        <img src="img2/Job_Dashboard_Tutorial_Step_31.png" alt="Job Dashboard Page Tutorial Step 31">
       </p><br>
 
       <a id="section5"></a>
