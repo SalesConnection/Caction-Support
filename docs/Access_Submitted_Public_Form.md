@@ -14,7 +14,7 @@
       <img src="img/View_Submitted_Public_Form_Step_2.png" alt="Access Submitted Public Form Step 2">
    </p>
 
-   *Note: If you want to use another way to filter Public Form, click "Filter Table Record".<br><br>
+   *Note: Note: If you want to further narrow down the results, you can click on "Filter Table Record".<br><br>
 
 3. Select the filter value you want to view.
 
