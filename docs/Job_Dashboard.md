@@ -201,8 +201,15 @@
         <img src="img2/Job_Dashboard_Tutorial_Step_27.png" alt="Job Dashboard Page Tutorial Step 27">
       </p><br>
 
-  28. 
-  
+  28. There were 4 buttons behind each favourite filter.
+
+       | Button | Function |
+       |-------|:---------|
+       | Set Global | The filter option will be shared and used by all other users once enable.<br>*Note: This action can only performed by an admin.|
+       | Share | You can copy this link and share it with other users so they can apply the same filter in the Job Dashboard.<br>*Note: Paste the link into the text box in step 25. |
+       | Edit | Rename the favourite filter. |
+       | Delete | Delete the favourite filter. |
+     
   29. Click on the "Default Filter" to select Favourite Filter and set it as default filter.
 
       <p align="center">
