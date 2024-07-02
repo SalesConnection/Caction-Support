@@ -355,13 +355,24 @@
       <img src="img2/Job_Schedule_Step_25.png" alt="Job Schedule Step 25">
     </p>  
 
-26. Click "Default Filter".
-    
+26. Click on the option to modify the saved filter.
+
+    | Terms | Description |
+    |-------|-------------|
+    | Set as default | Click to set the filter as default and no need to apply everytime. |
+    | Rename filter | Edit the name of the filter. |
+    | Delete | Delete the saved filter. |
+
     <p align="center">
       <img src="img2/Job_Schedule_Step_26.png" alt="Job Schedule Step 26">
     </p>
   
-27. Select the favourite filter you want to set as default filter.
+26. Click on the button to modify the filter.
+
+    | Terms | Description |
+    |-------|-------------|
+    | Default Search | Reset the whole filter including the advanced filter. |
+    | Reset | Only reset the filter value where advanced filter is still appear. |
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_27.png" alt="Job Schedule Step 27">
