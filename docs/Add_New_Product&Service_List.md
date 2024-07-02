@@ -6,7 +6,7 @@
 - [Edit the Newly Added Product/Services](#section2)<br>
 <br><br><br>
  <a id="section1"></a>
- **Add New Product/Services**
+   ### Add New Product/Services
 
 1. At the desktop's navigation bar, go to Business Management > Product/Services List.<br>
    **Open Product/Services List Here:** [https://salesconnection.my/templateSettings/ViewProductList](https://salesconnection.my/templateSettings/ViewProductList)<br>
@@ -53,7 +53,7 @@
 
    <a id="section2"></a>
 
-   **Edit the Newly Added Product/Services**
+   ### Edit the Newly Added Product/Services
 
 7. Click on the three dots icon if you want to edit the details of this product/service.
 
