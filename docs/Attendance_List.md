@@ -1,6 +1,6 @@
 ## Attendance List
 
-**Project Schedule** provides an overview of the job timelines of the project. It helps users track the progress and deadlines of various jobs under one project in a calendar format.<br><br>
+**Attendance List** tracks employee check-ins and check-outs for business travel. It includes details such as check-in dates, check-out dates, times, customer visits, total duration of check-ins, and non-check-in times, helping to monitor and manage employees' travel and attendance records.<br><br>
 
 
 1. At the desktop site navigation bar, go to Business Management > Schedule > Project Schedule.<br>
