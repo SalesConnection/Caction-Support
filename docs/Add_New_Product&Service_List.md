@@ -53,7 +53,7 @@
 
  <a id="section2"></a>
 
-**Edit the Newly Added Product/Services**
+   **Edit the Newly Added Product/Services**
 
 7. Click on the three dots icon if you want to edit the details of this product/service.
 
