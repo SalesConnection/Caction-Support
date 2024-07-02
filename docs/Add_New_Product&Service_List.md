@@ -1,4 +1,14 @@
+
+
 ## How to Add New Product/Services?
+
+**Navigate to the section by clicking it.**<br>
+
+- [Add New Product/Services](#section1)<br>
+- [Edit the Newly Added Product/Services](#section2)<br>
+
+ <a id="section1"></a>
+ **Add New Product/Services**
 
 1. At the desktop's navigation bar, go to Business Management > Product/Services List.<br>
    **Open Product/Services List Here:** [https://salesconnection.my/templateSettings/ViewProductList](https://salesconnection.my/templateSettings/ViewProductList)<br>
@@ -29,4 +39,34 @@
    </p>
    <br>
 
-5.
+5. Click save button to save the new product/service details.
+
+   <p align="center">
+     <img src="img2/Add_New_Product_Services_List_Step_5.png" alt="Add New Product/Services List Step 5">
+   </p>
+   <br>
+
+6. The new product/service details have been saved successfully.
+
+   <p align="center">
+     <img src="img2/Add_New_Product_Services_List_Step_6.png" alt="Add New Product/Services List Step 6">
+   </p>
+   <br>
+
+ <a id="section2"></a>
+
+**Edit the Newly Added Product/Services**
+
+7. Click on the three dots icon if you want to edit the details of this product/service.
+
+   <p align="center">
+     <img src="img2/Add_New_Product_Services_List_Step_7.png" alt="Add New Product/Services List Step 7">
+   </p>
+   <br>
+
+8. You can either edit or delete the newly added product/services.
+
+   <p align="center">
+     <img src="img2/Add_New_Product_Services_List_Step_8.png" alt="Add New Product/Services List Step 8">
+   </p>
+   <br>
