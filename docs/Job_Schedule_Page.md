@@ -207,152 +207,152 @@
 1. At the mobile app's navigation bar, go to Schedule.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Step_1.png" alt="Job Schedule Step 1">
+      <img src="img2/Job_Schedule_Mobile_Step_1.png" alt="Job Schedule Mobile Step 1">
    </p>
 
 2. Click on the "+" button to add new job.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Step_2.png" alt="Job Schedule Step 2">
+      <img src="img2/Job_Schedule_Mobile_Step_2.png" alt="Job Schedule Mobile Step 2">
    </p>
   
 3. Scroll to the left or right to search for a job using the date.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Step_3.png" alt="Job Schedule Step 3">
+      <img src="img2/Job_Schedule_Mobile_Step_3.png" alt="Job Schedule Mobile Step 3">
    </p>
    
 4. Click on the date you want to view.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Step_4.png" alt="Job Schedule Step 4">
+      <img src="img2/Job_Schedule_Mobile_Step_4.png" alt="Job Schedule Mobile Step 4">
    </p>
 
 5. Click on the job to open the job details page.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Step_5.png" alt="Job Schedule Step 5">
+      <img src="img2/Job_Schedule_Mobile_Step_5.png" alt="Job Schedule Mobile Step 5">
    </p>
 
 6. Click on the options to filter the job on that day.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Step_6.png" alt="Job Schedule Step 6">
+      <img src="img2/Job_Schedule_Mobile_Step_6.png" alt="Job Schedule Mobile Step 6">
    </p>
   
 7. For example, only pending jobs will be shown if click on the "Pending Job" option.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Step_7.png" alt="Job Schedule Step 7">
+      <img src="img2/Job_Schedule_Mobile_Step_7.png" alt="Job Schedule Mobile Step 7">
    </p>
   
 8. Click on the "Filter" icon.
    
    <p align="center">
-      <img src="img2/Job_Schedule_Step_8.png" alt="Job Schedule Step 8">
+      <img src="img2/Job_Schedule_Mobile_Step_8.png" alt="Job Schedule Mobile Step 8">
    </p>
   
 9. Click the "three dots" icon.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Step_9.png" alt="Job Schedule Step 9">
+      <img src="img2/Job_Schedule_Mobile_Step_9.png" alt="Job Schedule Mobile Step 9">
    </p>
   
 10. Click "Advance Filter Options".
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_10.png" alt="Job Schedule Step 10">
+      <img src="img2/Job_Schedule_Mobile_Step_10.png" alt="Job Schedule Mobile Step 10">
     </p>
 
 11. Select extra fields to filter the job.
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_11.png" alt="Job Schedule Step 11">
+      <img src="img2/Job_Schedule_Mobile_Step_11.png" alt="Job Schedule Mobile Step 11">
     </p>
   
 12. Click on the "DONE" button.
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_12.png" alt="Job Schedule Step 12">
+      <img src="img2/Job_Schedule_Mobile_Step_12.png" alt="Job Schedule Mobile Step 12">
     </p>
   
 13. Use the filter to filter the job.
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_13.png" alt="Job Schedule Step 13">
+      <img src="img2/Job_Schedule_Mobile_Step_13.png" alt="Job Schedule Mobile Step 13">
     </p>
 
 14. For example, select "Needing Attention" for job status and click "SEARCH".
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_14.png" alt="Job Schedule Step 14">
+      <img src="img2/Job_Schedule_Mobile_Step_14.png" alt="Job Schedule Mobile Step 14">
     </p>
   
 15. Jobs with the filter will be shown as below.
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_15.png" alt="Job Schedule Step 15">
+      <img src="img2/Job_Schedule_Mobile_Step_15.png" alt="Job Schedule Mobile Step 15">
     </p>
   
 16. Click on the "Filter" icon.
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_16.png" alt="Job Schedule Step 16">
+      <img src="img2/Job_Schedule_Mobile_Step_16.png" alt="Job Schedule Mobile Step 16">
     </p>  
 
 17. Click the "three dots" icon.
     
     <p align="center">
-      <img src="img2/Job_Schedule_Step_17.png" alt="Job Schedule Step 17">
+      <img src="img2/Job_Schedule_Mobile_Step_17.png" alt="Job Schedule Mobile Step 17">
     </p>  
 
 18. Click "Save Filter".
     
     <p align="center">
-      <img src="img2/Job_Schedule_Step_18.png" alt="Job Schedule Step 18">
+      <img src="img2/Job_Schedule_Mobile_Step_18.png" alt="Job Schedule Mobile Step 18">
     </p>
   
 19. Enter the name of the filter.
     *Note: To apply the filter as default, tick "Apply filter by default".
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_19.png" alt="Job Schedule Step 19">
+      <img src="img2/Job_Schedule_Mobile_Step_19.png" alt="Job Schedule Mobile Step 19">
     </p>
   
 20. Click "SUBMIT".
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_20.png" alt="Job Schedule Step 20">
+      <img src="img2/Job_Schedule_Mobile_Step_20.png" alt="Job Schedule Mobile Step 20">
     </p>  
 
 21. The filter has been saved successfully when this prompt appeared.
     
     <p align="center">
-      <img src="img2/Job_Schedule_Step_21.png" alt="Job Schedule Step 21">
+      <img src="img2/Job_Schedule_Mobile_Step_21.png" alt="Job Schedule Mobile Step 21">
     </p>  
 
 22. Click "Use Saved Filter" when you want to apply a saved filter.
     
     <p align="center">
-      <img src="img2/Job_Schedule_Step_22.png" alt="Job Schedule Step 22">
+      <img src="img2/Job_Schedule_Mobile_Step_22.png" alt="Job Schedule Mobile Step 22">
     </p>
   
 23. Click on the filter that you want to apply.
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_23.png" alt="Job Schedule Step 23">
+      <img src="img2/Job_Schedule_Mobile_Step_23.png" alt="Job Schedule Mobile Step 23">
     </p>
   
 24. Click "Manage Saved Filter".
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_24.png" alt="Job Schedule Step 24">
+      <img src="img2/Job_Schedule_Mobile_Step_24.png" alt="Job Schedule Mobile Step 24">
     </p>  
 
 25. Click the "three dots" icon.
     
     <p align="center">
-      <img src="img2/Job_Schedule_Step_25.png" alt="Job Schedule Step 25">
+      <img src="img2/Job_Schedule_Mobile_Step_25.png" alt="Job Schedule Mobile Step 25">
     </p>  
 
 26. Click on the option to modify the saved filter.
@@ -364,10 +364,10 @@
     | Delete | Delete the saved filter. |
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_26.png" alt="Job Schedule Step 26">
+      <img src="img2/Job_Schedule_Mobile_Step_26.png" alt="Job Schedule Mobile Step 26">
     </p>
   
-26. Click on the button to modify the filter.
+27. Click on the button to modify the filter.
 
     | Terms | Description |
     |-------|-------------|
@@ -375,7 +375,7 @@
     | Reset | Only reset the filter value where advanced filter is still appear. |
 
     <p align="center">
-      <img src="img2/Job_Schedule_Step_27.png" alt="Job Schedule Step 27">
+      <img src="img2/Job_Schedule_Mobile_Step_27.png" alt="Job Schedule Mobile Step 27">
     </p>
     <br><br><br>
 
