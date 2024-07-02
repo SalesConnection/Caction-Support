@@ -1,12 +1,10 @@
-
-
 ## How to Add New Product/Services?
 
 **Navigate to the section by clicking it.**<br>
 
 - [Add New Product/Services](#section1)<br>
 - [Edit the Newly Added Product/Services](#section2)<br>
-
+<br><br><br>
  <a id="section1"></a>
  **Add New Product/Services**
 
