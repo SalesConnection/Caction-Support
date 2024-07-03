@@ -10,43 +10,43 @@
       <img src="img2/Attendance_List_Step_1.png" alt="Attendance List Step 1">
    </p>
 
-2. Click the "three lines" icon.
+2. Click "Advance" to see more details of the attendance list.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_2.png" alt="Attendance List Step 2">
    </p>
   
-3. Click "Customer Filter" to filter the customer list.
+3. The differences between "Basic" and "Advance" are below.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_3.png" alt="Attendance List Step 3">
    </p>
    
-4. Click "Advanced Filter" if you wish to have more filter options.
+4. Click "Template Setting" to access the "User Group Setting". 
 
    <p align="center">
       <img src="img2/Attendance_List_Step_4.png" alt="Attendance List Step 4">
    </p>
 
-5. Select the advanced filter options you want.
+5. Enter the group name of the new attendance settings.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_5.png" alt="Attendance List Step 5">
    </p>
 
-6. Click on the "Done" button.
+6. Click "Add Group".
 
    <p align="center">
       <img src="img2/Attendance_List_Step_6.png" alt="Attendance List Step 6">
    </p>
   
-7. Enter the customer details to filter.
+7. Click on the time of the day.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_7.png" alt="Attendance List Step 7">
    </p>
   
-8. Click "Apply Filter".
+8. Update the shift time by clicking the arrow.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_8.png" alt="Attendance List Step 8">
