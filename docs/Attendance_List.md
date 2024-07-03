@@ -3,8 +3,8 @@
 **Attendance List** tracks employee check-ins and check-outs for business travel. It includes details such as check-in dates, check-out dates, times, customer visits, total duration of check-ins, and non-check-in times, helping to monitor and manage employees' travel and attendance records.<br><br>
 
 
-1. At the desktop site navigation bar, go to Business Management > Schedule > Project Schedule.<br>
-   **Open Project Schedule Here:** [https://salesconnection.my/calendar/projectactivityschedule](https://salesconnection.my/calendar/projectactivityschedule)<br>
+1. At the desktop site navigation bar, go to HR Suite > Attendance List.<br>
+   **Open Attendance List Here:** [https://salesconnection.my/attendance/tablelist](https://salesconnection.my/attendance/tablelist)<br>
 
    <p align="center">
       <img src="img2/Project_Schedule_Step_1.png" alt="Project Schedule Step 1">
