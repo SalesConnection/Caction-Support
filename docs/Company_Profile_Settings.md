@@ -1,5 +1,15 @@
 ## Company Profile Settings
 
+**Navigate to the section by clicking it.**<br>
+
+- [Company Profile](#section1)<br>
+- [Email List](#section2)
+<br><br><br>
+
+   <a id="section1"></a>
+
+   **Company Profile**
+
 1. At the desktop site navigation bar, go to User Management > Company Profile Settings.<br>
    **Open Company Profile Settings Here:** [https://salesconnection.my/settings/companysettings](https://salesconnection.my/settings/companysettings)<br>
 
@@ -50,6 +60,10 @@
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_8.png" alt="Company Profile Settings Step 8">
    </p>
+   <br><br>
+   <a id="section2"></a>
+
+   **Email List**
   
 9. Click "Email List".
 
