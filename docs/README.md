@@ -124,6 +124,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ### Job
 - [How to Setup Job Template Page?](Setup_Job_Template.md)
 
+
+## User Management 
+- [UAC Policy Management](UAC_Policy_Management.md)
+  
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
 
