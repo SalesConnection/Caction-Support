@@ -1,5 +1,7 @@
 ## Company Profile Settings
 
+On **Company Profile Settings**, you would be able to change the system settings such as the currency used, the country setting, the email sender setting(s) and other company related info for the system as a whole for your users.<br><br>
+
 **Navigate to the section by clicking it.**<br>
 
 - [Company Profile](#section1)<br>
@@ -65,13 +67,13 @@
 
    **Email List**
   
-9. Click "Email List".
+9. On “Email List”, you can set emails registered as the Primary, CC, or BCC whenever you and the team use any email sending features inside the system. You can also set an email as Tech Email to be notified on any failed reminders.
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_9.png" alt="Company Profile Settings Step 9">
    </p>
   
-10. Click on the "Verify Email" icon to verify the email for company's primary email.
+10. In order for an email to be set as any of the options mentioned, it needs to be verified by Amazon. Click on the “Verify Email” icon to verify it.
 
     <p align="center">
        <img src="img/Company_Profile_Settings_Step_10.png" alt="Company Profile Settings Step 10">
@@ -83,13 +85,13 @@
        <img src="img/Company_Profile_Settings_Step_11.png" alt="Company Profile Settings Step 11">
     </p>
 
-12. After email has been verified, click the [3 dots] button in the email list and
+12. After email has been verified, click the [3 dots] button in the email list.
 
     <p align="center">
        <img src="img2/Company_Profile_Settings_Step_12.png" alt="Company Profile Settings Step 12">
     </p>
 
-13. Select “Set as Primary”.
+13. Select the option of email to set as. For this example, we will choose “Set as Primary”.
 
     <p align="center">
        <img src="img2/Company_Profile_Settings_Step_13.png" alt="Company Profile Settings Step 13">
@@ -101,7 +103,7 @@
        <img src="img2/Company_Profile_Settings_Step_14.png" alt="Company Profile Settings Step 14">
     </p>
 
-15. The primary email was saved successfully when this prompt showed. This Primary email will be used by the system to send out any information to customers via email such as Remote Signatures or Generated PDFs. 
+15. The email is saved successfully when you see a prompt such as the one in the screenshot below. In this example, this email will be used as the primary sender for any items sent out by email through the system such as Remote Signatures and PDF copies of Digital Forms.
 
     <p align="center">
        <img src="img2/Company_Profile_Settings_Step_15.png" alt="Company Profile Settings Step 15">
