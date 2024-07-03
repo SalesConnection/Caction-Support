@@ -203,11 +203,12 @@
 
   28. There were 4 buttons behind each favourite filter.<br>
 
-      * Note: This guide can also be applied to Project and Digital Form Dashboard.<br>
+      *Note: This guide can also be applied to Project and Digital Form Dashboard.
+
        | Button | Function |
        |-------|:---------|
-       | Set Global | The filter option will be shared and used by all other users once enable.<br> * Note: This action can only performed by an admin.|
-       | Share | You can copy this link and share it with other users so they can apply the same filter in the Job Dashboard.* Note: Paste the link into the text box in step 25.
+       | Set Global | The filter option will be shared and used by all other users once enable.<br> *Note: This action can only performed by an admin.|
+       | Share | You can copy this link and share it with other users so they can apply the same filter in the Job Dashboard.<br>*Note: Paste the link into the text box in step 25.
        | Edit | Rename the favourite filter. |
        | Delete | Delete the favourite filter. |
 
