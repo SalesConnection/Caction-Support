@@ -9,19 +9,19 @@
      
    *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
    
-2. Fill in the company details.
+2. In this section, you may change certain details such as the Country Setting and Currency setting of your system.
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_2.png" alt="Company Profile Settings Step 2">
    </p>
   
-3. Click "Choose Location"
+3. Default location allows your team to see the address set here first when trying to add an address in the system. Let’s click “Choose Location”.
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_3.png" alt="Company Profile Settings Step 3">
    </p>
   
-4. Enter the company name.
+4. You may search for keywords to search the address by. For this example, we will search for a company name.
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_4.png" alt="Company Profile Settings Step 4">
@@ -33,7 +33,7 @@
       <img src="img/Company_Profile_Settings_Step_5.png" alt="Company Profile Settings Step 5">
    </p>
   
-6. Click "Select company icon".
+6. You can select an icon to put for the system notifications that your team would receive on their mobile device app. If nothing is set here, it will be the Sales Connection icon.
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_6.png" alt="Company Profile Settings Step 6">
