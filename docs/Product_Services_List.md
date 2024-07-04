@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 4 July 2024<br>
+Updated: 4 July 2024<br>
 ## Product/Services List
 
 **Product/Services List** displays detailed information about the products and services offered by the company, including sequence numbers, names, and additional data for efficient inventory management.<br><br>
@@ -78,7 +81,4 @@
    <p align="center">
      <img src="img2/Product_Services_List_Step_8.png" alt="Product/Services List Step 8">
    </p>
-<br><br><br>
 
-**Related Articles**
-- [Customer List](Customer_List.md)
