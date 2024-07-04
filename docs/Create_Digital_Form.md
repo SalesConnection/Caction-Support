@@ -1,5 +1,7 @@
 ## How to Create Digital Form?
 
+You and your team can start creating the digitalised form(s) in the system through many simple ways that cuts down on their time spent on manual hardcopies.<br><br>
+
 **Navigate to the section by clicking it.**<br>
 
 - [From Job](#section1)<br>
