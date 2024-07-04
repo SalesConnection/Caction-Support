@@ -13,6 +13,8 @@
    - [Refresh Page](#section9)
    <br><br><br>
 
+   *Note: This guide can also be applied to Project and Digital Form Dashboard.
+
    1. At the desktop site's navigation bar, go to Business Management > Dashboard > Job.<br>
       **Open Job Dashboard Page Here:** [https://salesconnection.my/dashboard/task](https://salesconnection.my/dashboard/task)<br>
      
@@ -202,8 +204,6 @@
       </p><br>
 
   28. There were 4 buttons behind each favourite filter.<br>
-
-      *Note: This guide can also be applied to Project and Digital Form Dashboard.
 
        | Button | Function |
        |-------|:---------|
