@@ -10,7 +10,7 @@
       <img src="img2/Overtime_Management_Step_1.png" alt="Overtime Management Step 1">
    </p>
 
-2. Click "Advance" to see more details of the attendance list.
+2. Click "Default Columns" to customize display columns.
 
    <p align="center">
       <img src="img2/Overtime_Management_Step_2.png" alt="Overtime Management Step 2">
