@@ -7,7 +7,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
 1. At the desktop's navigation bar, go to Business Reports > Digital Form Report.
 
    <p align="center">
-     <img src="img/Report_Page.png" alt="Report Page">
+     <img src="img2/Report_Page.png" alt="Report Page">
    </p>
 
 2. In the Report page, different features are shown as below.
