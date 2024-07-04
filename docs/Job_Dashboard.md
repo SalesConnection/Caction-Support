@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 4 July 2024<br>
+Updated: 4 July 2024<br>
 ## How to use Job Dashboard?
 
    **Navigate to the section by clicking it.**<br>
@@ -320,6 +323,4 @@
       <br><br><br>
 
 **Related Articles**
-- [How to Add New Job?](Add_New_Job.md)
-- [Asset Dashboard](Asset_Dashboard.md)
-      
+- [How to Add New Job?](Add_New_Job.md)      
