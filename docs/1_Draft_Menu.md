@@ -147,6 +147,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ## HR Suite
+- [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 
 
