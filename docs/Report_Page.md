@@ -10,7 +10,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img2/Report_Page.png" alt="Report Page">
    </p>
 
-2. In the Report page, different features are shown as below.
+2. There are many features in the Report page.
 
    | No | Terms | Description |
    |----|-------|-------------|
