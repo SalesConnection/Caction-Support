@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 4 July 2024<br>
+Updated: 4 July 2024<br>
 ## Company Profile Settings
 
 On **Company Profile Settings**, you would be able to change the system settings such as the currency used, the country setting, the email sender setting(s) and other company related info for the system as a whole for your users.<br><br>
@@ -111,6 +114,5 @@ On **Company Profile Settings**, you would be able to change the system settings
    <br><br><br>
 
 **Related Articles**
-- [Office Check-In Settings](Office_Check_In_Settings.md)
 - [UAC Policy Management](UAC_Policy_Management.md)
 
