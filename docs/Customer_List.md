@@ -70,11 +70,11 @@
      <img src="img2/Customer_List_Step_7.png" alt="Customer List Step 7">
    </p>
    
-    <br>
+   <br>
 
-    <a id="section4"></a>
+   <a id="section4"></a>
 
-    ### Default Columns
+   ### Default Columns
 8. Click "Default Columns".
 
    <p align="center">
