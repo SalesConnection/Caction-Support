@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 4 July 2024<br>
+Updated: 4 July 2024<br>
 ## Customer List
 
 **Customer List** displays detailed information about all customers, including sequence numbers, names, company affiliations, addresses, and phone numbers. It allows users to manage and access customer data efficiently.<br><br>
