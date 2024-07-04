@@ -123,6 +123,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ### Product/Services List
 - [Product/Services List](Product_Services_List.md)
 
+
+## Business Reports
+- [Report Page](Report_Page.md)
+  
   
 ## Company Settings
 ### Job Settings 
