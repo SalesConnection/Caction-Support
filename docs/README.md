@@ -109,6 +109,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Customer List
 - [How to Add New Customer?](Add_New_Customer.md)
+- [Customer List](Customer_List.md)
 
 
 ### Asset List
