@@ -1,15 +1,17 @@
 ## Office Check-In Settings
 
+Save your office address(es) into the system and set them up for your team to clock in and out of the office with our Office Check-In feature. This gives the team an alternative to check in/out to locations deemed as your office address without requiring a Job on it.<br><br>
+
 **Navigate to the section by clicking it.**<br>
 
-- [Add Office Check-In](#section1)<br>
+- [Add Office Check-In Location](#section1)<br>
 - [Clear Assigned User](#section2)<br>
 - [Delete Office Check-In](#section3)
 <br><br><br>
 
 <a id="section1"></a>
 
-### Add Office Check-In
+### Add Office Check-In Location
 
 1. At the desktop site navigation bar, go to HR Suite > Office Check-in Settings.<br>
    **Open Office Check-In Settings Here:** [https://salesconnection.my/officecheckin/setting](https://salesconnection.my/officecheckin/setting)<br>
@@ -26,11 +28,13 @@
       <img src="img/Office_Check_In_Settings_Step_2.png" alt="Office Check In Settings Step 2">
    </p>
   
-3. Tick the box of the customer's location.
+3. The location must come from a registered Customer entry inside your system. For your case, you may add a Customer called HQ with your office address attached to it.
 
    <p align="center">
       <img src="img/Office_Check_In_Settings_Step_3.png" alt="Office Check In Settings Step 3">
    </p>
+
+   *Note: Customer may be named as other items in your system (i.e. Site, Client, Company, etc.)<br>
   
 4. Click "Apply Address".
 
