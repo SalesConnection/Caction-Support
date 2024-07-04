@@ -66,7 +66,7 @@
 
    ### Refresh
    
-9. Click on the "Refresh" button to get the latest information.
+8. Click on the "Refresh" button to get the latest information.
 
    <p align="center">
      <img src="img2/Customer_List_Step_7.png" alt="Customer List Step 7">
@@ -78,13 +78,13 @@
 
    ### Default Columns
    
-11. Click "Default Columns".
+9. Click "Default Columns".
 
    <p align="center">
      <img src="img2/Customer_List_Step_8.png" alt="Customer List Step 8">
    </p>
 
-11. Click "+ Create".
+10. Click "+ Create".
 
    <p align="center">
       <img src="img2/Customer_List_Step_9.png" alt="Customer List Step 9">
