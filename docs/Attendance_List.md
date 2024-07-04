@@ -185,6 +185,5 @@
     <br><br><br>
 
 **Related Articles**
-- [How to Add New Project?](Add_New_Project.md)
-- [Job Schedule Page](Job_Schedule_Page.md)
+- [Office Check-In Settings](Office_Check_In_Settings.md)
 - [Wizard Page](Wizard_Page.md)
