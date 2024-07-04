@@ -52,68 +52,135 @@
       <img src="img2/Attendance_List_Step_8.png" alt="Attendance List Step 8">
    </p>
   
-9. Click on the Customer you want.
+9. Tick the option based on your company preferences.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_9.png" alt="Attendance List Step 9">
    </p>
   
-10. Click on the Project you want to view.
+10. Click on the "Update" button.
 
     <p align="center">
       <img src="img2/Attendance_List_Step_10.png" alt="Attendance List Step 10">
     </p>
 
-11. Click "Month View".
+11. Click the "User" icon to assign users to the group.
 
     <p align="center">
       <img src="img2/Attendance_List_Step_11.png" alt="Attendance List Step 11">
     </p>
   
-12. Select the view options you want. For example, click "Days View".
+12. Select the users you want to assign to the group.
 
     <p align="center">
       <img src="img2/Attendance_List_Step_12.png" alt="Attendance List Step 12">
     </p>
   
-13. Click the "previous" and "next" buttons to view another month's jobs.
+13. Click on the "Save" button.
 
     <p align="center">
       <img src="img2/Attendance_List_Step_13.png" alt="Attendance List Step 13">
     </p>
 
-14. If you wish to change the date of the job, drag the job to the new date.
-
-    *Note: The duration of the job will not be changed.<br>
+14. Click "Save Changes" to save the attendance settings.
 
     <p align="center">
       <img src="img2/Attendance_List_Step_14.png" alt="Attendance List Step 14">
     </p>
   
-15. As the next job is related to the job, click "Update 1 Job" if you wish to extend the next job.
-
-    *Note: The duration of the job will not be changed.<br>
+15. Your changes have been saved successfully when this prompt appears.
 
     <p align="center">
       <img src="img2/Attendance_List_Step_15.png" alt="Attendance List Step 15">
     </p>
   
-16. The new date of the jobs have been changed successfully.
+16. Click on the icon below to modify the attendance settings.
+
+    | No | Terms | Description |
+    |----|-------|-------------|
+    | a | Edit | Click to edit the name of the group. |
+    | b | Delete | Click to delete the group. |
 
     <p align="center">
       <img src="img2/Attendance_List_Step_16.png" alt="Attendance List Step 16">
     </p>  
 
-17. Click the "Refresh" button if you wish to get the latest information of the jobs.
+17. Click "Filter Attendance Record".
     
     <p align="center">
       <img src="img2/Attendance_List_Step_17.png" alt="Attendance List Step 17">
     </p>  
 
-18. Click on the "+" button if you want to add a new job under this project.
+18. Click on the "Filter Variable" you want.
     
     <p align="center">
       <img src="img2/Attendance_List_Step_18.png" alt="Attendance List Step 18">
+    </p>
+
+19. Enter the "Filter Value" you want.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_19.png" alt="Attendance List Step 19">
+    </p>  
+
+20. Press the "Enter" key to filter.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_20.png" alt="Attendance List Step 20">
+    </p>
+
+21. The attendance list with the filter will be shown as below.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_21.png" alt="Attendance List Step 21">
+    </p>  
+
+22. Click "Favourite Filter' to save the filter as favourite filter.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_22.png" alt="Attendance List Step 22">
+    </p>
+
+23. Click "+ Add".
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_23.png" alt="Attendance List Step 23">
+    </p>  
+
+24. Enter the name of the favourite filter.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_24.png" alt="Attendance List Step 24">
+    </p>
+
+25. Click on the "Save" button.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_25.png" alt="Attendance List Step 25">
+    </p>  
+
+26. The favourite filter has been saved successfully and you can apply it whenever you want.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_26.png" alt="Attendance List Step 26">
+    </p>
+
+27. Click "Clear All" to remove all the filters applied.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_27.png" alt="Attendance List Step 27">
+    </p>  
+
+28. Click "Export Excel" to get the report of the attendance list in excel format.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_28.png" alt="Attendance List Step 28">
+    </p>
+
+29. Click "Export Summary Report" to get the summary report of the attendance list.
+    
+    <p align="center">
+      <img src="img2/Attendance_List_Step_29.png" alt="Attendance List Step 29">
     </p>
     <br><br><br>
 
