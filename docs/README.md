@@ -107,6 +107,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New Job?](Add_New_Job.md)
 
 
+### Dashboard
+- [Job Dashboard](Job_Dashboard.md)
+
+  
 ### Customer List
 - [How to Add New Customer?](Add_New_Customer.md)
 - [Customer List](Customer_List.md)
