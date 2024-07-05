@@ -4,7 +4,7 @@
 - [Desktop Version](#section1)<br>
 - [Mobile App Version](#section2)<br><br><br>
 
-*Note: The tutorial below is based on Asset Page but all of these can be applied to other data level such as Customer, Project, Job, and Digital Form.
+*Note: The tutorial below is based on Asset Page but all of these can be applied to other data level such as Customer, Project, Job, and Digital Form.<br>
 
   <a id="section1"></a>
    
