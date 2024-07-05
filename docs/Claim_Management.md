@@ -178,3 +178,91 @@
     <p align="center">
       <img src="img2/Claims_Management_Step_23.png" alt="Claims Management Step 23">
     </p>
+
+24. Click on the status you want for the claim.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_24.png" alt="Claims Management Step 24">
+    </p>
+
+25. Click "Save 1 selected".
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_25.png" alt="Claims Management Step 25">
+    </p>
+
+26. Click on the "Submit" button to update the claims.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_26.png" alt="Claims Management Step 26">
+    </p>
+
+27. Your changes have been saved successfully when this prompt appears.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_27.png" alt="Claims Management Step 27">
+    </p>
+
+28. If you want to select more and change to one status, tick the boxes of the claims you want.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_28.png" alt="Claims Management Step 28">
+    </p>
+
+29. Click "Update All Status".
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_29.png" alt="Claims Management Step 29">
+    </p>
+
+30. Click on the "Status" you want to update to.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_30.png" alt="Claims Management Step 30">
+    </p>
+
+31. Click "Save 3 selected".
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_31.png" alt="Claims Management Step 31">
+    </p>
+
+32. Click on the "Submit" button.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_32.png" alt="Claims Management Step 32">
+    </p>
+
+33. Your changes have been saved successfully when this prompt appears.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_33.png" alt="Claims Management Step 33">
+    </p>
+    <br><br>
+
+    <a id="section7"></a>
+ 
+    **Refresh**  
+
+34. Click "Refresh" icon to get the latest information on claims.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_34.png" alt="Claims Management Step 34">
+    </p>
+    <br><br>
+
+    <a id="section8"></a>
+ 
+    **Export** 
+
+35. Click "Export" icon to download the claims list.
+
+    <p align="center">
+      <img src="img2/Claims_Management_Step_35.png" alt="Claims Management Step 35">
+    </p>
+    <br><br><br>
+
+**Related Articles**
+- [Overtime Management](Overtime_Management.md)
+- [Attendance List](Attendance_List.md)
+- [Office Check-In Settings](Office_Check_In_Settings.md)
