@@ -1,6 +1,3 @@
-Version 1.0<br>
-Created: 5 July 2024<br>
-Updated: 5 July 2024<br>
 ### Update Report Page
 
 The Update Report Page allows you to **generate** and **customize** reports across various types similar to the Report Page. In addition to the comprehensive report generation and customization features, this page includes a **comment section** which allowing you to view and manage comments related to each report, enhancing collaboration and tracking.<br>
