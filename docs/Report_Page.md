@@ -1,6 +1,6 @@
 Version 1.0<br>
-Created: 4 July 2024<br>
-Updated: 4 July 2024<br>
+Created: 5 July 2024<br>
+Updated: 5 July 2024<br>
 ## Report Page
 
 The Report Page allows you to **generate** and **customize** reports across various type including job, project, asset, digital form, public form, and reminder which provide a comprehensive overview and detailed insights into your data.<br>
