@@ -1,9 +1,6 @@
 ## How to Generate and Share QR Code for Public Form?
 
-*Note: The tutorial below is based on Asset Page but all of these can be applied to other data level such as Customer, Project, Job and Digital Form.<br><br>
-
-
-
+**Navigate to the section by clicking it.**<br>
 - [Desktop Version](#section1)<br>
 - [Mobile App Version](#section2)<br><br><br>
 
