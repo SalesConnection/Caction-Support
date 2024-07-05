@@ -267,5 +267,6 @@
     <br><br><br>
 
 **Related Articles**
+- [Claim Management](Claim_Management.md)
 - [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
