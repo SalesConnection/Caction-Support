@@ -1,6 +1,9 @@
 ## How to Generate and Share QR Code for Public Form?
 
-*Note: Provide a QR code for customers who prefer to submit service inquiries or tech support tickets via a form. This allows them to access and submit the form at their convenience.
+*Note: The tutorial below is based on Asset Page but all of these can be applied to other data level such as Customer, Project, Job and Digital Form.<br><br>
+
+
+
 - [Desktop Version](#section1)<br>
 - [Mobile App Version](#section2)<br><br><br>
 
