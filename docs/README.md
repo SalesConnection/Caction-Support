@@ -91,6 +91,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
+- [How to Add New Product/Services?](Add_New_Product&Service_List.md)
 
   
 ## Features Knowledge 
