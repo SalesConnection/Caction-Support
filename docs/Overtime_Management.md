@@ -2,6 +2,17 @@
 
 **Overtime Management** tracks employee overtime claims, including the date, time, user, customer, notes, category, description, and start/end times. It ensures accurate recording and monitoring of overtime hours for compensation and compliance.<br><br>
 
+**Navigate to the section by clicking it.**<br>
+
+- [Default Columns](#section1)<br>
+- [Filter](#section2)<br>
+- [Favourite Filter](#section3)<br>
+- [Default Filter](#section4)<br>
+- [Clear All Filter](#section5)<br>
+- [Change Claim Status](#section6)<br>
+- [Refresh](#section7)<br>
+- [Export](#section8)
+<br><br><br>
 
 1. At the desktop site navigation bar, go to HR Suite > Overtime Management.<br>
    **Open Overtime Management Here:** [https://salesconnection.my/claim/overtime](https://salesconnection.my/claim/overtime)<br>
@@ -9,6 +20,11 @@
    <p align="center">
       <img src="img2/Overtime_Management_Step_1.png" alt="Overtime Management Step 1">
    </p>
+   <br><br>
+
+   <a id="section1"></a>
+
+   **Default Columns**
 
 2. Click "Default Columns".
 
@@ -45,7 +61,12 @@
    <p align="center">
       <img src="img2/Overtime_Management_Step_7.png" alt="Overtime Management Step 7">
    </p>
-  
+   <br><br>
+
+   <a id="section2"></a>
+
+   **Filter**  
+
 8. Click "Search" to filter the list.
 
    <p align="center">
@@ -75,7 +96,12 @@
     <p align="center">
       <img src="img2/Overtime_Management_Step_12.png" alt="Overtime Management Step 12">
     </p>
-  
+    <br><br>
+
+    <a id="section3"></a>
+ 
+    **Favourite Filter**  
+
 13. Click on "Favourite Filter".
 
     <p align="center">
@@ -105,6 +131,11 @@
     <p align="center">
       <img src="img2/Overtime_Management_Step_17.png" alt="Overtime Management Step 17">
     </p>  
+    <br><br>
+
+    <a id="section4"></a>
+ 
+    **Default Filter**  
 
 18. Click on "Favourite Filter".
     
@@ -129,12 +160,22 @@
     <p align="center">
       <img src="img2/Overtime_Management_Step_21.png" alt="Overtime Management Step 21">
     </p>  
+    <br><br>
+
+    <a id="section5"></a>
+ 
+    **Clear All Filter**  
 
 22. Click "Clear All" to remove the filter applied.
     
     <p align="center">
       <img src="img2/Overtime_Management_Step_22.png" alt="Overtime Management Step 22">
     </p>
+    <br><br>
+
+    <a id="section6"></a>
+ 
+    **Change Claim Status**  
 
 23. Scroll the list to "Status" and click on the status of the overtime claim you want to take action.
     
@@ -201,12 +242,22 @@
     <p align="center">
       <img src="img2/Overtime_Management_Step_33.png" alt="Overtime Management Step 33">
     </p>
+    <br><br>
+
+    <a id="section7"></a>
+ 
+    **Refresh**  
 
 34. Click "Refresh" icon to get the latest information on overtime claims.
     
     <p align="center">
       <img src="img2/Overtime_Management_Step_34.png" alt="Overtime Management Step 34">
     </p>
+    <br><br>
+
+    <a id="section8"></a>
+ 
+    **Export**  
 
 35. Click "Export" icon to download the overtime claims list.
     
