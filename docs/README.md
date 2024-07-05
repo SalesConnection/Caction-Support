@@ -128,7 +128,6 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ## Business Reports
 - [Report Page](Report_Page.md)
-- [Update Report Page](Report_Update_Page.md)
 
   
 ## Company Settings
