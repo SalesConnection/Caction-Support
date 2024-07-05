@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 5 July 2024<br>
+Updated: 5 July 2024<br>
 ## Job Schedule Page
 
 **Job Schedule** organizes and displays upcoming jobs and tasks in a calendar format, detailing job descriptions, statuses, and assigned personnel. It helps users manage and track the scheduling and progress of various jobs.<br><br>
@@ -394,5 +397,4 @@
 
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
-- [Project Schedule Page](Project_Schedule_Page.md)
-- [Wizard Page](Wizard_Page.md)
+
