@@ -1,4 +1,4 @@
-## How to do Mobile login using OTP?
+## How to do Mobile Login using OTP?
     
 1. At the desktop site's navigation bar, go to User Management > User List.
 
