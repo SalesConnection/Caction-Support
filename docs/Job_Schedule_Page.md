@@ -90,104 +90,110 @@
     | Terms | Description |
     |-------|-------------|
     | All | Will display all Jobs that the user has View or Assign access to |
-    | Assign | Will display all Jobs that the user has View or Assign access to |
-    | Alert | Will display all Jobs that the user has View or Assign access to |
+    | Assign | Will only display Jobs that the user is Assigned to |
+    | Alert | Will only display Jobs that the user is Alerted in |
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_13.png" alt="Job Schedule Step 13">
     </p>
 
-15. Click "Alert".
+14. Click "Alert".
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_14.png" alt="Job Schedule Step 14">
     </p>
   
-16. Jobs with the filter will be shown as below.
+15. Jobs with the filter will be shown as below.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_15.png" alt="Job Schedule Step 15">
     </p>
   
-17. Click on the filter bar.
+16. Click on the filter bar.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_16.png" alt="Job Schedule Step 16">
     </p>  
 
-18. Click on the filter variable you want to filter the jobs.
+17. Click on the filter variable you want to filter the jobs.
     
     <p align="center">
       <img src="img2/Job_Schedule_Step_17.png" alt="Job Schedule Step 17">
     </p>  
 
-19. Select the filter value you want.
+18. Select the filter value you want.
     
     <p align="center">
       <img src="img2/Job_Schedule_Step_18.png" alt="Job Schedule Step 18">
     </p>
   
-20. Click on the "Done" button.
+19. Click on the "Done" button.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_19.png" alt="Job Schedule Step 19">
     </p>
   
-21. The jobs with the filter will be shown as below.
+20. The jobs with the filter will be shown as below.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_20.png" alt="Job Schedule Step 20">
     </p>  
 
-22. Click "Favourite Filter" if you want to set the filter as favourite filter.
+21. Click "Favourite Filter" if you want to set the filter as favourite filter.
     
     <p align="center">
       <img src="img2/Job_Schedule_Step_21.png" alt="Job Schedule Step 21">
     </p>  
 
-23. Click "+ Add".
+22. Click "+ Add".
     
     <p align="center">
       <img src="img2/Job_Schedule_Step_22.png" alt="Job Schedule Step 22">
     </p>
   
-24. Enter the name of the favourite filter.
+23. Enter the name of the favourite filter.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_23.png" alt="Job Schedule Step 23">
     </p>
   
-25. Click "Save" and the favourite filter has been saved successfully.
+24. Click "Save" and the favourite filter has been saved successfully.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_24.png" alt="Job Schedule Step 24">
     </p>  
 
-26. Click "Favourite Filter" if you want to set a favourite filter as default filter.
+25. Click "Favourite Filter" if you want to set a favourite filter as default filter.
     
     <p align="center">
       <img src="img2/Job_Schedule_Step_25.png" alt="Job Schedule Step 25">
     </p>  
 
-27. Click "Default Filter".
+26. Click "Default Filter".
     
     <p align="center">
       <img src="img2/Job_Schedule_Step_26.png" alt="Job Schedule Step 26">
     </p>
   
-28. Select the favourite filter you want to set as default filter.
+27. Select the favourite filter you want to set as default filter.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_27.png" alt="Job Schedule Step 27">
     </p>
   
-29. The default filter has been saved successfully and it will be apply automatically everytime you entered this page.
+28. The default filter has been saved successfully and it will be apply automatically everytime you entered this page.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_28.png" alt="Job Schedule Step 28">
     </p>  
 
-30. Click “Clear All” if you want to reset all filters applied previously. 
+29. Click “Clear All” if you want to reset all filters applied previously. 
+     
+    <p align="center">
+      <img src="img2/Job_Schedule_Step_29.png" alt="Job Schedule Step 29">
+    </p>  
+
+30. Click on the options to filter the jobs.
 
     | Terms | Description |
     |-------|-------------|
@@ -195,18 +201,12 @@
     | Overdue Job | Jobs that are past End DateTime but are still not yet Completed/Cancelled |
     | Alerted | Jobs that the user is Alerted in |
     | Order by Asc/Desc | Arrange Jobs by when it was created. Oldest to Newest or vice versa |
-     
-    <p align="center">
-      <img src="img2/Job_Schedule_Step_29.png" alt="Job Schedule Step 29">
-    </p>  
 
-32. Click on the options to filter the jobs.
-    
     <p align="center">
       <img src="img2/Job_Schedule_Step_30.png" alt="Job Schedule Step 30">
     </p>
   
-33. Click on the "+" button to add a new job.
+31. Click on the "+" button to add a new job.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_31.png" alt="Job Schedule Step 31">
