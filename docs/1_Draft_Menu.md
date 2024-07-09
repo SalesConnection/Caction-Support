@@ -102,6 +102,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Why is the Console Tab showing a different number of jobs for the same customer?](Different_Number_Jobs_For_Same_Customer.md)
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 - [How to Add New Product/Services?](Add_New_Product&Service_List.md)
+- [Comment Category Segmentation](Comment_Category_Segmentation.md)
   
   
 ## Features Knowledge 
