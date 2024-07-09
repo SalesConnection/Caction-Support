@@ -1,6 +1,6 @@
 ## Comment Category Segmentation
 
-Save your office address(es) into the system and set them up for your team to clock in and out of the office with our Office Check-In feature. This gives the team an alternative to check in/out to locations deemed as your office address without requiring a Job on it.<br><br>
+**Comment Category Segmentation** page organizes and manages comments by segmenting them into specific categories. This feature allows you to classify and filter comments based on different aspects of your projects, jobs, or assets, ensuring better clarity and efficient access within the system.<br><br>
 
 1. At the desktop site navigation bar, go to Wizard.<br>
    **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
