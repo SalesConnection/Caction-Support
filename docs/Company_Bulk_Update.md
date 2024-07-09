@@ -1,6 +1,6 @@
 ## How to do Customer/Project/Product/Services/UOM Bulk Update?
 
-*Note: This guide for Bulk Update is to batch edit existing data in the system. To import new data, please refer to import guide [link]. 
+*Note: This guide for Bulk Update is to batch edit existing data in the system. To import new data, please refer to the related articles attached at the bottom of the page. 
   
   1. If you want to do bulk update for customer, at the desktop site's navigation bar, go to Import > Customer Bulk Update.<br>
      **Do Customer Bulk Update Here:** [https://salesconnection.my/customerbulkimport](https://salesconnection.my/customerbulkimport)<br>
