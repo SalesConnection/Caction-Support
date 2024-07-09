@@ -66,16 +66,16 @@ Save your office address(es) into the system and set them up for your team to cl
 
 11. Click "Yes" to confirm.
 
-   <p align="center">
-      <img src="img2/Comment_Category_Segmentation_Step_11.png" alt="Comment Category Segmentation Step 11">
-   </p>
+    <p align="center">
+       <img src="img2/Comment_Category_Segmentation_Step_11.png" alt="Comment Category Segmentation Step 11">
+    </p>
   
 12. The comment category has been saved when this prompt appears.
 
-   <p align="center">
-      <img src="img2/Comment_Category_Segmentation_Step_12.png" alt="Comment Category Segmentation Step 12">
-   </p>  
-   <br><br><br>
+    <p align="center">
+       <img src="img2/Comment_Category_Segmentation_Step_12.png" alt="Comment Category Segmentation Step 12">
+    </p>  
+    <br><br><br>
 
 **Related Articles**
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
