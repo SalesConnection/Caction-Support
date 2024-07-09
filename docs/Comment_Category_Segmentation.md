@@ -1,4 +1,4 @@
-## Category Segmentation
+## Comment Category Segmentation
 
 Save your office address(es) into the system and set them up for your team to clock in and out of the office with our Office Check-In feature. This gives the team an alternative to check in/out to locations deemed as your office address without requiring a Job on it.<br><br>
 
