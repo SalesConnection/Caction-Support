@@ -1,4 +1,4 @@
-## How Do I Add New Category in Digital Form?
+## How do I Add New Category in Digital Form?
     
   1. For example, if you wish to add new category in Delivery Order. At the desktop site's navigation bar, go to Company Settings > Digital Form Settings > Digital Form Category.<br>
 
