@@ -52,31 +52,31 @@
       <img src="img2/Project_Schedule_Step_8.png" alt="Project Schedule Step 8">
    </p>
   
-9. Click on the Customer you want.
+9. From the list, click on the Customer you would like to select.
 
    <p align="center">
       <img src="img2/Project_Schedule_Step_9.png" alt="Project Schedule Step 9">
    </p>
   
-10. Click on the Project you want to view.
+10. From the list, click on the Project you would like to select.
 
     <p align="center">
       <img src="img2/Project_Schedule_Step_10.png" alt="Project Schedule Step 10">
     </p>
 
-11. Click "Month View".
+11. To have a clearer view of the Jobs, you may change the “Month View” filter by clicking on it.
 
     <p align="center">
       <img src="img2/Project_Schedule_Step_11.png" alt="Project Schedule Step 11">
     </p>
   
-12. Select the view options you want. For example, click "Days View".
+12. Choose the view options you would like to select. In this example, we will pick “Day View”.
 
     <p align="center">
       <img src="img2/Project_Schedule_Step_12.png" alt="Project Schedule Step 12">
     </p>
   
-13. Click the "previous" and "next" buttons to view another month's jobs.
+13. Click the arrow icons to change the month of the calendar during this “Day View”.
 
     <p align="center">
       <img src="img2/Project_Schedule_Step_13.png" alt="Project Schedule Step 13">
@@ -90,7 +90,7 @@
       <img src="img2/Project_Schedule_Step_14.png" alt="Project Schedule Step 14">
     </p>
   
-15. As the next job is related to the job, click "Update 1 Job" if you wish to extend the next job.
+15. As the next job(s) is/are related to the job, click “Update X Job” if you wish to extend the next job(s).
 
     *Note: The duration of the job will not be changed.<br>
 
