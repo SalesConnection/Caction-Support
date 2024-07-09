@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 9 July 2024<br>
+Updated: 9 July 2024<br>
 ## How to check if my staff have any pending updates?
 
 Check on any pending upload item(s) by each of your user. If you receive a message saying "Unable to Retrieve Results", it could mean the following reason(s):
