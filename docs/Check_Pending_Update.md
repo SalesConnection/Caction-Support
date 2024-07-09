@@ -2,9 +2,9 @@
 
 Check on any pending upload item(s) by each of your user. If you receive a message saying "Unable to Retrieve Results", it could mean the following reason(s):
 
-1. Selected user has an unstable connection and system is unable to connect to their device.
-2. Selected user did not have the app running in the background.
-3. Selected user had swiped off the app.<br><br>
+ i. Selected user has an unstable connection and system is unable to connect to their device.<br>
+ ii. Selected user did not have the app running in the background.<br>
+ iii. Selected user had swiped off the app.<br><br>
 
 1. At the desktop site's Main Navigation, go to User Management > Check Pending Update.<br>
    **Check Pending Update here**: [https://salesconnection.my/checkPendingUploads](https://salesconnection.my/checkPendingUploads)<br>
