@@ -224,11 +224,4 @@ Updated: 9 July 2024<br>
 
    <p align="center">
      <img src="img/Public_Form.png" alt="Public Form" width="280" height="550">
-   </p><br>
-
-**Related Articles**<br>
-- [How to Create Digital Form?](Create_Digital_Form.md)
-- [Digital Form Template Settings](Digital_Form_Template_Settings.md)
-- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
-- [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
-- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
+   </p>
