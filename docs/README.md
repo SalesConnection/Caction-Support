@@ -130,7 +130,11 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ## Business Reports
 - [Report Page](Report_Page.md)
 
-  
+
+## HR Suite 
+- [Office Check-In Settings](Office_Check_In_Settings.md)
+
+
 ## Company Settings
 ### Job Settings 
 - [To-do List Setup](To_Do_List.md)
