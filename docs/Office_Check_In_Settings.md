@@ -78,13 +78,13 @@ Save your office address(es) into the system and set them up for your team to cl
        <img src="img/Office_Check_In_Settings_Step_10.png" alt="Office Check In Settings Step 10">
     </p>
 
-    *Note: If no location is set, the user will be able to perform office check-in/out anywhere.<br>
+    *Note: If no location is set, the user will be able to perform office check-in/out from anywhere.<br>
     <br><br>
 
 <a id="section2"></a>
 
 ### Clear Assigned User
-
+To remove/clear off all the assigned users from being able to use the registered location for their office check in/out, follow the steps below.<br>
 1. Click on the "Clear" icon to clear the assigned user.
 
    <p align="center">
@@ -107,6 +107,7 @@ Save your office address(es) into the system and set them up for your team to cl
 <a id="section3"></a>
 
 ### Delete Office Check-In
+To delete the registered location set for your office check in/out, follow the steps below.<br>
 
 1. Click on the "Delete" icon beside the office check-in you want to delete.
 
