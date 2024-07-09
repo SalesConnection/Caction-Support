@@ -6,8 +6,6 @@ Check on any pending upload item(s) by each of your user. If you receive a messa
 2. Selected user did not have the app running in the background.
 3. Selected user had swiped off the app.<br><br>
 
-*Note: Only certain admins can perform this action.<br>
-
 1. At the desktop site's Main Navigation, go to User Management > Check Pending Update.<br>
    **Check Pending Update here**: [https://salesconnection.my/checkPendingUploads](https://salesconnection.my/checkPendingUploads)<br>
 
@@ -49,7 +47,7 @@ Check on any pending upload item(s) by each of your user. If you receive a messa
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_5a.png" alt="Check Pending Data Using Desktop Step 5a" width="280" height="550">
    </p><br>
 
-7. In the desktop admin's view, either one of the results shown in the pictures below will appear.<br>
+6. In the desktop admin's view, either one of the results shown in the pictures below will appear.<br>
 
    a. The user has pending data:
    <p align="center">
@@ -59,9 +57,9 @@ Check on any pending upload item(s) by each of your user. If you receive a messa
    b. The user didn't have pending data:
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_6a.png" alt="Check Pending Data Using Desktop Step 6a">
-   </p><br>
-
-8. Note: If the user has pending data, these will be updated automatically. Please advise the user to perform this action when their network is stable.
+   </p>
+   
+   *Note: If the user has pending data, these will be updated automatically. Please advise the user to perform this action when their network is stable.
 
 <br><br><br>
 **Related Articles**
