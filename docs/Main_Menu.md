@@ -7,7 +7,7 @@
    <details>
    <summary>View User Management Articles</summary>
    <br>
-   - <a href="Add_New_User.html">How to Add New User?</a><br>'
+   - <a href="Add_New_User.html">How to Add New User?</a><br>
    - <a href="Copy_Account.html">How to Copy Account for New User?</a><br>
    - <a href="Add_New_User_Category.html">How to Add New User Category?</a><br>
    - <a href="Delete,_Deactivate_or_Change_User.html">How Do I Delete/Deactivate a Resigned User or Change to a New User?</a><br>
