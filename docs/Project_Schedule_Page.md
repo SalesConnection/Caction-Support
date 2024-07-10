@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 10 July 2024<br>
+Updated: 10 July 2024<br>
 ## Project Schedule Page
 
 **Project Schedule** provides an overview of the job timelines of the project. It helps users track the progress and deadlines of various jobs under one project in a calendar format.<br><br>
@@ -120,4 +123,4 @@
 **Related Articles**
 - [How to Add New Project?](Add_New_Project.md)
 - [Job Schedule Page](Job_Schedule_Page.md)
-- [Wizard Page](Wizard_Page.md)
+  
