@@ -6,6 +6,7 @@
 
 - [Filter](#section1)<br>
 - [Default Columns](#section2)<br>
+- [View Submitted Public Form](#section3)<br>
 <br><br><br>
 
 
@@ -42,6 +43,10 @@
 <a id="section2"></a>
 
 ### Default Columns
+
+<a id="section3"></a>
+
+### View Submitted Public Form
 
 5. Click on the expand button to view for the public form.
 
