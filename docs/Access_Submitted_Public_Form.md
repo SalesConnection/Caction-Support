@@ -2,6 +2,11 @@
 
 *Note: If you are unable to access the Public Form, please reach out to your admin for assistance.
 
+**Navigate to the section by clicking it.**<br>
+
+- [Digital Form Category](#section1)<br>
+- [Filter](#section2)<br>
+
 1. At the navigation bar, go to Business Report > Public Form Report.
 
    <p align="center">
