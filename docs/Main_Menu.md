@@ -89,6 +89,13 @@
    - [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
    - [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
    - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
+   - [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options_in_Digital_Form.md)
+   - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
+   - [How to Use Dropdown Field in Job/Project/Customer?](How_to_Use_Dropdown_Field_in_Job_Project_Customer.md)
+   - [How do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
+   - [How do I Add New Category in Digital Form?](Add_New_Category_in_Digital_Form.md)
+   - [How do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)
+   - [How do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
    </details>
    <br><br>
    
