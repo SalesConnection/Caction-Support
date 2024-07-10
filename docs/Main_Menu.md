@@ -135,12 +135,12 @@
    <details>
    <summary>View Business Management Articles</summary>
    <br>
-   - <a href="Add_New_User.html">How to Add New User?</a><br>
-   - <a href="Copy_Account.html">How to Copy Account for New User?</a><br>
-   - <a href="Add_New_User_Category.html">How to Add New User Category?</a><br>
-   - <a href="Delete,_Deactivate_or_Change_User.html">How Do I Delete/Deactivate a Resigned User or Change to a New User?</a><br>
-   - <a href="Configure_Public_Form_Access_in_UAC.html">How to Configure Public Form Access in UAC (Done by Admin)?</a><br>
-   - <a href="Admin_Reset_App_Access.html">How does an Admin Reset App Access for a User?</a><br>
+   - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
+   - [How to comment with photo / attachment?](Comment_With_Photo.md)
+   - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
+   - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
+   - [How to Add New Product/Services?](Add_New_Product&Service_List.md)
+   - [Comment Category Segmentation](Comment_Category_Segmentation.md)
    </details>
    <br><br>
    
