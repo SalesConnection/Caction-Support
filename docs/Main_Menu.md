@@ -39,12 +39,10 @@
    <details>
    <summary>View Check In/Check Out Articles</summary>
    <br>
-   - <a href="Add_New_User.html">How to Add New User?</a><br>
-   - <a href="Copy_Account.html">How to Copy Account for New User?</a><br>
-   - <a href="Add_New_User_Category.html">How to Add New User Category?</a><br>
-   - <a href="Delete,_Deactivate_or_Change_User.html">How Do I Delete/Deactivate a Resigned User or Change to a New User?</a><br>
-   - <a href="Configure_Public_Form_Access_in_UAC.html">How to Configure Public Form Access in UAC (Done by Admin)?</a><br>
-   - <a href="Admin_Reset_App_Access.html">How does an Admin Reset App Access for a User?</a><br>
+   - [I Forgot to Check Out, How?](Assist_Check_Out.md)
+   - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
+   - [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
+   - [How to Adjust Geofencing Radius?](Adjust_Geofencing_Radius.md)
    </details>
    <br><br>
 
