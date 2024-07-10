@@ -137,30 +137,11 @@
    <br>
    - <a href="Data_Level_Structure.html">Data Level Structure</a><br>
    - <a href="User_Types_Default_Access.html">User Type Default Access</a><br>
-   - <a href="Add_New_Project.html">How to Add New Project?</a><br>
-   - <a href="Create_Digital_Form.html">How to Create Digital Form?</a><br>
-   - <a href="Creation_of_Public_Form.html">How to Generate and Share QR Code for Public Form?</a><br>
-   - <a href="Add_New_Job.html">How to Add New Job?</a><br>
-   - <a href="Job_Schedule_Page.html">Job Schedule Page</a><br>
-   - <a href="Project_Schedule_Page.html">Project Schedule Page</a><br>
-   - <a href="Asset_Dashboard.html">Asset Dashboard</a><br>
-   - <a href="Job_Dashboard.html">Job Dashboard</a><br>
-   - <a href="Add_New_Customer.html">How to Add New Customer?</a><br>
-   - <a href="Customer_List.html">Customer List</a><br>
-   - <a href="How_to_Add_New_Asset.html">How to Add New Asset?</a><br>
    - <a href="Product_Services_List.html">Product/Services List</a><br>
-   - <a href="Report_Page.html">Report Page</a><br>
-   - <a href="Report_Update_Page.html">Update Report Page</a><br>
-   - <a href="Access_Submitted_Public_Form.html">How to Access Submitted Public Form?</a><br>
    - <a href="To_Do_List.html">To-do List Setup</a><br>
-   - <a href="Setup_Job_Template.html">How to Setup Job Template Page?</a><br>
-   - <a href="Digital_Form_Template_Settings.html">Digital Form Template Settings</a><br>
-   - <a href="Create_PDF.html">How to Set Up Digital Form PDF Template?</a><br>
-   - <a href="Setup_Public_Form_Template_Page.html">How to Setup Public Form Template Page?</a><br>
    - <a href="UAC_Policy_Management.html">UAC Policy Management</a><br>
    - <a href="Company_Profile_Settings.html">Company Profile Settings</a><br>
    - <a href="Wizard_Page.html">Wizard Page</a><br>
-   - <a href="Export_Report.html">How to Pull Out Job/Project/Form Report?</a><br>
    - <a href="Comment_With_Photo.html">How to comment with photo / attachment?</a><br>
    - <a href="View_Business_Travelling.html">Where can I view my team's travelling for the month?</a><br>
    - <a href="Access_Submitted_Public_Form.html">How to Access Submitted Public Form?</a><br>
@@ -172,8 +153,87 @@
    - <a href="Request_Signature_Company_Stamp.html">How to Sign and Upload Company Stamp into Digital Form?</a><br>
    </details>
    <br><br>
+
+**10. Project Management**<br>
+
+   Efficient project management, planning, scheduling, tracking, and reporting.<br>
    
-**10. HR Suite**<br>
+   <details>
+   <summary>View Project Management Articles</summary>
+   <br>
+   - <a href="Add_New_Project.html">How to Add New Project?</a><br>
+   - <a href="Project_Schedule_Page.html">Project Schedule Page</a><br>
+   </details>
+   <br><br>
+    
+**11. Asset Management**<br>
+
+   Guidelines for handling and monitoring assets.<br>
+   
+   <details>
+   <summary>View Asset Management Articles</summary>
+   <br>
+   - <a href="How_to_Add_New_Asset.html">How to Add New Asset?</a><br>
+   - <a href="Asset_Dashboard.html">Asset Dashboard</a><br>
+   </details>
+   <br><br>
+
+**12. Customer Management**<br>
+
+   Guidelines for managing customer information and utilizing customer lists.<br>
+   
+   <details>
+   <summary>View Customer Management Articles</summary>
+   <br>
+   - <a href="Add_New_Customer.html">How to Add New Customer?</a><br>
+   - <a href="Customer_List.html">Customer List</a><br>
+   </details>
+   <br><br>
+
+**13. Reporting**<br>
+
+   Generating and managing reports for business performance monitoring.<br>
+   
+   <details>
+   <summary>View Reporting Articles</summary>
+   <br>
+   - <a href="Report_Page.html">Report Page</a><br>
+   - <a href="Report_Update_Page.html">Update Report Page</a><br>
+   - <a href="Export_Report.html">How to Pull Out Job/Project/Form Report?</a><br>
+   </details>
+   <br><br>
+
+**14. Job Management**<br>
+
+   Comprehensive guides on managing jobs from creation to status updates.<br>
+   
+   <details>
+   <summary>View Job Management Articles</summary>
+   <br>
+   - <a href="Add_New_Job.html">How to Add New Job?</a><br>
+   - <a href="Job_Schedule_Page.html">Job Schedule Page</a><br>
+   - <a href="Job_Dashboard.html">Job Dashboard</a><br>
+   - <a href="Setup_Job_Template.html">How to Setup Job Template Page?</a><br>
+   </details>
+   <br><br>
+
+**15. Form Management**<br>
+
+   Creating, customizing, and managing digital forms.<br>
+   
+   <details>
+   <summary>View Form Management Articles</summary>
+   <br>
+   - <a href="Create_Digital_Form.html">How to Create Digital Form?</a><br>
+   - <a href="Creation_of_Public_Form.html">How to Generate and Share QR Code for Public Form?</a><br>
+   - <a href="Setup_Public_Form_Template_Page.html">How to Setup Public Form Template Page?</a><br>
+   - <a href="Access_Submitted_Public_Form.html">How to Access Submitted Public Form?</a><br>
+   - <a href="Digital_Form_Template_Settings.html">Digital Form Template Settings</a><br>
+   - <a href="Create_PDF.html">How to Set Up Digital Form PDF Template?</a><br>
+   </details>
+   <br><br>
+
+**16. HR Suite**<br>
 
    Tools and processes for managing employee-related tasks, including claim management, attendance tracking, and office check-in settings.<br>
    
