@@ -53,12 +53,15 @@
    <details>
    <summary>View Data Management Articles</summary>
    <br>
-   - <a href="Add_New_User.html">How to Add New User?</a><br>
-   - <a href="Copy_Account.html">How to Copy Account for New User?</a><br>
-   - <a href="Add_New_User_Category.html">How to Add New User Category?</a><br>
-   - <a href="Delete,_Deactivate_or_Change_User.html">How Do I Delete/Deactivate a Resigned User or Change to a New User?</a><br>
-   - <a href="Configure_Public_Form_Access_in_UAC.html">How to Configure Public Form Access in UAC (Done by Admin)?</a><br>
-   - <a href="Admin_Reset_App_Access.html">How does an Admin Reset App Access for a User?</a><br>
+   - [How to Import New Customer(s)?](Import_Customer.md)
+   - [How to Import New Project(s)?](Import_Project.md)
+   - [How to Import New Product/Services(s)?](Import_Product_Services.md)
+   - [How do I Import New Asset(s)?](Import_Asset.md)
+   - [How to Import New UOM(s)?](Import_UOM.md)
+   - [How do I Import New User(s)?](Import_User.md)
+   - [How to Import New Contact(s)?](Import_Contact.md)
+   - [How to do Customer/Project/Product/Services/UOM Bulk Update?](Company_Bulk_Update.md)
+   - [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
    </details>
    <br><br>
    
