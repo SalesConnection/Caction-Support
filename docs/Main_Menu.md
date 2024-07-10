@@ -23,12 +23,12 @@
    <details>
    <summary>View Login & Authentication Articles</summary>
    <br>
-   - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)<br>
-   - [How to Assist My New User to Login?](New_User_Login.md)<br>
-   - [I Can't Login to My Other Phone. Why?](IMEI.md)<br>
-   - [How to enable or disable IMEI Login Check? (Device Changing Detection)](Turn_Off_IMEI.md)<br>
-   - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)<br>
-   - [How to Enable/Disable Version Access Permission? (For Staff)](Enable_Disable_Version_Access_Permission.md)<br>
+   - <a href="Login.html">How to Login Into Sales Connection Using Mobile and Desktop?</a><br>
+   - <a href="New_User_Login.html">How to Assist My New User to Login?</a><br>
+   - <a href="IMEI.html">I Can't Login to My Other Phone. Why?</a><br>
+   - <a href="Turn_Off_IMEI.html">How to enable or disable IMEI Login Check? (Device Changing Detection)</a><br>
+   - <a href="Not_Receiving_OTP.html">My Staff Did Not Receive Their OTP. What Should I Do?</a><br>
+   - <a href="Enable_Disable_Version_Access_Permission.html">How to Enable/Disable Version Access Permission? (For Staff)</a><br>
    </details>
    <br><br>
 
@@ -39,10 +39,10 @@
    <details>
    <summary>View Check In/Check Out Articles</summary>
    <br>
-   - [I Forgot to Check Out, How?](Assist_Check_Out.md)<br>
-   - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)<br>
-   - [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)<br>
-   - [How to Adjust Geofencing Radius?](Adjust_Geofencing_Radius.md)<br>
+   - <a href="Assist_Check_Out.html">I Forgot to Check Out, How?</a><br>
+   - <a href="Enable_Assist_Check_Out.html">How to Enable Assist Check Out?</a><br>
+   - <a href="Check_In_Address.html">I am at the location, but the system says I am too far from the location.</a><br>
+   - <a href="Adjust_Geofencing_Radius.html">How to Adjust Geofencing Radius?</a><br>
    </details>
    <br><br>
 
@@ -53,15 +53,15 @@
    <details>
    <summary>View Data Management Articles</summary>
    <br>
-   - [How to Import New Customer(s)?](Import_Customer.md)<br>
-   - [How to Import New Project(s)?](Import_Project.md)<br>
-   - [How to Import New Product/Services(s)?](Import_Product_Services.md)<br>
-   - [How do I Import New Asset(s)?](Import_Asset.md)<br>
-   - [How to Import New UOM(s)?](Import_UOM.md)<br>
-   - [How do I Import New User(s)?](Import_User.md)<br>
-   - [How to Import New Contact(s)?](Import_Contact.md)<br>
-   - [How to do Customer/Project/Product/Services/UOM Bulk Update?](Company_Bulk_Update.md)<br>
-   - [How to do Asset Bulk Update?](Asset_Bulk_Update.md)<br>
+   - <a href="Import_Customer.html">How to Import New Customer(s)?</a><br>
+   - <a href="Import_Project.html">How to Import New Project(s)?</a><br>
+   - <a href="Import_Product_Services.html">How to Import New Product/Services(s)?</a><br>
+   - <a href="Import_Asset.html">How do I Import New Asset(s)?</a><br>
+   - <a href="Import_UOM.html">How to Import New UOM(s)?</a><br>
+   - <a href="Import_User.html">How do I Import New User(s)?</a><br>
+   - <a href="Import_Contact.html">How to Import New Contact(s)?</a><br>
+   - <a href="Company_Bulk_Update.html">How to do Customer/Project/Product/Services/UOM Bulk Update?</a><br>
+   - <a href="Asset_Bulk_Update.html">How to do Asset Bulk Update?</a><br>
    </details>
    <br><br>
    
@@ -72,8 +72,8 @@
    <details>
    <summary>View Security & Privacy Articles</summary>
    <br>
-   - [I forgot my password. How can I recover or reset it?](Forgot_Password.md)<br>
-   - [How to Change Account Password?](Change_Account_Password.md)<br>
+   - <a href="Forgot_Password.html">I forgot my password. How can I recover or reset it?</a><br>
+   - <a href="Change_Account_Password.html">How to Change Account Password?</a><br>
    </details>
    <br><br>
    
@@ -84,18 +84,18 @@
    <details>
    <summary>View Customization Articles</summary>
    <br>
-   - [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)<br>
-   - [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)<br>
-   - [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)<br>
-   - [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)<br>
-   - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)<br>
-   - [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options_in_Digital_Form.md)<br>
-   - [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)<br>
-   - [How to Use Dropdown Field in Job/Project/Customer?](How_to_Use_Dropdown_Field_in_Job_Project_Customer.md)<br>
-   - [How do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)<br>
-   - [How do I Add New Category in Digital Form?](Add_New_Category_in_Digital_Form.md)<br>
-   - [How do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)<br>
-   - [How do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)<br>
+   - <a href="Job_Filter_by_Date_Range.html">How to Filter Job by Date Range?</a><br>
+   - <a href="Default_Favourite_Filter.html">How to Set Customized Favourite Filter as Default - Desktop</a><br>
+   - <a href="Default_Favourite_Filter_App.html">How to Set Customized Favourite Filter as Default - App</a><br>
+   - <a href="How_to_Set_Up_the_Column_View_in_the_Report_Page.html">How to Set Up the Column View in the Report Page?</a><br>
+   - <a href="Job_Update_Report_Filter.html">How to Use Update Report Filter?</a><br>
+   - <a href="Add_Dropdown_Options_in_Digital_Form.html">How to Add Dropdown Options in Digital Form?</a><br>
+   - <a href="Edit_Checklist_Dropdown_Options.html">How to Edit Checklist Dropdown Options?</a><br>
+   - <a href="How_to_Use_Dropdown_Field_in_Job_Project_Customer.html">How to Use Dropdown Field in Job/Project/Customer?</a><br>
+   - <a href="Add_New_Category_in_Customer_Project_Job.html">How do I Add New Category in Customer/Project/Job?</a><br>
+   - <a href="Add_New_Category_in_Digital_Form.html">How do I Add New Category in Digital Form?</a><br>
+   - <a href="Add_New_Status_in_Customer_Project_Job.html">How do I Add New Status in Customer/Project/Job?</a><br>
+   - <a href="Add_New_Status_in_Digital_Form.html">How do I Add New Status in Digital Form?</a><br>
    </details>
    <br><br>
    
@@ -106,11 +106,11 @@
    <details>
    <summary>View Technical Support Articles</summary>
    <br>
-   - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)<br>
-   - [How to Check Pending Update?](Check_Pending_Update.md)<br>
-   - [How to Check Pending Data?](Check_Pending_Data.md)<br>
-   - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
-   - [Why is the Console Tab showing a different number of jobs for the same customer?](Different_Number_Jobs_For_Same_Customer.md)
+   - <a href="Updates_Not_Received_by_Team_Members.html">My updates are not received by my admin and other team members. Why?</a><br>
+   - <a href="Check_Pending_Update.html">How to Check Pending Update?</a><br>
+   - <a href="Check_Pending_Data.html">How to Check Pending Data?</a><br>
+   - <a href="Can't_Load_Schedule_Page.html">I can't load the schedule page. Why?</a><br>
+   - <a href="Different_Number_Jobs_For_Same_Customer.html">Why is the Console Tab showing a different number of jobs for the same customer?</a><br>
    </details>
    <br><br>
    
@@ -121,10 +121,10 @@
    <details>
    <summary>View Notifications & Reminders Articles</summary>
    <br>
-   - [How to Edit Reminder Template?](Edit_Reminder_Template.md)
-   - [How to Create New Reminder Template?](Create_Reminder_Template.md)
-   - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
-   - [I am Not Getting Any Notification From System. Why?](I_am_Not_Getting_Any_Notification_From_System_Why.md)
+   - <a href="Edit_Reminder_Template.html">How to Edit Reminder Template?</a><br>
+   - <a href="Create_Reminder_Template.html">How to Create New Reminder Template?</a><br>
+   - <a href="Disable_Notification.html">I Get Spammed By a Lot of Notifications. How Do I Disable It?</a><br>
+   - <a href="I_am_Not_Getting_Any_Notification_From_System_Why.html">I am Not Getting Any Notification From System. Why?</a><br>
    </details>
    <br><br>
    
@@ -135,41 +135,41 @@
    <details>
    <summary>View Business Management Articles</summary>
    <br>
-   - [Data Level Structure](Data_Level_Structure.md)
-   - [User Type Default Access](User_Types_Default_Access.md)
-   - [How to Add New Project?](Add_New_Project.md)
-   - [How to Create Digital Form?](Create_Digital_Form.md)
-   - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
-   - [How to Add New Job?](Add_New_Job.md)
-   - [Job Schedule Page](Job_Schedule_Page.md)
-   - [Project Schedule Page](Project_Schedule_Page.md)
-   - [Asset Dashboard](Asset_Dashboard.md)
-   - [Job Dashboard](Job_Dashboard.md)
-   - [How to Add New Customer?](Add_New_Customer.md)
-   - [Customer List](Customer_List.md)
-   - [How to Add New Asset?](How_to_Add_New_Asset.md)
-   - [Product/Services List](Product_Services_List.md)
-   - [Report Page](Report_Page.md)
-   - [Update Report Page](Report_Update_Page.md)
-   - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
-   - [To-do List Setup](To_Do_List.md)
-   - [How to Setup Job Template Page?](Setup_Job_Template.md)
-   - [Digital Form Template Settings](Digital_Form_Template_Settings.md)
-   - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
-   - [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
-   - [UAC Policy Management](UAC_Policy_Management.md)
-   - [Company Profile Settings](Company_Profile_Settings.md)
-   - [Wizard Page](Wizard_Page.md)
-   - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
-   - [How to comment with photo / attachment?](Comment_With_Photo.md)
-   - [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
-   - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
-   - [How to Add New Product/Services?](Add_New_Product&Service_List.md)
-   - [Comment Category Segmentation](Comment_Category_Segmentation.md)
-   - [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
-   - [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
-   - [How to Request for Remote Signature From Customer?](How_to_Get_Remote_Signature_From_Customer.md)
-   - [How to Sign and Upload Company Stamp into Digital Form？](Request_Signature_Company_Stamp.md)
+   - <a href="Data_Level_Structure.html">Data Level Structure</a><br>
+   - <a href="User_Types_Default_Access.html">User Type Default Access</a><br>
+   - <a href="Add_New_Project.html">How to Add New Project?</a><br>
+   - <a href="Create_Digital_Form.html">How to Create Digital Form?</a><br>
+   - <a href="Creation_of_Public_Form.html">How to Generate and Share QR Code for Public Form?</a><br>
+   - <a href="Add_New_Job.html">How to Add New Job?</a><br>
+   - <a href="Job_Schedule_Page.html">Job Schedule Page</a><br>
+   - <a href="Project_Schedule_Page.html">Project Schedule Page</a><br>
+   - <a href="Asset_Dashboard.html">Asset Dashboard</a><br>
+   - <a href="Job_Dashboard.html">Job Dashboard</a><br>
+   - <a href="Add_New_Customer.html">How to Add New Customer?</a><br>
+   - <a href="Customer_List.html">Customer List</a><br>
+   - <a href="How_to_Add_New_Asset.html">How to Add New Asset?</a><br>
+   - <a href="Product_Services_List.html">Product/Services List</a><br>
+   - <a href="Report_Page.html">Report Page</a><br>
+   - <a href="Report_Update_Page.html">Update Report Page</a><br>
+   - <a href="Access_Submitted_Public_Form.html">How to Access Submitted Public Form?</a><br>
+   - <a href="To_Do_List.html">To-do List Setup</a><br>
+   - <a href="Setup_Job_Template.html">How to Setup Job Template Page?</a><br>
+   - <a href="Digital_Form_Template_Settings.html">Digital Form Template Settings</a><br>
+   - <a href="Create_PDF.html">How to Set Up Digital Form PDF Template?</a><br>
+   - <a href="Setup_Public_Form_Template_Page.html">How to Setup Public Form Template Page?</a><br>
+   - <a href="UAC_Policy_Management.html">UAC Policy Management</a><br>
+   - <a href="Company_Profile_Settings.html">Company Profile Settings</a><br>
+   - <a href="Wizard_Page.html">Wizard Page</a><br>
+   - <a href="Export_Report.html">How to Pull Out Job/Project/Form Report?</a><br>
+   - <a href="Comment_With_Photo.html">How to comment with photo / attachment?</a><br>
+   - <a href="View_Business_Travelling.html">Where can I view my team's travelling for the month?</a><br>
+   - <a href="Access_Submitted_Public_Form.html">How to Access Submitted Public Form?</a><br>
+   - <a href="Add_New_Product&Service_List.html">How to Add New Product/Services?</a><br>
+   - <a href="Comment_Category_Segmentation.html">Comment Category Segmentation</a><br>
+   - <a href="Can't_Access_Digital_Form.html">I can't access Digital Form. Please help.</a><br>
+   - <a href="Edit_Remote_Signature_Email_Template.html">How to Edit Remote Signature Email Template?</a><br>
+   - <a href="How_to_Get_Remote_Signature_From_Customer.html">How to Request for Remote Signature From Customer?</a><br>
+   - <a href="Request_Signature_Company_Stamp.html">How to Sign and Upload Company Stamp into Digital Form?</a><br>
    </details>
    <br><br>
    
@@ -180,10 +180,10 @@
    <details>
    <summary>View HR Suite Articles</summary>
    <br>
-   - [Claim Management](Claim_Management.md)
-   - [Overtime Management](Overtime_Management.md)
-   - [Attendance List](Attendance_List.md)
-   - [Office Check-In Settings](Office_Check_In_Settings.md)
+   - <a href="Claim_Management.html">Claim Management</a><br>
+   - <a href="Overtime_Management.html">Overtime Management</a><br>
+   - <a href="Attendance_List.html">Attendance List</a><br>
+   - <a href="Office_Check_In_Settings.html">Office Check-In Settings</a><br>
    </details>
    <br><br>
    
