@@ -7,12 +7,12 @@
    <details>
    <summary>View User Management Articles</summary>
    <br>
-   1. [How to Add New User?](Add_New_User.md)
-   2. [How to Copy Account for New User?](Copy_Account.md)
-   3. [How to Add New User Category?](Add_New_User_Category.md)
-   4. [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
-   5. [How to Configure Public Form Access in UAC (Done by Admin)?](Configure_Public_Form_Access_in_UAC.md)
-   6. [How does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
+   - <a href="[https://www.w3schools.com/](https://salesconnection.github.io/Sales-Connection-Support/Add_New_User.html)">How to Add New User?</a><br>
+   - [How to Copy Account for New User?](Copy_Account.md)
+   - [How to Add New User Category?](Add_New_User_Category.md)
+   - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
+   - [How to Configure Public Form Access in UAC (Done by Admin)?](Configure_Public_Form_Access_in_UAC.md)
+   - [How does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
    </details>
    <br><br>
    
