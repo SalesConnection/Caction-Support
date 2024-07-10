@@ -4,7 +4,12 @@
 
    Effectively manage users, their roles, access levels, and permissions to ensure smooth operation within the platform. Includes articles on adding, updating, and deactivating users.<br>
    
-   [View User Management Articles](Sub_Menu_User_Management.md)<br><br>
+   <details>
+   <summary>View User Management Articles</summary>
+   <br>
+   This is how you dropdown.
+   </details>
+   <br><br>
    
 **2. Login & Authentication**<br>
 
