@@ -121,12 +121,10 @@
    <details>
    <summary>View Notifications & Reminders Articles</summary>
    <br>
-   - <a href="Add_New_User.html">How to Add New User?</a><br>
-   - <a href="Copy_Account.html">How to Copy Account for New User?</a><br>
-   - <a href="Add_New_User_Category.html">How to Add New User Category?</a><br>
-   - <a href="Delete,_Deactivate_or_Change_User.html">How Do I Delete/Deactivate a Resigned User or Change to a New User?</a><br>
-   - <a href="Configure_Public_Form_Access_in_UAC.html">How to Configure Public Form Access in UAC (Done by Admin)?</a><br>
-   - <a href="Admin_Reset_App_Access.html">How does an Admin Reset App Access for a User?</a><br>
+   - [How to Edit Reminder Template?](Edit_Reminder_Template.md)
+   - [How to Create New Reminder Template?](Create_Reminder_Template.md)
+   - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
+   - [I am Not Getting Any Notification From System. Why?](I_am_Not_Getting_Any_Notification_From_System_Why.md)
    </details>
    <br><br>
    
