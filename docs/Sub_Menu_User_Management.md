@@ -3,3 +3,4 @@
 - [How to Add New User?](Add_New_User.md)
 - [How to Copy Account for New User?](Copy_Account.md)
 - [How to Add New User Category?](Add_New_User_Category.md)
+- [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
