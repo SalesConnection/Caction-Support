@@ -109,6 +109,8 @@
    - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)<br>
    - [How to Check Pending Update?](Check_Pending_Update.md)<br>
    - [How to Check Pending Data?](Check_Pending_Data.md)<br>
+   - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
+   - [Why is the Console Tab showing a different number of jobs for the same customer?](Different_Number_Jobs_For_Same_Customer.md)
    </details>
    <br><br>
    
