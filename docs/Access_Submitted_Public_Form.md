@@ -4,8 +4,14 @@
 
 **Navigate to the section by clicking it.**<br>
 
-- [Digital Form Category](#section1)<br>
-- [Filter](#section2)<br>
+- [Filter](#section1)<br>
+- [Default Columns](#section2)<br>
+<br><br><br>
+
+
+<a id="section1"></a>
+
+### Filter
 
 1. At the navigation bar, go to Business Report > Public Form Report.
 
@@ -31,6 +37,11 @@
    <p align="center">
       <img src="img/View_Submitted_Public_Form_Step_4.png" alt="Access Submitted Public Form Step 4">
    </p><br>
+
+
+<a id="section2"></a>
+
+### Default Columns
 
 5. Click on the expand button to view for the public form.
 
