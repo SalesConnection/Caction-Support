@@ -70,13 +70,13 @@
       <img src="img2/Project_Schedule_Step_11.png" alt="Project Schedule Step 11">
     </p>
   
-12. Choose the view options you would like to select. In this example, we will pick “Day View”.
+12. Choose the view options you would like to select. In this example, we will pick “Days View”.
 
     <p align="center">
       <img src="img2/Project_Schedule_Step_12.png" alt="Project Schedule Step 12">
     </p>
   
-13. Click the arrow icons to change the month of the calendar during this “Day View”.
+13. Click the arrow icons to change the month of the calendar during this “Days View”.
 
     <p align="center">
       <img src="img2/Project_Schedule_Step_13.png" alt="Project Schedule Step 13">
