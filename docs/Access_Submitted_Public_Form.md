@@ -6,13 +6,16 @@
 
 - [Filter](#section1)<br>
 - [Default Columns](#section2)<br>
-- [View Submitted Public Form](#section3)<br>
+- [Favourite Filter](#section3)<br>
+- [View Submitted Public Form](#section4)<br>
 <br><br><br>
 
 
 <a id="section1"></a>
 
 ### Filter
+
+*Note: The filter teaching here use Public Form Date Range as example. If you want to use filter table record, you can refer to those related articed attached at the bottom of this page.
 
 1. At the navigation bar, go to Business Report > Public Form Report.
 
@@ -110,9 +113,25 @@
      <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_11.png" alt="Access Submitted Public Form Step 11">
     </p><br>  
 
-12. Click on the "default Columns" that you want. 
+12. Click on the "default Columns" that you want.
+
+    <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_12.png" alt="Access Submitted Public Form Step 12">
+    </p><br> 
+
+13. The Report with chosen “Default Columns” will be shown as below.
+
+    <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_13.png" alt="Access Submitted Public Form Step 13">
+    </p><br>
 
 <a id="section3"></a>
+
+### Favourite Filter
+
+1. Ensure that the “Filter” and “Default Columns” you want is applied.
+
+<a id="section4"></a>
 
 ### View Submitted Public Form
 
