@@ -85,3 +85,4 @@ Data in Column C must be Unique and is compulsory to fill in.
 
 **Related Articles**<br>
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
+- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Customer_Bulk_Update.md)
