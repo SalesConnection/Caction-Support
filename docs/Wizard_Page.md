@@ -1,11 +1,15 @@
 ## Wizard Page
 
-1. At the desktop site navigation bar, go to Wizard.
+**Wizard page** is a shortcut to navigate between the different setting pages (ie. Template Setting, Reminder Setting, Category Setting, etc.)<br><br>
+
+1. At the desktop site navigation bar, go to Wizard.<br>
    **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
 
    <p align="center">
       <img src="img2/Wizard_Page_Step_1.png" alt="Wizard Page Step 1">
    </p>
+
+   *Note: Please contact your Admin if you do not have access to this page. Only few users are allowed to have access to the Wizard page.<br>
         
 2. Click to select the menu.
 
