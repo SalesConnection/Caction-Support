@@ -17,6 +17,7 @@
 
 *Note: The filter teaching here use Public Form Date Range as example. If you want to use filter table record, you can refer to the page attached below.
 [https://github.com/SalesConnection/Sales-Connection-Support/blob/main/docs/Report_Page.md#section3](https://github.com/SalesConnection/Sales-Connection-Support/blob/main/docs/Report_Page.md#section3)
+
 1. At the navigation bar, go to Business Report > Public Form Report.
 
    <p align="center">
