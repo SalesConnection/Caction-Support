@@ -34,6 +34,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
   
 ### Bulk Update
+- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Customer_Bulk_Update.md)
 - [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
 
 
