@@ -90,3 +90,4 @@ Updated: 11 July 2024<br>
 - [How do I Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New User(s)?](Import_User.md)
 - [How do I Import New Contact(s)?](Import_Contact.md)
+- [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
