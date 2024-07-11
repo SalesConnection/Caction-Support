@@ -201,7 +201,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 14. The Report with chosen "Default Columns" will be shown as below.
 
     <p align="center">
-      <img src="img/Report_Update_Page_Default_Columns_Step_14.png" alt="Report Update Page Default Columns Step 14">
+      <img src="img2/Report_Update_Page_Default_Columns_Step_14.png" alt="Report Update Page Default Columns Step 14">
     </p>
 
 <br><br>
