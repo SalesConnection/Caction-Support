@@ -105,25 +105,25 @@
 10. The "Default Columns" has been renamed successfully.
 
     <p align="center">
-     <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_10.png" alt="Access Submitted Public Form Step 10">
+      <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_10.png" alt="Access Submitted Public Form Step 10">
     </p><br>  
 
 11. On the next time you enter this page, click on the "Default Columns".
 
     <p align="center">
-     <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_11.png" alt="Access Submitted Public Form Step 11">
+      <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_11.png" alt="Access Submitted Public Form Step 11">
     </p><br>  
 
 12. Click on the "default Columns" that you want.
 
     <p align="center">
-     <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_12.png" alt="Access Submitted Public Form Step 12">
+      <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_12.png" alt="Access Submitted Public Form Step 12">
     </p><br> 
 
 13. The Report with chosen “Default Columns” will be shown as below.
 
     <p align="center">
-     <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_13.png" alt="Access Submitted Public Form Step 13">
+      <img src="img/Access_Submitted_Public_Form_Default_Columns_Step_13.png" alt="Access Submitted Public Form Step 13">
     </p><br>
 
 <a id="section3"></a>
@@ -131,6 +131,82 @@
 ### Favourite Filter
 
 1. Ensure that the “Filter” and “Default Columns” you want is applied.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_1.png" alt="Submitted Public Form Favourite Filter Step 1">
+   </p><br>
+
+2. Click on the “Favourite Filter”.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_2.png" alt="Submitted Public Form Favourite Filter Step 2">
+   </p><br>
+
+3. Click on “+ Add”.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_3.png" alt="Submitted Public Form Favourite Filter Step 3">
+   </p><br>
+
+4. Enter the name of the “Favourite Filter”.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_4.png" alt="Submitted Public Form Favourite Filter Step 4">
+   </p><br>
+
+5. Click on the “Save” button.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_5.png" alt="Submitted Public Form Favourite Filter Step 5">
+   </p><br>
+
+6. The “Favourite Filter” has been saved successfully.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_6.png" alt="Submitted Public Form Favourite Filter Step 6">
+   </p><br>
+
+7. On the next time you enter the page, click on “Favourite Filter”.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_7.png" alt="Submitted Public Form Favourite Filter Step 7">
+   </p><br>
+
+8. Click the “Favourite Filter” you want to apply.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_8.png" alt="Submitted Public Form Favourite Filter Step 8">
+   </p><br>
+
+9. The “Favourite Filter” is applied successfully.
+
+   <p align="center">
+     <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_9.png" alt="Submitted Public Form Favourite Filter Step 9">
+   </p><br>
+
+10. If you wish to set the “Favourite Filter” as “Default Favourite Filter”, click “Favourite Filter”.
+
+    <p align="center">
+      <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_10.png" alt="Submitted Public Form Favourite Filter Step 10">
+    </p><br>
+
+11. Click “Default Filter” to expand it.
+
+    <p align="center">
+      <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_11.png" alt="Submitted Public Form Favourite Filter Step 11">
+    </p><br>
+
+12. Click the “Favourite Filter” you want to set as default.
+
+    <p align="center">
+      <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_12.png" alt="Submitted Public Form Favourite Filter Step 12">
+    </p><br>
+
+13. The “Default Favourite Filter” has been set successfully. Everytime when you enter this page, it will automatically show the “Default Favourite Filter”.
+
+    <p align="center">
+      <img src="img/Access_Submitted_Public_Form_Favourite_Filter_Step_13.png" alt="Submitted Public Form Favourite Filter Step 13">
+    </p><br>
 
 <a id="section4"></a>
 
