@@ -30,12 +30,12 @@
      | Terms | Meaning |
      |-------|---------|
      | Template Name | Enter the name of the new reminder. |
-     | Reminder Type | Choose whether the reminder is internal or external. |
+     | Reminder Type | Choose whether the reminder is internal or external. *Note: External reminder may incur additional cost. Need to check with your consultant prior using it. |
      | Action Type | Choose the reminder notification type - push notification or email. |
      | Message Title | Write the message title to show on the notification. |
      | Message Content | Write the content about the reminder. |
      | Condition | Select the condition for the reminder. |
-     | Internal Recipient | Choose the user type received. |
+     | Internal Recipient | Internal Recipient = Choose the user type received. (Default recipient will include users assigned to the Job/Project/etc.) |
 
      <p align="center">
        <img src="img/Create_Reminder_Template_Step_5.png" alt="Create Reminder Template Step 5">
