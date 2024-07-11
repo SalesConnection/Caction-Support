@@ -198,7 +198,7 @@
    <summary>View Reporting Articles</summary>
    <br>
    - <a href="Report_Page.html">Report Page</a><br>
-   - <a href="Report_Update_Page.html">Update Report Page</a><br>
+   - <a href="Update_Report_Page.html">Update Report Page</a><br>
    - <a href="Export_Report.html">How to Pull Out Job/Project/Form Report?</a><br>
    </details>
    <br><br>
