@@ -21,26 +21,26 @@
 1. At the navigation bar, go to Business Report > Public Form Report.
 
    <p align="center">
-      <img src="img/View_Submitted_Public_Form_Step_1.png" alt="Access Submitted Public Form Step 1">
+      <img src="img/View_Submitted_Public_Form_Step_1.png" alt="Access Submitted Public Form Filter Step 1">
    </p><br>
 
 2. Change filter accordingly if unable to find a particular Public Form. For example, filter date range by clicking "Public Form Date Range".
 
    *Note: If you want to further narrow down the results, you can click on "Filter Table Record".
    <p align="center">
-      <img src="img/View_Submitted_Public_Form_Step_2.png" alt="Access Submitted Public Form Step 2">
+      <img src="img/View_Submitted_Public_Form_Step_2.png" alt="Access Submitted Public Form Filter Step 2">
    </p><br>
 
 3. Select the filter value you want to view.
 
    <p align="center">
-      <img src="img/View_Submitted_Public_Form_Step_3.png" alt="Access Submitted Public Form Step 3">
+      <img src="img/View_Submitted_Public_Form_Step_3.png" alt="Access Submitted Public Form Filter Step 3">
    </p><br>
 
 4. Click "Done" and the filter value for Public Form will be shown.
 
    <p align="center">
-      <img src="img/View_Submitted_Public_Form_Step_4.png" alt="Access Submitted Public Form Step 4">
+      <img src="img/View_Submitted_Public_Form_Step_4.png" alt="Access Submitted Public Form Filter Step 4">
    </p><br>
 
 
@@ -212,16 +212,16 @@
 
 ### View Submitted Public Form
 
-5. Click on the expand button to view for the public form.
+1. Click on the expand button to view for the public form.
 
    <p align="center">
-      <img src="img/View_Submitted_Public_Form_Step_5.png" alt="Access Submitted Public Form Step 5">
+      <img src="img/View_Submitted_Public_Form_Step_5.png" alt="Access Submitted Public Form Step 1">
    </p><br>
 
-6. Picture below is a sample of a public form submitted by a customer.
+2. Picture below is a sample of a public form submitted by a customer.
 
    <p align="center">
-      <img src="img/View_Submitted_Public_Form_Step_6.png" alt="Access Submitted Public Form Step 6">
+      <img src="img/View_Submitted_Public_Form_Step_6.png" alt="Access Submitted Public Form Step 2">
    </p><br>
 
 <br><br><br>
