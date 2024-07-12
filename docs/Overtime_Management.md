@@ -20,6 +20,9 @@
    <p align="center">
       <img src="img2/Overtime_Management_Step_1.png" alt="Overtime Management Step 1">
    </p>
+
+   *Note: You must have access to HR Suite menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
+
    <br><br>
 
    <a id="section1"></a>
@@ -207,7 +210,7 @@
       <img src="img2/Overtime_Management_Step_27.png" alt="Overtime Management Step 27">
     </p>  
 
-28. If you want to select more and change to one status, tick the boxes of the claims you want.
+28. To select more than one claim to update, tick the boxes on the left of the claims that you would like to update the status of.
     
     <p align="center">
       <img src="img2/Overtime_Management_Step_28.png" alt="Overtime Management Step 28">
@@ -219,13 +222,13 @@
       <img src="img2/Overtime_Management_Step_29.png" alt="Overtime Management Step 29">
     </p>
 
-30. Click on the "Status" you want to update to.
+30. Choose the status that you would like to update the selected claim(s) to.
     
     <p align="center">
       <img src="img2/Overtime_Management_Step_30.png" alt="Overtime Management Step 30">
     </p>  
 
-31. Click "Save 2 selected".
+31. Click “Save X selected”.
     
     <p align="center">
       <img src="img2/Overtime_Management_Step_31.png" alt="Overtime Management Step 31">
