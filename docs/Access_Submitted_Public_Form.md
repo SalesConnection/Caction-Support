@@ -215,7 +215,7 @@
 1. Click on the expand button to view for the public form.
 
    <p align="center">
-      <img src="img/View_Submitted_Public_Form_Step_5.png" alt="Access Submitted Public Form Step 1">
+      <img src="img2/View_Submitted_Public_Form_Step_5.png" alt="Access Submitted Public Form Step 1">
    </p><br>
 
 2. Picture below is a sample of a public form submitted by a customer.
