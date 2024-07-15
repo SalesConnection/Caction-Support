@@ -57,38 +57,38 @@
 
    <a id="section2"></a>
 
-   **Filter**  
+**Filter**  
 
-8. Click "Search" to filter the list.
+1. Click "Search" to filter the list.
 
    <p align="center">
-      <img src="img2/Claims_Management_Step_8.png" alt="Claims Management Step 8">
+      <img src="img2/Claims_Management_Filter_Step_1.png" alt="Claims Management Filter Step 1">
    </p>
   
-9. Click on the filter group you want.
+2. Click on the filter group you want.
 
    <p align="center">
-      <img src="img2/Claims_Management_Step_9.png" alt="Claims Management Step 9">
+      <img src="img2/Claims_Management_Filter_Step_2.png" alt="Claims Management Filter Step 2">
    </p>
 
-10. Click on the "Filter Value" you want.
+3. Click on the "Filter Value" you want.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_10.png" alt="Claims Management Step 10">
-    </p>
+   <p align="center">
+     <img src="img2/Claims_Management_Filter_Step_3.png" alt="Claims Management Filter Step 3">
+   </p>
 
-11. Click "Done".
+4. Click "Done".
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_11.png" alt="Claims Management Step 11">
-    </p>
+   <p align="center">
+     <img src="img2/Claims_Management_Filter_Step_4.png" alt="Claims Management Filter Step 4">
+   </p>
 
-12. The list with filter will be shown as below.
+5. The list with filter will be shown as below.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_12.png" alt="Claims Management Step 12">
-    </p>
-    <br><br>
+   <p align="center">
+      <img src="img2/Claims_Management_Filter_Step_5.png" alt="Claims Management Filter Step 5">
+   </p>
+   <br><br>
 
     <a id="section3"></a>
  
