@@ -62,31 +62,31 @@
 1. Click "Search" to filter the list.
 
    <p align="center">
-      <img src="img2/Claims_Management_Filter_Step_1.png" alt="Claims Management Filter Step 1">
+      <img src="img2/Claim_Management_Filter_Step_1.png" alt="Claims Management Filter Step 1">
    </p>
   
 2. Click on the filter group you want.
 
    <p align="center">
-      <img src="img2/Claims_Management_Filter_Step_2.png" alt="Claims Management Filter Step 2">
+      <img src="img2/Claim_Management_Filter_Step_2.png" alt="Claims Management Filter Step 2">
    </p>
 
 3. Click on the "Filter Value" you want.
 
    <p align="center">
-     <img src="img2/Claims_Management_Filter_Step_3.png" alt="Claims Management Filter Step 3">
+     <img src="img2/Claim_Management_Filter_Step_3.png" alt="Claims Management Filter Step 3">
    </p>
 
 4. Click "Done".
 
    <p align="center">
-     <img src="img2/Claims_Management_Filter_Step_4.png" alt="Claims Management Filter Step 4">
+     <img src="img2/Claim_Management_Filter_Step_4.png" alt="Claims Management Filter Step 4">
    </p>
 
 5. The list with filter will be shown as below.
 
    <p align="center">
-      <img src="img2/Claims_Management_Filter_Step_5.png" alt="Claims Management Filter Step 5">
+      <img src="img2/Claim_Management_Filter_Step_5.png" alt="Claims Management Filter Step 5">
    </p>
    <br><br>
 
