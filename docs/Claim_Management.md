@@ -249,12 +249,12 @@
  
 **Export** 
 
-35. Click "Export" icon to download the claims list.
+1. Click "Export" icon to download the claims list.
 
-    <p align="center">
+   <p align="center">
       <img src="img2/Claim_Management_Export.png" alt="Claim Management Export">
-    </p>
-    <br><br><br>
+   </p>
+   s<br><br><br>
 
 **Related Articles**
 - [Overtime Management](Overtime_Management.md)
