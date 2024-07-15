@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-##  📷 How to comment with Photo / Attcahment?
+##  📷 How to comment with Photo / Attachment?
     
 **Mobile:**<br>
   
