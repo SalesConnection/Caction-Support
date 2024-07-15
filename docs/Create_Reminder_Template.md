@@ -2,6 +2,14 @@
 
 Reminders serve as a digital assistant for you and your team to keep track of your daily tasks, important projects, milestones and many more depending on how you and the team have configured it.<br><br>
 
+**Navigate to the section by clicking it.**<br>
+
+- [Create New Reminder Template](#section1)<br>
+- [Autopopulate Setting](#section2)
+<br><br><br>
+
+<a id="section1"></a>
+## Create New Reminder Template
 
   1. At the desktop site's navigation bar, go to Template Settings > Reminder Templates.<br>
      **Create Reminder Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
@@ -65,6 +73,9 @@ Reminders serve as a digital assistant for you and your team to keep track of yo
      <p align="center">
        <img src="img/Create_Reminder_Template_Step_8.png" alt="Create Reminder Template Step 8">
      </p>
+
+<a id="section2"></a>
+## Autopopulate Setting
 
   9. Click on the category you want to include the new reminder in.<br>
 
