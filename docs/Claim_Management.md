@@ -254,7 +254,7 @@
    <p align="center">
       <img src="img2/Claim_Management_Export.png" alt="Claim Management Export">
    </p>
-   s<br><br><br>
+   <br><br><br>
 
 **Related Articles**
 - [Overtime Management](Overtime_Management.md)
