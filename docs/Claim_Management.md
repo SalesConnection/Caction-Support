@@ -24,40 +24,34 @@
 
    **Default Columns**
 
-2. Click "Default Columns".
+1. Click "Default Columns".
 
    <p align="center">
-      <img src="img2/Claims_Management_Step_2.png" alt="Claims Management Step 2">
+      <img src="img2/Claim_Management_Default_Columns_Step_1.png" alt="Claim Management Default Columns Step 1">
    </p>
 
-3. Click "+ Create".
+2. Click "+ Create".
 
    <p align="center">
-      <img src="img2/Claims_Management_Step_3.png" alt="Claims Management Step 3">
+      <img src="img2/Claim_Management_Default_Columns_Step_2.png" alt="Claim Management Default Columns Step 2">
    </p>
 
-4. Select the columns you want to display.
+3. Select the columns you want to display.
 
    <p align="center">
-      <img src="img2/Claims_Management_Step_4.png" alt="Claims Management Step 4">
+      <img src="img2/Claim_Management_Default_Columns_Step_3.png" alt="Claim Management Default Columns Step 3">
    </p>
 
-5. Tick the box if you want to show assets and product/services separately.
+4. Click on the "Save" button.
 
    <p align="center">
-      <img src="img2/Claims_Management_Step_5.png" alt="Claims Management Step 5">
+      <img src="img2/Claim_Management_Default_Columns_Step_4.png" alt="Claim Management Default Columns Step 4">
    </p>
 
-6. Click on the "Save" button.
+5. The customize columns will be displayed as below and you can apply it next time.
 
    <p align="center">
-      <img src="img2/Claims_Management_Step_6.png" alt="Claims Management Step 6">
-   </p>
-
-7. The customize columns will be displayed as below and you can apply it next time.
-
-   <p align="center">
-      <img src="img2/Claims_Management_Step_7.png" alt="Claims Management Step 7">
+      <img src="img2/Claim_Management_Default_Columns_Step_5.png" alt="Claim Management Default Columns Step 5">
    </p>
    <br><br>
 
