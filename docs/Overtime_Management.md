@@ -27,247 +27,241 @@
 
    <a id="section1"></a>
 
-   **Default Columns**
+## Default Columns
 
-2. Click "Default Columns".
+1. Click "Default Columns".
 
    <p align="center">
-      <img src="img2/Overtime_Management_Step_2.png" alt="Overtime Management Step 2">
+      <img src="img2/Overtime_Management_Default_Column_Step_1.png" alt="Overtime Management Default Column Step 1">
    </p>
   
-3. Click "+ Create".
+2. Click "+ Create".
 
    <p align="center">
-      <img src="img2/Overtime_Management_Step_3.png" alt="Overtime Management Step 3">
+      <img src="img2/Overtime_Management_Default_Column_Step_2.png" alt="Overtime Management Default Column Step 2">
    </p>
    
-4. Select the columns you want to display.
+3. Select the columns you want to display.
 
    <p align="center">
-      <img src="img2/Overtime_Management_Step_4.png" alt="Overtime Management Step 4">
+      <img src="img2/Overtime_Management_Default_Column_Step_3.png" alt="Overtime Management Default Column Step 3">
    </p>
 
-5. Tick the box if you want to show assets and product/services separately.
+4. Click on the "Save" button.
 
    <p align="center">
-      <img src="img2/Overtime_Management_Step_5.png" alt="Overtime Management Step 5">
-   </p>
-
-6. Click on the "Save" button.
-
-   <p align="center">
-      <img src="img2/Overtime_Management_Step_6.png" alt="Overtime Management Step 6">
+      <img src="img2/Overtime_Management_Default_Column_Step_4.png" alt="Overtime Management Default Column Step 4">
    </p>
   
-7. The customize columns will be displayed as below and you can apply it next time.
+5. The customize columns will be displayed as below and you can apply it next time.
 
    <p align="center">
-      <img src="img2/Overtime_Management_Step_7.png" alt="Overtime Management Step 7">
+      <img src="img2/Overtime_Management_Default_Column_Step_5.png" alt="Overtime Management Default Column Step 5">
    </p>
    <br><br>
 
    <a id="section2"></a>
 
-   **Filter**  
+## Filter
 
-8. Click "Search" to filter the list.
-
-   <p align="center">
-      <img src="img2/Overtime_Management_Step_8.png" alt="Overtime Management Step 8">
-   </p>
-  
-9. Click on the filter group you want.
+1. Click "Search" to filter the list.
 
    <p align="center">
-      <img src="img2/Overtime_Management_Step_9.png" alt="Overtime Management Step 9">
+      <img src="img2/Overtime_Management_Filter_Step_1.png" alt="Overtime Management Filter Step 1">
    </p>
   
-10. Click on the "Filter Value" you want.
+2. Click on the filter group you want.
 
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_10.png" alt="Overtime Management Step 10">
-    </p>
-
-11. Click "Done".
-
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_11.png" alt="Overtime Management Step 11">
-    </p>
+   <p align="center">
+      <img src="img2/Overtime_Management_Filter_Step_2.png" alt="Overtime Management Filter Step 2">
+   </p>
   
-12. The list with filter will be shown as below.
+3. Click on the "Filter Value" you want.
 
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_12.png" alt="Overtime Management Step 12">
-    </p>
-    <br><br>
+   <p align="center">
+      <img src="img2/Overtime_Management_Filter_Step_3.png" alt="Overtime Management Filter Step 3">
+   </p>
+
+4. Click "Done".
+
+   <p align="center">
+      <img src="img2/Overtime_Management_Filter_Step_4.png" alt="Overtime Management Filter Step 4">
+   </p>
+  
+5. The list with filter will be shown as below.
+
+   <p align="center">
+     <img src="img2/Overtime_Management_Filter_Step_5.png" alt="Overtime Management Filter Step 5">
+   </p>
+   <br><br>
 
     <a id="section3"></a>
  
-    **Favourite Filter**  
+## Favourite Filter
 
-13. Click on "Favourite Filter".
+1. Click on "Favourite Filter".
 
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_13.png" alt="Overtime Management Step 13">
-    </p>
+   <p align="center">
+     <img src="img2/Overtime_Management_Favourite_Filter_Step_1.png" alt="Overtime Management Favourite Filter Step 1">
+   </p>
 
-14. Click "+ Add".
+2. Click "+ Add".
 
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_14.png" alt="Overtime Management Step 14">
-    </p>
+  <p align="center">
+     <img src="img2/Overtime_Management_Favourite_Filter_Step_2.png" alt="Overtime Management Favourite Filter Step 2">
+  </p>
   
-15. Enter the name of the favourite filter.
+3. Enter the name of the favourite filter.
 
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_15.png" alt="Overtime Management Step 15">
-    </p>
+   <p align="center">
+     <img src="img2/Overtime_Management_Favourite_Filter_Step_3.png" alt="Overtime Management Favourite Filter Step 3">
+   </p>
   
-16. Click on the "Save" button. 
+4. Click on the "Save" button. 
 
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_16.png" alt="Overtime Management Step 16">
-    </p>  
+   <p align="center">
+     <img src="img2/Overtime_Management_Favourite_Filter_Step_4.png" alt="Overtime Management Favourite Filter Step 4">
+   </p>  
 
-17. The favourite filter has been saved successfully.
+5. The favourite filter has been saved successfully.
     
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_17.png" alt="Overtime Management Step 17">
-    </p>  
-    <br><br>
+   <p align="center">
+     <img src="img2/Overtime_Management_Favourite_Filter_Step_5.png" alt="Overtime Management Favourite Filter Step 5">
+   </p>  
+   <br><br>
 
     <a id="section4"></a>
  
-    **Default Filter**  
+## Default Filter
 
-18. Click on "Favourite Filter".
+1. Click on "Favourite Filter".
     
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_18.png" alt="Overtime Management Step 18">
-    </p>
+   <p align="center">
+     <img src="img2/Overtime_Management_Default_Filter_Step_1.png" alt="Overtime Management Default Filter Step 1">
+   </p>
 
-19. Click "Default Filter".
+2. Click "Default Filter".
     
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_19.png" alt="Overtime Management Step 19">
-    </p>  
+   <p align="center">
+     <img src="img2/Overtime_Management_Default_Filter_Step_2.png" alt="Overtime Management Default Filter Step 2">
+   </p>  
 
-20. Select the favourite filter you want to set as default filter.
+3. Select the favourite filter you want to set as default filter.
     
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_20.png" alt="Overtime Management Step 20">
-    </p>
+   <p align="center">
+     <img src="img2/Overtime_Management_Default_Filter_Step_3.png" alt="Overtime Management Default Filter Step 3">
+   </p>
 
-21. The default filter has been saved successfully.
+4. The default filter has been saved successfully.
     
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_21.png" alt="Overtime Management Step 21">
-    </p>  
-    <br><br>
+   <p align="center">
+     <img src="img2/Overtime_Management_Default_Filter_Step_4.png" alt="Overtime Management Default Filter Step 4">
+   </p>  
+   <br><br>
 
     <a id="section5"></a>
  
-    **Clear All Filter**  
+## Clear All Filter
 
-22. Click "Clear All" to remove the filter applied.
+1. Click "Clear All" to remove the filter applied.
     
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_22.png" alt="Overtime Management Step 22">
-    </p>
-    <br><br>
+   <p align="center">
+     <img src="img2/Overtime_Management_Clear_Filter_Step_1.png" alt="Overtime Management Clear Filter Step 1">
+   </p>
+   <br><br>
 
     <a id="section6"></a>
  
-    **Change Claim Status**  
+## Change Claim Status  
 
-23. Scroll the list to "Status" and click on the status of the overtime claim you want to take action.
+1. Scroll the list to "Status" and click on the status of the overtime claim you want to take action.
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_1.png" alt="Overtime Management Change Claim Step 1">
+   </p>  
+
+2. Click on the status you want for the overtime claim.
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_2.png" alt="Overtime Management Change Claim Step 2">
+   </p>
+
+3. Click "Save 1 selected".
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_3.png" alt="Overtime Management Change Claim Step 3">
+   </p>  
+
+4. Click on the "Submit" button to update the claims.
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_4.png" alt="Overtime Management Change Claim Step 4">
+   </p>
+
+5. Your changes have been saved successfully when this prompt appears.
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_5.png" alt="Overtime Management Change Claim Step 5">
+   </p>  
+
+6. To select more than one claim to update, tick the boxes on the left of the claims that you would like to update the status of.
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_6.png" alt="Overtime Management Change Claim Step 6">
+   </p>
+
+7. Click "Update All Status".
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_7.png" alt="Overtime Management Change Claim Step 7">
+   </p>
+
+8. Choose the status that you would like to update the selected claim(s) to.
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_8.png" alt="Overtime Management Change Claim Step 8">
+   </p>  
+
+9. Click “Save X selected”.
+    
+   <p align="center">
+     <img src="img2/Overtime_Management_Change_Claim_Step_9.png" alt="Overtime Management Change Claim Step 9">
+   </p>
+
+10. Click on the "Submit" button.
     
     <p align="center">
-      <img src="img2/Overtime_Management_Step_23.png" alt="Overtime Management Step 23">
+      <img src="img2/Overtime_Management_Change_Claim_Step_10.png" alt="Overtime Management Change Claim Step 10">
     </p>  
 
-24. Click on the status you want for the overtime claim.
+11. Your changes have been saved successfully when this prompt appears.
     
     <p align="center">
-      <img src="img2/Overtime_Management_Step_24.png" alt="Overtime Management Step 24">
-    </p>
-
-25. Click "Save 1 selected".
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_25.png" alt="Overtime Management Step 25">
-    </p>  
-
-26. Click on the "Submit" button to update the claims.
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_26.png" alt="Overtime Management Step 26">
-    </p>
-
-27. Your changes have been saved successfully when this prompt appears.
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_27.png" alt="Overtime Management Step 27">
-    </p>  
-
-28. To select more than one claim to update, tick the boxes on the left of the claims that you would like to update the status of.
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_28.png" alt="Overtime Management Step 28">
-    </p>
-
-29. Click "Update All Status".
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_29.png" alt="Overtime Management Step 29">
-    </p>
-
-30. Choose the status that you would like to update the selected claim(s) to.
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_30.png" alt="Overtime Management Step 30">
-    </p>  
-
-31. Click “Save X selected”.
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_31.png" alt="Overtime Management Step 31">
-    </p>
-
-32. Click on the "Submit" button.
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_32.png" alt="Overtime Management Step 32">
-    </p>  
-
-33. Your changes have been saved successfully when this prompt appears.
-    
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_33.png" alt="Overtime Management Step 33">
+      <img src="img2/Overtime_Management_Change_Claim_Step_11.png" alt="Overtime Management Change Claim Step 11">
     </p>
     <br><br>
 
     <a id="section7"></a>
  
-    **Refresh**  
+## Refresh
 
-34. Click "Refresh" icon to get the latest information on overtime claims.
+1. Click "Refresh" icon to get the latest information on overtime claims.
     
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_34.png" alt="Overtime Management Step 34">
-    </p>
-    <br><br>
+   <p align="center">
+     <img src="img2/Overtime_Management_Refresh_Step_1.png" alt="Overtime Management Refresh Step 1">
+   </p>
+   <br><br>
 
     <a id="section8"></a>
  
-    **Export**  
+## Export 
 
-35. Click "Export" icon to download the overtime claims list.
+1. Click "Export" icon to download the overtime claims list.
     
-    <p align="center">
-      <img src="img2/Overtime_Management_Step_35.png" alt="Overtime Management Step 35">
-    </p>
-    <br><br><br>
+   <p align="center">
+     <img src="img2/Overtime_Management_Export_Step_1.png" alt="Overtime Management Export Step 1">
+   </p>
+   <br><br><br>
 
 **Related Articles**
 - [Claim Management](Claim_Management.md)
