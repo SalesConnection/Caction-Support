@@ -94,40 +94,40 @@
  
     **Favourite Filter**  
 
-13. Click on "Favourite Filter".
+1. Click on "Favourite Filter".
 
     <p align="center">
-      <img src="img2/Claims_Management_Step_13.png" alt="Claims Management Step 13">
+      <img src="img2/Claim_Management_Favourite_Filter_Step_1.png" alt="Claim Management Favourite Filter Step 1">
     </p>
 
-14. Click "+ Add".
+2. Click "+ Add".
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_14.png" alt="Claims Management Step 14">
-    </p>
+   <p align="center">
+     <img src="img2/Claim_Management_Favourite_Filter_Step_2.png" alt="Claim Management Favourite Filter Step 2">
+   </p>
 
-15. Enter the name of the favourite filter.
+3. Enter the name of the favourite filter.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_15.png" alt="Claims Management Step 15">
-    </p>
+   <p align="center">
+     <img src="img2/Claim_Management_Favourite_Filter_Step_3.png" alt="Claim Management Favourite Filter Step 3">
+   </p>
 
-16. Click on the "Save" button.
+4. Click on the "Save" button.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_16.png" alt="Claims Management Step 16">
-    </p>
+   <p align="center">
+     <img src="img2/Claim_Management_Favourite_Filter_Step_4.png" alt="Claim Management Favourite Filter Step 4">
+   </p>
 
-17. The favourite filter has been saved successfully.
+5. The favourite filter has been saved successfully.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_17.png" alt="Claims Management Step 17">
-    </p>
-    <br><br>
+   <p align="center">
+     <img src="img2/Claim_Management_Favourite_Filter_Step_5" alt="Claim Management Favourite Filter Step 5">
+   </p>
+   <br><br>
 
-    <a id="section4"></a>
+   <a id="section4"></a>
  
-    **Default Filter**
+**Default Filter**
 
 18. Click on "Favourite Filter".
 
