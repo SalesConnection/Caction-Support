@@ -22,7 +22,7 @@
    </p>
    <br><br>
 
-   **Default Columns**
+**Default Columns**
 
 1. Click "Default Columns".
 
