@@ -125,37 +125,37 @@
    </p>
    <br><br>
 
-   <a id="section4"></a>
+<a id="section4"></a>
  
 **Default Filter**
 
-18. Click on "Favourite Filter".
+1. Click on "Favourite Filter".
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_18.png" alt="Claims Management Step 18">
-    </p>
+   <p align="center">
+     <img src="img2/Claim_Management_Default_Filter_Step_1.png" alt="Claim Management Default Filter Step 1">
+   </p>
 
-19. Click "Default Filter".
+2. Click "Default Filter".
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_19.png" alt="Claims Management Step 19">
-    </p>
+   <p align="center">
+     <img src="img2/Claim_Management_Default_Filter_Step_2.png" alt="Claim Management Default Filter Step 2">
+   </p>
 
-20. Select the favourite filter you want to set as default filter.
+3. Select the favourite filter you want to set as default filter.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_20.png" alt="Claims Management Step 20">
-    </p>
+   <p align="center">
+     <img src="img2/Claim_Management_Default_Filter_Step_3.png" alt="Claim Management Default Filter Step 3">
+   </p>
 
-21. The default filter has been saved successfully.
+4. The default filter has been saved successfully.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_21.png" alt="Claims Management Step 21">
-    </p>
+   <p align="center">
+     <img src="img2/Claim_Management_Default_Filter_Step_4.png" alt="Claim Management Default Filter Step 4">
+   </p>
 
-    <a id="section5"></a>
+<a id="section5"></a>
 
-    **Clear All Filter**
+**Clear All Filter**
 
 22. Click "Clear All" to remove the filter applied.
 
@@ -179,7 +179,7 @@
       <img src="img2/Claims_Management_Step_24.png" alt="Claims Management Step 24">
     </p>
 
-25. Click "Save 1 selected".
+25. Click "Save X selected".
 
     <p align="center">
       <img src="img2/Claims_Management_Step_25.png" alt="Claims Management Step 25">
@@ -197,7 +197,7 @@
       <img src="img2/Claims_Management_Step_27.png" alt="Claims Management Step 27">
     </p>
 
-28. If you want to select more and change to one status, tick the boxes of the claims you want.
+28. To select more than one claim to update, tick the boxes on the left of the claims that you would like to update the status of.
 
     <p align="center">
       <img src="img2/Claims_Management_Step_28.png" alt="Claims Management Step 28">
@@ -209,13 +209,13 @@
       <img src="img2/Claims_Management_Step_29.png" alt="Claims Management Step 29">
     </p>
 
-30. Click on the "Status" you want to update to.
+30. Choose the status that you would like to update the selected claim(s) to.
 
     <p align="center">
       <img src="img2/Claims_Management_Step_30.png" alt="Claims Management Step 30">
     </p>
 
-31. Click "Save 3 selected".
+31. Click “Save X selected”.
 
     <p align="center">
       <img src="img2/Claims_Management_Step_31.png" alt="Claims Management Step 31">
