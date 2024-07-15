@@ -121,7 +121,7 @@
 5. The favourite filter has been saved successfully.
 
    <p align="center">
-     <img src="img2/Claim_Management_Favourite_Filter_Step_5" alt="Claim Management Favourite Filter Step 5">
+     <img src="img2/Claim_Management_Favourite_Filter_Step_5.png" alt="Claim Management Favourite Filter Step 5">
    </p>
    <br><br>
 
