@@ -1,11 +1,16 @@
 ## How to Create New Reminder Template and do Autopopulate Setting?
-    
+
+Reminders serve as a digital assistant for you and your team to keep track of your daily tasks, important projects, milestones and many more depending on how you and the team have configured it.<br><br>
+
+
   1. At the desktop site's navigation bar, go to Template Settings > Reminder Templates.<br>
      **Create Reminder Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
 
      <p align="center">
        <img src="img/Create_Reminder_Template_Step_1.png" alt="Create Reminder Template Step 1">
      </p>
+
+     *Note: You must have access to Template Settings menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
 
   2. Click on the expand button for categories.<br>
 
@@ -41,13 +46,15 @@
        <img src="img/Create_Reminder_Template_Step_5.png" alt="Create Reminder Template Step 5">
      </p>
 
-  6. Click on the "Save" button after entering the details.<br>
+     *Note: External reminder may incur additional cost. Please check with your Sales Connection Consultant for further information.<br>
+
+  6. If you wish to add another reminder in the same template, click “Add Reminder” and repeat the previous steps. Otherwise, click “Save”.<br>
 
      <p align="center">
        <img src="img/Create_Reminder_Template_Step_6.png" alt="Create Reminder Template Step 6">
      </p>
 
-  7. The new reminder has been saved when it showed here.<br>
+  7. The reminder template is saved successfully once it appears on the list on your left.<br>
 
      <p align="center">
        <img src="img/Create_Reminder_Template_Step_7.png" alt="Create Reminder Template Step 7">
@@ -77,7 +84,7 @@
        <img src="img/Create_Reminder_Template_Step_11.png" alt="Create Reminder Template Step 11">
       </p>
 
-  12. Click "Yes" and the reminder will be shown in the category.<br>
+  12. Click “Yes” and the reminder will be automatically populated into the category when a new Job of the same category is created.<br>
 
       <p align="center">
        <img src="img/Create_Reminder_Template_Step_12.png" alt="Create Reminder Template Step 12">
