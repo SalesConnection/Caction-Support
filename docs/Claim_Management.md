@@ -167,76 +167,76 @@
  
 **Change Claim Status**
 
-23. Scroll the list to "Status" and click on the status of the overtime claim you want to take action.
+1. Scroll the list to "Status" and click on the status of the overtime claim you want to take action.
+
+   <p align="center">
+     <img src="img2/Claim_Management_Change_Claim_Status_Step_1.png" alt="Claim Management Change Claim Status Step 1">
+   </p>
+
+2. Click on the status you want for the claim.
+
+   <p align="center">
+      <img src="img2/Claim_Management_Change_Claim_Status_Step_2.png" alt="Claim Management Change Claim Status Step 2">
+   </p>
+
+3. Click "Save X selected".
+
+   <p align="center">
+      <img src="img2/Claim_Management_Change_Claim_Status_Step_3.png" alt="Claim Management Change Claim Status Step 3">
+   </p>
+
+4. Click on the "Submit" button to update the claims.
+
+   <p align="center">
+      <img src="img2/Claim_Management_Change_Claim_Status_Step_4.png" alt="Claim Management Change Claim Status Step 4">
+   </p>
+
+5. Your changes have been saved successfully when this prompt appears.
+
+   <p align="center">
+     <img src="img2/Claim_Management_Change_Claim_Status_Step_5.png" alt="Claim Management Change Claim Status Step 5">
+   </p>
+
+6. To select more than one claim to update, tick the boxes on the left of the claims that you would like to update the status of.
+
+   <p align="center">
+      <img src="img2/Claim_Management_Change_Claim_Status_Step_6.png" alt="Claim Management Change Claim Status Step 6">
+   </p>
+
+7. Click "Update All Status".
+
+   <p align="center">
+     <img src="img2/Claim_Management_Change_Claim_Status_Step_7.png" alt="Claim Management Change Claim Status Step 7">
+   </p>
+
+8. Choose the status that you would like to update the selected claim(s) to.
+
+   <p align="center">
+      <img src="img2/Claim_Management_Change_Claim_Status_Step_8.png" alt="Claim Management Change Claim Status Step 8">
+   </p>
+
+9. Click “Save X selected”.
+
+   <p align="center">
+      <img src="img2/Claim_Management_Change_Claim_Status_Step_9.png" alt="Claim Management Change Claim Status Step 9">
+   </p>
+
+10. Click on the "Submit" button.
 
     <p align="center">
-      <img src="img2/Claims_Management_Step_23.png" alt="Claims Management Step 23">
+      <img src="img2/Claim_Management_Change_Claim_Status_Step_10.png" alt="Claim Management Change Claim Status Step 10">
     </p>
 
-24. Click on the status you want for the claim.
+11. Your changes have been saved successfully when this prompt appears.
 
     <p align="center">
-      <img src="img2/Claims_Management_Step_24.png" alt="Claims Management Step 24">
-    </p>
-
-25. Click "Save X selected".
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_25.png" alt="Claims Management Step 25">
-    </p>
-
-26. Click on the "Submit" button to update the claims.
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_26.png" alt="Claims Management Step 26">
-    </p>
-
-27. Your changes have been saved successfully when this prompt appears.
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_27.png" alt="Claims Management Step 27">
-    </p>
-
-28. To select more than one claim to update, tick the boxes on the left of the claims that you would like to update the status of.
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_28.png" alt="Claims Management Step 28">
-    </p>
-
-29. Click "Update All Status".
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_29.png" alt="Claims Management Step 29">
-    </p>
-
-30. Choose the status that you would like to update the selected claim(s) to.
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_30.png" alt="Claims Management Step 30">
-    </p>
-
-31. Click “Save X selected”.
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_31.png" alt="Claims Management Step 31">
-    </p>
-
-32. Click on the "Submit" button.
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_32.png" alt="Claims Management Step 32">
-    </p>
-
-33. Your changes have been saved successfully when this prompt appears.
-
-    <p align="center">
-      <img src="img2/Claims_Management_Step_33.png" alt="Claims Management Step 33">
+      <img src="img2/Claim_Management_Change_Claim_Status_Step_11.png" alt="Claim Management Change Claim Status Step 11">
     </p>
     <br><br>
 
-    <a id="section7"></a>
+<a id="section7"></a>
  
-    **Refresh**  
+**Refresh**  
 
 34. Click "Refresh" icon to get the latest information on claims.
 
