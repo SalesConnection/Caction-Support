@@ -238,21 +238,21 @@
  
 **Refresh**  
 
-34. Click "Refresh" icon to get the latest information on claims.
+1. Click "Refresh" icon to get the latest information on claims.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_34.png" alt="Claims Management Step 34">
-    </p>
-    <br><br>
+   <p align="center">
+      <img src="img2/Claim_Management_Refresh.png" alt="Claim Management Refresh">
+   </p>
+   <br><br>
 
-    <a id="section8"></a>
+<a id="section8"></a>
  
-    **Export** 
+**Export** 
 
 35. Click "Export" icon to download the claims list.
 
     <p align="center">
-      <img src="img2/Claims_Management_Step_35.png" alt="Claims Management Step 35">
+      <img src="img2/Claim_Management_Export.png" alt="Claim Management Export">
     </p>
     <br><br><br>
 
