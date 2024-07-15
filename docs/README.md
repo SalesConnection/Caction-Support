@@ -138,6 +138,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ## HR Suite 
+- [Overtime Management](Overtime_Management.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 
 
