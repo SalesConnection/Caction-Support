@@ -157,15 +157,15 @@
 
 **Clear All Filter**
 
-22. Click "Clear All" to remove the filter applied.
+1. Click "Clear All" to remove the filter applied.
 
-    <p align="center">
-      <img src="img2/Claims_Management_Step_22.png" alt="Claims Management Step 22">
-    </p>
+   <p align="center">
+     <img src="img2/Claim_Management_Clear_All_Filter_Step_1.png" alt="Claim Management Clear All Filter Step 1">
+   </p>
 
-    <a id="section6"></a>
+<a id="section6"></a>
  
-    **Change Claim Status**
+**Change Claim Status**
 
 23. Scroll the list to "Status" and click on the status of the overtime claim you want to take action.
 
