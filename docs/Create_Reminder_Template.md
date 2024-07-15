@@ -1,4 +1,4 @@
-## How to Create New Reminder Template?
+## How to Create New Reminder Template and do Autopopulate Setting?
     
   1. At the desktop site's navigation bar, go to Template Settings > Reminder Templates.<br>
      **Create Reminder Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
