@@ -90,9 +90,9 @@
    </p>
    <br><br>
 
-    <a id="section3"></a>
+<a id="section3"></a>
  
-    **Favourite Filter**  
+**Favourite Filter**  
 
 1. Click on "Favourite Filter".
 
