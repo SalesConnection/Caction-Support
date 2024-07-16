@@ -1,17 +1,17 @@
 ## How to Add Claim?
 
-Utilize the overtime claim function to capture the extra hours your team has put in to complete the job.<br><br>
+The claim feature allows company staff to easily submit and track claims for expenses such as fuel, meals, parking fees, tools, and more.<br><br>
 
 1. At the mobile navigation bar, go to Dashboard.<br>
 
    <p align="center">
-      <img src="img2/Add_Overtime_Claim_Step_1.png" alt="Add Overtime Claim Step 1">
+      <img src="img2/Add_Claim_Step_1.png" alt="Add Claim Step 1">
    </p>
 
 2. Click Business Travel.
 
    <p align="center">
-      <img src="img2/Add_Overtime_Claim_Step_2.png" alt="Add Overtime Claim Step 2">
+      <img src="img2/Add_Claim_Step_.png" alt="Add Claim Step 1">
    </p>
 
 3. Select the date of your business travel.
