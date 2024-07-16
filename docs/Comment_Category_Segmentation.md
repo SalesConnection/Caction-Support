@@ -1,6 +1,6 @@
 ## Comment Category Segmentation
 
-**Comment Category Segmentation** page organizes and manages comments by segmenting them into specific categories. This feature allows you to classify and filter comments based on different aspects of your projects, jobs, or assets, ensuring better clarity and efficient access within the system.<br><br>
+**Comment Category Segmentation** page separates Comment options by different categories for Projects, Jobs, etc. Example: Only Sales Meeting Job will have “Sales Meeting Minutes” Comment option. This option can be set to not be available for other Job categories.<br><br>
 
 1. At the desktop site navigation bar, go to Wizard.<br>
    **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
