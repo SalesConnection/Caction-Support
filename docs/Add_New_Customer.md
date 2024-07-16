@@ -272,3 +272,5 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
 - [How to Add New Job?](Add_New_Job.md)
 - [How to Add New Asset?](How_to_Add_New_Asset.md)
 - [How to Import New Customer(s)?](Import_Customer.md)
+- [How to Create Digital Form?](Create_Digital_Form.md)
+- [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
