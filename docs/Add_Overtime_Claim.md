@@ -32,7 +32,7 @@ Utilize the overtime claim function to capture the extra hours your team has put
       <img src="img2/Add_Overtime_Claim_Step_5.png" alt="Add Overtime Claim Step 5">
    </p>
 
-6. Click on the Business Travel that you want to add overtime claim.
+6. Select the Business Travel that you would like to create an overtime claim for.
 
    <p align="center">
       <img src="img2/Add_Overtime_Claim_Step_6.png" alt="Add Overtime Claim Step 6">
