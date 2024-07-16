@@ -1,6 +1,7 @@
 ## How to Use Claim Management?
 
-**Claim Management** allows users to efficiently manage and review claims related to business expenses, such as meals and travel costs, submitted by employees. It provides a comprehensive overview of claims, including details, attachments, statuses, and amounts, facilitating streamlined processing and approvals.
+**Claim Management** allows users to efficiently manage and review claims related to business expenses, such as meals and travel costs, submitted by employees. It provides a comprehensive overview of claims, including details, attachments, statuses, and amounts, facilitating streamlined processing and approvals.<br><br>
+
 
 **Navigate to the section by clicking it.**<br>
 
