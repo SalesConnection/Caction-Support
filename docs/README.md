@@ -87,7 +87,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Reminder 
 - [How to Edit Reminder Template?](Edit_Reminder_Template.md)
-  
+- [How to Create New Reminder Template and do Autopopulate Setting?](Create_Reminder_Template.md)
+
 
 ### Others
 - [How to comment with photo / attachment?](Comment_With_Photo.md)
