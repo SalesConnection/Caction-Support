@@ -20,7 +20,7 @@ Reminders serve as a digital assistant for you and your team to keep track of yo
 
    *Note: You must have access to Template Settings menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
 
-2. Select the category that you would like to include the reminder in.
+2. Click on the expand button for categories.
 
    <p align="center">
      <img src="img/Create_Reminder_Template_Step_2.png" alt="Create Reminder Template Step 2">
@@ -80,7 +80,7 @@ Reminders serve as a digital assistant for you and your team to keep track of yo
 
 
 
-2. Click on the category you want to include the new reminder in.<br>
+2. Select the category that you would like to include the reminder in.<br>
 
    <p align="center">
      <img src="img/Create_Reminder_Template_Step_9.png" alt="Create Reminder Template Step 9">
