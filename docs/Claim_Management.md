@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 16 July 2024<br>
+Updated: 16 July 2024<br>
 ## How to Use Claim Management?
 
 **Claim Management** allows users to efficiently manage and review claims related to business expenses, such as meals and travel costs, submitted by employees. It provides a comprehensive overview of claims, including details, attachments, statuses, and amounts, facilitating streamlined processing and approvals.<br><br>
@@ -260,5 +263,4 @@
 
 **Related Articles**
 - [Overtime Management](Overtime_Management.md)
-- [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
