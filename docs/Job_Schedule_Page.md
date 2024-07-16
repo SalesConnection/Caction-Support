@@ -397,4 +397,5 @@ Updated: 5 July 2024<br>
 
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
+- [Wizard Page](Wizard_Page.md)
 
