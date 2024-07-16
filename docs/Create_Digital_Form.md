@@ -63,7 +63,7 @@ You and your team can start creating the digitalised form(s) in the system throu
      <img src="img/Create_Digital_Form_Step_6.png" alt="Create Digital Form Step 6">
    </p>
 
-  *Note: Product/Service section may not be available in your selected digital form.<br>
+   *Note: Product/Service section may not be available in your selected digital form.<br>
 
 7. Select the Product/Services that needed in this form.<br>
 
