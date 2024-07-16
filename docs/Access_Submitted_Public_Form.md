@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 16 July 2024<br>
+Updated: 16 July 2024<br>
 ## How to Access Submitted Public Form?
 
 *Note: If you are unable to access the Public Form, please reach out to your admin for assistance.
@@ -227,9 +230,7 @@
 <br><br><br>
 
 **Related Articles**
-- [How to Configure Public Form Access in UAC (Done by Admin)?](Configure_Public_Form_Access_in_UAC.md)
 - [How to Generate Public Form?](Creation_of_Public_Form.md)
-- [How to Setup Public Form Template?](Setup_Public_Form_Template_Page.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 - [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)
 - [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
