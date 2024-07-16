@@ -115,4 +115,4 @@ On **Company Profile Settings**, you would be able to change the system settings
 
 **Related Articles**
 - [UAC Policy Management](UAC_Policy_Management.md)
-
+- [Office Check-In Settings](Office_Check_In_Settings.md)
