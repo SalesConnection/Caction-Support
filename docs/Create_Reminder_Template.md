@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 16 July 2024<br>
+Updated: 16 July 2024<br>
 ## How to Create New Reminder Template and do Autopopulate Setting?
 
 Reminders serve as a digital assistant for you and your team to keep track of your daily tasks, important projects, milestones and many more depending on how you and the team have configured it.<br><br>
