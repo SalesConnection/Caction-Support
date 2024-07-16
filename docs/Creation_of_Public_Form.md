@@ -225,3 +225,7 @@ Updated: 9 July 2024<br>
    <p align="center">
      <img src="img/Public_Form.png" alt="Public Form" width="280" height="550">
    </p>
+<br><br><br>
+
+**Related Articles**
+- [How to Create Digital Form?](Create_Digital_Form.md)
