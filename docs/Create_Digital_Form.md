@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 16 July 2024<br>
+Updated: 16 July 2024<br>
 ## How to Create Digital Form?
 
 You and your team can start creating the digitalised form(s) in the system through many simple ways that cuts down on their time spent on manual hardcopies.<br><br>
