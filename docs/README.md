@@ -106,6 +106,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ## General 
 - [How to Add New Project?](Add_New_Project.md)
+- [How to Create Digital Form?](Create_Digital_Form.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
   
