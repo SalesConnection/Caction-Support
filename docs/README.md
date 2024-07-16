@@ -158,6 +158,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Company Profile Settings](Company_Profile_Settings.md)
 
 
+## Wizard
+- [Wizard Page](Wizard_Page.md)
 <br><br>
 Feel free to explore the sections above by clicking it for more information.<br><br>
 
