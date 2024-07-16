@@ -138,6 +138,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ## Business Reports
 - [Report Page](Report_Page.md)
 - [Update Report Page](Update_Report_Page.md)
+- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 
 
 ## HR Suite 
