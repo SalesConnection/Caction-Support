@@ -142,6 +142,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ## HR Suite 
 - [Claim Management](Claim_Management.md)
 - [Overtime Management](Overtime_Management.md)
+- [How to Add Overtime Claim?](Add_Overtime_Claim.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 
 
