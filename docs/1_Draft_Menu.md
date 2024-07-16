@@ -153,6 +153,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Overtime Management](Overtime_Management.md)
 - [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
+- [How to Add Claim?](Add_Claim.md)
 
 
 ## Company Settings
