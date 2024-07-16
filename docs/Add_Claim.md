@@ -113,6 +113,7 @@ The claim feature allows company staff to easily submit and track claims for exp
     <br><br><br>
 
 **Related Articles**
+- [How to Add Overtime Claim?](Add_Overtime_Claim.md)
 - [Claim Management](Claim_Management.md)
 - [Overtime Management](Overtime_Management.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
