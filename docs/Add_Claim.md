@@ -11,31 +11,31 @@ The claim feature allows company staff to easily submit and track claims for exp
 2. Click Business Travel.
 
    <p align="center">
-      <img src="img2/Add_Claim_Step_.png" alt="Add Claim Step 1">
+      <img src="img2/Add_Claim_Step_2.png" alt="Add Claim Step 2" width="280" height="550">
    </p>
 
 3. Select the date of your business travel.
 
    <p align="center">
-      <img src="img2/Add_Overtime_Claim_Step_3.png" alt="Add Overtime Claim Step 3">
+      <img src="img2/Add_Claim_Step_3.png" alt="Add Claim Step 3" width="280" height="550">
    </p>
 
 4. You can also select a date range of your travels based on the “Start Date” and “End Date”.
 
    <p align="center">
-      <img src="img2/Add_Overtime_Claim_Step_4.png" alt="Add Overtime Claim Step 4">
+      <img src="img2/Add_Claim_Step_4.png" alt="Add Claim Step 4" width="280" height="550">
    </p>
 
 5. Click on the "tick" icon.
 
    <p align="center">
-      <img src="img2/Add_Overtime_Claim_Step_5.png" alt="Add Overtime Claim Step 5">
+      <img src="img2/Add_Claim_Step_5.png" alt="Add Claim Step 5" width="280" height="550">
    </p>
 
-6. Select the Business Travel that you would like to create an overtime claim for.
+6. Select the Business Travel that you would like to create a claim for.
 
    <p align="center">
-      <img src="img2/Add_Overtime_Claim_Step_6.png" alt="Add Overtime Claim Step 6">
+      <img src="img2/Add_Claim_Step_6.png" alt="Add Claim Step 6" width="280" height="550">
    </p>
 
    *Note: Selecting Check-in or Check-out will determine whether you can modify the start time or end time of the overtime claim.<br>
