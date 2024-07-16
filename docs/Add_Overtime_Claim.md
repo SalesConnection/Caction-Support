@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 16 July 2024<br>
+Updated: 16 July 2024<br>
 ## How to Add Overtime Claim?
 
 Utilize the overtime claim function to capture the extra hours your team has put in to complete the job.<br><br>
@@ -90,5 +93,4 @@ Utilize the overtime claim function to capture the extra hours your team has put
 **Related Articles**
 - [Claim Management](Claim_Management.md)
 - [Overtime Management](Overtime_Management.md)
-- [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
