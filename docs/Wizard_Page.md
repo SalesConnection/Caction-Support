@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 16 July 2024<br>
+Updated: 16 July 2024<br>
 ## Wizard Page
 
 **Wizard page** is a shortcut to navigate between the different setting pages (ie. Template Setting, Reminder Setting, Category Setting, etc.)<br><br>
