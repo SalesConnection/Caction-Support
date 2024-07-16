@@ -5,7 +5,7 @@ The claim feature allows company staff to easily submit and track claims for exp
 1. At the mobile navigation bar, go to Dashboard.<br>
 
    <p align="center">
-      <img src="img2/Add_Claim_Step_1.png" alt="Add Claim Step 1">
+      <img src="img2/Add_Claim_Step_1.png" alt="Add Claim Step 1" width="280" height="550">
    </p>
 
 2. Click Business Travel.
