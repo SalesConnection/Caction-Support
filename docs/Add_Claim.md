@@ -100,11 +100,16 @@ The claim feature allows company staff to easily submit and track claims for exp
 
 17. Click on the "tick" icon to submit ypour claim.
 
-     <p align="center">
+    <p align="center">
       <img src="img2/Add_Claim_Step_17.png" alt="Add Claim Step 17" width="280" height="550">
     </p>
 
-18. 
+18. Your claim has been saved successfully when this prompt appears.
+
+    <p align="center">
+      <img src="img2/Add_Claim_Step_18.png" alt="Add Claim Step 18" width="280" height="550">
+    </p>
+
     <br><br><br>
 
 **Related Articles**
