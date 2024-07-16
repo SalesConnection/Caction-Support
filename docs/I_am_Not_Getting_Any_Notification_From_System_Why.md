@@ -1,6 +1,6 @@
- ## I am not getting any notification from system. Why?
+## I am not getting any notification from system. Why?
 
- **Navigate to the section by clicking it.**<br>
+**Navigate to the section by clicking it.**<br>
 
 - [Mobile Version](#section1)<br>
 - [Desktop Version](#section2)
