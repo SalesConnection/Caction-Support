@@ -23,7 +23,8 @@
    </p>
    <br><br>
 
-**Default Columns**
+<a id="section1"></a>
+## Default Columns
 
 1. Click "Default Columns".
 
@@ -58,7 +59,7 @@
 
 <a id="section2"></a>
 
-**Filter**  
+## Filter  
 
 1. Click "Search" to filter the list.
 
@@ -93,7 +94,7 @@
 
 <a id="section3"></a>
  
-**Favourite Filter**  
+## Favourite Filter
 
 1. Click on "Favourite Filter".
 
@@ -128,7 +129,7 @@
 
 <a id="section4"></a>
  
-**Default Filter**
+## Default Filter
 
 1. Click on "Favourite Filter".
 
@@ -156,7 +157,7 @@
 
 <a id="section5"></a>
 
-**Clear All Filter**
+## Clear All Filter
 
 1. Click "Clear All" to remove the filter applied.
 
@@ -166,7 +167,7 @@
 
 <a id="section6"></a>
  
-**Change Claim Status**
+## Change Claim Status
 
 1. Scroll the list to "Status" and click on the status of the overtime claim you want to take action.
 
@@ -237,7 +238,7 @@
 
 <a id="section7"></a>
  
-**Refresh**  
+## Refresh
 
 1. Click "Refresh" icon to get the latest information on claims.
 
@@ -248,7 +249,7 @@
 
 <a id="section8"></a>
  
-**Export** 
+## Export
 
 1. Click "Export" icon to download the claims list.
 
