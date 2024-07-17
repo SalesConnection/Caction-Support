@@ -79,43 +79,43 @@ Updated: 27 May 2024<br>
 1. On the same page, click "Status Segmentation".
      
    <p align="center">
-     <img src="img/Project_Status_Segmentation_Step_1.png" alt="Project Status Segmentation Step 1">
+     <img src="img2/Project_Status_Segmentation_Step_1.png" alt="Project Status Segmentation Step 1">
    </p>
 
 2. Click on the project category you want to add the to-do list.<br>
 
    <p align="center">
-     <img src="img/Project_Status_Segmentation_Step_2.png" alt="Project Status Segmentation Step 2">
+     <img src="img2/Project_Status_Segmentation_Step_2.png" alt="Project Status Segmentation Step 2">
    </p>
 
 3. Tick on the box of the to-do list and select the visibility of the to-do list.
 
    <p align="center">
-     <img src="img/Project_Status_Segmentation_Step_3.png" alt="Project Status Segmentation Step 3">
+     <img src="img2/Project_Status_Segmentation_Step_3.png" alt="Project Status Segmentation Step 3">
    </p>
   
 4. Click on the "Save Changes" button.
 
    <p align="center">
-     <img src="img/Project_Status_Segmentation_Step_4.png" alt="Project Status Segmentation Step 4">
+     <img src="img2/Project_Status_Segmentation_Step_4.png" alt="Project Status Segmentation Step 4">
    </p>
   
 5. Your to-do list segmentation is successfully saved when the “Saved” prompt appears.
 
    <p align="center">
-     <img src="img/Project_Status_Segmentation_Step_5.png" alt="Project Status Segmentation Step 5">
+     <img src="img2/Project_Status_Segmentation_Step_5.png" alt="Project Status Segmentation Step 5">
    </p>
 
 6. Your to-do list segmentation is successfully saved when the “Saved” prompt appears.<br>
 
    <p align="center">
-     <img src="img/Project_Status_Segmentation_Step_6.png" alt="Project Status Segmentation Step 6">
+     <img src="img2/Project_Status_Segmentation_Step_6.png" alt="Project Status Segmentation Step 6">
    </p>
 
 7. For example, when the to-do list is ticked for "Sales" Project with the status "Negotiation", the to-do list box will be displayed in the project as below.<br>
 
    <p align="center">
-     <img src="img/Project_Status_Segmentation_Step_7.png" alt="Project Status Segmentation Step 7">
+     <img src="img2/Project_Status_Segmentation_Step_7.png" alt="Project Status Segmentation Step 7">
    </p>
    <br><br><br>
 
