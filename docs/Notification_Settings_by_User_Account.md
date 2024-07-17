@@ -1,3 +1,5 @@
+## Notifcation Settings by User Account
+
 *Note: Only certain admins can edit the notification settings. Please contact your admin if you wish to enable the notifications.<br>
  
  1. To enable notifications for users, go to desktop site navigation bar > User Management > User Account Customisation.<br>
