@@ -180,6 +180,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 ## User Management 
 - [UAC Policy Management](UAC_Policy_Management.md)
 - [Company Profile Settings](Company_Profile_Settings.md)
+- [Notification Settings by User Account](Notification_Settings_by_User_Account.md)
 
 
 ## Wizard
