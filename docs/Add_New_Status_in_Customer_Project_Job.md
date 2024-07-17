@@ -106,16 +106,10 @@ Updated: 27 May 2024<br>
      <img src="img2/Project_Status_Segmentation_Step_5.png" alt="Project Status Segmentation Step 5">
    </p>
 
-6. Your to-do list segmentation is successfully saved when the “Saved” prompt appears.<br>
+6. For example, when the to-do list is ticked for "Sales" Project with the status "Negotiation", the to-do list box will be displayed in the project as below.
 
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_6.png" alt="Project Status Segmentation Step 6">
-   </p>
-
-7. For example, when the to-do list is ticked for "Sales" Project with the status "Negotiation", the to-do list box will be displayed in the project as below.<br>
-
-   <p align="center">
-     <img src="img2/Project_Status_Segmentation_Step_7.png" alt="Project Status Segmentation Step 7">
    </p>
    <br><br><br>
 
