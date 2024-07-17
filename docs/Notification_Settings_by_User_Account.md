@@ -1,5 +1,7 @@
 ## Notification Settings by User Account
 
+Customise you and your team’s notification settings on the system to minimize unnecessary alert updates and optimise your team’s operations with the system.<br><br>
+
 *Note: Only certain admins can edit the notification settings. Please contact your admin if you wish to enable the notifications.<br>
  
 1. To enable notifications for users, go to desktop site navigation bar > User Management > User Account Customisation.<br>
