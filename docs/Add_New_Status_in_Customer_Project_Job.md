@@ -76,6 +76,48 @@ Updated: 27 May 2024<br>
 
 ## Status Segmentation
 
+  1. At the desktop site's navigation bar, go to Company Settings > Job Settings > Job Status Segmentation.<br>
+     **Open Job Status Segmentation Here:** [https://salesconnection.my/settings/statusTransaction?page=act](https://salesconnection.my/settings/statusTransaction?page=act)<br>
+     
+     <p align="center">
+       <img src="img/To_Do_List2_Step_1.png" alt="To Do List2 Step 1">
+     </p>
+
+  2. Select the data level you want. For example, click "JOB".<br>
+
+     <p align="center">
+       <img src="img/To_Do_List2_Step_2.png" alt="To Do List2 Step 2">
+     </p>
+
+  3. Click on the job category you want to add the to-do list.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List2_Step_3.png" alt="To Do List2 Step 3">
+     </p>
+  
+  4. Tick on the box of the to-do list and select the visibility of the to-do list.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List2_Step_4.png" alt="To Do List2 Step 4">
+     </p>
+  
+  5. Click on the "Save Changes" button.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List2_Step_5.png" alt="To Do List2 Step 5">
+     </p>
+
+  6. Your to-do list segmentation is successfully saved when the “Saved” prompt appears.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List2_Step_6.png" alt="To Do List2 Step 6">
+     </p>
+
+  7. For example, when the to-do list is ticked for "Site Visit" Job with the status "In Progress", the to-do list box will be displayed in the job as below.<br>
+
+     <p align="center">
+       <img src="img/To_Do_List2_Step_7.png" alt="To Do List2 Step 7">
+     </p>
      <br><br><br>
 
 **Related Articles**<br>
