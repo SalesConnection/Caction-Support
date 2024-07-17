@@ -246,4 +246,18 @@
    - <a href="Office_Check_In_Settings.html">Office Check-In Settings</a><br>
    </details>
    <br><br>
+
+**17. Feature**<br>
+
+   Tools and processes for managing employee-related tasks, including claim management, attendance tracking, and office check-in settings.<br>
+   
+   <details>
+   <summary>View HR Suite Articles</summary>
+   <br>
+   - <a href="Claim_Management.html">Claim Management</a><br>
+   - <a href="Overtime_Management.html">Overtime Management</a><br>
+   - <a href="Attendance_List.html">Attendance List</a><br>
+   - <a href="Office_Check_In_Settings.html">Office Check-In Settings</a><br>
+   </details>
+   <br><br>
    
