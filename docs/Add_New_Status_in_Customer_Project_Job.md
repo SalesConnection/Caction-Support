@@ -71,6 +71,7 @@ Updated: 27 May 2024<br>
    <p align="center">
      <img src="img/New_Project_Status_Save.png" alt="New Project Status Save">
    </p>
+   <br><br>
 
 <a id="section2"></a>
 
