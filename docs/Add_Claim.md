@@ -44,7 +44,7 @@ The claim feature allows company staff to easily submit and track claims for exp
      <img src="img2/Add_Claim_Step_7.png" alt="Add Claim Step 7" width="280" height="550">
    </p>
 
-8. Select the Business Travel that you would like to create an claim for.
+8. Select the Business Travel that you would like to create a claim for.
 
    <p align="center">
      <img src="img2/Add_Claim_Step_8.png" alt="Add Claim Step 8" width="280" height="550">
@@ -79,6 +79,8 @@ The claim feature allows company staff to easily submit and track claims for exp
     <p align="center">
       <img src="img2/Add_Claim_Step_13.png" alt="Add Claim Step 13" width="280" height="550">
     </p>
+
+    *Note: Only one file (photo/video/document) may be attached to a claim.<br>
 
 14. Select for the attachement's format.
 
