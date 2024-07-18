@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 18 July 2024<br>
+Updated: 18 July 2024<br>
 ## How to Check Pending Data?
 
 Pending data is usually used to check if a user has informed that a comment has been showing as pending for a long time in job details page. In such cases, support team will require user to take screenshot of the pending data so the team can check on it. (As shown below) 
@@ -40,5 +43,3 @@ Pending data is usually used to check if a user has informed that a comment has 
 - [How Does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How to check if my staff have any pending updates?](Check_Pending_Update.md)
-
-
