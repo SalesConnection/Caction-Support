@@ -101,7 +101,7 @@
    </p><br>
    <br><br><br>
 
-**Related Article**<br>
-[I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
-
+**Related Article**
+- [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
+- [Notification Settings by User Account](Notification_Settings_by_User_Account.md)
 
