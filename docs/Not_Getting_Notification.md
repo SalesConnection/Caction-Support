@@ -101,7 +101,7 @@
    </p><br>
    <br><br><br>
 
-**Related Article**
+**Related Article**<br>
 [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
 
 
