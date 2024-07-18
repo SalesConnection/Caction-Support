@@ -82,4 +82,4 @@
      <img src="img/Desktop_Notification_Setting_Step_6.png" alt="Desktop Notification Setting Step 6" width="280" height="550">
    </p><br>
 
-7. 
+7. Paste the Sales Connection link (https://salesconnection.my/activity/scheduler) in here.
