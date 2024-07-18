@@ -46,4 +46,40 @@
 
  - **Desktop Version**:
 
-1. For example, if you are using Google Chrome as 
+1. For example, if you are using Google Chrome browser, click on the three dots icon.
+
+   <p align="center">
+     <img src="img/Desktop_Notification_Setting_Step_1.png" alt="Desktop Notification Setting Step 1" width="280" height="550">
+   </p><br>
+
+2. Click on "Settings".
+
+   <p align="center">
+     <img src="img/Desktop_Notification_Setting_Step_2.png" alt="Desktop Notification Setting Step 2" width="280" height="550">
+   </p><br>
+
+3. Click on "Privacy and security".
+
+   <p align="center">
+     <img src="img/Desktop_Notification_Setting_Step_3.png" alt="Desktop Notification Setting Step 3" width="280" height="550">
+   </p><br>
+
+4. Click on "Site settings".
+
+   <p align="center">
+     <img src="img/Desktop_Notification_Setting_Step_4.png" alt="Desktop Notification Setting Step 4" width="280" height="550">
+   </p><br>
+
+5. Click on "Notifications".
+
+   <p align="center">
+     <img src="img/Desktop_Notification_Setting_Step_5.png" alt="Desktop Notification Setting Step 5" width="280" height="550">
+   </p><br>
+
+6. Click on the "Add" button.
+
+   <p align="center">
+     <img src="img/Desktop_Notification_Setting_Step_6.png" alt="Desktop Notification Setting Step 6" width="280" height="550">
+   </p><br>
+
+7. 
