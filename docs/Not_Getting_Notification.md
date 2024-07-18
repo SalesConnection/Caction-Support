@@ -99,6 +99,7 @@
    <p align="center">
      <img src="img2/Desktop_Notification_Setting_Step_9.png" alt="Desktop Notification Setting Step 9">
    </p><br>
+   <br><br><br>
 
 **Related Article**
 [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
