@@ -1,4 +1,4 @@
-## I am Not Getting Any Notification From the system on my device. Why?
+## I am not getting any notification from the system on my device. Why?
 
 **Navigate to the section by clicking it.**<br>
 
@@ -99,3 +99,8 @@
    <p align="center">
      <img src="img2/Desktop_Notification_Setting_Step_9.png" alt="Desktop Notification Setting Step 9">
    </p><br>
+
+**Related Article**
+[I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
+
+
