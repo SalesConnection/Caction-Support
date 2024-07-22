@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 9 July 2024<br>
-Updated: 9 July 2024<br>
+Updated: 22 July 2024<br>
 ## Office Check-In Settings
 
 Save your office address(es) into the system and set them up for your team to clock in and out of the office with our Office Check-In feature. This gives the team an alternative to check in/out to locations deemed as your office address without requiring a Job on it.<br><br>
