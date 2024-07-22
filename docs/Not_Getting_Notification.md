@@ -94,7 +94,7 @@
      <img src="img2/Desktop_Notification_Setting_Step_8.png" alt="Desktop Notification Setting Step 8">
    </p><br>
 
-9. When the Sales Connection link is under "Allowed" list, the notification has been allowed to send now.
+9. Once it is on “Allow”, you will begin receiving notifications from Sales Connection on the PC you are using similar to your mobile device that’s logged into Sales Connection.
 
    <p align="center">
      <img src="img2/Desktop_Notification_Setting_Step_9.png" alt="Desktop Notification Setting Step 9">
