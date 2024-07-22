@@ -83,6 +83,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ### Notification
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
+- [I am Not Getting Any Notification From the System On My Device. Why?](Not_Getting_Notification.md)
 
 
 ### Reminder 
