@@ -18,12 +18,12 @@ a. Different user types will affect job visibility. Contact your admin for user 
 
    | User Type | Description |
    |-----------|-------------|
-   | Main Admin | The account holder. |
    | Admin | Can access everything in the system. |
-   | Sub-Admin | Can see everything within the department. |
-   | Staff | Can access within the department with some limitations. |
-   | Associate User | Limited access. |
-
+   | Sub-Admin | Can see all Jobs within the department. |
+   | Staff/Associate User | Can only see their own Jobs. |
+   
+   *Note: These are based on Default Access. Your account may have specific settings. Please check with your Admin if your settings are different from the Default.<br>
+   
    **Click here to know more about user type:** [User Type Default Access](User_Types_Default_Access.md)<br>
    <br>
      
