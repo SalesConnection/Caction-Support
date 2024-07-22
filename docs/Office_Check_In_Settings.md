@@ -9,8 +9,8 @@ Save your office address(es) into the system and set them up for your team to cl
 
 - [Add Office Check-In Location](#section1)<br>
 - [Clear Assigned User](#section2)<br>
-- [Edit Office Check-In Location](#section3)<br>
-- [Delete Office Check-In Location](#section4)
+- [Delete Office Check-In Location](#section3)<br>
+- [Edit Office Check-In Location](#section4)
 <br><br><br>
 
 <a id="section1"></a>
@@ -137,23 +137,66 @@ To delete the registered location set for your office check in/out, follow the s
 ### Edit Office Check-In Location
 To edit the registered location set for your office check in/out, follow the steps below.<br>
 
-1. Click on the "Delete" icon beside the office check-in you want to delete.
+1. At the desktop's navigation bar, go to Business Management > Customer List.<br>
+   **Open Customer List Page Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
 
    <p align="center">
       <img src="img2/Office_Check_In_Settings4_Step_1.png" alt="Office Check In Settings4 Step 1">
    </p>
   
-2. Click "Save Changes".
+2. Use filter to search the customer.
 
    <p align="center">
       <img src="img2/Office_Check_In_Settings4_Step_2.png" alt="Office Check In Settings4 Step 2">
    </p>
   
-3. The office check-in has been deleted when this prompt appears.
+3. Click the "expand" button to open the customer details page.
 
    <p align="center">
       <img src="img2/Office_Check_In_Settings4_Step_3.png" alt="Office Check In Settings4 Step 3">
    </p>  
+
+4. Scroll down to the "ADDRESS" column.
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_4.png" alt="Office Check In Settings4 Step 4">
+   </p>
+  
+5. Click on the "pencil" icon of the address.
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_5.png" alt="Office Check In Settings4 Step 5">
+   </p> 
+
+6. Click "Proceed" to edit the address.
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_6.png" alt="Office Check In Settings4 Step 6">
+   </p>  
+
+7. Search the office check-in location.
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_7.png" alt="Office Check In Settings4 Step 7">
+   </p
+  
+8. Confirm the location and click "Submit".
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_8.png" alt="Office Check In Settings4 Step 8">
+   </p>
+
+9. Enter the location's name.
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_9.png" alt="Office Check In Settings4 Step 9">
+   </p
+  
+10. Click on the "SAVE" button and the new location will be applied in the office check-in settings automatically.
+
+    <p align="center">
+       <img src="img2/Office_Check_In_Settings4_Step_10.png" alt="Office Check In Settings4 Step 10">
+    </p>
    <br><br><br>
 
 **Related Articles**
