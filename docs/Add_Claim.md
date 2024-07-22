@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 22 July 2024<br>
+Updated: 22 July 2024<br>
 ## How to Add Claim?
 
 The claim feature allows company staff to easily submit and track claims for expenses such as fuel, meals, parking fees, tools, and more.<br><br>
