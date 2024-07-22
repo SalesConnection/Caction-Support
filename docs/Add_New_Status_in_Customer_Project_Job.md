@@ -93,6 +93,8 @@ Updated: 27 May 2024<br>
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_3.png" alt="Project Status Segmentation Step 3">
    </p>
+
+   *Note: 
   
 4. Click on the "Save Changes" button.
 
