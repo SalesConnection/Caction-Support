@@ -264,3 +264,4 @@ Updated: 16 July 2024<br>
 **Related Articles**
 - [How to Add Claim?](Add_Claim.md)
 - [Overtime Management](Overtime_Management.md)
+- [Office Check-In Settings](Office_Check_In_Settings.md)
