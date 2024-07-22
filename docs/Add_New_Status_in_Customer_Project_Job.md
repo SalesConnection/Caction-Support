@@ -94,7 +94,7 @@ Updated: 27 May 2024<br>
      <img src="img2/Project_Status_Segmentation_Step_3.png" alt="Project Status Segmentation Step 3">
    </p>
 
-   *Note: After enabled the visibility, the to-do list will be shown in the task accordingly.<br>
+   *Note: Visibility determines who can see the to-do list and who must complete the to-do list before changing the status.<br>
   
 4. Click on the "Save Changes" button.
 
