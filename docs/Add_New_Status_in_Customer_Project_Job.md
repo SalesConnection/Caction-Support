@@ -9,7 +9,7 @@ Updated: 27 May 2024<br>
 - [Status Segmentation](#section2)
 <br><br><br>
 
-1. For example, if you wish to add new status in Project. At the desktop site's navigation bar, go to Wizard.<br>
+1. The guide below shows steps for adding new status for Project. However, the steps can be replicated for Customer/Job as well. For example, if you wish to add new status in Project. At the desktop site’s navigation bar, go to Wizard.<br>
    **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
  
    <p align="center">
