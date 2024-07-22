@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 22 July 2024<br>
+Updated: 22 July 2024<br>
 ## I am not getting any notification from the system on my device. Why?
 
 **Navigate to the section by clicking it.**<br>
