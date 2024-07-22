@@ -9,7 +9,8 @@ Save your office address(es) into the system and set them up for your team to cl
 
 - [Add Office Check-In Location](#section1)<br>
 - [Clear Assigned User](#section2)<br>
-- [Delete Office Check-In](#section3)
+- [Edit Office Check-In Location](#section3)<br>
+- [Delete Office Check-In Location](#section4)
 <br><br><br>
 
 <a id="section1"></a>
@@ -109,7 +110,7 @@ To remove/clear off all the assigned users from being able to use the registered
 
 <a id="section3"></a>
 
-### Delete Office Check-In
+### Delete Office Check-In Location
 To delete the registered location set for your office check in/out, follow the steps below.<br>
 
 1. Click on the "Delete" icon beside the office check-in you want to delete.
@@ -128,6 +129,30 @@ To delete the registered location set for your office check in/out, follow the s
 
    <p align="center">
       <img src="img2/Office_Check_In_Settings3_Step_3.png" alt="Office Check In Settings3 Step 3">
+   </p>  
+   <br><br>
+
+<a id="section4"></a>
+
+### Edit Office Check-In Location
+To edit the registered location set for your office check in/out, follow the steps below.<br>
+
+1. Click on the "Delete" icon beside the office check-in you want to delete.
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_1.png" alt="Office Check In Settings4 Step 1">
+   </p>
+  
+2. Click "Save Changes".
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_2.png" alt="Office Check In Settings4 Step 2">
+   </p>
+  
+3. The office check-in has been deleted when this prompt appears.
+
+   <p align="center">
+      <img src="img2/Office_Check_In_Settings4_Step_3.png" alt="Office Check In Settings4 Step 3">
    </p>  
    <br><br><br>
 
