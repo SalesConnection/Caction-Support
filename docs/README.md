@@ -22,11 +22,6 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New User Category?](Add_New_User_Category.md)
 - [How to Copy Account for New User?](Copy_Account.md)
 
-  
-### Bulk Update
-- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Customer_Bulk_Update.md)
-- [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
-
 
 ### Updates
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
@@ -152,6 +147,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Import New Contact(s)?](Import_Contact.md)
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
 - [How to Import New UOM(s)?](Import_UOM.md)
+- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Customer_Bulk_Update.md)
+- [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
 
   
 ## Template Settings
