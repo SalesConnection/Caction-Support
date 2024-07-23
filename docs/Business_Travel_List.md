@@ -23,61 +23,61 @@
 
 ### Filter
 
-1. Click "Advance" to see more details of the attendance list.
+1. Click "Business Travel Date Range".
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_2.png" alt="Business Travel List Step 2">
    </p>
   
-2. The differences between "Basic" and "Advance" are below.
+2. Choose the date range you want to see.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_3.png" alt="Business Travel List Step 3">
    </p>
    
-3. Click "Template Setting" to access the "User Group Setting". 
+3. Click on the "Done" button.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_4.png" alt="Business Travel List Step 4">
    </p>
 
-4. Enter the group name of the new attendance settings.
+4. Click "Filter By User".
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_5.png" alt="Business Travel List Step 5">
    </p>
 
-5. Click "Add Group".
+5. Search the user's name.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_6.png" alt="Business Travel List Step 6">
    </p>
   
-6. Click on the time of the day.
+6. Tick the box of the user.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_7.png" alt="Business Travel List Step 7">
    </p>
   
-7. Update the shift time by clicking the arrow.
+7. Click on the "Save" button.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_8.png" alt="Business Travel List Step 8">
    </p>
   
-8. Tick the option based on your company preferences.
+8. Click "Show only travel with claim".
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_9.png" alt="Business Travel List Step 9">
    </p>
   
-9. Click on the "Update" button.
+9. Select the filter value you want.
 
    <p align="center">
     <img src="img2/Business_Travel_List_Step_10.png" alt="Business Travel List Step 10">
    </p>
 
-10. Click the "User" icon to assign users to the group.
+10. The result of the filter will be shown as below.
 
     <p align="center">
       <img src="img2/Business_Travel_List_Step_11.png" alt="Business Travel List Step 11">
@@ -88,31 +88,31 @@
 
 ### Favourite Filter
 
-1. Select the users you want to assign to the group.
+1. Click "Favourite Filter".
 
    <p align="center">
     <img src="img2/Business_Travel_List_Step_12.png" alt="Business Travel List Step 12">
    </p>
   
-2. Click on the "Save" button.
+2. Click "+ Add".
 
    <p align="center">
      <img src="img2/Business_Travel_List_Step_13.png" alt="Business Travel List Step 13">
    </p>
 
-3. Click "Save Changes" to save the attendance settings.
+3. Enter the name of the favourite filter.
 
    <p align="center">
      <img src="img2/Business_Travel_List_Step_14.png" alt="Business Travel List Step 14">
    </p>
   
-4. Your changes have been saved successfully when this prompt appears.
+4. Click on the "Save" button.
 
    <p align="center">
      <img src="img2/Business_Travel_List_Step_15.png" alt="Business Travel List Step 15">
    </p>
   
-5. Click on the icon below to modify the attendance settings.
+5. The favourite filter has been saved successfully.
 
    <p align="center">
      <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
@@ -123,25 +123,25 @@
 
 ### Default Filter
 
-1. Select the users you want to assign to the group.
+1. Click "Favourite Filter".
 
    <p align="center">
     <img src="img2/Business_Travel_List_Step_12.png" alt="Business Travel List Step 12">
    </p>
   
-2. Click on the "Save" button.
+2. Click "Default Filter".
 
    <p align="center">
      <img src="img2/Business_Travel_List_Step_13.png" alt="Business Travel List Step 13">
    </p>
 
-3. Click "Save Changes" to save the attendance settings.
+3. Click on the favourite filter you want to set as default filter.
 
    <p align="center">
      <img src="img2/Business_Travel_List_Step_14.png" alt="Business Travel List Step 14">
    </p>
   
-4. Your changes have been saved successfully when this prompt appears.
+4. The default filter has been saved successfully.
 
    <p align="center">
      <img src="img2/Business_Travel_List_Step_15.png" alt="Business Travel List Step 15">
@@ -152,7 +152,7 @@
 
 ### Clear All Filter
 
-1. Click on the icon below to modify the attendance settings.
+1. Click "Clear All" to s
 
    <p align="center">
      <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
