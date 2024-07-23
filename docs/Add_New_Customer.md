@@ -230,7 +230,7 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
       <p align="center">
         <img src="img2/Add_New_Customer3_Step_11.png" alt="Add New Customer3 Step 11">
       </p>
-     <br><br>
+      <br><br>
      
 <a id="section2"></a>
 
