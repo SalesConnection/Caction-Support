@@ -20,7 +20,7 @@ A **Project** in Sales Connection serves as a folder to organize and manage both
    **Open User Account Customisation Page Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
    
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_1.png" alt="Cant Find Project Step 1">
+     <img src="img2/Cant_Find_Project_Step_1.png" alt="Cant Find Project Step 1">
    </p>
 
    *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
@@ -28,49 +28,49 @@ A **Project** in Sales Connection serves as a folder to organize and manage both
 2. Click the “pencil” icon beside "Company Settings".
 
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_2.png" alt="Cant Find Project Step 2">
+     <img src="img2/Cant_Find_Project_Step_2.png" alt="Cant Find Project Step 2">
    </p>
 
 3. Click "Control Settings".
 
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_3.png" alt="Cant Find Project Step 3">
+     <img src="img2/Cant_Find_Project_Step_3.png" alt="Cant Find Project Step 3">
    </p>
 
 4. Scroll down to "Project Settings for Users".
 
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_4.png" alt="Cant Find Project Step 4">
+     <img src="img2/Cant_Find_Project_Step_4.png" alt="Cant Find Project Step 4">
    </p>
 
 5. Select the option you want.
 
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_5.png" alt="Cant Find Project Step 5">
+     <img src="img2/Cant_Find_Project_Step_5.png" alt="Cant Find Project Step 5">
    </p>
 
 6. Click "Save Control Settings".
 
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_6.png" alt="Cant Find Project Step 6">
+     <img src="img2/Cant_Find_Project_Step_6.png" alt="Cant Find Project Step 6">
    </p>
 
 7. Click "All Users".
 
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_7.png" alt="Cant Find Project Step 7">
+     <img src="img2/Cant_Find_Project_Step_7.png" alt="Cant Find Project Step 7">
    </p>
 
 8. Click on the "Save" button.
 
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_8.png" alt="Cant Find Project Step 8">
+     <img src="img2/Cant_Find_Project_Step_8.png" alt="Cant Find Project Step 8">
    </p>
 
 9. The project selection was saved successfully when this prompt appeared.
 
    <p align="center">
-     <img src="img/Cant_Find_Project_Step_9.png" alt="Cant Find Project Step 9">
+     <img src="img2/Cant_Find_Project_Step_9.png" alt="Cant Find Project Step 9">
    </p>
 <br><br><br>
 
