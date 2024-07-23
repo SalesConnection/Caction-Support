@@ -2,218 +2,173 @@
 
 **Business Travel (List)** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
 
-1. At the desktop's navigation bar, go to Business Reports > Digital Form Report.
-
-   <p align="center">
-     <img src="img2/Report_Page.png" alt="Report Page">
-   </p>
-
-2. There are many features in the Report page.
-
-   | No | Terms | Description |
-   |----|-------|-------------|
-   | 2 | Filter | Use filter groups to refine your search based on specific criteria. |
-   | 3 | Favourite Filter | Save your current filter and column settings as a favourite for easy access and automatic application next time. |
-   | 4 | Default Columns | Customize which columns are displayed by default and save your preferences for future reports. |
-   | 5 | Export Report | Export your report in different formats for further analysis or sharing. |
-
-   <p align="center">
-     <img src="img/Report_Page_Introduce.png" alt="Report Page Introduce">
-   </p>
-   <br><br>
-
 **Navigate to the section by clicking it.**<br>
 
-- [Digital Form Category](#section1)<br>
-- [Default Columns](#section2)<br>
-- [Filter](#section3)<br>
-- [Favourite Filter](#section4)<br>
-- [Export Report](#section5)
+- [Filter](#section1)<br>
+- [Favourite Filter](#section2)<br>
+- [Default Filter](#section3)<br>
+- [Clear All Filter](#section4)<br>
+- [Refresh](#section5)
 <br><br><br>
 
-<a id="section1"></a>
-
-### Digital Form Category
 1. At the desktop site navigation bar, go to Business Map > Business Travel (List).<br>
    **Open Business Travel (List) Here:** [https://salesconnection.my/business-travel/list](https://salesconnection.my/business-travel/list)<br>
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_1.png" alt="Business Travel List Step 1">
    </p>
+   <br><br>
+   
+<a id="section1"></a>
 
-2. Click "Advance" to see more details of the attendance list.
+### Filter
+
+1. Click "Advance" to see more details of the attendance list.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_2.png" alt="Business Travel List Step 2">
    </p>
   
-3. The differences between "Basic" and "Advance" are below.
+2. The differences between "Basic" and "Advance" are below.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_3.png" alt="Business Travel List Step 3">
    </p>
    
-4. Click "Template Setting" to access the "User Group Setting". 
+3. Click "Template Setting" to access the "User Group Setting". 
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_4.png" alt="Business Travel List Step 4">
    </p>
 
-5. Enter the group name of the new attendance settings.
+4. Enter the group name of the new attendance settings.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_5.png" alt="Business Travel List Step 5">
    </p>
 
-6. Click "Add Group".
+5. Click "Add Group".
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_6.png" alt="Business Travel List Step 6">
    </p>
   
-7. Click on the time of the day.
+6. Click on the time of the day.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_7.png" alt="Business Travel List Step 7">
    </p>
   
-8. Update the shift time by clicking the arrow.
+7. Update the shift time by clicking the arrow.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_8.png" alt="Business Travel List Step 8">
    </p>
   
-9. Tick the option based on your company preferences.
+8. Tick the option based on your company preferences.
 
    <p align="center">
       <img src="img2/Business_Travel_List_Step_9.png" alt="Business Travel List Step 9">
    </p>
   
-10. Click on the "Update" button.
+9. Click on the "Update" button.
 
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_10.png" alt="Business Travel List Step 10">
-    </p>
+   <p align="center">
+    <img src="img2/Business_Travel_List_Step_10.png" alt="Business Travel List Step 10">
+   </p>
 
-11. Click the "User" icon to assign users to the group.
+10. Click the "User" icon to assign users to the group.
 
     <p align="center">
       <img src="img2/Business_Travel_List_Step_11.png" alt="Business Travel List Step 11">
     </p>
+    <br><br>
+   
+<a id="section2"></a>
+
+### Favourite Filter
+
+1. Select the users you want to assign to the group.
+
+   <p align="center">
+    <img src="img2/Business_Travel_List_Step_12.png" alt="Business Travel List Step 12">
+   </p>
   
-12. Select the users you want to assign to the group.
+2. Click on the "Save" button.
 
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_12.png" alt="Business Travel List Step 12">
-    </p>
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_13.png" alt="Business Travel List Step 13">
+   </p>
+
+3. Click "Save Changes" to save the attendance settings.
+
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_14.png" alt="Business Travel List Step 14">
+   </p>
   
-13. Click on the "Save" button.
+4. Your changes have been saved successfully when this prompt appears.
 
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_13.png" alt="Business Travel List Step 13">
-    </p>
-
-14. Click "Save Changes" to save the attendance settings.
-
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_14.png" alt="Business Travel List Step 14">
-    </p>
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_15.png" alt="Business Travel List Step 15">
+   </p>
   
-15. Your changes have been saved successfully when this prompt appears.
+5. Click on the icon below to modify the attendance settings.
 
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_15.png" alt="Business Travel List Step 15">
-    </p>
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
+   </p>  
+   <br><br>
+   
+<a id="section3"></a>
+
+### Default Filter
+
+1. Select the users you want to assign to the group.
+
+   <p align="center">
+    <img src="img2/Business_Travel_List_Step_12.png" alt="Business Travel List Step 12">
+   </p>
   
-16. Click on the icon below to modify the attendance settings.
+2. Click on the "Save" button.
 
-    | No | Terms | Description |
-    |----|-------|-------------|
-    | a | Edit | Click to edit the name of the group. |
-    | b | Delete | Click to delete the group. |
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_13.png" alt="Business Travel List Step 13">
+   </p>
 
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
-    </p>  
+3. Click "Save Changes" to save the attendance settings.
 
-17. Click "Filter Attendance Record".
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_17.png" alt="Business Travel List Step 17">
-    </p>  
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_14.png" alt="Business Travel List Step 14">
+   </p>
+  
+4. Your changes have been saved successfully when this prompt appears.
 
-18. Click on the "Filter Variable" you want.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_18.png" alt="Business Travel List Step 18">
-    </p>
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_15.png" alt="Business Travel List Step 15">
+   </p>
+   <br><br>
+   
+<a id="section4"></a>
 
-19. Enter the "Filter Value" you want.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_19.png" alt="Business Travel List Step 19">
-    </p>  
+### Clear All Filter
 
-20. Press the "Enter" key to filter.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_20.png" alt="Business Travel List Step 20">
-    </p>
+1. Click on the icon below to modify the attendance settings.
 
-21. The attendance list with the filter will be shown as below.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_21.png" alt="Business Travel List Step 21">
-    </p>  
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
+   </p>  
+   <br><br>
+   
+<a id="section5"></a>
 
-22. Click "Favourite Filter' to save the filter as favourite filter.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_22.png" alt="Business Travel List Step 22">
-    </p>
+### Refresh
 
-23. Click "+ Add".
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_23.png" alt="Business Travel List Step 23">
-    </p>  
+1. Click on the icon below to modify the attendance settings.
 
-24. Enter the name of the favourite filter.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_24.png" alt="Business Travel List Step 24">
-    </p>
-
-25. Click on the "Save" button.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_25.png" alt="Business Travel List Step 25">
-    </p>  
-
-26. The favourite filter has been saved successfully and you can apply it whenever you want.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_26.png" alt="Business Travel List Step 26">
-    </p>
-
-27. Click "Clear All" to remove all the filters applied.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_27.png" alt="Business Travel List Step 27">
-    </p>  
-
-28. Click "Export Excel" to get the report of the attendance list in excel format.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_28.png" alt="Business Travel List Step 28">
-    </p>
-
-29. Click "Export Summary Report" to get the summary report of the attendance list.
-    
-    <p align="center">
-      <img src="img2/Business_Travel_List_Step_29.png" alt="Business Travel List Step 29">
-    </p>
-    <br><br><br>
+   <p align="center">
+     <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
+   </p>  
+   <br><br><br>
 
 **Related Articles**
 - [Office Check-In Settings](Office_Check_In_Settings.md)
