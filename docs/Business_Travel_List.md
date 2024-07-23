@@ -1,6 +1,6 @@
 ## Business Travel (List)
 
-**Attendance List** tracks employee check-ins and check-outs for business travel. It includes details such as check-in dates, check-out dates, times, customer visits, total duration of check-ins, and non-check-in times, helping to monitor and manage employees' travel and attendance records.<br><br>
+**Business Travel (List)** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
 
 
 1. At the desktop site navigation bar, go to HR Suite > Attendance List.<br>
