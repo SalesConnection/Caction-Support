@@ -125,7 +125,6 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Asset Dashboard](Asset_Dashboard.md)
   
 ### Customer List
-- [How to Add New Customer?](Add_New_Customer.md)
 - [Customer List](Customer_List.md)
 
 
