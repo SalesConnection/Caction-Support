@@ -2,7 +2,38 @@
 
 **Business Travel (List)** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
 
+1. At the desktop's navigation bar, go to Business Reports > Digital Form Report.
 
+   <p align="center">
+     <img src="img2/Report_Page.png" alt="Report Page">
+   </p>
+
+2. There are many features in the Report page.
+
+   | No | Terms | Description |
+   |----|-------|-------------|
+   | 2 | Filter | Use filter groups to refine your search based on specific criteria. |
+   | 3 | Favourite Filter | Save your current filter and column settings as a favourite for easy access and automatic application next time. |
+   | 4 | Default Columns | Customize which columns are displayed by default and save your preferences for future reports. |
+   | 5 | Export Report | Export your report in different formats for further analysis or sharing. |
+
+   <p align="center">
+     <img src="img/Report_Page_Introduce.png" alt="Report Page Introduce">
+   </p>
+   <br><br>
+
+**Navigate to the section by clicking it.**<br>
+
+- [Digital Form Category](#section1)<br>
+- [Default Columns](#section2)<br>
+- [Filter](#section3)<br>
+- [Favourite Filter](#section4)<br>
+- [Export Report](#section5)
+<br><br><br>
+
+<a id="section1"></a>
+
+### Digital Form Category
 1. At the desktop site navigation bar, go to Business Map > Business Travel (List).<br>
    **Open Business Travel (List) Here:** [https://salesconnection.my/business-travel/list](https://salesconnection.my/business-travel/list)<br>
 
