@@ -23,11 +23,6 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New User Category?](Add_New_User_Category.md)
 
 
-### Bulk Update
-- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Customer_Bulk_Update.md)
-- [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
-
-
 ### Updates
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How to Check Pending Update?](Check_Pending_Update.md)
@@ -93,7 +88,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 - [How to Add New Product/Services?](Add_New_Product&Service_List.md)
 - [Comment Category Segmentation](Comment_Category_Segmentation.md)
-  
+- [Why I Cannot Find my Project?](Cant_Find_Project.md)
   
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
@@ -159,7 +154,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Import New Contact(s)?](Import_Contact.md)
 - [How to Import New Product/Services(s)?](Import_Product_Services.md)
 - [How to Import New UOM(s)?](Import_UOM.md)
-  
+- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Customer_Bulk_Update.md)
+- [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
 
 ## Template Settings
 
