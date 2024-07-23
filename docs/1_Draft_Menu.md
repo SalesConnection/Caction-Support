@@ -23,16 +23,6 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New User Category?](Add_New_User_Category.md)
 
 
-### Import
-- [How to Import New Customer(s)?](Import_Customer.md)
-- [How to Import New Project(s)?](Import_Project.md)
-- [How to Import New Product/Services(s)?](Import_Product_Services.md)
-- [How do I Import New Asset(s)?](Import_Asset.md)
-- [How to Import New UOM(s)?](Import_UOM.md)
-- [How do I Import New User(s)?](Import_User.md)
-- [How to Import New Contact(s)?](Import_Contact.md)
-
-
 ### Bulk Update
 - [How to do Customer/Project/Product/Services/UOM Bulk Update?](Customer_Bulk_Update.md)
 - [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
@@ -162,6 +152,15 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [To-do List Setup](To_Do_List.md)
 
 
+## Import
+- [How to Import New Customer(s)?](Import_Customer.md)
+- [How to Import New Project(s)?](Import_Project.md)
+- [How do I Import New Asset(s)?](Import_Asset.md)
+- [How to Import New Contact(s)?](Import_Contact.md)
+- [How to Import New Product/Services(s)?](Import_Product_Services.md)
+- [How to Import New UOM(s)?](Import_UOM.md)
+  
+
 ## Template Settings
 
 ### Job
@@ -178,9 +177,12 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ## User Management 
+
+### User Account Customization 
 - [UAC Policy Management](UAC_Policy_Management.md)
 - [Company Profile Settings](Company_Profile_Settings.md)
 - [Notification Settings by User Account](Notification_Settings_by_User_Account.md)
+- [How do I Import New User(s)?](Import_User.md)
 
 
 ## Wizard
