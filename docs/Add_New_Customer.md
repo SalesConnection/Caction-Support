@@ -153,49 +153,50 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      **Open Public Form Templates Page Here:** [https://salesconnection.my/PublicForm/TemplateSetting](https://salesconnection.my/PublicForm/TemplateSetting)<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer3_Step_1.png" alt="Add New Customer3 Step 1">
+       <img src="img2/Add_New_Customer3_Step_1.png" alt="Add New Customer3 Step 1">
      </p>
 
   2. Scroll down to "Creation Control".<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer3_Step_2.png" alt="Add New Customer3 Step 2">
+       <img src="img2/Add_New_Customer3_Step_2.png" alt="Add New Customer3 Step 2">
      </p>
 
   3. Make sure the "Customer Creation" is enabled as below.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer3_Step_3.png" alt="Add New Customer3 Step 3">
+       <img src="img2/Add_New_Customer3_Step_3.png" alt="Add New Customer3 Step 3">
      </p>
   
   4. At the desktop's navigation bar, go to Business Reports > Public Form Report.<br>
+     **Open Public Form Report Page Here:** [https://salesconnection.my/reports/publicform](https://salesconnection.my/reports/publicform)<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer3_Step_4.png" alt="Add New Customer3 Step 4">
+       <img src="img2/Add_New_Customer3_Step_4.png" alt="Add New Customer3 Step 4">
      </p>
   
   5. Use filter to search the Public Form you want.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer3_Step_5.png" alt="Add New Customer3 Step 5">
+       <img src="img2/Add_New_Customer3_Step_5.png" alt="Add New Customer3 Step 5">
      </p>
   
   6. Click the expand icon to open the Public Form details page.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer3_Step_6.png" alt="Add New Customer3 Step 6">
+       <img src="img2/Add_New_Customer3_Step_6.png" alt="Add New Customer3 Step 6">
      </p>
   
   7. Click "three dots" icon on the top right corner.
 
      <p align="center">
-       <img src="img/Add_New_Customer3_Step_7.png" alt="Add New Customer3 Step 7">
+       <img src="img2/Add_New_Customer3_Step_7.png" alt="Add New Customer3 Step 7">
      </p>
      
   8. Click "Create Customer" to create a new customer.
  
      <p align="center">
-        <img src="img/Add_New_Customer3_Step_8.png" alt="Add New Customer3 Step 8">
+        <img src="img2/Add_New_Customer3_Step_8.png" alt="Add New Customer3 Step 8">
      </p> 
       
   9. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
@@ -215,19 +216,19 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      *Note: Fields marked with an asterisk ( * ) are required.<br>
      
      <p align="center">
-        <img src="img/Add_New_Customer3_Step_9.png" alt="Add New Customer3 Step 9">
+        <img src="img2/Add_New_Customer3_Step_9.png" alt="Add New Customer3 Step 9">
      </p>
 
   10. Click on the "Save Customer" button.<br>
 
       <p align="center">
-        <img src="img/Add_New_Customer3_Step_10.png" alt="Add New Customer3 Step 10">
+        <img src="img2/Add_New_Customer3_Step_10.png" alt="Add New Customer3 Step 10">
       </p>
 
   11. Click "OK" and the new customer is added successfully. You may continue with creating a new Job.<br>
 
       <p align="center">
-        <img src="img/Add_New_Customer3_Step_11.png" alt="Add New Customer3 Step 11">
+        <img src="img2/Add_New_Customer3_Step_11.png" alt="Add New Customer3 Step 11">
       </p>
      <br><br>
      
