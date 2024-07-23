@@ -1,10 +1,13 @@
 ## Why I Cannot Find my Project?
 
-1. Click "Wizard".
+1. At the desktop's navigation bar, go to User Management > User Account Customisation.<br>
+   **Open User Account Customisation Page Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
    
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_1.png" alt="How to edit access for Digital Form Step 1">
    </p>
+
+   *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
 
 2. Click "Digital Form".
 
