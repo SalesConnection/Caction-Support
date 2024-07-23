@@ -145,6 +145,15 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [To-do List Setup](To_Do_List.md)
 
 
+## Import
+- [How to Import New Customer(s)?](Import_Customer.md)
+- [How to Import New Project(s)?](Import_Project.md)
+- [How do I Import New Asset(s)?](Import_Asset.md)
+- [How to Import New Contact(s)?](Import_Contact.md)
+- [How to Import New Product/Services(s)?](Import_Product_Services.md)
+- [How to Import New UOM(s)?](Import_UOM.md)
+
+  
 ## Template Settings
 ### Job
 - [How to Setup Job Template Page?](Setup_Job_Template.md)
