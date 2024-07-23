@@ -1,10 +1,6 @@
 ## Why I Cannot Find my Project?
 
-*Note: If you are unable to access the Digital Form, please reach out to your admin for assistance.
-
 1. Click "Wizard".
-
-   *Note: Only certain admins can perform this access.
    
    <p align="center">
      <img src="img/Edit_Access_For_Digital_Form_Step_1.png" alt="How to edit access for Digital Form Step 1">
