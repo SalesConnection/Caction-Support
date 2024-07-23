@@ -31,40 +31,46 @@ A **Project** in Sales Connection serves as a folder to organize and manage both
      <img src="img/Cant_Find_Project_Step_2.png" alt="Cant Find Project Step 2">
    </p>
 
-3. Scroll down to "Project Settings for Users".
+3. Click "Control Settings".
 
    <p align="center">
      <img src="img/Cant_Find_Project_Step_3.png" alt="Cant Find Project Step 3">
    </p>
 
-4. Select the option you want.
+4. Scroll down to "Project Settings for Users".
 
    <p align="center">
      <img src="img/Cant_Find_Project_Step_4.png" alt="Cant Find Project Step 4">
    </p>
 
-5. Click "Save Control Settings"
+5. Select the option you want.
 
    <p align="center">
      <img src="img/Cant_Find_Project_Step_5.png" alt="Cant Find Project Step 5">
    </p>
 
-6. Click "All Users".
+6. Click "Save Control Settings".
 
    <p align="center">
      <img src="img/Cant_Find_Project_Step_6.png" alt="Cant Find Project Step 6">
    </p>
 
-7. Click on the "Save" button.
+7. Click "All Users".
 
    <p align="center">
      <img src="img/Cant_Find_Project_Step_7.png" alt="Cant Find Project Step 7">
    </p>
 
-8. The project selection was saved successfully when this prompt appeared.
+8. Click on the "Save" button.
 
    <p align="center">
      <img src="img/Cant_Find_Project_Step_8.png" alt="Cant Find Project Step 8">
+   </p>
+
+9. The project selection was saved successfully when this prompt appeared.
+
+   <p align="center">
+     <img src="img/Cant_Find_Project_Step_9.png" alt="Cant Find Project Step 9">
    </p>
 <br><br><br>
 
