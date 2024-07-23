@@ -254,71 +254,71 @@
    <details>
    <summary>View Features Articles</summary>
    <br>
-   - <a href="Data_Level_Structure.md">Data Level Structure</a><br>
-   - <a href="User_Types_Default_Access.md">User Type Default Access</a><br>
+   - <a href="Data_Level_Structure.html">Data Level Structure</a><br>
+   - <a href="User_Types_Default_Access.html">User Type Default Access</a><br>
    <br>
    <h2>General</h2>
-   - <a href="Add_New_Project.md">How to Add New Project?</a><br>
-   - <a href="Create_Digital_Form.md">How to Create Digital Form?</a><br>
-   - <a href="Creation_of_Public_Form.md">How to Generate and Share QR Code for Public Form?</a><br>
+   - <a href="Add_New_Project.html">How to Add New Project?</a><br>
+   - <a href="Create_Digital_Form.html">How to Create Digital Form?</a><br>
+   - <a href="Creation_of_Public_Form.html">How to Generate and Share QR Code for Public Form?</a><br>
    <br>
    <h2>Business Management</h2>
    <b>Schedule</b><br>
-   - <a href="Add_New_Job.md">How to Add New Job?</a><br>
-   - <a href="Job_Schedule_Page.md">Job Schedule Page</a><br>
-   - <a href="Project_Schedule_Page.md">Project Schedule Page</a><br>
+   - <a href="Add_New_Job.html">How to Add New Job?</a><br>
+   - <a href="Job_Schedule_Page.html">Job Schedule Page</a><br>
+   - <a href="Project_Schedule_Page.html">Project Schedule Page</a><br>
    <br>
    <b>Dashboard</b><br>
-   - <a href="Asset_Dashboard.md">Asset Dashboard</a><br>
-   - <a href="Job_Dashboard.md">Job Dashboard</a><br>
+   - <a href="Asset_Dashboard.html">Asset Dashboard</a><br>
+   - <a href="Job_Dashboard.html">Job Dashboard</a><br>
    <br>
    <b>Customer List</b><br>
-   - <a href="Add_New_Customer.md">How to Add New Customer?</a><br>
-   - <a href="Customer_List.md">Customer List</a><br>
+   - <a href="Add_New_Customer.html">How to Add New Customer?</a><br>
+   - <a href="Customer_List.html">Customer List</a><br>
    <br>
    <b>Asset List</b><br>
-   - <a href="How_to_Add_New_Asset.md">How to Add New Asset?</a><br>
+   - <a href="How_to_Add_New_Asset.html">How to Add New Asset?</a><br>
    <br>
    <b>Product/Services List</b><br>
-   - <a href="Product_Services_List.md">Product/Services List</a><br>
+   - <a href="Product_Services_List.html">Product/Services List</a><br>
    <br>
    <h2>Business Reports</h2>
-   - <a href="Report_Page.md">Report Page</a><br>
-   - <a href="Update_Report_Page.md">Update Report Page</a><br>
-   - <a href="Access_Submitted_Public_Form.md">How to Access Submitted Public Form?</a><br>
+   - <a href="Report_Page.html">Report Page</a><br>
+   - <a href="Update_Report_Page.html">Update Report Page</a><br>
+   - <a href="Access_Submitted_Public_Form.html">How to Access Submitted Public Form?</a><br>
    <br>
    <h2>HR Suite</h2>
-   - <a href="Claim_Management.md">Claim Management</a><br>
-   - <a href="Add_Overtime_Claim.md">How to Add Overtime Claim?</a><br>
-   - <a href="Overtime_Management.md">Overtime Management</a><br>
-   - <a href="Attendance_List.md">Attendance List</a><br>
-   - <a href="Office_Check_In_Settings.md">Office Check-In Settings</a><br>
-   - <a href="Add_Claim.md">How to Add Claim?</a><br>
+   - <a href="Claim_Management.html">Claim Management</a><br>
+   - <a href="Add_Overtime_Claim.html">How to Add Overtime Claim?</a><br>
+   - <a href="Overtime_Management.html">Overtime Management</a><br>
+   - <a href="Attendance_List.html">Attendance List</a><br>
+   - <a href="Office_Check_In_Settings.html">Office Check-In Settings</a><br>
+   - <a href="Add_Claim.html">How to Add Claim?</a><br>
    <br>
    <h2>Company Settings</h2>
    <br>
    <b>Job Settings</b><br>
-   - <a href="To_Do_List.md">To-do List Setup</a><br>
+   - <a href="To_Do_List.html">To-do List Setup</a><br>
    <br>
    <h2>Template Settings</h2>
    <br>
    <b>Job</b><br>
-   - <a href="Setup_Job_Template.md">How to Setup Job Template Page?</a><br>
+   - <a href="Setup_Job_Template.html">How to Setup Job Template Page?</a><br>
    <br>
    <b>Digital Form</b><br>
-   - <a href="Digital_Form_Template_Settings.md">Digital Form Template Settings</a><br>
-   - <a href="Create_PDF.md">How to Set Up Digital Form PDF Template?</a><br>
+   - <a href="Digital_Form_Template_Settings.html">Digital Form Template Settings</a><br>
+   - <a href="Create_PDF.html">How to Set Up Digital Form PDF Template?</a><br>
    <br>
    <b>Public Form</b><br>
-   - <a href="Setup_Public_Form_Template_Page.md">How to Setup Public Form Template Page?</a><br>
+   - <a href="Setup_Public_Form_Template_Page.html">How to Setup Public Form Template Page?</a><br>
    <br>
    <h2>User Management</h2>
-   - <a href="UAC_Policy_Management.md">UAC Policy Management</a><br>
-   - <a href="Company_Profile_Settings.md">Company Profile Settings</a><br>
-   - <a href="Notification_Settings_by_User_Account.md">Notification Settings by User Account</a><br>
+   - <a href="UAC_Policy_Management.html">UAC Policy Management</a><br>
+   - <a href="Company_Profile_Settings.html">Company Profile Settings</a><br>
+   - <a href="Notification_Settings_by_User_Account.html">Notification Settings by User Account</a><br>
    <br>
    <h2>Wizard</h2>
-   - <a href="Wizard_Page.md">Wizard Page</a><br>
+   - <a href="Wizard_Page.html">Wizard Page</a><br>
    </details>
    <br><br>
    
