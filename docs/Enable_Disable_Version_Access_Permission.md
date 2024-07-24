@@ -48,3 +48,5 @@ Updated: 28 June 2024<br>
 **Related Articles**
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Enable_Disable_Version_Access_Permission.html) -->
