@@ -173,4 +173,4 @@ Feel free to explore the sections above by clicking it for more information.<br>
 
 Thank you for choosing Sales Connection.
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/README.html) -->
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/) -->
