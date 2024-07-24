@@ -49,3 +49,5 @@ Updated: 31 May 2024<br>
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/IMEI.html) -->
