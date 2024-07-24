@@ -265,3 +265,5 @@ Updated: 16 July 2024<br>
 - [How to Add Claim?](Add_Claim.md)
 - [Overtime Management](Overtime_Management.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Claim_Management.html) -->
