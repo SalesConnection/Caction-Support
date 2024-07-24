@@ -73,3 +73,5 @@ Updated: 7 June 2024<br>
 **Related Articles**
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
 - [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Assist_Check_Out.html) -->
