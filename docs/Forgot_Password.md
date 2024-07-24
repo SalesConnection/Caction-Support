@@ -162,4 +162,4 @@ Updated: 24 May 2024<br>
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
 - [How to Change Account Password?](Change_Account_Password.md)
 
-
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Forgot_Password.html) -->
