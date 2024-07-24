@@ -4,18 +4,20 @@
 
 **Navigate to the section by clicking it.**<br>
 
-- [Filter](#section1)<br>
-- [Favourite Filter](#section2)<br>
-- [Default Filter](#section3)<br>
-- [Clear All Filter](#section4)<br>
-- [Refresh](#section5)
+- [Default Columns](#section1)<br>
+- [Filter](#section2)<br>
+- [Favourite Filter](#section3)<br>
+- [Default Filter](#section4)<br>
+- [Clear All Filter](#section5)<br>
+- [Refresh](#section6)<br>
+- [Export](#section7)
 <br><br><br>
 
-1. At the desktop site navigation bar, go to Business Map > Business Travel (List).<br>
-   **Open Business Travel (List) Here:** [https://salesconnection.my/business-travel/list](https://salesconnection.my/business-travel/list)<br>
+1. At the desktop site navigation bar, go to Business Map > Business Travel (Table).<br>
+   **Open Business Travel (Table) Here:** [https://salesconnection.my/business-travel/table](https://salesconnection.my/business-travel/table)<br>
 
    <p align="center">
-      <img src="img2/Business_Travel_List_Page.png" alt="Business Travel List Page">
+      <img src="img2/Business_Travel_Table_Page.png" alt="Business Travel Table Page">
    </p>
    <br><br>
    
