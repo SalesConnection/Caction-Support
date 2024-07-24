@@ -96,3 +96,5 @@ Updated: 24 May 2024<br>
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
 - [I am Not Getting Any Notification From the System On My Device. Why?](Not_Getting_Notification.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Disable_Notification.html) -->
