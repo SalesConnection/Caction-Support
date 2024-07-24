@@ -68,3 +68,5 @@ Updated: 24 May 2024<br>
 - [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
 - [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
 - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/How_to_Set_Up_the_Column_View_in_the_Report_Page.html) -->
