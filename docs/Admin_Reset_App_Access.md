@@ -246,3 +246,4 @@ Updated: 14 June 2024<br>
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to Copy Account for New User?](Copy_Account.md)
 
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Admin_Reset_App_Access.html) -->
