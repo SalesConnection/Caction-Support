@@ -187,3 +187,5 @@
 **Related Articles**
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 - [Wizard Page](Wizard_Page.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Attendance_List.html) -->
