@@ -210,3 +210,5 @@ The Digital Form Template Settings page enables users to **configure** and **man
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
 - [How to Setup Job Template Page?](Setup_Job_Template.md)
 - [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Digital_Form_Template_Settings.html) -->
