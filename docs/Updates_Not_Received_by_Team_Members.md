@@ -22,3 +22,5 @@ Updated: 24 May 2024<br>
 **Related Articles**<br>
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
 - [How to comment with photo / attachment?](Comment_With_Photo.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Updates_Not_Received_by_Team_Members.html) -->
