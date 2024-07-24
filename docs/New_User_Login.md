@@ -67,3 +67,5 @@ Updated: 24 May 2024<br>
 - [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/New_User_Login.html) -->
