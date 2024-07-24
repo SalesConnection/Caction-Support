@@ -1,6 +1,6 @@
 ## Business Travel (Table)
 
-**Business Travel (Table)** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
+**Business Travel (Table)** page displays a detailed table of business travel records, including information such as dates, users, check-in and check-out times, GPS accuracy, notes, and travel reports. It allows users to filter records, export data, and view individual travel reports for efficient tracking and management of business travel activities.<br><br>
 
 **Navigate to the section by clicking it.**<br>
 
