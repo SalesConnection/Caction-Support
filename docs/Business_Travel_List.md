@@ -171,6 +171,7 @@
    <br><br><br>
 
 **Related Articles**
+- [Business Travel (Table)](Business_Travel_Table.md)
 - [Claim Management](Claim_Management.md)
 - [Overtime Management](Overtime_Management.md)
 - [Attendance List](Attendance_List.md)
