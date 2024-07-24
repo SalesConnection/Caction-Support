@@ -131,6 +131,8 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Update Report Page](Update_Report_Page.md)
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 
+## Business Metrics
+- [Metric Dashboard](Metric_Dashboard.md)
 
 ## Business Map 
 - [Business Travel (List)](Business_Travel_List.md)
