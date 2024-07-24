@@ -97,25 +97,25 @@
 2. Click "+ Add".
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_13.png" alt="Business Travel List Step 13">
+    <img src="img2/Business_Travel_List_Favourite_Filter_Step_2.png" alt="Business Travel List Favourite Filter Step 2">
    </p>
 
 3. Enter the name of the favourite filter.
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_14.png" alt="Business Travel List Step 14">
+    <img src="img2/Business_Travel_List_Favourite_Filter_Step_3.png" alt="Business Travel List Favourite Filter Step 3">
    </p>
   
 4. Click on the "Save" button.
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_15.png" alt="Business Travel List Step 15">
+    <img src="img2/Business_Travel_List_Favourite_Filter_Step_4.png" alt="Business Travel List Favourite Filter Step 4">
    </p>
   
 5. The favourite filter has been saved successfully.
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
+    <img src="img2/Business_Travel_List_Favourite_Filter_Step_5.png" alt="Business Travel List Favourite Filter Step 5">
    </p>  
    <br><br>
    
@@ -126,25 +126,25 @@
 1. Click "Favourite Filter".
 
    <p align="center">
-    <img src="img2/Business_Travel_List_Step_12.png" alt="Business Travel List Step 12">
+    <img src="img2/Business_Travel_List_Default_Filter_Step_1.png" alt="Business Travel List Default Filter Step 1">
    </p>
   
 2. Click "Default Filter".
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_13.png" alt="Business Travel List Step 13">
+    <img src="img2/Business_Travel_List_Default_Filter_Step_2.png" alt="Business Travel List Default Filter Step 2">
    </p>
 
 3. Click on the favourite filter you want to set as default filter.
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_14.png" alt="Business Travel List Step 14">
+    <img src="img2/Business_Travel_List_Default_Filter_Step_3.png" alt="Business Travel List Default Filter Step 3">
    </p>
   
 4. The default filter has been saved successfully.
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_15.png" alt="Business Travel List Step 15">
+    <img src="img2/Business_Travel_List_Default_Filter_Step_4.png" alt="Business Travel List Default Filter Step 4">
    </p>
    <br><br>
    
@@ -155,7 +155,7 @@
 1. If you want to clear all filters that you have applied manually, click "Clear All" and all filters will be cleared.
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
+     <img src="img2/Business_Travel_List_Clear_All_Filter_Step_1.png" alt="Business Travel List Clear All Filter Step 1">
    </p>  
    <br><br>
    
@@ -166,7 +166,7 @@
 1. Click the "Refresh" button to ensure all the information is the latest.
 
    <p align="center">
-     <img src="img2/Business_Travel_List_Step_16.png" alt="Business Travel List Step 16">
+     <img src="img2/Business_Travel_List_Refresh_Step_1.png" alt="Business Travel List Refresh Step 1">
    </p>  
    <br><br><br>
 
