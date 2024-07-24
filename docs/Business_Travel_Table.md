@@ -219,6 +219,7 @@
    <br><br><br>
 
 **Related Articles**
+- [Business Travel (List)](Business_Travel_List.md)
 - [Claim Management](Claim_Management.md)
 - [Overtime Management](Overtime_Management.md)
 - [Attendance List](Attendance_List.md)
