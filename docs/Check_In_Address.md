@@ -252,3 +252,5 @@ Updated: 27 May 2024<br>
 **Related Articles**<br>
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Check_In_Address.html) -->
