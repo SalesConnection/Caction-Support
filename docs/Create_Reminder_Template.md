@@ -108,3 +108,5 @@ Reminders serve as a digital assistant for you and your team to keep track of yo
 
 **Related Articles**
 - [How to Edit Reminder Template?](Edit_Reminder_Template.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Create_Reminder_Template.html) -->
