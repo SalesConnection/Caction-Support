@@ -19,3 +19,4 @@ Updated: 24 May 2024<br>
 **Related Articles**
 - [User Type Default Access](User_Types_Default_Access.md)
 
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Data_Level_Structure.html) -->
