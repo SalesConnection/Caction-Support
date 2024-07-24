@@ -326,3 +326,5 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 - [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
 - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Update_Report_Page.html) -->
