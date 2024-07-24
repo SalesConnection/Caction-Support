@@ -97,4 +97,4 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
 
 
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Business_Metrics.html) -->
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Metric_Dashboard.html) -->
