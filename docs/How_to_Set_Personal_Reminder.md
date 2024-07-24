@@ -101,3 +101,5 @@
      <p align="center">
        <img src="img/App_Personal_Reminder_Step_15.png" alt="App Personal Reminder Step 15" width="280" height="550">
      </p><br>
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/How_to_Set_Personal_Reminder.html) -->
