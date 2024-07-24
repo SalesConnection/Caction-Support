@@ -110,3 +110,5 @@ The claim feature allows company staff to easily submit and track claims for exp
 - [Claim Management](Claim_Management.md)
 - [Overtime Management](Overtime_Management.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Add_Claim.html) -->
