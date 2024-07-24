@@ -91,3 +91,5 @@ Updated: 11 July 2024<br>
 - [How do I Import New User(s)?](Import_User.md)
 - [How do I Import New Contact(s)?](Import_Contact.md)
 - [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Customer_Bulk_Update.html) -->
