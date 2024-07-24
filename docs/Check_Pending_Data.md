@@ -43,3 +43,5 @@ Pending data is usually used to check if a user has informed that a comment has 
 - [How Does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How to check if my staff have any pending updates?](Check_Pending_Update.md)
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Check_Pending_Data.html) -->
