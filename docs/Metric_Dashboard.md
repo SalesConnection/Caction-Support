@@ -47,6 +47,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    <p align="center">
      <img src="img2/Metric_Dashboard_Select_Group_Step_4.png" alt="Metric Dashboard Select Group Step 4">
    </p>
+   <br><br>
 
 <a id="section2"></a>
 
@@ -69,6 +70,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    <p align="center">
      <img src="img2/Metric_Dashboard_Filter_by_Date_Range_Step_3.png" alt="Metric Dashboard Filter by Date Range Step 3">
    </p>
+   <br><br>
 
 <a id="section3"></a>
 
@@ -97,8 +99,80 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    <p align="center">
      <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_4.png" alt="Metric Dashboard Filter by User List Step 4">
    </p>
+   <br><br>
 
+<a id="section4"></a>
 
+### View Mode
 
+1. View Mode will be the default mode when you enter this page.
 
+   <p align="center">
+     <img src="img2/Metric_Dashboard_View_Mode_Step_1.png" alt="Metric Dashboard View Mode Step 1">
+   </p>
+
+2. Click on the three dots icon.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_View_Mode_Step_2.png" alt="Metric Dashboard View Mode Step 2">
+   </p>
+
+3. You can either choose one of them.
+
+   | Terms | Description |
+   |-------|-------------|
+   | View More | View the full details of the selected chart. |
+   | Download Chart | Download the selected chart in your device. |
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_View_Mode_Step_3.png" alt="Metric Dashboard View Mode Step 3">
+   </p>
+   <br><br>
+
+<a id="section5"></a>
+
+### Edit Mode
+
+*Note: Edit Mode in this page is only use for expand the graph and change position.<br>
+
+**Resize Chart**
+
+1. Click "Edit Mode".
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Edit_Mode_Step_1.png" alt="Metric Dashboard Edit Mode - Resize Chart Step 1">
+   </p>
+
+2. Click on the three dots icon to adjust the graph size.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Edit_Mode_Step_2.png" alt="Metric Dashboard Edit Mode - Resize Chart Step 2">
+   </p>
+
+3. The adjustment has been made and will be automatically saved.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Edit_Mode_Step_3.png" alt="Metric Dashboard Edit Mode - Resize Chart Step 3">
+   </p>
+   <br>
+   
+**Reposition Chart**
+
+1. Long click the chart you want to reposition.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Reposition_Chart_Step_1.png" alt="Metric Dashboard Edit Mode - Reposition Chart Step 1">
+   </p>
+
+2. Drag the chart to the desired location.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Reposition_Chart_Step_2.png" alt="Metric Dashboard Edit Mode - Reposition Chart Step 2">
+   </p>
+
+3. The adjustment has been made and will be automatically saved.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Reposition_Chart_Step_3.png" alt="Metric Dashboard Edit Mode - Reposition Chart Step 3">
+   </p>
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Metric_Dashboard.html) -->
