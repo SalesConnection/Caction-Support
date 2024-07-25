@@ -94,7 +94,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
      <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_3.png" alt="Metric Dashboard Filter by User List Step 3">
    </p>
 
-4. The dashboard filtered by the selected user has been successfully applied.
+4. The dashboard filter applied by the selected user has been applied successfully.
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_4.png" alt="Metric Dashboard Filter by User List Step 4">
