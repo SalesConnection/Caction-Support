@@ -100,7 +100,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
 
-## Business Managament
+## Business Management
 
 ### Schedule
 - [How to Add New Job?](Add_New_Job.md)
