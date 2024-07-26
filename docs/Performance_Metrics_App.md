@@ -1,6 +1,6 @@
 ## Performance Metrics (APP)
 
-The Metrics Dashboard is used for monitoring key performance indicators and providing an overview of job statuses and service performance to assist in effective job management and decision-making.
+The Performance Metrics page provides quick access to key job and project statistics. Each metric has a "View" button for detailed reports.<br><br>
 
 **Navigate to the section by clicking it.**<br>
 
