@@ -1,5 +1,7 @@
 ## How to Configure Public Form Access in UAC?
 
+Decide on which team members should have access on reviewing public form submissions and take action towards it through the access control.<br><br>
+
 1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
    **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
      
