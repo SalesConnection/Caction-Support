@@ -21,4 +21,4 @@ Metric Dashboard Layout Setting allows you to create charts and adjust the eleme
 
 ### Create Group
 
-1. 
+1. For example, if you want to create a dashboard for admin group. Click "Create Group".
