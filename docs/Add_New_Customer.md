@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 18 June 2024<br>
-Updated: 18 June 2024<br>
+Updated: 26 June 2024<br>
 ## How to Add New Customer?
 Note: In your system, Customer may have been renamed to other (i.e Site, Client, Company, etc.)<br>
 
