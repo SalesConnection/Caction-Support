@@ -8,6 +8,7 @@ Metric Dashboard Layout Setting allows you to create charts and adjust the eleme
 - [Create Dashboard Group](#section1)<br>
 - [Create Chart](#section2)<br>
 - [Edit Created Chart](#section3)<br>
+- [Delete_Chart](#section4)
 <br><br><br>
 
 1. At the desktop's navigation bar, go to Company  > Metric Dashboard.<br>
