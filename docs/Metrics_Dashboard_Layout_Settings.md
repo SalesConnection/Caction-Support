@@ -138,3 +138,6 @@ Metric Dashboard Layout Setting allows you to create charts and adjust the eleme
    <p align="center">
      <img src="img2/Metric_Dashboard_Layout_Settings_Delete_Chart_Step_2.png" alt="Metric Dashboard Layout Settings - Delete Chart Step 2">
    </p>
+   <br><br><br>
+
+**Related Articles**<br>
