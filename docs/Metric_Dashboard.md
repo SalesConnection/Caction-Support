@@ -175,4 +175,6 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    <p align="center">
      <img src="img2/Metric_Dashboard_Reposition_Chart_Step_3.png" alt="Metric Dashboard Edit Mode - Reposition Chart Step 3">
    </p>
+   <br><br><br>
+
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Metric_Dashboard.html) -->
