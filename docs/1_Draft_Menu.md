@@ -133,7 +133,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 ## Business Metrics
 - [Metric Dashboard](Metric_Dashboard.md)
-- [Metric Dashboard Layout Settings](Metrics_Dashboard_Layout_Settings.md)
+- [Metric Dashboard Layout Settings](Metric_Dashboard_Layout_Settings.md)
 
 ## Business Map 
 - [Business Travel (List)](Business_Travel_List.md)
