@@ -178,6 +178,6 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    <br><br><br>
 
 **Related Articles**<br>
-- [Metric Dashboard Layout Settings](Metrics_Dashboard_Layout_Settings.md)
+- [Metric Dashboard Layout Settings](Metric_Dashboard_Layout_Settings.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Metric_Dashboard.html) -->
