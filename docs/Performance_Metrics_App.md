@@ -118,6 +118,7 @@
    <br><br><br>
    
 **Related Articles**
-
+- [Metric Dashboard](Metric_Dashboard.md)
+- [Metric Dashboard Layout Settings](Metrics_Dashboard_Layout_Settings.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Performance_Metrics_App.html) -->
