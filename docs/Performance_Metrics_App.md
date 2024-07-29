@@ -1,177 +1,87 @@
 ## Performance Metrics (APP)
 
-The Performance Metrics page provides quick access to key job and project statistics. Each metric has a "View" button for detailed reports.<br><br>
+**Performance Metrics** page provides quick access to key job and project statistics, including overdue jobs, total jobs, completed jobs, top 5 customers by month, and total projects won. Each metric has a "View" button for detailed reports.<br><br>
 
-**Navigate to the section by clicking it.**<br>
-
-- [Select Group](#section1)<br>
-- [Filter by Date Range](#section2)<br>
-- [Filter by User List](#section3)<br>
-- [View Mode](#section4)<br>
-- [Edit Mode](#section5)
-<br><br><br>
-
-1. At the desktop's navigation bar, go to Business Metrics > Metric Dashboard.<br>
-   **Open Metric Dashboard Here:** [https://salesconnection.my/dashboard/metric/overview](https://salesconnection.my/dashboard/metric/overview)
+1. At the mobile app's navigation bar, click "Metric".<br>
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Step_1.png" alt="Metric Dashboard Step 1">
    </p>
-   <br>
 
-<a id="section1"></a>
-
-### Select Group
-
-1. Click on "Dashboard" at the top left corner of the page.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Select_Group_Step_1.png" alt="Metric Dashboard Select Group Step 1">
-   </p>
-
-2. Tick the box to select a group for your dashboard.
+2. Click the "three lines" icon to filter the performance metrics.
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Select_Group_Step_2.png" alt="Metric Dashboard Select Group Step 2">
    </p>
 
-3. Click "Save".
+3. Click "Select" to filter the date.
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Select_Group_Step_3.png" alt="Metric Dashboard Select Group Step 3">
    </p>
 
-4. The dashboard has been applied successfully.
+4. Select the date range to filter.
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Select_Group_Step_4.png" alt="Metric Dashboard Select Group Step 4">
    </p>
-   <br><br>
-
-<a id="section2"></a>
-
-### Filter by Date Range
-
-1. Click on the "Date Range".
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Filter_by_Date_Range_Step_1.png" alt="Metric Dashboard Filter by Date Range Step 1">
-   </p>
-
-2. Select the date range that you want.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Filter_by_Date_Range_Step_2.png" alt="Metric Dashboard Filter by Date Range Step 2">
-   </p>
-
-3. The date range has been applied successfully.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Filter_by_Date_Range_Step_3.png" alt="Metric Dashboard Filter by Date Range Step 3">
-   </p>
-   <br><br>
-
-<a id="section3"></a>
-
-### Filter by User List
-
-1. Click on the "User List".
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_1.png" alt="Metric Dashboard Filter by User List Step 1">
-   </p>
-
-2. Select the user you want to view.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_2.png" alt="Metric Dashboard Filter by User List Step 2">
-   </p>
-
-3. Click "Save".
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_3.png" alt="Metric Dashboard Filter by User List Step 3">
-   </p>
-
-4. The dashboard filter applied by the selected user has been applied successfully.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_4.png" alt="Metric Dashboard Filter by User List Step 4">
-   </p>
-   <br><br>
-
-<a id="section4"></a>
-
-### View Mode
-
-1. View Mode will be the default mode when you enter this page.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_View_Mode_Step_1.png" alt="Metric Dashboard View Mode Step 1">
-   </p>
-
-2. Click on the three dots icon.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_View_Mode_Step_2.png" alt="Metric Dashboard View Mode Step 2">
-   </p>
-
-3. You can either choose one of them.
-
-   | Terms | Description |
-   |-------|-------------|
-   | View More | View the full details of the selected chart. |
-   | Download Chart | Download the selected chart in your device. |
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_View_Mode_Step_3.png" alt="Metric Dashboard View Mode Step 3">
-   </p>
-   <br><br>
-
-<a id="section5"></a>
-
-### Edit Mode
-
-*Note: Edit Mode in this page is only use for expand the graph and change position.<br>
-
-**Resize Chart**
-
-1. Click "Edit Mode".
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Edit_Mode_Step_1.png" alt="Metric Dashboard Edit Mode - Resize Chart Step 1">
-   </p>
-
-2. Click on the three dots icon to adjust the graph size.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Edit_Mode_Step_2.png" alt="Metric Dashboard Edit Mode - Resize Chart Step 2">
-   </p>
-
-3. The adjustment has been made and will be automatically saved.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Edit_Mode_Step_3.png" alt="Metric Dashboard Edit Mode - Resize Chart Step 3">
-   </p>
-   <br>
    
-**Reposition Chart**
-
-1. Long click the chart you want to reposition.
+5. Click "Select User" to filter.<br>
 
    <p align="center">
-     <img src="img2/Metric_Dashboard_Reposition_Chart_Step_1.png" alt="Metric Dashboard Edit Mode - Reposition Chart Step 1">
+     <img src="img2/Metric_Dashboard_Step_1.png" alt="Metric Dashboard Step 1">
    </p>
 
-2. Drag the chart to the desired location.
+6. Select the user by ticking the box beside the user's name.
 
    <p align="center">
-     <img src="img2/Metric_Dashboard_Reposition_Chart_Step_2.png" alt="Metric Dashboard Edit Mode - Reposition Chart Step 2">
+     <img src="img2/Metric_Dashboard_Select_Group_Step_2.png" alt="Metric Dashboard Select Group Step 2">
    </p>
 
-3. The adjustment has been made and will be automatically saved.
+7. Click "SAVE".
 
    <p align="center">
-     <img src="img2/Metric_Dashboard_Reposition_Chart_Step_3.png" alt="Metric Dashboard Edit Mode - Reposition Chart Step 3">
+     <img src="img2/Metric_Dashboard_Select_Group_Step_3.png" alt="Metric Dashboard Select Group Step 3">
    </p>
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Metric_Dashboard.html) -->
+
+8. Click "Select Group".
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Select_Group_Step_4.png" alt="Metric Dashboard Select Group Step 4">
+   </p>
+
+9. Click on the group you want to view.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Select_Group_Step_4.png" alt="Metric Dashboard Select Group Step 4">
+   </p>
+   
+10. Click "SAVE".
+
+    <p align="center">
+      <img src="img2/Metric_Dashboard_Step_1.png" alt="Metric Dashboard Step 1">
+    </p>
+
+11. The performance metrics have been filtered successfully and shown as below.
+
+    <p align="center">
+      <img src="img2/Metric_Dashboard_Select_Group_Step_2.png" alt="Metric Dashboard Select Group Step 2">
+    </p>
+
+12. Click on the "Chart" icon to view chart for the .
+
+    <p align="center">
+      <img src="img2/Metric_Dashboard_Select_Group_Step_3.png" alt="Metric Dashboard Select Group Step 3">
+    </p>
+
+13. Click "Select Group".
+
+    <p align="center">
+      <img src="img2/Metric_Dashboard_Select_Group_Step_4.png" alt="Metric Dashboard Select Group Step 4">
+    </p>
+   <br><br><br>
+   
+**Related Articles**
+
+
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Performance_Metrics_App.html) -->
