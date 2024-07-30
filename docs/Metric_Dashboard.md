@@ -43,7 +43,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    </p>
    <br><br>
 
-<a id="section3"></a>
+<a id="section2"></a>
 
 ### Filter by User List
 
