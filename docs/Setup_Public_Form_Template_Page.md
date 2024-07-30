@@ -11,10 +11,9 @@
 
    | Terms | Description |
    |-------|:---------|
-   | Template Choices | Choose the template (e.g. Public Form) |
    | Template Category | Choose the public form category (e.g. Sales Enquiry, Service Enquiry) |
    | Template Short Code | Code starting with the specified alphabet for identification (e.g. PF) |
-   | Template Name | Name of the template (e.g. Public Form) |
+   | Template Name | Name of the template (e.g. Public Form / Ticket / etc.) |
 
    <p align="center">
       <img src="img/Public_Form_Template_Settings_Step_2.png" alt="Public Form Template Step 2">
