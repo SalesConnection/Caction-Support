@@ -89,13 +89,13 @@ Metric Dashboard Layout Setting allows you to create charts and adjust the eleme
      <img src="img2/Metric_Dashboard_Layout_Settings_Create_Chart_Step_4.png" alt="Metric Dashboard Layout Settings - Create Chart Step 4">
    </p>
 
-6. Click "Save Chart".
+5. Click "Save Chart".
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Layout_Settings_Create_Chart_Step_5.png" alt="Metric Dashboard Layout Settings - Create Chart Step 5">
    </p>
 
-7. The chart has been created successfully.
+6. The chart has been created successfully.
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Layout_Settings_Create_Chart_Step_6.png" alt="Metric Dashboard Layout Settings - Create Chart Step 6">
