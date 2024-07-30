@@ -5,11 +5,11 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
 
 **Navigate to the section by clicking it.**<br>
 
-- [Select Group](#section1)<br>
-- [Filter by Date Range](#section2)<br>
-- [Filter by User List](#section3)<br>
-- [View Mode](#section4)<br>
-- [Edit Mode](#section5)
+- [Filter by Date Range](#section1)<br>
+- [Filter by User List](#section2)<br>
+- [View Mode](#section3)<br>
+- [Edit Mode](#section4)
+- [Select Group](#section5)<br>
 <br><br><br>
 
 1. At the desktop's navigation bar, go to Business Metrics > Metric Dashboard.<br>
@@ -21,35 +21,6 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    <br>
 
 <a id="section1"></a>
-
-### Select Group
-
-1. Click on "Dashboard" at the top left corner of the page.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Select_Group_Step_1.png" alt="Metric Dashboard Select Group Step 1">
-   </p>
-
-2. Tick the box to select a group for your dashboard.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Select_Group_Step_2.png" alt="Metric Dashboard Select Group Step 2">
-   </p>
-
-3. Click "Save".
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Select_Group_Step_3.png" alt="Metric Dashboard Select Group Step 3">
-   </p>
-
-4. The dashboard has been applied successfully.
-
-   <p align="center">
-     <img src="img2/Metric_Dashboard_Select_Group_Step_4.png" alt="Metric Dashboard Select Group Step 4">
-   </p>
-   <br><br>
-
-<a id="section2"></a>
 
 ### Filter by Date Range
 
@@ -101,7 +72,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    </p>
    <br><br>
 
-<a id="section4"></a>
+<a id="section3"></a>
 
 ### View Mode
 
@@ -129,7 +100,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    </p>
    <br><br>
 
-<a id="section5"></a>
+<a id="section4"></a>
 
 ### Edit Mode
 
@@ -175,7 +146,37 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
    <p align="center">
      <img src="img2/Metric_Dashboard_Reposition_Chart_Step_3.png" alt="Metric Dashboard Edit Mode - Reposition Chart Step 3">
    </p>
+   <br><br>
+
+<a id="section5"></a>
+
+### Select Group
+
+1. Click on "Dashboard" at the top left corner of the page.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Select_Group_Step_1.png" alt="Metric Dashboard Select Group Step 1">
+   </p>
+
+2. Tick the box to select a group for your dashboard.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Select_Group_Step_2.png" alt="Metric Dashboard Select Group Step 2">
+   </p>
+
+3. Click "Save".
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Select_Group_Step_3.png" alt="Metric Dashboard Select Group Step 3">
+   </p>
+
+4. The dashboard has been applied successfully.
+
+   <p align="center">
+     <img src="img2/Metric_Dashboard_Select_Group_Step_4.png" alt="Metric Dashboard Select Group Step 4">
+   </p>
    <br><br><br>
+
 
 **Related Articles**<br>
 - [Metric Dashboard Layout Settings](Metric_Dashboard_Layout_Settings.md)
