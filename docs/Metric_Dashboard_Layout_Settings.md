@@ -77,17 +77,25 @@ Metric Dashboard Layout Setting allows you to create charts and adjust the eleme
 
 4. To configure the basic settings of the group, enter the required details of the desired chart.
 
+   **Difference between Date Range Condition**
+   
+   | Terms | Description |
+   |-------|-------------|
+   | Within | Includes dates within the specified range (e.g., within this year). |
+   | Till | Includes dates up to and including the specified end date. |
+   | Upto | Includes dates up to but not including the specified end date. |
+
    <p align="center">
      <img src="img2/Metric_Dashboard_Layout_Settings_Create_Chart_Step_4.png" alt="Metric Dashboard Layout Settings - Create Chart Step 4">
    </p>
 
-5. Click "Save Chart".
+6. Click "Save Chart".
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Layout_Settings_Create_Chart_Step_5.png" alt="Metric Dashboard Layout Settings - Create Chart Step 5">
    </p>
 
-6. The chart has been created successfully.
+7. The chart has been created successfully.
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Layout_Settings_Create_Chart_Step_6.png" alt="Metric Dashboard Layout Settings - Create Chart Step 6">
