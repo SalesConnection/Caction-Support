@@ -2,9 +2,6 @@
 
 A **Project** in Sales Connection serves as a folder to organize and manage both external and internal services, and as a contract for easy recognition and tracking of tasks and progress.<br><br>
 
-*Note: "No Project Selection" will cause all the items relevant to Project to be invisible.<br><br>
-
-
 1. At the desktop's navigation bar, go to User Management > User Account Customisation.<br>
    **Open User Account Customisation Page Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
    
@@ -72,6 +69,8 @@ A **Project** in Sales Connection serves as a folder to organize and manage both
 | Project Selection Optional: Latest Project created as default Project | If no project is selected, the system will automatically use the latest created project as the default, but users can still select a different project if needed. |
 | No Project Selection: Selected default Project automatically chosen | The system will automatically use a pre-selected default project for all tasks and actions, without requiring users to select a project. |
 | No Project Selection: Latest Project created as default Project | The system will automatically set the latest created project as the default for all tasks and actions, without requiring users to select a project. |
+
+*Note: "No Project Selection" will cause all the items relevant to Project to be invisible.
 
 <br><br><br>
 
