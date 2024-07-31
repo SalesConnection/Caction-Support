@@ -17,16 +17,16 @@ Whether you're a freelancer, managing a household, or planning a multi-city vaca
 
 If you're solo, you'll be automatically set up with a personal Workspace layout.<br>
 
-If you're creating a new Workspace, get started by learning about our core ClickUp features.<br><br>
+If you're creating a new Workspace, get started by learning about our core Sales Connection features.<br><br>
 
 
 ## Join a Workspace
 
-Your organization will send you an invite to join their ClickUp Workspace. If you don't have a ClickUp account, you'll be prompted to sign up.<br>
+Your organization will send you an invite to join their Sales Connection Workspace. If you don't have a Sales Connection account, you'll be prompted to sign up.<br>
 
 Your organization may require two-factor authentication or use single sign-on (SSO).<br>
 
-If you've joined your organization's Workspace, you can always create your own separate Workspace using the same account, or create a separate ClickUp account with a different email address.<br><br>
+If you've joined your organization's Workspace, you can always create your own separate Workspace using the same account, or create a separate Sales Connection account with a different email address.<br><br>
 
 
 ## What's my user type?
@@ -58,54 +58,54 @@ For more detailed information, visit the [Data Level Structure page](https://sal
 
 ## Personal productivity features
 
-Save time by keeping everything in ClickUp.
+Save time by keeping everything in Sales Connection.<br>
 
 - **Reminders:** Remember everything!
 - **Notepad:** Jot down quick notes.
 - **Inbox:** Stay on top of your notifications by checking them regularly and clearing them out.
-- **Calendar view:** Never miss a meeting again! Add a Calendar view and sync your Google Calendar to it.
+- **Calendar view:** Never miss a meeting again! Add a Calendar view and sync your Google Calendar to it.<br><br>
 
 
 ## Prioritize important work
 
-Stay on top of the most important work you need to do.
+Stay on top of the most important work you need to do.<br>
 
 - **Tray:** Minimize tasks and Docs so you can keep them in focus.
 - **Home:** View your most important tasks, events, and Reminders so you always know where your focus should be.
 - **Favorites:** Bookmark the Workspace locations you use the most.
-- **Private views:** Create any type of view that's just for you. You can group, sort, and filter tasks to display what you need to work on.
+- **Private views:** Create any type of view that's just for you. You can group, sort, and filter tasks to display what you need to work on.<br><br>
 
 
 ## Communicate with your team
 
-Keep in touch with the people in your Workspace.
+Keep in touch with the people in your Workspace.<br>
 
 - **Comments:** Communicate with your team without leaving a task or Doc! Use comments to ask questions, get feedback, and format content with rich text, embeds, and attachments.
 - **@mention:** Tag your teammates in tasks, Docs, and Chat views anywhere in your Workspace. You can also mention tasks, Docs, and locations!
 - **Chat view:** Add a Chat view to a location to talk about work outside of specific tasks and Docs. Or get social and chat about your weekend plans!
-- **Clip:** Sometimes a short video is all you need to understand a process. Record videos of your ClickUp Workspace right from your browser.
+- **Clip:** Sometimes a short video is all you need to understand a process. Record videos of your Sales Connection Workspace right from your browser.
 - **Voice Clips:** Record and send a quick message instead of typing out a long comment.
-- **Email in ClickUp:** Send emails from tasks in ClickUp to communicate with other teams in your organization who haven't started using ClickUp yet. You can also send emails to people outside your organization, including your customers and vendors.
+- **Email in ClickUp:** Send emails from tasks in Sales Connection to communicate with other teams in your organization who haven't started using Sales Connection yet. You can also send emails to people outside your organization, including your customers and vendors.<br><br>
 
 
 ## Collaborate with your team
 
-Everything in ClickUp happens in real-time. Work on tasks together or asynchronously using these features. 
+Everything in Sales Connection happens in real-time. Work on tasks together or asynchronously using these features.<br>
 
 - **Docs:** Collaborate with your team to create amazing content. Or use comments to get asynchronous feedback on a policy or project charter.
 - **Whiteboards:** Use Whiteboards to collaborate and ideate. Add internal and external content, including tasks.
 - **Proofing:** Do you work with videos, images, or PDFs? Centralize feedback and expedite approval processes by assigning comments directly on task attachments!
-- **Integrations:** Learn how to use other apps in ClickUp.
+- **Integrations:** Learn how to use other apps in Sales Connection.<br><br>
 
 
 ## Get even more productive
 
-There's a lot to learn in Sales Connection. Here are several easy-to-use features that help you work more efficiently.
+There's a lot to learn in Sales Connection. Here are several easy-to-use features that help you work more efficiently.<br>
 
 - **Quick Action menu:** Create tasks, Reminders, Docs, and more from anywhere in your Workspace.
 - **Command Center:** Type Cmd + K(Mac) or Ctrl + K(Windows) from anywhere within ClickUp to find anything in your Workspace.
 - **/Slash Commands:** Quickly add rich text, attach images, move tasks, change due dates, and more.
-- **Hotkeys and keyboard shortcuts:** From your Workspace, press Shift + ?.
+- **Hotkeys and keyboard shortcuts:** From your Workspace, press Shift + ?.<br><br>
 
 
 ## Try our Sales Connection system
