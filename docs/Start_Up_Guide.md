@@ -2,11 +2,11 @@
 
 ### Get Started with Sales Connection
 
-Whether you're joining an established Workspace or creating one for yourself, set up for success! Sales Connection is flexible and customizable, everyone uses it a little differently.<br>
+Whether you're joining an established or customised system, set up for success! Sales Connection is flexible and customizable, everyone uses it a little differently.<br>
 
 This article walks you through customizing your experience of Sales Connection.<br>
 
-*Note: Some of the following features have plan-based limits or are optional Sales Connection and must be enabled by an owner or admin.<br><br>
+*Note: Some of the following features have plan-based limits or are optional Sales Connection and contact your salesman to upgrade it.<br><br>
 
 
 ## Create your own Workspace
