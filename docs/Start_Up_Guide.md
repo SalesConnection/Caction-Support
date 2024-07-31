@@ -26,7 +26,7 @@ Your organization will send you an invite to join their ClickUp Workspace. If yo
 
 Your organization may require two-factor authentication or use single sign-on (SSO).<br>
 
-If you've joined your organization's Workspace, you can always create your own separate Workspace using the same account, or create a separate ClickUp account with a different email address.<br>
+If you've joined your organization's Workspace, you can always create your own separate Workspace using the same account, or create a separate ClickUp account with a different email address.<br><br>
 
 
 ## What's my user type?
