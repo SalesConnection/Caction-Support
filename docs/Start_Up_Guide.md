@@ -31,19 +31,19 @@ If you've joined your organization's Workspace, you can always create your own s
 
 ## What's my user type?
 
-Sales Connection supports various user types, each with distinct levels of access and permissions to ensure proper control and security within the platform:
+Sales Connection supports various user types, each with distinct levels of access and permissions to ensure proper control and security within the platform:<br>
 
 - **Admin:** Full access to all system features, settings, and user management.
 - **Subadmin:** High-level access, with some restrictions compared to Admin.
 - **Staff:** Access primarily focused on project management, task execution, and operational activities.
-- **Associate User:** Limited access, mostly for collaboration, viewing tasks, and completing assigned work.
+- **Associate User:** Limited access, mostly for collaboration, viewing tasks, and completing assigned work.<br>
   
-For more details, visit the [User Types Default Access page](https://salesconnection.github.io/Sales-Connection-Support/User_Types_Default_Access.html).
+For more details, visit the [User Types Default Access page](https://salesconnection.github.io/Sales-Connection-Support/User_Types_Default_Access.html).<br><br>
 
 
 ## How is Sales Connection organized?
 
-Sales Connection organizes its data into seven hierarchical levels which is called Data Level Structure, ensuring structured and efficient data management:
+Sales Connection organizes its data into seven hierarchical levels which is called Data Level Structure, ensuring structured and efficient data management:<br>
 
 - **Customer:** This is the topmost level containing client information, including contact details, addresses, and related interactions.
 - **Project:** Projects are organized under customers, representing major initiatives or contracts associated with a customer.
@@ -51,7 +51,7 @@ Sales Connection organizes its data into seven hierarchical levels which is call
 - **Digital Form:** Electronic documents used within the system for data collection, processing, and workflow management.
 - **Product & Services:** Items and services offered by the company, including details about each product or service.
 - **Public Form:** Forms accessible to external users, often used for data collection or public-facing interactions.
-- **Asset:** Company resources and equipment, tracked and managed within the system for operational efficiency.
+- **Asset:** Company resources and equipment, tracked and managed within the system for operational efficiency.<br>
 
-For more detailed information, visit the [Data Level Structure page](https://salesconnection.github.io/Sales-Connection-Support/Data_Level_Structure.html).
+For more detailed information, visit the [Data Level Structure page](https://salesconnection.github.io/Sales-Connection-Support/Data_Level_Structure.html).<br><br>
 
