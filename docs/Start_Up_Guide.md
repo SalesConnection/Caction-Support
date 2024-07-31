@@ -33,9 +33,9 @@ If you've joined your organization's Workspace, you can always create your own s
 
 Sales Connection supports various user types, each with specific default access levels:
 
-- Admin: Full access to all system features and settings.
-- Subadmin: Significant access with some administrative restrictions.
-- Staff: Access to project management and task execution.
-- Associate User: Limited access, primarily for collaboration and viewing tasks.
+- **Admin:** Full access to all system features and settings.
+- **Subadmin:** Significant access with some administrative restrictions.
+- **Staff:** Access to project management and task execution.
+- **Associate User:** Limited access, primarily for collaboration and viewing tasks.
   
-For more details, visit the User Types Default Access page.
+For more details, visit the [User Types Default Access page](https://salesconnection.github.io/Sales-Connection-Support/User_Types_Default_Access.html).
