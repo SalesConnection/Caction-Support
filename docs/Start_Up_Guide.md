@@ -76,23 +76,22 @@ For more detailed information, visit the [Data Level Structure page](https://sal
 Sales Connection offers a comprehensive suite of features designed to streamline business operations:<br><br>
 
 1. **Customer Management:** Centralize client information and interactions.
-   - Easily store and access detailed customer data, track communication history, and manage customer relationships effectively.
+   - Easily store and access detailed customer data, track communication history, and manage customer relationships effectively.<br>
 
 2. **Project Management:** Organize and oversee projects efficiently.
-   - Plan, execute, and monitor projects from start to finish, ensuring timely delivery and alignment with business goals.
+   - Plan, execute, and monitor projects from start to finish, ensuring timely delivery and alignment with business goals.<br>
      
 3. **Task Management:** Assign and monitor tasks within projects.
-
-   - Break down projects into manageable tasks, delegate responsibilities, and track progress to ensure project milestones are met.
+   - Break down projects into manageable tasks, delegate responsibilities, and track progress to ensure project milestones are met.<br>
 
 4. **Digital Forms:** Streamline data collection and workflows.
-   - Create, customize, and distribute digital forms to collect data and automate workflows, improving accuracy and efficiency.
+   - Create, customize, and distribute digital forms to collect data and automate workflows, improving accuracy and efficiency.<br>
 
 5. **Products & Services:** Catalog and manage your offerings.
-   - Maintain an up-to-date list of products and services, including descriptions, pricing, and availability.
+   - Maintain an up-to-date list of products and services, including descriptions, pricing, and availability.<br>
 
 6. **Public Forms:** Collect data from external sources easily.
-   - Design and share public forms to gather information from customers, partners, and other stakeholders.
+   - Design and share public forms to gather information from customers, partners, and other stakeholders.<br>
 
 7. **Asset Management:** Track and manage company resources.
    - Keep a detailed record of company assets, monitor their condition, and manage their utilization and maintenance.<br><br>
