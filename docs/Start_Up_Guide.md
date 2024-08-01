@@ -104,10 +104,10 @@ For a detailed breakdown of each feature, visit the [Sales Connection Features p
 
 Sales Connection provides various resources to support users:<br><br>
 
-- **Help Center:** Access guides and FAQs for troubleshooting.
-  - Find detailed documentation, step-by-step guides, and frequently asked questions to resolve common issues and learn how to use the system effectively.
+1. **Help Center:** Access guides and FAQs for troubleshooting.
+   - Find detailed documentation, step-by-step guides, and frequently asked questions to resolve common issues and learn how to use the system effectively.
     
-- **Support:** Contact our support team for personalized assistance.<br><br>
+2. **Support:** Contact our support team for personalized assistance.<br><br>
 
 Reach out to our dedicated support team for help with specific issues, technical problems, or any questions you might have.<br><br>
 
