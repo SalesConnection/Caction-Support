@@ -61,7 +61,6 @@ Decide on which team members should have access on reviewing public form submiss
 **Related Articles**
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 - [How to Generate Public Form?](Creation_of_Public_Form.md)
-- [How to Setup Public Form Template?](Setup_Public_Form_Template_Page.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 - [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)
 - [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
