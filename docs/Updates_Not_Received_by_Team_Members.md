@@ -5,7 +5,7 @@ Updated: 24 May 2024<br>
 
 ### Here are the potential issues and solutions:
 
-1. Poor Internet Connnection:<br>
+1. Poor Internet Connection:<br>
 
    - Check if your internet connection is stable.<br>
   &emsp;If it's unstable, try switching to a more reliable network, such as a mobile hotspot or a different Wi-Fi network.<br>
