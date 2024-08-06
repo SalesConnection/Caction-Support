@@ -10,7 +10,10 @@ Updated: 24 May 2024<br>
 
      a. Check if your internet connection is stable. If it's unstable, try switching to a more **reliable network** such as a mobile hotspot or a different Wi-Fi network.<br>
 
-     b. Test your internet speed. If the speed is **below 25 Mbps**, you may experience difficulties in updating. If possible, switch to a faster internet connection.<br><br>
+     b. Test your internet speed.<br>
+     1. Enter the speed test website: [https://www.speedtest.net/result/16588514558](https://www.speedtest.net/result/16588514558)
+     2. Start to test the internet speed.
+     3. If the speed is **below 25 Mbps**, you may experience difficulties in updating. If possible, switch to a faster internet connection.<br><br>
   
   2. Server error shown.<br>
   
