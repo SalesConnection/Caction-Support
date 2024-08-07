@@ -3,18 +3,22 @@ Created: 27 May 2024<br>
 Updated: 27 May 2024<br>
 ## How Do I Add New Status in Customer/Project/Job?
 
+Keep track of all your Job, Project, Customer, Asset, Digital Form(s), and other statuses with the right status set up.<br><br>
+
 **Navigate to the section by clicking it.**<br>
 
 - [Add New Status](#section1)<br>
 - [Status Segmentation](#section2)
 <br><br><br>
 
-1. The guide below shows steps for adding new status for Project. However, the steps can be replicated for Customer/Job as well. For example, if you wish to add new status in Project. At the desktop site’s navigation bar, go to Wizard.<br>
+1. In adding statuses for all the different data levels in your system, we will be utilising the Wizard page that has access to all status relevant pages. In this guide, we will focus on the Project status as an example. At the desktop main navigation bar, click on Wizard.<br>
    **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
  
    <p align="center">
      <img src="img/Wizard_Sidebar.png" alt="Wizard Sidebar">
    </p>
+
+   *Note: You must have access to Company Settings menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br><br>
 
 <a id="section1"></a>
 
@@ -82,13 +86,13 @@ Updated: 27 May 2024<br>
      <img src="img2/Project_Status_Segmentation_Step_1.png" alt="Project Status Segmentation Step 1">
    </p>
 
-2. Click on the project category you want to add the to-do list.<br>
+2. Click on the project category you want to add the status.<br>
 
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_2.png" alt="Project Status Segmentation Step 2">
    </p>
 
-3. Tick on the box of the to-do list and select the visibility of the to-do list.
+3. Click on the expand button to select status.
 
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_3.png" alt="Project Status Segmentation Step 3">
@@ -96,22 +100,40 @@ Updated: 27 May 2024<br>
 
    *Note: Visibility determines who can see the to-do list and who must complete the to-do list before changing the status.<br>
   
-4. Click on the "Save Changes" button.
+4. Scroll to find the status you want to add.
 
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_4.png" alt="Project Status Segmentation Step 4">
    </p>
   
-5. Your to-do list segmentation is successfully saved when the “Saved” prompt appears.
+5. Click on the status you want to add.
 
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_5.png" alt="Project Status Segmentation Step 5">
    </p>
 
-6. For example, when the to-do list is ticked for "Sales" Project with the status "Negotiation", the to-do list box will be displayed in the project as below.
+6. Edit the field of the status you added.
+
+   | Terms | Description |
+   |-------|-------------|
+   | Visibility | Decide who can see this status. |
+   | To-do List | Decide who can see the to-do list of the status. |
+   | Delete | Click to delete the status. |
 
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_6.png" alt="Project Status Segmentation Step 6">
+   </p>
+
+7. Click on the "Save Changes" button.
+
+   <p align="center">
+     <img src="img2/Project_Status_Segmentation_Step_7.png" alt="Project Status Segmentation Step 7">
+   </p>
+   
+8. The status has been added to the category successfully when this prompt appears.
+
+   <p align="center">
+     <img src="img2/Project_Status_Segmentation_Step_8.png" alt="Project Status Segmentation Step 8">
    </p>
    <br><br><br>
 
