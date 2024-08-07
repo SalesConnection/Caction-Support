@@ -187,6 +187,17 @@
 
 ### Mobile Version
 
+1. At the mobile navigation bar, click "Dashboard".<br>
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_1.png" alt="Business Travel Mobile Step 1">
+   </p>
+
+2. Click "Business Travel".<br>
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_2.png" alt="Business Travel Mobile Step 2">
+   </p>
 
 **Related Articles**
 - [Business Travel (Table)](Business_Travel_Table.md)
