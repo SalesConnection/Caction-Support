@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 27 May 2024<br>
-Updated: 27 May 2024<br>
+Updated: 7 August 2024<br>
 ## How Do I Add New Status in Customer/Project/Job?
 
 Keep track of all your Job, Project, Customer, Asset, Digital Form(s), and other statuses with the right status set up.<br><br>
