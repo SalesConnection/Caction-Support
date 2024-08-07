@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
-Updated: 24 May 2024<br>
+Updated: 7 August 2024<br>
 ## I can't load the schedule page. Why?
 
 ### Here are the potential issues and solutions:
