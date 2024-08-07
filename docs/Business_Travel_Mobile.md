@@ -8,11 +8,16 @@
 - [Check In](#section2)<br>
 <br><br><br>
 
-1. At the desktop site navigation bar, go to Business Map > Business Travel (List).<br>
-   **Open Business Travel (List) Here:** [https://salesconnection.my/business-travel/list](https://salesconnection.my/business-travel/list)<br>
+1. At the mobile navigation bar, click "Dashboard".<br>
 
    <p align="center">
-      <img src="img2/Business_Travel_List_Page.png" alt="Business Travel List Page">
+      <img src="img2/Business_Travel_Mobile_Dashboard.png" alt="Business Travel Mobile Dashboard">
+   </p>
+
+2. Click "Business Travel".<br>
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Page.png" alt="Business Travel Mobile Page">
    </p>
    <br><br>
    
