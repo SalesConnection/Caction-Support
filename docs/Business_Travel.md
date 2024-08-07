@@ -214,25 +214,91 @@
 5. At the mobile navigation bar, click "Dashboard".
 
    <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_1.png" alt="Business Travel Mobile Step 1">
+      <img src="img2/Business_Travel_Mobile_Step_5.png" alt="Business Travel Mobile Step 5">
    </p>
 
 6. Click "Business Travel".
 
    <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_2.png" alt="Business Travel Mobile Step 2">
+      <img src="img2/Business_Travel_Mobile_Step_6.png" alt="Business Travel Mobile Step 6">
    </p>
 
 7. At the mobile navigation bar, click "Dashboard".
 
    <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_3.png" alt="Business Travel Mobile Step 3">
+      <img src="img2/Business_Travel_Mobile_Step_7.png" alt="Business Travel Mobile Step 7">
    </p>
 
 8. Click "Business Travel".
 
    <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_4.png" alt="Business Travel Mobile Step 4">
+      <img src="img2/Business_Travel_Mobile_Step_8.png" alt="Business Travel Mobile Step 8">
+   </p>
+
+9. At the mobile navigation bar, click "Dashboard".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_9.png" alt="Business Travel Mobile Step 9">
+   </p>
+
+10. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_10.png" alt="Business Travel Mobile Step 10">
+   </p>
+
+11. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_11.png" alt="Business Travel Mobile Step 11">
+   </p>
+
+12. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_12.png" alt="Business Travel Mobile Step 12">
+   </p>
+
+13. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_13.png" alt="Business Travel Mobile Step 13">
+   </p>
+
+14. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_14.png" alt="Business Travel Mobile Step 14">
+   </p>
+
+15. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_15.png" alt="Business Travel Mobile Step 15">
+   </p>
+
+16. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_16.png" alt="Business Travel Mobile Step 16">
+   </p>
+
+17. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_17.png" alt="Business Travel Mobile Step 17">
+   </p>
+
+18. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_18.png" alt="Business Travel Mobile Step 18">
+   </p>
+
+19. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_19.png" alt="Business Travel Mobile Step 19">
    </p>
    <br><br><br>
 
