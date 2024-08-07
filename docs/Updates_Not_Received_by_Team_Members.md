@@ -17,8 +17,17 @@ Updated: 24 May 2024<br>
 
 2. Page Not Refreshed:<br>
 
-   - Ensure all team members, including your admin, refresh their page to receive the latest updates.
+   - Ensure all team members, including your admin, refresh their page to receive the latest updates.<br><br>
 
+3. Updates are stuck in pending upload:<br>
+
+   - Go to your Pending Data in the User Profile page to see if there are any items still loading.
+   - Should the list still not move even after connecting to a stronger internet connection, please contact our support team at 012-278 0122. When contacting support, please provide the following information:
+     1. Your account details (Company name, username, and phone number/email registered).
+     2. The date and time of when the issue occurred. If the issue still persists, inform our team on it as well.
+     3. A screenshot of the error page.<br>
+
+   *Note: Should the issue be updates being stuck on pending upload, DO NOT relog from the system as your pending update data will be lost.
 <br><br><br>
 
 **Related Articles**<br>
