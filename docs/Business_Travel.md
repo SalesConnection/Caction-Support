@@ -187,17 +187,54 @@
 
 ### Mobile Version
 
-1. At the mobile navigation bar, click "Dashboard".<br>
+1. At the mobile navigation bar, click "Dashboard".
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_1.png" alt="Business Travel Mobile Step 1">
    </p>
 
-2. Click "Business Travel".<br>
+2. Click "Business Travel".
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_2.png" alt="Business Travel Mobile Step 2">
    </p>
+
+3. At the mobile navigation bar, click "Dashboard".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_3.png" alt="Business Travel Mobile Step 3">
+   </p>
+
+4. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_4.png" alt="Business Travel Mobile Step 4">
+   </p>
+
+5. At the mobile navigation bar, click "Dashboard".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_1.png" alt="Business Travel Mobile Step 1">
+   </p>
+
+6. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_2.png" alt="Business Travel Mobile Step 2">
+   </p>
+
+7. At the mobile navigation bar, click "Dashboard".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_3.png" alt="Business Travel Mobile Step 3">
+   </p>
+
+8. Click "Business Travel".
+
+   <p align="center">
+      <img src="img2/Business_Travel_Mobile_Step_4.png" alt="Business Travel Mobile Step 4">
+   </p>
+   <br><br><br>
 
 **Related Articles**
 - [Business Travel (Table)](Business_Travel_Table.md)
