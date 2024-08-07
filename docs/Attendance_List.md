@@ -13,6 +13,10 @@
 - [Exporting Attendance List](#section72)
 <br><br><br>
 
+<a id="section1"></a>
+
+**View Attendance List**
+
 1. At the desktop site navigation bar, go to HR Suite > Attendance List.<br>
    **Open Attendance List Here:** [https://salesconnection.my/attendance/tablelist](https://salesconnection.my/attendance/tablelist)<br>
 
@@ -31,7 +35,12 @@
    <p align="center">
       <img src="img2/Attendance_List_Step_3.png" alt="Attendance List Step 3">
    </p>
+   <br><br>
    
+<a id="section2"></a>
+
+**Adding New Group**
+
 4. Click “Template Setting” to access the “User Group Setting”. On this setting page, you would be able to set different staff groupings that has different shift timing applicable to them.
 
    <p align="center">
@@ -103,7 +112,12 @@
     <p align="center">
       <img src="img2/Attendance_List_Step_15.png" alt="Attendance List Step 15">
     </p>
-  
+   <br><br>
+   
+<a id="section3"></a>
+
+**Editing Group**
+
 16. Click on the icon below to modify the attendance settings.
 
     | No | Terms | Description |
@@ -114,6 +128,11 @@
     <p align="center">
       <img src="img2/Attendance_List_Step_16.png" alt="Attendance List Step 16">
     </p>  
+   <br><br>
+   
+<a id="section4"></a>
+
+**Filtering Attendance List**
 
 17. Click "Filter Attendance Record".
     
@@ -144,6 +163,11 @@
     <p align="center">
       <img src="img2/Attendance_List_Step_21.png" alt="Attendance List Step 21">
     </p>  
+   <br><br>
+   
+<a id="section4"></a>
+
+**Saving Favourite Filter for Attendance List**
 
 22. Click "Favourite Filter' to save the filter as favourite filter.
     
@@ -174,12 +198,22 @@
     <p align="center">
       <img src="img2/Attendance_List_Step_26.png" alt="Attendance List Step 26">
     </p>
+   <br><br>
+   
+<a id="section4"></a>
+
+**Returning to Default Filters**
 
 27. Click "Clear All" to remove all the filters applied.
     
     <p align="center">
       <img src="img2/Attendance_List_Step_27.png" alt="Attendance List Step 27">
     </p>  
+   <br><br>
+   
+<a id="section4"></a>
+
+**Exporting Attendance List**
 
 28. Click "Export Excel" to get the report of the attendance list in excel format.
     
