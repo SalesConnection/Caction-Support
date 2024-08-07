@@ -199,108 +199,108 @@
       <img src="img2/Business_Travel_Mobile_Step_2.png" alt="Business Travel Mobile Step 2">
    </p>
 
-3. At the mobile navigation bar, click "Dashboard".
+3. Click to filter the business travel.
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_3.png" alt="Business Travel Mobile Step 3">
    </p>
 
-4. Click "Business Travel".
+4. Click "Start Date".
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_4.png" alt="Business Travel Mobile Step 4">
    </p>
 
-5. At the mobile navigation bar, click "Dashboard".
+5. Click the "back" or "next" icon to choose the month.
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_5.png" alt="Business Travel Mobile Step 5">
    </p>
 
-6. Click "Business Travel".
+6. Click on the start date you want.
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_6.png" alt="Business Travel Mobile Step 6">
    </p>
 
-7. At the mobile navigation bar, click "Dashboard".
+7. Click "OK".
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_7.png" alt="Business Travel Mobile Step 7">
    </p>
 
-8. Click "Business Travel".
+8. Click "Start Date".
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_8.png" alt="Business Travel Mobile Step 8">
    </p>
 
-9. At the mobile navigation bar, click "Dashboard".
+9. Click the "back" or "next" icon to choose the month.
 
    <p align="center">
       <img src="img2/Business_Travel_Mobile_Step_9.png" alt="Business Travel Mobile Step 9">
    </p>
 
-10. Click "Business Travel".
+10. Click on the end date you want.
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_10.png" alt="Business Travel Mobile Step 10">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_10.png" alt="Business Travel Mobile Step 10">
+    </p>
 
-11. Click "Business Travel".
+11. Click "OK".
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_11.png" alt="Business Travel Mobile Step 11">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_11.png" alt="Business Travel Mobile Step 11">
+    </p>
 
-12. Click "Business Travel".
+12. Click "Filter By Users".
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_12.png" alt="Business Travel Mobile Step 12">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_12.png" alt="Business Travel Mobile Step 12">
+    </p>
 
-13. Click "Business Travel".
+13. Click on the user you want 
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_13.png" alt="Business Travel Mobile Step 13">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_13.png" alt="Business Travel Mobile Step 13">
+    </p>
 
 14. Click "Business Travel".
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_14.png" alt="Business Travel Mobile Step 14">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_14.png" alt="Business Travel Mobile Step 14">
+    </p>
 
 15. Click "Business Travel".
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_15.png" alt="Business Travel Mobile Step 15">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_15.png" alt="Business Travel Mobile Step 15">
+    </p>
 
 16. Click "Business Travel".
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_16.png" alt="Business Travel Mobile Step 16">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_16.png" alt="Business Travel Mobile Step 16">
+    </p>
 
 17. Click "Business Travel".
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_17.png" alt="Business Travel Mobile Step 17">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_17.png" alt="Business Travel Mobile Step 17">
+    </p>
 
 18. Click "Business Travel".
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_18.png" alt="Business Travel Mobile Step 18">
-   </p>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_18.png" alt="Business Travel Mobile Step 18">
+    </p>
 
 19. Click "Business Travel".
 
-   <p align="center">
-      <img src="img2/Business_Travel_Mobile_Step_19.png" alt="Business Travel Mobile Step 19">
-   </p>
-   <br><br><br>
+    <p align="center">
+       <img src="img2/Business_Travel_Mobile_Step_19.png" alt="Business Travel Mobile Step 19">
+    </p>
+    <br><br><br>
 
 **Related Articles**
 - [Business Travel (Table)](Business_Travel_Table.md)
