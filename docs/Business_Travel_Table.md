@@ -65,6 +65,8 @@
    <p align="center">
       <img src="img2/Business_Travel_Table_Filter_Step_1.png" alt="Business Travel Table Filter Step 1">
    </p>
+
+   *Note: Filter options (such as filter by user) depends on your user account access and account type. Please request permission or help from your admin if you do not have access to certain filter options.<br><br>
   
 2. Click on the filter value you want.
 
@@ -216,6 +218,8 @@
    <p align="center">
      <img src="img2/Business_Travel_Table_Export_Step_1.png" alt="Business Travel Table Export Step 1">
    </p>  
+
+   *Note: You must have access to export data to perform this action. Please request permission or help from your admin if you do not have access.
    <br><br><br>
 
 **Related Articles**
