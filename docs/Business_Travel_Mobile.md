@@ -1,17 +1,11 @@
 ## Business Travel (Mobile)
 
-
-## Business Travel (List)
-
-**Business Travel (List)** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
+**Business Travel (Mobile)** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
 
 **Navigate to the section by clicking it.**<br>
 
 - [Filter](#section1)<br>
-- [Favourite Filter](#section2)<br>
-- [Default Filter](#section3)<br>
-- [Clear All Filter](#section4)<br>
-- [Refresh](#section5)
+- [Check In](#section2)<br>
 <br><br><br>
 
 1. At the desktop site navigation bar, go to Business Map > Business Travel (List).<br>
@@ -91,7 +85,7 @@
    
 <a id="section2"></a>
 
-### Favourite Filter
+### Check In
 
 1. Click "Favourite Filter".
 
@@ -122,57 +116,6 @@
    <p align="center">
     <img src="img2/Business_Travel_List_Favourite_Filter_Step_5.png" alt="Business Travel List Favourite Filter Step 5">
    </p>  
-   <br><br>
-   
-<a id="section3"></a>
-
-### Default Filter
-
-1. Click "Favourite Filter".
-
-   <p align="center">
-    <img src="img2/Business_Travel_List_Default_Filter_Step_1.png" alt="Business Travel List Default Filter Step 1">
-   </p>
-  
-2. Click "Default Filter".
-
-   <p align="center">
-    <img src="img2/Business_Travel_List_Default_Filter_Step_2.png" alt="Business Travel List Default Filter Step 2">
-   </p>
-
-3. Click on the favourite filter you want to set as default filter.
-
-   <p align="center">
-    <img src="img2/Business_Travel_List_Default_Filter_Step_3.png" alt="Business Travel List Default Filter Step 3">
-   </p>
-  
-4. The default filter has been saved successfully.
-
-   <p align="center">
-    <img src="img2/Business_Travel_List_Default_Filter_Step_4.png" alt="Business Travel List Default Filter Step 4">
-   </p>
-   <br><br>
-   
-<a id="section4"></a>
-
-### Clear All Filter
-
-1. If you want to clear all filters that you have applied manually, click "Clear All" and all filters will be cleared.
-
-   <p align="center">
-     <img src="img2/Business_Travel_List_Clear_All_Filter_Step_1.png" alt="Business Travel List Clear All Filter Step 1">
-   </p>  
-   <br><br>
-   
-<a id="section5"></a>
-
-### Refresh
-
-1. Click the "Refresh" button to ensure all the information is the latest.
-
-   <p align="center">
-     <img src="img2/Business_Travel_List_Refresh_Step_1.png" alt="Business Travel List Refresh Step 1">
-   </p>  
    <br><br><br>
 
 **Related Articles**
@@ -182,4 +125,4 @@
 - [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Business_Travel_List.html) -->
+<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Business_Travel_Mobile.html) -->
