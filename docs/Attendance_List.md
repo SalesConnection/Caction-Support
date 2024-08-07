@@ -1,7 +1,6 @@
 ## Attendance List
 
-**Attendance List** tracks employee check-ins and check-outs for business travel. It includes details such as check-in dates, check-out dates, times, customer visits, total duration of check-ins, and non-check-in times, helping to monitor and manage employees' travel and attendance records.<br><br>
-
+**Attendance List** helps to view the records of employee check-ins and check-outs for business travel. It includes details such as check-in dates, check-out dates, time, customer visits, total duration of check-ins, and non-check-in times, helping to monitor and manage employees’ travel and attendance records.<br><br>
 
 1. At the desktop site navigation bar, go to HR Suite > Attendance List.<br>
    **Open Attendance List Here:** [https://salesconnection.my/attendance/tablelist](https://salesconnection.my/attendance/tablelist)<br>
@@ -10,25 +9,25 @@
       <img src="img2/Attendance_List_Step_1.png" alt="Attendance List Step 1">
    </p>
 
-2. Click "Advance" to see more details of the attendance list.
+2. Click “Advance” to view more details of the attendance list.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_2.png" alt="Attendance List Step 2">
    </p>
   
-3. The differences between "Basic" and "Advance" are below.
+3. As can be seen below, the “Advance” view displays further details such as by First and Second shift to give you more attendance data to capture.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_3.png" alt="Attendance List Step 3">
    </p>
    
-4. Click "Template Setting" to access the "User Group Setting". 
+4. Click “Template Setting” to access the “User Group Setting”. On this setting page, you would be able to set different staff groupings that has different shift timing applicable to them.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_4.png" alt="Attendance List Step 4">
    </p>
 
-5. Enter the group name of the new attendance settings.
+5. To add a new group, enter the group name of the new attendance settings.
 
    <p align="center">
       <img src="img2/Attendance_List_Step_5.png" alt="Attendance List Step 5">
