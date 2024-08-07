@@ -2,6 +2,17 @@
 
 **Attendance List** helps to view the records of employee check-ins and check-outs for business travel. It includes details such as check-in dates, check-out dates, time, customer visits, total duration of check-ins, and non-check-in times, helping to monitor and manage employees’ travel and attendance records.<br><br>
 
+**Navigate to the section by clicking it.**<br>
+
+- [Viewing Attendance List](#section1)<br>
+- [Adding New Group](#section2)<br>
+- [Editing Group](#section3)<br>
+- [Filtering Attendance List](#section4)<br>
+- [Saving Favourite Filter for Attendance List](#section5)<br>
+- [Returning to Default Filters](#section6)<br>
+- [Exporting Attendance List](#section72)
+<br><br><br>
+
 1. At the desktop site navigation bar, go to HR Suite > Attendance List.<br>
    **Open Attendance List Here:** [https://salesconnection.my/attendance/tablelist](https://salesconnection.my/attendance/tablelist)<br>
 
