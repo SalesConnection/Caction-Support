@@ -4,7 +4,7 @@ Updated: 24 May 2024<br>
 ## I can't load the schedule page. Why?
 
 ### Here are the potential issues and solutions:
-(If yes to each, move on to the next scenario).<br><br>
+(If you have followed the steps provided and the issue still persists, please follow the next suggested solution).<br><br>
 
   1. Poor Internet Connection.<br>
 
@@ -21,8 +21,8 @@ Updated: 24 May 2024<br>
      a. Reach out to the Sales Connection support team at **012-2780122**.<br>
         
      b. When contacting support, please provide the following information:<br>
-     1. Your account details.<br>
-     2. The time when the issue occurred.<br>
+     1. Your account details (Company name, username, and phone number/email registered).<br>
+     2. The date and time of when the issue occurred. If the issue still persists, inform our team on it as well.<br>
      3. A screenshot of the error page.<br>
      
      This information will enable our team to investigate and resolve the issue more efficiently.
