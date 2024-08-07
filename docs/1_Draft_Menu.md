@@ -138,7 +138,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 
 
 ## Business Map 
-- [Business Travel (List)](Business_Travel_List.md)
+- [Business Travel](Business_Travel.md)
 - [Business Travel (Table)](Business_Travel_Table.md)
   
 
