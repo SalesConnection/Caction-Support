@@ -28,6 +28,8 @@
    <p align="center">
       <img src="img2/Business_Travel_List_Filter_Step_1.png" alt="Business Travel List Filter Step 1">
    </p>
+
+   *Note: Filter options (such as filter by user) depends on your user account access and account type. Please request permission or help from your admin if you do not have access to certain filter options.<br><br>
   
 2. Choose the date range you want to see.
 
