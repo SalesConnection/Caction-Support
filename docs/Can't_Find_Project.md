@@ -1,4 +1,4 @@
-## Why I Cannot Find my Project?
+## How do I set the system to skip project creation/selection during customer/job creation?
 
 A **Project** in Sales Connection serves as a folder to organize and manage both external and internal services, and as a contract for easy recognition and tracking of tasks and progress.<br><br>
 
