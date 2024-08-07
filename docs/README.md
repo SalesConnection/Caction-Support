@@ -87,6 +87,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New Product/Services?](Add_New_Product&Service_List.md)
 - [Comment Category Segmentation](Comment_Category_Segmentation.md)
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
+- [How do I set the system to skip project creation/selection during customer/job creation?](Can't_Find_Project.md)
 
   
 ## Features Knowledge 
