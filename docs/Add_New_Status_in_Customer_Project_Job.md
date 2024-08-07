@@ -86,7 +86,7 @@ Keep track of all your Job, Project, Customer, Asset, Digital Form(s), and other
      <img src="img2/Project_Status_Segmentation_Step_1.png" alt="Project Status Segmentation Step 1">
    </p>
 
-2. Click on the project category you want to add the status.<br>
+2. Select the project category you would like to add your new status to.<br>
 
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_2.png" alt="Project Status Segmentation Step 2">
@@ -97,8 +97,6 @@ Keep track of all your Job, Project, Customer, Asset, Digital Form(s), and other
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_3.png" alt="Project Status Segmentation Step 3">
    </p>
-
-   *Note: Visibility determines who can see the to-do list and who must complete the to-do list before changing the status.<br>
   
 4. Scroll to find the status you want to add.
 
@@ -116,9 +114,9 @@ Keep track of all your Job, Project, Customer, Asset, Digital Form(s), and other
 
    | Terms | Description |
    |-------|-------------|
-   | Visibility | Decide who can see this status. |
-   | To-do List | Decide who can see the to-do list of the status. |
-   | Delete | Click to delete the status. |
+   | Visibility | Determines which user type is able to see and select the status. |
+   | To-do List | Determine who can see the to-do list of the status. |
+   | Delete | Remove the status from the selected category. |
 
    <p align="center">
      <img src="img2/Project_Status_Segmentation_Step_6.png" alt="Project Status Segmentation Step 6">
