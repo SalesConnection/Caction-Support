@@ -1,6 +1,17 @@
-## Business Travel (List)
+## Business Travel
 
-**Business Travel (List)** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
+**Business Travel** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
+
+
+**Navigate to the section by clicking it.**<br>
+
+- [Desktop Version](#section6)<br>
+- [Mobile Version](#section7)
+<br><br><br>
+
+<a id="section6"></a>
+
+### Desktop Version
 
 **Navigate to the section by clicking it.**<br>
 
@@ -170,7 +181,12 @@
    <p align="center">
      <img src="img2/Business_Travel_List_Refresh_Step_1.png" alt="Business Travel List Refresh Step 1">
    </p>  
-   <br><br><br>
+   <br><br>
+   
+<a id="section7"></a>
+
+### Mobile Version
+
 
 **Related Articles**
 - [Business Travel (Table)](Business_Travel_Table.md)
