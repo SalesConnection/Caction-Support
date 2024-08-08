@@ -132,6 +132,10 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 
 
+## Business Map 
+- [Business Travel (Table)](Business_Travel_Table.md)
+
+  
 ## HR Suite 
 - [Claim Management](Claim_Management.md)
 - [How to Add Claim?](Add_Claim.md)
