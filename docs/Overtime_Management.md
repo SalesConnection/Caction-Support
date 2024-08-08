@@ -269,6 +269,7 @@ Updated: 15 July 2024<br>
 **Related Articles**
 - [How to Add Overtime Claim?](Add_Overtime_Claim.md)
 - [Claim Management](Claim_Management.md)
+- [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Overtime_Management.html) -->
