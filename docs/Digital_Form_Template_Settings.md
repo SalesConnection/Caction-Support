@@ -13,12 +13,13 @@ The Digital Form Template Settings page enables users to **configure** and **man
 | 5 | Product/Services Settings | Manage product/services elements, pre-populate settings, and disclaimers. |
 | 6 | Customer Feedback Settings | Add and configure feedback fields such as signature, rating, and instruction. |
 
+*Note: You must have access to Template Settings menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.
 <br><br>
 
 **Navigate to the section by clicking it.**<br>
 
 - [Template Info](#section1)<br>
-- [Digital Form Categpry Configuration](#section2)<br>
+- [Digital Form Category Configuration](#section2)<br>
 - [Default Field Settings](#section3)<br>
 - [Custom Field Settings](#section4)<br>
 - [Product/Services Settings](#section5)<br>
@@ -76,13 +77,13 @@ The Digital Form Template Settings page enables users to **configure** and **man
    </p>
 
    
-4. Determine the elements from the default field and custom field that you want to replace the Detail Variable.
+4. Select between the different field elements available under the Default and Custom tab to be shown on the Detail Variable.
 
    <p align="center">
      <img src="img/DF_Template_Settings_Step_4.png" alt="DF Template Settings Step 4">
    </p>
 
-5. Drag the element to the left box to replace the original Detail Variable.
+5. Drag the field element to the left box to replace the original Detail Variable.
 
    <p align="center">
      <img src="img/DF_Template_Settings_Step_5.png" alt="DF Template Settings Step 5">
@@ -128,22 +129,26 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
    **Default Field Settings**
 
-9. "Default Fields Element" allows to set default values for various templates in the digital form.
+9. “Default Fields Element” allows to set default values for various templates in the digital form.
 
    <p align="center">
      <img src="img/DF_Template_Settings_Step_9.png" alt="DF Template Settings Step 9">
    </p>
 
+   *Note: The first DateTime field on the left is a mandatory field that cannot be disabled but can be renamed.<br><br>
+
    <a id="section4"></a>
 
    **Custom Field Settings**
 
-10. "Custom Fields Settings" allows to add and configure custom fields for the digital form template. You can click on the "Custom Field Element" and edit it at the right side.
+10. “Custom Fields Settings” allows to add and configure custom fields for the digital form template. You can click on the “Custom Field Element” and edit it at the right side.
 
     | No | Field | Description |
     |----|-------|-------------|
     | a | Custom Field Element | Different types of custom fields: header, instruction, break line, checklist, text, and many more. |
     | b | Custom Field View | Area to preview and edit custom fields added to the digital form template. |
+
+    *Note: Each field element has a limit in number of the same field can be used in one category. There is also a limit on number of custom fields that can be added all-together in a category as can be seen on the Remaining Available Fields at section b.<br><br>
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_10.png" alt="DF Template Settings Step 10">
