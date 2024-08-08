@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 8 August 2024<br>
+Updated: 8 August 2024<br>
 ## Attendance List
 
 **Attendance List** helps to view the records of employee check-ins and check-outs for business travel. It includes details such as check-in dates, check-out dates, time, customer visits, total duration of check-ins, and non-check-in times, helping to monitor and manage employees’ travel and attendance records.<br><br>
