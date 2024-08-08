@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 8 August 2024<br>
+Updated: 8 August 2024<br>
 ## Business Travel (Table)
 
 **Business Travel (Table)** page displays a detailed table of business travel records, including information such as dates, users, check-in and check-out times, GPS accuracy, notes, and travel reports. It allows users to filter records, export data, and view individual travel reports for efficient tracking and management of business travel activities.<br><br>
@@ -223,7 +226,6 @@
    <br><br><br>
 
 **Related Articles**
-- [Business Travel (List)](Business_Travel_List.md)
 - [Claim Management](Claim_Management.md)
 - [Overtime Management](Overtime_Management.md)
 - [Attendance List](Attendance_List.md)
