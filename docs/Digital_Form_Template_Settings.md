@@ -188,6 +188,8 @@ The Digital Form Template Settings page enables users to **configure** and **man
       <img src="img/DF_Template_Settings_Step_14.png" alt="DF Template Settings Step 14">
     </p>
 
+    *Note: Product mapping is for prepopulating the field in the form upon creation of the form by the user(s). The mapping is done based off the Product Services field in the system.<br>
+
 15. Click on the field that you want to map with.
 
     <p align="center">
