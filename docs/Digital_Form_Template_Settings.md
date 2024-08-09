@@ -213,6 +213,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 18. "Product/Services Disclaimers" allows users to add disclaimers related to product/services to appear in the digital form.
 
     | No | Fields | Description |
+    |----|--------|-------------|
     | a | Section Title | Enter the title for the disclaimer section. |
     | b | Note | Add a note that will be displayed in the disclaimer section. |
     | c | Description | Provide a detailed description or additional information for the disclaimer. |
@@ -228,7 +229,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
     **Customer Feedback Settings**
    
-19. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
+20. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
 
     | No | Fields | Description |
     |----|--------|-------------|
@@ -239,7 +240,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
       <img src="img/DF_Template_Settings_Step_19.png" alt="DF Template Settings Step 19">
     </p>
 
-20. After done for the digital form template settings, click these icons to preview and save.
+21. After done for the digital form template settings, click these icons to preview and save.
 
     | No | Icon | Description |
     |----|------|-------------|
