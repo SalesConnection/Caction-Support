@@ -25,6 +25,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 - [Custom Field Settings](#section5)<br>
 - [Product/Services Settings](#section6)<br>
 - [Customer Feedback Settings](#section7)
+
 <br><br><br>
 
    <a id="section1"></a>
