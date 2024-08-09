@@ -259,43 +259,43 @@
        <img src="img2/Business_Travel_Mobile_Step_12.png" alt="Business Travel Mobile Step 12">
     </p>
 
-13. Click on the user you want 
+13. Click on the user you want to filter.
 
     <p align="center">
        <img src="img2/Business_Travel_Mobile_Step_13.png" alt="Business Travel Mobile Step 13">
     </p>
 
-14. Click "Business Travel".
+14. Toggle the button if you want to show business travel with claims only.
 
     <p align="center">
        <img src="img2/Business_Travel_Mobile_Step_14.png" alt="Business Travel Mobile Step 14">
     </p>
 
-15. Click "Business Travel".
+15. Click the "tick" icon.
 
     <p align="center">
        <img src="img2/Business_Travel_Mobile_Step_15.png" alt="Business Travel Mobile Step 15">
     </p>
 
-16. Click "Business Travel".
+16. All the filtered business travel will be shown as below.
 
     <p align="center">
        <img src="img2/Business_Travel_Mobile_Step_16.png" alt="Business Travel Mobile Step 16">
     </p>
 
-17. Click "Business Travel".
+17. Click on the "map" icon if you wish to check in.
 
     <p align="center">
        <img src="img2/Business_Travel_Mobile_Step_17.png" alt="Business Travel Mobile Step 17">
     </p>
 
-18. Click "Business Travel".
+18. Make sure the location is correct and click "Check-In".
 
     <p align="center">
        <img src="img2/Business_Travel_Mobile_Step_18.png" alt="Business Travel Mobile Step 18">
     </p>
 
-19. Click "Business Travel".
+19. Check-in is done successfully when this prompt appears.
 
     <p align="center">
        <img src="img2/Business_Travel_Mobile_Step_19.png" alt="Business Travel Mobile Step 19">
