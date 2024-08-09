@@ -30,7 +30,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
      <img src="img2/Metric_Dashboard_Filter_by_Date_Range_Step_1.png" alt="Metric Dashboard Filter by Date Range Step 1">
    </p>
 
-2. Select the date range that you want.
+2. Select the date range of the data you want to view.
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Filter_by_Date_Range_Step_2.png" alt="Metric Dashboard Filter by Date Range Step 2">
@@ -53,7 +53,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
      <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_1.png" alt="Metric Dashboard Filter by User List Step 1">
    </p>
 
-2. Select the user you want to view.
+2. Select the user/department’s data you want to view.
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Filter_by_User_List_Step_2.png" alt="Metric Dashboard Filter by User List Step 2">
