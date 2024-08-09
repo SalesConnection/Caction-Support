@@ -44,6 +44,7 @@ a. Different user types will affect job visibility. Contact your admin for user 
 <br><br><br>
 
 **Related Articles**<br>
+- [Data Level Structure](Data_Level_Structure.md)
 - [User Type Default Access](User_Types_Default_Access.md)
-
+  
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Different_Number_Jobs_For_Same_Customer.html) -->
