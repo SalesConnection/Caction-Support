@@ -204,7 +204,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
       <img src="img/DF_Template_Settings_Step_16.png" alt="DF Template Settings Step 16">
     </p>
     
-17. "Product/Services Prepopulate Settings" allows users to add product/services to prepopulate certain fields automatically.
+17. “Product/Services Prepopulate Settings” allows users to prepopulate the prodouct/services into the form whenever it is created.
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_17.png" alt="DF Template Settings Step 17">
