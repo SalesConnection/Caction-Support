@@ -259,7 +259,7 @@
        <img src="img2/Business_Travel_Mobile_Step_12.png" alt="Business Travel Mobile Step 12">
     </p>
 
-    *Note: Certain account types do not have permission to filter users.<br>
+    *Note: Filter by user depends on your user account access and account type. Please request permission or help from your admin if you do not have access to the filter options.<br>
 
 13. Click on the user you want to filter.
 
