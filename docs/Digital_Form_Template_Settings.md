@@ -18,19 +18,30 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 **Navigate to the section by clicking it.**<br>
 
-- [Template Info](#section1)<br>
-- [Digital Form Category Configuration](#section2)<br>
-- [Default Field Settings](#section3)<br>
-- [Custom Field Settings](#section4)<br>
-- [Product/Services Settings](#section5)<br>
-- [Customer Feedback Settings](#section6)
+- [Selecting Digital Form Template](#section1)<br>
+- [Template Info](#section2)<br>
+- [Digital Form Category Configuration](#section3)<br>
+- [Default Field Settings](#section4)<br>
+- [Custom Field Settings](#section5)<br>
+- [Product/Services Settings](#section6)<br>
+- [Customer Feedback Settings](#section7)
 <br><br><br>
 
    <a id="section1"></a>
 
-   **Template Info**
+   **Selecting Digital Form Template**
 
 1. "Template Info" allows users to define and configure the basic attributes of the digital form template.
+
+   <p align="center">
+     <img src="img/DF_Template_Settings_Step_1.png" alt="DF Template Settings Step 1">
+   </p>
+   
+   <a id="section2"></a>
+
+   **Template Info**
+
+2. "Template Info" allows users to define and configure the basic attributes of the digital form template.
 
    | No | Field Name | Description |
    |----|------------|-------------|
@@ -42,14 +53,14 @@ The Digital Form Template Settings page enables users to **configure** and **man
    | f | Collection Label | Label for indicating collection items. |
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_1.png" alt="DF Template Settings Step 1">
+     <img src="img/DF_Template_Settings_Step_2.png" alt="DF Template Settings Step 2">
    </p>
 
-   <a id="section2"></a>
+   <a id="section3"></a>
 
    **Digital Form Category Configuration**
 
-2. "Details Variable Settings" is used to show six details of the digital form in the card view.
+3. "Details Variable Settings" is used to show six details of the digital form in the card view.
 
    | No | Terms | Represent |
    |----|-------|---------|
@@ -61,47 +72,47 @@ The Digital Form Template Settings page enables users to **configure** and **man
    | f | Detail Variable 6 | - |
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_2.png" alt="DF Template Settings Step 2">
+     <img src="img/DF_Template_Settings_Step_3.png" alt="DF Template Settings Step 3">
    </p>
 
    For example, Quotation form will be shown as below.
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_2a.png" alt="DF Template Settings Step 2a">
+     <img src="img/DF_Template_Settings_Step_3a.png" alt="DF Template Settings Step 3a">
    </p>
 
-3. To replace the Detail Variable with other fields, click "Open Setting".
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_3.png" alt="DF Template Settings Step 3">
-   </p>
-
-   
-4. Select between the different field elements available under the Default and Custom tab to be shown on the Detail Variable.
+4. To replace the Detail Variable with other fields, click "Open Setting".
 
    <p align="center">
      <img src="img/DF_Template_Settings_Step_4.png" alt="DF Template Settings Step 4">
    </p>
 
-5. Drag the field element to the left box to replace the original Detail Variable.
+   
+5. Select between the different field elements available under the Default and Custom tab to be shown on the Detail Variable.
 
    <p align="center">
      <img src="img/DF_Template_Settings_Step_5.png" alt="DF Template Settings Step 5">
    </p>
 
-6. Replace the Detail Variable following the sequence.
+6. Drag the field element to the left box to replace the original Detail Variable.
 
    <p align="center">
      <img src="img/DF_Template_Settings_Step_6.png" alt="DF Template Settings Step 6">
    </p>
 
+7. Replace the Detail Variable following the sequence.
+
+   <p align="center">
+     <img src="img/DF_Template_Settings_Step_7.png" alt="DF Template Settings Step 7">
+   </p>
+
    The result will be shown as below.
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_6a.png" alt="DF Template Settings Step 6a">
+     <img src="img/DF_Template_Settings_Step_7a.png" alt="DF Template Settings Step 7a">
    </p>
 
-7. "Report Form Settings" allows users to customize the appearance and behavior of digital form reports.
+8. "Report Form Settings" allows users to customize the appearance and behavior of digital form reports.
 
    | No | Fields | Description |
    |----|--------|-------------|
@@ -112,36 +123,36 @@ The Digital Form Template Settings page enables users to **configure** and **man
    | e | PDF Watermark Control | Configure and apply watermarks to the PDF version of the report. |
 
    <p align="center">
-     <img src="img/DF_Template_Settings_Step_7.png" alt="DF Template Settings Step 7">
-   </p>
-
-   <p align="center">
-     <img src="img/DF_Template_Settings_Step_7a.png" alt="DF Template Settings Step 7a">
-   </p>
-
-8. User(s) who has been added in "Prepopulate Assigned User During Digital Form Creation" will be automatically assigned when the new digital form is created.
-
-   <p align="center">
      <img src="img/DF_Template_Settings_Step_8.png" alt="DF Template Settings Step 8">
    </p>
 
-   <a id="section3"></a>
+   <p align="center">
+     <img src="img/DF_Template_Settings_Step_8a.png" alt="DF Template Settings Step 8a">
+   </p>
 
-   **Default Field Settings**
-
-9. “Default Fields Element” allows to set default values for various templates in the digital form.
+9. User(s) who has been added in "Prepopulate Assigned User During Digital Form Creation" will be automatically assigned when the new digital form is created.
 
    <p align="center">
      <img src="img/DF_Template_Settings_Step_9.png" alt="DF Template Settings Step 9">
    </p>
 
+   <a id="section4"></a>
+
+   **Default Field Settings**
+
+10. “Default Fields Element” allows to set default values for various templates in the digital form.
+
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_10.png" alt="DF Template Settings Step 10">
+    </p>
+
    *Note: The first DateTime field on the left is a mandatory field that cannot be disabled but can be renamed.<br><br>
 
-   <a id="section4"></a>
+   <a id="section5"></a>
 
    **Custom Field Settings**
 
-10. “Custom Fields Settings” allows to add and configure custom fields for the digital form template. You can click on the “Custom Field Element” and edit it at the right side.
+11. “Custom Fields Settings” allows to add and configure custom fields for the digital form template. You can click on the “Custom Field Element” and edit it at the right side.
 
     | No | Field | Description |
     |----|-------|-------------|
@@ -151,26 +162,26 @@ The Digital Form Template Settings page enables users to **configure** and **man
     *Note: Each field element has a limit in number of the same field can be used in one category. There is also a limit on number of custom fields that can be added all-together in a category as can be seen on the Remaining Available Fields at section b.<br><br>
 
     <p align="center">
-      <img src="img/DF_Template_Settings_Step_10.png" alt="DF Template Settings Step 10">
-    </p>
-
-   <a id="section5"></a>
-
-   **Product/Services Settings**
-   
-11. "Product/Services Element" allows users to enable or disable specific fields for product/services such as description and remarks.
-
-    <p align="center">
       <img src="img/DF_Template_Settings_Step_11.png" alt="DF Template Settings Step 11">
     </p>
 
-12. "Product/Services Prepopulate Settings" allows users to add product/services to prepopulate certain fields automatically.
+   <a id="section6"></a>
+
+   **Product/Services Settings**
+   
+12. "Product/Services Element" allows users to enable or disable specific fields for product/services such as description and remarks.
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_12.png" alt="DF Template Settings Step 12">
     </p>
 
-13. "Product/Services Disclaimers" allows users to add disclaimers related to product/services to appear in the digital form.
+13. "Product/Services Prepopulate Settings" allows users to add product/services to prepopulate certain fields automatically.
+
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_13.png" alt="DF Template Settings Step 13">
+    </p>
+
+14. "Product/Services Disclaimers" allows users to add disclaimers related to product/services to appear in the digital form.
 
     | No | Fields | Description |
     | a | Section Title | Enter the title for the disclaimer section. |
@@ -181,14 +192,14 @@ The Digital Form Template Settings page enables users to **configure** and **man
     | f | Visibility Field | Toggle to control the visibility of the disclaimer field within the digital form. |
 
     <p align="center">
-      <img src="img/DF_Template_Settings_Step_13.png" alt="DF Template Settings Step 13">
+      <img src="img/DF_Template_Settings_Step_14.png" alt="DF Template Settings Step 14">
     </p>
 
-   <a id="section6"></a>
+   <a id="section7"></a>
 
    **Customer Feedback Settings**
    
-14. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
+15. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
 
     | No | Fields | Description |
     |----|--------|-------------|
@@ -196,10 +207,10 @@ The Digital Form Template Settings page enables users to **configure** and **man
     | b | Add Drop Down | CLick to add a new dropdown menu for customer feedback options. |
 
     <p align="center">
-      <img src="img/DF_Template_Settings_Step_14.png" alt="DF Template Settings Step 14">
+      <img src="img/DF_Template_Settings_Step_15.png" alt="DF Template Settings Step 15">
     </p>
 
-15. After done for the digital form template settings, click these icons to preview and save.
+16. After done for the digital form template settings, click these icons to preview and save.
 
     | No | Icon | Description |
     |----|------|-------------|
@@ -207,7 +218,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
     | b | Save | Click to save the current configuration and changes made to the digital form. |
 
     <p align="center">
-      <img src="img/DF_Template_Settings_Step_15.png" alt="DF Template Settings Step 15">
+      <img src="img/DF_Template_Settings_Step_16.png" alt="DF Template Settings Step 16">
     </p>
 <br><br><br>
 
