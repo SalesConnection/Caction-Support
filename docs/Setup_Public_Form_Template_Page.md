@@ -32,17 +32,21 @@
       <img src="img/Public_Form_Template_Settings_Step_3.png" alt="Public Form Template Step 3">
    </p><br>
 
-4. "PUBLIC FORM SETTINGS" is the section 
+4. "PUBLIC FORM SETTINGS" is the section to customise the public form.
 
    | Terms | Description |
    |-------|:---------|
-   | Show First | You can choose either banner or header intruction to show at the top of the Public Form. |
-   | Header Instruction | Write some instruction and let customer know what is the purpose and how to use this page. |
-   | Send Email on Status Change | You can decide to let customer know the status change of the public form. |
-   | Template Header | Select for the template heade.r |
-   | Youtube Link | You can put youtube link as a tutorial for customer. |
+   | Show First | You can choose either banner or header instruction to show at the top of the Public Form. |
+   | Header Instruction | Write a brief description/instruction to inform customer purpose of the form/how to fill in the form. |
+   | Send Email on Status Change | To decide if you’d like to email Customer upon Public Form status change. |
+   | Template Header | Select the template header. |
+   | Youtube Link | Embed a link for customer to see upon opening the Public Form. |
+
+   <p align="center">
+      <img src="img/Public_Form_Template_Settings_Step_4.png" alt="Public Form Template Step 4">
+   </p>
  
-6. "Default Field Settings" allows to set default values for various fields in the public form template.
+5. “Default Field Settings” are to set default values for varies fields in template to be applied to all Public Form Categories.
 
    | Field | Description |
    |-------|---------|
@@ -52,7 +56,7 @@
       <img src="img/Public_Form_Template_Settings_Step_5.png" alt="Public Form Template Step 5">
    </p>
 
-7. "Custom Field Settings" allows to add and configure custom fields for the public form template. You can click on the "Custom Field Element" and edit it at the right side.<br>
+6. “Custom Field Settings” are to add and configure custom fields for the public form template for specific categories. You can click on the “Custom Field Element” and edit it at the right side.<br>
 
    | Field | Description |
    |-------|---------|
