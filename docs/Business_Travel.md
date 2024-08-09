@@ -259,6 +259,8 @@
        <img src="img2/Business_Travel_Mobile_Step_12.png" alt="Business Travel Mobile Step 12">
     </p>
 
+    *Note: Certain account types do not have permission to filter some users.<br>
+
 13. Click on the user you want to filter.
 
     <p align="center">
