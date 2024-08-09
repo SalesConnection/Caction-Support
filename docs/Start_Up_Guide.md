@@ -75,8 +75,8 @@ For more detailed information, visit the [Data Level Structure page](https://sal
 
 Sales Connection offers a comprehensive suite of features designed to streamline business operations:<br><br>
 
-1. **Customer Management:** Centralize client information and interactions.
-   - Easily store and access detailed customer data, track communication history, and manage customer relationships effectively.<br>
+1. **Customer Management:** Centralize client information and details.
+   - Easily store and access detailed customer data, history, and manage customer relationships effectively.<br>
 
 2. **Project Management:** Organize and oversee projects efficiently.
    - Plan, execute, and monitor projects from start to finish, ensuring timely delivery and alignment with business goals.<br>
@@ -84,17 +84,17 @@ Sales Connection offers a comprehensive suite of features designed to streamline
 3. **Task Management:** Assign and monitor tasks within projects.
    - Break down projects into manageable tasks, delegate responsibilities, and track progress to ensure project milestones are met.<br>
 
-4. **Digital Forms:** Streamline data collection and workflows.
+4. **Digital Forms:** Digitalize your forms for easy accessibility. Users are able to fill in these forms via their mobile app conveniently while on-the-go.
    - Create, customize, and distribute digital forms to collect data and automate workflows, improving accuracy and efficiency.<br>
 
-5. **Products & Services:** Catalog and manage your offerings.
-   - Maintain an up-to-date list of products and services, including descriptions, pricing, and availability.<br>
+5. **Products & Services:** Catalog and manage your Products and Services.
+   - Maintain an up-to-date list of products and services, including descriptions and pricing.<br>
 
 6. **Public Forms:** Collect data from external sources easily.
-   - Design and share public forms to gather information from customers, partners, and other stakeholders.<br>
+   - Design and share public forms to gather information from customers, leads, and other stakeholders.<br>
 
-7. **Asset Management:** Track and manage company resources.
-   - Keep a detailed record of company assets, monitor their condition, and manage their utilization and maintenance.<br><br>
+7. **Asset Management:** Track and manage company equipment.
+   - Keep a detailed record of company assets, monitor their condition, and compile data to analyze health of equipment.<br><br>
 
 For a detailed breakdown of each feature, visit the [Sales Connection Features page](https://salesconnection.github.io/Sales-Connection-Support/#features-knowledge).<br><br>
 
