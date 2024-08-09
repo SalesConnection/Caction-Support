@@ -169,19 +169,45 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
    **Product/Services Settings**
    
-12. "Product/Services Element" allows users to enable or disable specific fields for product/services such as description and remarks.
+12. "Product/Services Element" allows users to enable or disable specific fields for product/services such as descriptions and remarks.
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_12.png" alt="DF Template Settings Step 12">
     </p>
 
-13. "Product/Services Prepopulate Settings" allows users to add product/services to prepopulate certain fields automatically.
+13. Click on the field that you want to map with product/services field.
 
     <p align="center">
       <img src="img/DF_Template_Settings_Step_13.png" alt="DF Template Settings Step 13">
     </p>
+    
+14. Click "Product Mapping".
 
-14. "Product/Services Disclaimers" allows users to add disclaimers related to product/services to appear in the digital form.
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_14.png" alt="DF Template Settings Step 14">
+    </p>
+
+15. Click on the field that you want to map with.
+
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_15.png" alt="DF Template Settings Step 15">
+    </p>
+
+    *Note: Only the fields with the same field element will be shown.<br>
+    
+16. The mapping is done successfully.
+
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_16.png" alt="DF Template Settings Step 16">
+    </p>
+    
+17. "Product/Services Prepopulate Settings" allows users to add product/services to prepopulate certain fields automatically.
+
+    <p align="center">
+      <img src="img/DF_Template_Settings_Step_17.png" alt="DF Template Settings Step 17">
+    </p>
+
+18. "Product/Services Disclaimers" allows users to add disclaimers related to product/services to appear in the digital form.
 
     | No | Fields | Description |
     | a | Section Title | Enter the title for the disclaimer section. |
@@ -192,25 +218,25 @@ The Digital Form Template Settings page enables users to **configure** and **man
     | f | Visibility Field | Toggle to control the visibility of the disclaimer field within the digital form. |
 
     <p align="center">
-      <img src="img/DF_Template_Settings_Step_14.png" alt="DF Template Settings Step 14">
+      <img src="img/DF_Template_Settings_Step_18.png" alt="DF Template Settings Step 18">
     </p>
 
    <a id="section7"></a>
 
    **Customer Feedback Settings**
    
-15. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
+19. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
 
     | No | Fields | Description |
     |----|--------|-------------|
     | a | Add Text Field | Click to add a new text field for customer feedback. |
-    | b | Add Drop Down | CLick to add a new dropdown menu for customer feedback options. |
+    | b | Add Drop Down | Click to add a new dropdown menu for customer feedback options. |
 
     <p align="center">
-      <img src="img/DF_Template_Settings_Step_15.png" alt="DF Template Settings Step 15">
+      <img src="img/DF_Template_Settings_Step_19.png" alt="DF Template Settings Step 19">
     </p>
 
-16. After done for the digital form template settings, click these icons to preview and save.
+20. After done for the digital form template settings, click these icons to preview and save.
 
     | No | Icon | Description |
     |----|------|-------------|
@@ -218,7 +244,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
     | b | Save | Click to save the current configuration and changes made to the digital form. |
 
     <p align="center">
-      <img src="img/DF_Template_Settings_Step_16.png" alt="DF Template Settings Step 16">
+      <img src="img/DF_Template_Settings_Step_20.png" alt="DF Template Settings Step 20">
     </p>
 <br><br><br>
 
