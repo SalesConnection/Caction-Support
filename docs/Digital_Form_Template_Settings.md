@@ -18,13 +18,7 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 **Navigate to the section by clicking it.**<br>
 
-- [Selecting Digital Form Template](#section1)<br>
-- [Template Info](#section2)<br>
-- [Digital Form Category Configuration](#section3)<br>
-- [Default Field Settings](#section4)<br>
-- [Custom Field Settings](#section5)<br>
-- [Product/Services Settings](#section6)<br>
-- [Customer Feedback Settings](#section7)
+
 <br><br><br>
 
    <a id="section1"></a>
