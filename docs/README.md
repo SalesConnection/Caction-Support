@@ -88,6 +88,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [Comment Category Segmentation](Comment_Category_Segmentation.md)
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
 - [How do I set the system to skip project creation/selection during customer/job creation?](Can't_Find_Project.md)
+- [Why is the Console Tab showing a different number of jobs for the same customer?](Different_Number_Jobs_For_Same_Customer.md)
 
   
 ## Features Knowledge 
