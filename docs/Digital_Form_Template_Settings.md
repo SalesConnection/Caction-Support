@@ -147,11 +147,11 @@ The Digital Form Template Settings page enables users to **configure** and **man
       <img src="img/DF_Template_Settings_Step_10.png" alt="DF Template Settings Step 10">
     </p>
 
-   *Note: The first DateTime field on the left is a mandatory field that cannot be disabled but can be renamed.<br><br>
+    *Note: The first DateTime field on the left is a mandatory field that cannot be disabled but can be renamed.<br><br>
 
-   <a id="section5"></a>
+    <a id="section5"></a>
 
-   **Custom Field Settings**
+    **Custom Field Settings**
 
 11. “Custom Fields Settings” allows to add and configure custom fields for the digital form template. You can click on the “Custom Field Element” and edit it at the right side.
 
@@ -166,9 +166,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
       <img src="img/DF_Template_Settings_Step_11.png" alt="DF Template Settings Step 11">
     </p>
 
-   <a id="section6"></a>
+    <a id="section6"></a>
 
-   **Product/Services Settings**
+    **Product/Services Settings**
    
 12. "Product/Services Element" allows users to enable or disable specific fields for product/services such as descriptions and remarks.
 
@@ -224,9 +224,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
       <img src="img/DF_Template_Settings_Step_18.png" alt="DF Template Settings Step 18">
     </p>
 
-   <a id="section7"></a>
+    <a id="section7"></a>
 
-   **Customer Feedback Settings**
+    **Customer Feedback Settings**
    
 19. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
 
