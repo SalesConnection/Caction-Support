@@ -2,20 +2,20 @@
 
 ## Get Started with Sales Connection
 
-Sales Connection helps you streamline your sales processes, manage customers effectively, and enhance overall business operations. Whether you're joining an established or customized system, set up for success! Sales Connection is flexible and customizable, so everyone uses it a little differently.<br>
+Sales Connection helps you streamline your business processes, manage customers effectively, and enhance overall business operations. Whether you’re joining an established or customized system, set up for success! Sales Connection is flexible and customizable, so everyone uses it a little differently.<br>
 
 This guide walks you through customizing your experience of Sales Connection.<br>
 
-*Note: Some of the following features have plan-based limits or are optional. Contact your salesman to upgrade.<br><br>
+*Note: Some of the following features have plan-based limits or are optional. Contact our salesman to upgrade.<br><br>
 
 
 ## System Role and Permission
 
 Sales Connection supports various user types, each with distinct levels of access and permissions to ensure proper control and security within the platform:<br><br>
 
-- **Admin:** Full access to all system features, settings, and user management.
-- **Subadmin:** High-level access, with some restrictions compared to Admin.
-- **Staff:** Access primarily focused on project management, task execution, and operational activities.
+- **Admin:** Full access to all system data, features, and user management.
+- **Subadmin:** High-level access to all data within your department with some restrictions compared to Admin.
+- **Staff:** Access primarily focused on task creation, execution, and operational activities.
 - **Associate User:** Limited access, mostly for collaboration, viewing tasks, and completing assigned work.<br><br>
   
 For more details, visit the [User Types Default Access page](https://salesconnection.github.io/Sales-Connection-Support/User_Types_Default_Access.html).<br><br>
@@ -25,9 +25,9 @@ For more details, visit the [User Types Default Access page](https://salesconnec
 
 Sales Connection organizes its data into seven hierarchical levels which is called Data Level Structure, ensuring structured and efficient data management:<br><br>
 
-- **Customer:** This is the topmost level containing client information, including contact details, addresses, and related interactions.
-- **Project:** Projects are organized under customers, representing major initiatives or contracts associated with a customer.
-- **Job:** These are specific tasks or activities within a project that need to be completed to fulfill the project's objectives.
+- **Customer:** This is the topmost level containing client information, including contact details, and addresses.
+- **Project:** Projects are organized under customers, representing major deals,  or contracts associated with a customer.
+- **Job:** These are specific scheduled tasks or activities within a project that need to be completed to fulfill the project’s objectives.
 - **Digital Form:** Electronic documents used within the system for data collection, processing, and workflow management.
 - **Product & Services:** Items and services offered by the company, including details about each product or service.
 - **Public Form:** Forms accessible to external users, often used for data collection or public-facing interactions.
@@ -46,13 +46,13 @@ For more detailed information, visit the [Data Level Structure page](https://sal
 - Add team members and assign appropriate user roles.
 - Go to the user management section, invite users by email, and designate their roles based on their responsibilities.<br>
 
-**Step 3: Create Customer Records**
+**Step 3: Create Customer Profile**
 - Input customer details to start organizing your client base.
-- Use the customer management module to add new customers and input essential information such as contact details, company affiliation, and other relevant data.<br>
+- Use the customer management module to add new customers and input essential information such as contact details and other relevant data.<br>
 
 **Step 4: Set Up Projects**
 - Create projects under customers to manage your major initiatives.
-- In the projects section, initiate a new project, assign it to a customer, and define its scope, objectives, and timelines.<br>
+- In the projects section, initiate a new project, assign it to a customer, and define its scope, objectives, and end date.<br>
 
 **Step 5: Assign Jobs**
 - Break down projects into specific tasks and assign them to your team.
