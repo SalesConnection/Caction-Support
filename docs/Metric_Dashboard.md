@@ -1,4 +1,6 @@
-
+Version 1.0<br>
+Created: 9 August 2024<br>
+Updated: 9 August 2024<br>
 ## Metric Dashboard
 
 The Metrics Dashboard is used for monitoring key performance indicators and providing an overview of job statuses and service performance to assist in effective job management and decision-making.
