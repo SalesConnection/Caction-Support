@@ -9,7 +9,7 @@
 <a id="section1"></a>
 
 1. At the desktop site's navigation bar, go to Template Settings > Digital Form Templates > PDF Template Customization.<br>
-   **Create PDF Here:** [https://salesconnection.my/DigitalFormSetting/templatecustomisation](https://salesconnection.my/DigitalFormSetting/templatecustomisation)<br>
+   **Set Up PDF Template Here:** [https://salesconnection.my/DigitalFormSetting/templatecustomisation](https://salesconnection.my/DigitalFormSetting/templatecustomisation)<br>
      
    <p align="center">
      <img src="img/Create_PDF_Step_1.png" alt="Create PDF Step 1">
@@ -42,10 +42,10 @@
 
    | No | Field Name | Description |
    |----|------------|-------------|
-   | a | Status Label | Define the status label for the digital form. |
-   | b | Category Name | Define the category name for the digital form. |
-   | c | Digital Form Seq. No | Specify the sequence number for the digital form. |
-   | d | Source Label | Specify the source label |
+   | a | Status Label | Display status label in PDF of Digital Form. |
+   | b | Category Name | Display category label in PDF of Digital Form. |
+   | c | Digital Form Seq. No | Display DF Seq No label in PDF of Digital Form. |
+   | d | Source Label | Display Source information in PDF of Digital Form. |
      
    <p align="center">
      <img src="img/Create_PDF_Step_5.png" alt="Create PDF Step 5">
@@ -62,8 +62,8 @@
    | No | Field Name | Description |
    |----|------------|-------------|
    | a | Page Size| Select the size of the PDF (standard PDF or receipt size). |
-   | b | Page Numbering | Choose whether to include page numbers. |
-   | c | Collection Section | Decide if the collection section should be included. |
+   | b | Page Numbering | Choose whether to display page numbers in PDF. |
+   | c | Collection Section | Choose whether to display payment collection section in PDF. |
    | d | Comment Image Display per Row | Determine how many images should be displayed per row in the comment section. |
  
    <p align="center">
@@ -212,7 +212,7 @@
        <img src="img/Create_PDF_Step_22.png" alt="Create PDF Step 22">
     </p>
 
-23. Confirm the selection and click "Yes".<br>
+23. Select which header you’d like to use in the PDF. Confirm the selection and click “Yes”.<br>
 
     <p align="center">
        <img src="img/Create_PDF_Step_23.png" alt="Create PDF Step 23">
