@@ -435,6 +435,7 @@ Updated: 18 June 2024<br>
 - [How to Add New Project?](Add_New_Project.md)
 - [How to Add New Job?](Add_New_Job.md)
 - [How to Create Digital Form?](Create_Digital_Form.md)
+- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/How_to_Add_New_Asset.html) -->
