@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 14 August 2024<br>
+Updated: 14 August 2024<br>
 ## How to Set Up Digital Form PDF Template?
 
 **Navigate to the section by clicking it.**<br>
@@ -239,7 +242,6 @@
 
 **Related Articles**<br>
 - [How to Create Digital Form?](Create_Digital_Form.md)
-- [Digital Form Template Settings](Digital_Form_Template_Settings.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Create_PDF.html) -->
