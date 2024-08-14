@@ -226,6 +226,7 @@ Updated: 8 August 2024<br>
    <br><br><br>
 
 **Related Articles**
+- [Business Travel](Business_Travel.md)
 - [Claim Management](Claim_Management.md)
 - [Overtime Management](Overtime_Management.md)
 - [Attendance List](Attendance_List.md)
