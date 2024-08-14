@@ -245,5 +245,6 @@ Updated: 14 June 2024<br>
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to Copy Account for New User?](Copy_Account.md)
+- [How to Check Pending Update?](Check_Pending_Update.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Admin_Reset_App_Access.html) -->
