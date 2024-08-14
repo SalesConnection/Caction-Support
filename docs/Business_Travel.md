@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 14 August 2024<br>
+Updated: 14 August 2024<br>
 ## Business Travel
 
 **Business Travel** displays a list of business travel activities for users, including check-in and check-out events. It helps track and manage business travel logs, ensuring all required actions and comments are fulfilled before status changes.<br><br>
