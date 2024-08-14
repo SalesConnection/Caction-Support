@@ -1,3 +1,6 @@
+Version 1.0<br>
+Created: 14 August 2024<br>
+Updated: 14 August 2024<br>
 ## How to Setup Public Form Template?
 
 1. At the desktop site's navigation bar, go to Template Settings > Public Form Templates.<br>
