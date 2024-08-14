@@ -38,9 +38,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
      <img src="img/DF_Template_Settings_Step_1.png" alt="DF Template Settings Step 1">
    </p>
    
-   <a id="section2"></a>
+<a id="section2"></a>
 
-   **Template Info**
+## Template Info
 
 2. "Template Info" allows users to define and configure the basic attributes of the digital form template.
 
@@ -57,9 +57,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
      <img src="img/DF_Template_Settings_Step_2.png" alt="DF Template Settings Step 2">
    </p>
 
-   <a id="section3"></a>
+<a id="section3"></a>
 
-   **Digital Form Category Configuration**
+## Digital Form Category Configuration
 
 3. "Details Variable Settings" is used to show six details of the digital form in the card view.
 
@@ -137,9 +137,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
      <img src="img/DF_Template_Settings_Step_9.png" alt="DF Template Settings Step 9">
    </p>
 
-   <a id="section4"></a>
+<a id="section4"></a>
 
-   **Default Field Settings**
+## Default Field Settings
 
 10. “Default Fields Element” allows to set default values for various templates in the digital form.
 
@@ -149,9 +149,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
     *Note: The first DateTime field on the left is a mandatory field that cannot be disabled but can be renamed.<br><br>
 
-    <a id="section5"></a>
+<a id="section5"></a>
 
-    **Custom Field Settings**
+## Custom Field Settings
 
 11. “Custom Fields Settings” allows to add and configure custom fields for the digital form template. You can click on the “Custom Field Element” and edit it at the right side.
 
@@ -166,9 +166,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
       <img src="img/DF_Template_Settings_Step_11.png" alt="DF Template Settings Step 11">
     </p>
 
-    <a id="section6"></a>
+<a id="section6"></a>
 
-    **Product/Services Settings**
+## Product/Services Settings
    
 12. "Product/Services Element" allows users to enable or disable specific fields for product/services such as descriptions and remarks.
 
@@ -225,9 +225,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
       <img src="img/DF_Template_Settings_Step_18.png" alt="DF Template Settings Step 18">
     </p>
 
-    <a id="section7"></a>
+<a id="section7"></a>
 
-    **Customer Feedback Settings**
+## Customer Feedback Settings
    
 20. "Customer Feedback Settings" allows users to manage and configure feedback fields that can be added to digital form.
 
