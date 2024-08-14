@@ -28,9 +28,9 @@ The Digital Form Template Settings page enables users to **configure** and **man
 
 <br><br><br>
 
-   <a id="section1"></a>
+<a id="section1"></a>
 
-   **Selecting Digital Form Template**
+## Selecting Digital Form Template
 
 1. "Template Info" allows users to define and configure the basic attributes of the digital form template.
 
