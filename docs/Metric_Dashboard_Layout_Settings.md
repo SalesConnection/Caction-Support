@@ -150,5 +150,6 @@ Metric Dashboard Layout Setting allows you to create charts and adjust the eleme
 
 **Related Articles**<br>
 - [Metric Dashboard](Metric_Dashboard.md)
+- [Performance Metrics (APP)](Performance_Metrics_App.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Metric_Dashboard.html) -->
