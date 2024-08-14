@@ -75,5 +75,6 @@ Customise you and your team’s notification settings on the system to minimize 
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
 - [UAC Policy Management](UAC_Policy_Management.md)
 - [Company Profile Settings](Company_Profile_Settings.md)
+- [I am Not Getting Any Notification From the System On My Device. Why?](Not_Getting_Notification.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Notification_Settings_by_User_Account.html) -->
