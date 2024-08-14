@@ -147,5 +147,6 @@ Updated: 18 June 2024<br>
 - [How to Create Digital Form?](Create_Digital_Form.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 - [How to Setup Job Template Page?](Setup_Job_Template.md)
-
+- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
+  
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Add_New_Job.html) -->
