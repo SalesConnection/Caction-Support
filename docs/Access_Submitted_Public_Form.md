@@ -230,6 +230,7 @@ Updated: 16 July 2024<br>
 <br><br><br>
 
 **Related Articles**
+- [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
 - [How to Generate Public Form?](Creation_of_Public_Form.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 - [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)
