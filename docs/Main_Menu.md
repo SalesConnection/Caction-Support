@@ -1,3 +1,5 @@
+Welcome to the Sales Connection Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
+
 ## Main Menu
 
 **1. Login & Authentication**<br>
