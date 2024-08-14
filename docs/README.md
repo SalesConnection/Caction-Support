@@ -173,6 +173,14 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Setup Job Template Page?](Setup_Job_Template.md)
 
 
+### Digital Form
+- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
+
+
+### Public Form
+- [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
+
+  
 ## User Management 
 - [UAC Policy Management](UAC_Policy_Management.md)
 - [Company Profile Settings](Company_Profile_Settings.md)
