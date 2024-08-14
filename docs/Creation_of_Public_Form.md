@@ -233,5 +233,6 @@ Updated: 9 July 2024<br>
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
 - [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 - [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
+- [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Creation_of_Public_Form.html) -->
