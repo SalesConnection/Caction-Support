@@ -89,6 +89,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
 - [How to Add New Product/Services?](Add_New_Product&Service_List.md)
 - [Comment Category Segmentation](Comment_Category_Segmentation.md)
 - [How do I set the system to skip project creation/selection during customer/job creation?](Can't_Find_Project.md)
+- [How to Change Default Digital Form Email Sender Setting?](Change_DF_Email_Sender.md)
   
 ## Features Knowledge 
 - [Data Level Structure](Data_Level_Structure.md)
