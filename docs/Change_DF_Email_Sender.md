@@ -40,3 +40,4 @@ The email feature allows the company to send digital form with a verified email 
 - [How to Create Digital Form?](Create_Digital_Form.md)
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
 - [Digital Form Template Settings](Digital_Form_Template_Settings.md)
+- [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
