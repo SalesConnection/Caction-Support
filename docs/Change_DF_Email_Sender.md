@@ -8,7 +8,7 @@ The email feature allows the company to send digital form with a verified email 
 1. At the navigation bar, go to User Management -> Company Profile Settings. Or click on the link https://salesconnection.my/settings/companysettings <br>
 
 <p align="center">
-  <img src="docs/img2/first - change email.png" alt="Change email 1" width="600" height="300">
+  <img src="img2/first - change email.png" alt="Change email 1" width="600" height="300">
 </p>
 
 2. Click Email List, a list of email will be shown. <br>
@@ -22,7 +22,7 @@ The email feature allows the company to send digital form with a verified email 
 1. At the navigation bar, go to Company Settings-> Digital Form Setting -> Digital Form Email Setting. Or click on the link https://salesconnection.my/ServiceReport/digitalReportEmail<br>
 
 <p align="center">
-  <img src="docs/img2/second - change email.png" alt="Change email 2" width="600" height="300">
+  <img src="img2/second - change email.png" alt="Change email 2" width="600" height="300">
 </p>
 
 2. Select the digital form to set the sender. <br>
@@ -30,13 +30,13 @@ The email feature allows the company to send digital form with a verified email 
 3. Select a user(E.g SC Support Staff). At the "From" field, enter the email to be used as sender. The SC Support Staff will receive the Digital Form email from this specified sender email.<br>
    
 <p align="center">
-  <img src="docs/img2/third - change email.png" alt="Change email 3" width="600" height="50">
+  <img src="img2/third - change email.png" alt="Change email 3" width="600" height="50">
 </p>
 
 4. If the user wants to apply changes to all users, they can tick the checkbox in the bottom left corner. Click Save to apply the email sending settings.
 <br><br><br>
 
 **Related Articles**
-- [How to Create Digital Form?](docs/Create_Digital_Form.md)
-- [How to Set Up Digital Form PDF Template?](docs/Create_PDF.md)
-- [Digital Form Template Settings](docs/Digital_Form_Template_Settings.md)
+- [How to Create Digital Form?](Create_Digital_Form.md)
+- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
+- [Digital Form Template Settings](Digital_Form_Template_Settings.md)
