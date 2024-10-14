@@ -23,7 +23,7 @@ Updated: 24 May 2024<br>
 <a id="section1"></a>
 ### Export as CSV
   1. At the desktop site's navigation bar, go to Business Reports > Job Report.<br>
-     **Open Job Report Here:** [https://caction.com/reports/activity](https://caction.com/reports/activity)<br>
+     **Open Job Report Here:** [https://system.caction.com/reports/activity](https://system.caction.com/reports/activity)<br>
 
      <p align="center">
        <img src="img/Job_Report_Page.png" alt="Job Report Page">
@@ -57,7 +57,7 @@ Updated: 24 May 2024<br>
 <a id="section2"></a>
 ### Export as Excel
   1. At the desktop site's navigation bar, go to Business Reports > Job Report.<br>
-     **Open Job Report Here:** [https://caction.com/reports/activity](https://caction.com/reports/activity)<br>
+     **Open Job Report Here:** [https://system.caction.com/reports/activity](https://system.caction.com/reports/activity)<br>
 
      <p align="center">
        <img src="img/Job_Report_Page.png" alt="Job Report Page">
@@ -92,7 +92,7 @@ Updated: 24 May 2024<br>
 ### Export as PDF
 *Note: No PDF export option for Digital Form.<br>
   1. At the desktop site's navigation bar, go to Business Reports > Job Report.<br>
-     **Open Job Report Here:** [https://caction.com/reports/activity](https://caction.com/reports/activity)<br>
+     **Open Job Report Here:** [https://system.caction.com/reports/activity](https://system.caction.com/reports/activity)<br>
 
      <p align="center">
        <img src="img/Job_Report_Page.png" alt="Job Report Page">

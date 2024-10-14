@@ -16,7 +16,7 @@ On **Company Profile Settings**, you would be able to change the system settings
    **Company Profile**
 
 1. At the desktop site navigation bar, go to User Management > Company Profile Settings.<br>
-   **Open Company Profile Settings Here:** [https://caction.com/settings/companysettings](https://caction.com/settings/companysettings)<br>
+   **Open Company Profile Settings Here:** [https://system.caction.com/settings/companysettings](https://system.caction.com/settings/companysettings)<br>
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_1.png" alt="Company Profile Settings Step 1">

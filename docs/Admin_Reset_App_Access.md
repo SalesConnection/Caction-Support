@@ -23,7 +23,7 @@ Updated: 14 June 2024<br>
 **User Online**
 
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
-   **Open the User List:** [https://caction.com/usermanage/userlist](https://caction.com/usermanage/userlist)<br>
+   **Open the User List:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">
@@ -85,7 +85,7 @@ Updated: 14 June 2024<br>
 **User Offline / App Deleted**
 
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
-   **Open the User List:** [https://caction.com/usermanage/userlist](https://caction.com/usermanage/userlist)<br>
+   **Open the User List:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">
    </p>
@@ -161,7 +161,7 @@ Updated: 14 June 2024<br>
 ### User has pending data
 
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
-   **Open the User List:** [https://caction.com/usermanage/userlist](https://caction.com/usermanage/userlist)<br>
+   **Open the User List:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">

@@ -4,7 +4,7 @@ Updated: 14 August 2024<br>
 ## How to Setup Public Form Template?
 
 1. At the desktop site's navigation bar, go to Template Settings > Public Form Templates.<br>
-   **Open Public Form Templates Here:** [https://caction.com/PublicForm/TemplateSetting](https://caction.com/PublicForm/TemplateSetting)<br>
+   **Open Public Form Templates Here:** [https://system.caction.com/PublicForm/TemplateSetting](https://system.caction.com/PublicForm/TemplateSetting)<br>
 
    <p align="center">
       <img src="img/Public_Form_Template_Settings_Step_1.png" alt="Public Form Template Step 1">

@@ -4,7 +4,7 @@ Updated: 19 June 2024<br>
 ## How to Import New Product/Services(s)?
     
   1. At the desktop site's navigation bar, go to Import > Product/Services Import.<br>
-     **Import Product/Services(s) Here:** [https://caction.com/productupload](https://caction.com/productupload)<br>
+     **Import Product/Services(s) Here:** [https://system.caction.com/productupload](https://system.caction.com/productupload)<br>
 
      <p align="center">
        <img src="img/Import_Product_Services_Step_1.png" alt="Import Product Services Step 1">

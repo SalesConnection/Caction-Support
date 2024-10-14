@@ -4,7 +4,7 @@ Updated: 24 May 2024<br>
 ## How to Edit Remote Signature Email Template?
 
 1. To edit remote signature email template, go to the desktop site navigation bar > Company Settings > Digital Form Settings > Remote Signature Email Template Settings.<br>
-   **Open Remote Signature Email Template Settings Page Here:** [https://caction.com/ServiceReport/remoteSignEmailTemplate](https://caction.com/ServiceReport/remoteSignEmailTemplate)<br>
+   **Open Remote Signature Email Template Settings Page Here:** [https://system.caction.com/ServiceReport/remoteSignEmailTemplate](https://system.caction.com/ServiceReport/remoteSignEmailTemplate)<br>
    
    <p align="center">
       <img src="img/Remote_Signature_Email_Template_Settings_Page.png" alt="Remote Signature Email Template Settings Page">

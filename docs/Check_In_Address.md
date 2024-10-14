@@ -124,7 +124,7 @@ Updated: 27 May 2024<br>
   **If staff not be able to edit the job, follow the steps below.**<br>
   *Note: Only certain admins can perform this action.<br>
   1. To solve this problem, go to the desktop site navigation bar > Business Management > Schedule > Job Schedule.<br>
-     **Open the Job Schedule Here:** [https://caction.com/activity/scheduler](https://caction.com/activity/scheduler)<br>
+     **Open the Job Schedule Here:** [https://system.caction.com/activity/scheduler](https://system.caction.com/activity/scheduler)<br>
 
      <p align="center">
         <img src="img/Check_In_Address_Desktop_Step_1.png" alt="Check In Address Desktop Step 1">

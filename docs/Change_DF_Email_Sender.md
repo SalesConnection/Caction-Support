@@ -5,7 +5,7 @@
 
 The email feature allows the company to send digital form with a verified email address. The email can default sender role, such as primary, CC, BCC, or Tech Email. <br><br>
 
-1. At the navigation bar, go to User Management -> Company Profile Settings. Or click on the link https://caction.com/settings/companysettings <br>
+1. At the navigation bar, go to User Management -> Company Profile Settings. Or click on the link https://system.caction.com/settings/companysettings <br>
 
 <p align="center">
   <img src="img2/first - change email.png" alt="Change email 1" width="600" height="300">
@@ -19,7 +19,7 @@ The email feature allows the company to send digital form with a verified email 
 
 ## To Set Digital Form Default Sender
 
-1. At the navigation bar, go to Company Settings-> Digital Form Setting -> Digital Form Email Setting. Or click on the link https://caction.com/ServiceReport/digitalReportEmail<br>
+1. At the navigation bar, go to Company Settings-> Digital Form Setting -> Digital Form Email Setting. Or click on the link https://system.caction.com/ServiceReport/digitalReportEmail<br>
 
 <p align="center">
   <img src="img2/second - change email.png" alt="Change email 2" width="600" height="300">

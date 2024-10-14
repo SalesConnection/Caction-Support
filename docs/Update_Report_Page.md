@@ -7,7 +7,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 *Note: The tutorial below is based on Digital Form Update Report Page but all of these can be applied to other Update Report Page.
 
-**Open Update Report Page Here:** [https://caction.com/reports/digitalform-update?code=DR01](https://caction.com/reports/digitalform-update?code=DR01)<br>
+**Open Update Report Page Here:** [https://system.caction.com/reports/digitalform-update?code=DR01](https://system.caction.com/reports/digitalform-update?code=DR01)<br>
 
 | No | Terms | Description |
 |----|-------|---------|

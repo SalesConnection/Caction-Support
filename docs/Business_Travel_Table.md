@@ -17,7 +17,7 @@ Updated: 8 August 2024<br>
 <br><br><br>
 
 1. At the desktop site navigation bar, go to Business Map > Business Travel (Table).<br>
-   **Open Business Travel (Table) Here:** [https://caction.com/business-travel/table](https://caction.com/business-travel/table)<br>
+   **Open Business Travel (Table) Here:** [https://system.caction.com/business-travel/table](https://system.caction.com/business-travel/table)<br>
 
    <p align="center">
       <img src="img2/Business_Travel_Table_Page.png" alt="Business Travel Table Page">

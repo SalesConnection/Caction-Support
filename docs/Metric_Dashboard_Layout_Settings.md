@@ -12,7 +12,7 @@ Metric Dashboard Layout Setting allows you to create charts and adjust the eleme
 <br><br><br>
 
 1. At the desktop's navigation bar, go to Company  > Metric Dashboard.<br>
-   **Open Metric Dashboard Here:** [https://caction.com/dashboard/metric/overview/template](https://caction.com/dashboard/metric/overview/template)
+   **Open Metric Dashboard Here:** [https://system.caction.com/dashboard/metric/overview/template](https://system.caction.com/dashboard/metric/overview/template)
    <p align="center">
      <img src="img2/Metric_Dashboard_Layout_Settings_Step_1.png" alt="Metric Dashboard Layout Settings Step 1">
    </p>

@@ -15,7 +15,7 @@ The Metrics Dashboard is used for monitoring key performance indicators and prov
 <br><br><br>
 
 1. At the desktop's navigation bar, go to Business Metrics > Metric Dashboard.<br>
-   **Open Metric Dashboard Here:** [https://caction.com/dashboard/metric/overview](https://caction.com/dashboard/metric/overview)
+   **Open Metric Dashboard Here:** [https://system.caction.com/dashboard/metric/overview](https://system.caction.com/dashboard/metric/overview)
 
    <p align="center">
      <img src="img2/Metric_Dashboard_Step_1.png" alt="Metric Dashboard Step 1">

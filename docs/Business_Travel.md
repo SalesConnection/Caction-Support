@@ -26,7 +26,7 @@ Updated: 14 August 2024<br>
 <br><br><br>
 
 1. At the desktop site navigation bar, go to Business Map > Business Travel (List).<br>
-   **Open Business Travel (List) Here:** [https://caction.com/business-travel/list](https://caction.com/business-travel/list)<br>
+   **Open Business Travel (List) Here:** [https://system.caction.com/business-travel/list](https://system.caction.com/business-travel/list)<br>
 
    <p align="center">
       <img src="img2/Business_Travel_List_Page.png" alt="Business Travel List Page">

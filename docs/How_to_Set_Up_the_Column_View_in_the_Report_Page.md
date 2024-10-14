@@ -6,7 +6,7 @@ Updated: 24 May 2024<br>
 **Desktop site:**<br>
 
 1. In the "Main Navigation", under the "Business Reports", select "Job Report".<br>
-   **Add Favourite Filters in Report here:** [https://caction.com/reports/activity](https://caction.com/reports/activity)
+   **Add Favourite Filters in Report here:** [https://system.caction.com/reports/activity](https://system.caction.com/reports/activity)
 
    <p align="center">
      <img src="img/How_to_Customize_Filter_in_Report_Step_1.png" alt="Customize Filter in Report 1">

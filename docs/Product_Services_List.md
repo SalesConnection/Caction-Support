@@ -14,7 +14,7 @@ Updated: 4 July 2024<br>
 <br><br><br>
 
 1. At the desktop's navigation bar, go to Business Management > Product/Services List.<br>
-   **Open Product/Services List Here:** [https://caction.com/templateSettings/ViewProductList](https://caction.com/templateSettings/ViewProductList)<br>
+   **Open Product/Services List Here:** [https://system.caction.com/templateSettings/ViewProductList](https://system.caction.com/templateSettings/ViewProductList)<br>
 
    <p align="center">
      <img src="img2/Product_Services_List_Step_1.png" alt="Product/Services List Step 1">

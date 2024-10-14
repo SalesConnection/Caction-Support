@@ -6,7 +6,7 @@ Updated: 23 May 2024<br>
 **Desktop site:**<br>
 
  1. To filter job, go to Main Navigation> Business Management > Schedule > Job Schedule.<br>
-   **Filter Job Here:** [https://caction.com/activity/scheduler](https://caction.com/activity/scheduler)
+   **Filter Job Here:** [https://system.caction.com/activity/scheduler](https://system.caction.com/activity/scheduler)
 
     <p align="center">
       <img src="img/Job_Filter_by_Date_Range_Step_1.png" alt="Job Filter by date range 1">

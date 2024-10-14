@@ -37,7 +37,7 @@ Updated: 24 May 2024<br>
        <img src="img/Reset_Passsword_Using_Desktop_Step_4.png" alt="Reset Password - Step 4">
      </p><br>
      
-  5. You will be redirect to your email. Please find the email sent by admin@caction.com . Click on "please click on this link" and you will be able to reset your password.
+  5. You will be redirect to your email. Please find the email sent by admin@system.caction.com . Click on "please click on this link" and you will be able to reset your password.
 
      <p align="center">
        <img src="img/Reset_Passsword_Using_Desktop_Step_5.png" alt="Reset Password - Step 5">
@@ -104,7 +104,7 @@ Updated: 24 May 2024<br>
      <img src="img/Reset_Password_Using_Email_In_App_Step_6.png" alt="Reset Passsword Using Email in App Step 6" width="280" height="550">
    </p><br>
 
-6. You will received an email from admin@caction.com with a link to reset your password.
+6. You will received an email from admin@system.caction.com with a link to reset your password.
 
    <p align="center">
      <img src="img/Reset_Password_Using_Email_In_App_Step_7.png" alt="Reset Passsword Using Email in App Step 7" width="280" height="550">

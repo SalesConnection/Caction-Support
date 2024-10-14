@@ -5,7 +5,7 @@ Updated: 14 August 2024<br>
 
 The Digital Form Template Settings page enables users to **configure** and **manage** digital form templates comprehensively, providing flexibility and control over various business processes.<br>
 
-**Open Digital Form Template Settings Here:** [https://caction.com/ServiceReport/TemplateSetting](https://caction.com/ServiceReport/TemplateSetting)<br>
+**Open Digital Form Template Settings Here:** [https://system.caction.com/ServiceReport/TemplateSetting](https://system.caction.com/ServiceReport/TemplateSetting)<br>
 
 | No | Terms | Description |
 |----|-------|---------|

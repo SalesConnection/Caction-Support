@@ -6,7 +6,7 @@ Updated: 24 May 2024<br>
 *Note: Only certain admins can disable the notification. Please contact your admin if you wish to disable the notifications.<br>
 
   1. To disable notifications for users, go to desktop site navigation bar > User Management > User Account Customisation.<br>
-     **Open UAC Page Here:** [https://caction.com/uac](https://caction.com/uac)<br>
+     **Open UAC Page Here:** [https://system.caction.com/uac](https://system.caction.com/uac)<br>
      
      <p align="center">
        <img src="img/User_Account_Customisation.png" alt="User Account Customisation">

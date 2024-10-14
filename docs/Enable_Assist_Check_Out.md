@@ -6,7 +6,7 @@ Updated: 24 May 2024<br>
 *Note: Only certain admins can perform this action.<br><br>
 
   1. To enable assist check out, go to desktop site navigation bar > User Management > User Account Customisation (UAC).<br>
-     **Open UAC Page Here:** [https://caction.com/uac](https://caction.com/uac)<br>
+     **Open UAC Page Here:** [https://system.caction.com/uac](https://system.caction.com/uac)<br>
 
      <p align="center">
        <img src="img/User_Account_Customisation.png" alt="User Account Customisation">
@@ -63,7 +63,7 @@ Updated: 24 May 2024<br>
      </p>
      
   10. Now, you can see the "Assisted Check-out" button here.<br>
-      **Open Business Map Overview Page:** [https://caction.com/BusinessMap](https://caction.com/BusinessMap)<br>
+      **Open Business Map Overview Page:** [https://system.caction.com/BusinessMap](https://system.caction.com/BusinessMap)<br>
 
       <p align="center">
          <img src="img/Assisted_Check_Out_Desktop.png" alt="Assisted Check Out Desktop">

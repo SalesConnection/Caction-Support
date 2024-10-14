@@ -6,10 +6,10 @@ Updated: 11 July 2024<br>
 *Note: This guide for Bulk Update is to batch edit existing data in the system. To import new data, please refer to the related articles attached at the bottom of the page. 
   
   1. If you want to do bulk update for customer, at the desktop site's navigation bar, go to Import > Customer Bulk Update.<br>
-     **Do Customer Bulk Update Here:** [https://caction.com/customerbulkimport](https://caction.com/customerbulkimport)<br>
-     **Do Project Bulk Update Here:** [https://caction.com/dealbulkimport](https://caction.com/dealbulkimport)<br>
-     **Do Product/Services Bulk Update Here:** [https://caction.com/productbulkimport](https://caction.com/productbulkimport)<br>
-     **Do UOM Bulk Update Here:** [https://caction.com/uomimport/uomedit](https://caction.com/uomimport/uomedit)<br>
+     **Do Customer Bulk Update Here:** [https://system.caction.com/customerbulkimport](https://system.caction.com/customerbulkimport)<br>
+     **Do Project Bulk Update Here:** [https://system.caction.com/dealbulkimport](https://system.caction.com/dealbulkimport)<br>
+     **Do Product/Services Bulk Update Here:** [https://system.caction.com/productbulkimport](https://system.caction.com/productbulkimport)<br>
+     **Do UOM Bulk Update Here:** [https://system.caction.com/uomimport/uomedit](https://system.caction.com/uomimport/uomedit)<br>
 
      <p align="center">
        <img src="img/Customer_Bulk_Update_Step_1.png" alt="Customer Bulk Update Step 1">

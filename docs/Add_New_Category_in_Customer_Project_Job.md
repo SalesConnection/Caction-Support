@@ -4,7 +4,7 @@ Updated: 24 May 2024<br>
 ## How Do I Add New Category in Customer/Project/Job?
     
   1. For example, if you wish to add new category in Project. At the desktop site's navigation bar, go to Wizard.<br>
-     **Open Wizard Page Here:** [https://caction.com/wizard](https://caction.com/wizard)<br>
+     **Open Wizard Page Here:** [https://system.caction.com/wizard](https://system.caction.com/wizard)<br>
      
      <p align="center">
        <img src="img/Wizard_Sidebar.png" alt="Wizard Sidebar">
@@ -23,7 +23,7 @@ Updated: 24 May 2024<br>
      </p>
   
   4. Click on the "Add New Category" button.<br>
-     **Add New Project Category Here:** [https://caction.com/settings/CategoryList?type=dssecond](https://caction.com/settings/CategoryList?type=dssecond)<br>
+     **Add New Project Category Here:** [https://system.caction.com/settings/CategoryList?type=dssecond](https://system.caction.com/settings/CategoryList?type=dssecond)<br>
 
      <p align="center">
        <img src="img/Add_New_Project_Category_Button.png" alt="Add New Project Category Button">
