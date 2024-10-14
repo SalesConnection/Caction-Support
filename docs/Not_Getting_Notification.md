@@ -85,7 +85,7 @@ Updated: 22 July 2024<br>
      <img src="img2/Desktop_Notification_Setting_Step_6.png" alt="Desktop Notification Setting Step 6">
    </p><br>
 
-7. Paste the Caction link (https://support.caction.com/activity/scheduler) in here.
+7. Paste the Caction link (https://caction.com/activity/scheduler) in here.
 
    <p align="center">
      <img src="img2/Desktop_Notification_Setting_Step_7.png" alt="Desktop Notification Setting Step 7">

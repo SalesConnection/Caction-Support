@@ -318,7 +318,7 @@ Updated: 18 June 2024<br>
 **Through WhatsApp**
 
 1. For example, if you want to get a remote signature of Service Sheet from customer. At the desktop site's navigation bar, go to Business Reports > Digital Form Report.<br>
-   **Open Digital Form Report page here**: [https://support.caction.com/reports/digitalform?code=DR01](https://support.caction.com/reports/digitalform?code=DR01)<br>
+   **Open Digital Form Report page here**: [https://caction.com/reports/digitalform?code=DR01](https://caction.com/reports/digitalform?code=DR01)<br>
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_1.png" alt="How to Get Remote Signature From Customer Step 1">
@@ -396,7 +396,7 @@ Updated: 18 June 2024<br>
 **Through Email**
 
 1. For example, if you want to get a remote signature of Service Sheet from customer. At the desktop site's navigation bar, go to Business Reports > Digital Form Report.<br>
-   **Open Digital Form Report page here**: [https://support.caction.com/reports/digitalform?code=DR01](https://support.caction.com/reports/digitalform?code=DR01)<br>
+   **Open Digital Form Report page here**: [https://caction.com/reports/digitalform?code=DR01](https://caction.com/reports/digitalform?code=DR01)<br>
 
    <p align="center">
       <img src="img/How_to_Get_Remote_Signature_From_Customer_Step_1.png" alt="How to Get Remote Signature From Customer Step 1">

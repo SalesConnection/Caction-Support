@@ -17,7 +17,7 @@ Updated: 4 July 2024<br>
 <br><br><br>
 
 1. At the desktop's navigation bar, go to Business Management > Customer List.<br>
-   **Open Customer List Here:** [https://support.caction.com/customers](https://support.caction.com/customers)<br>
+   **Open Customer List Here:** [https://caction.com/customers](https://caction.com/customers)<br>
 
    <p align="center">
      <img src="img2/Customer_List_Step_1.png" alt="Customer List Step 1">

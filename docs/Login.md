@@ -15,14 +15,14 @@ Updated: 23 May 2024<br>
 ### Desktop Version
 *Note: You can request desktop access by contacting your administrator.
   1. Visit Caction's website and click "Login".<br>
-     **Open Caction's Website Here:** [https://support.caction.com/](https://support.caction.com/)<br>
+     **Open Caction's Website Here:** [https://caction.com/](https://caction.com/)<br>
 
      <p align="center">
        <img src="img/Sales_Connection_Website.png" alt="Caction's Website">
      </p>
   
   2. Login using the **registered** email address with the **correct** password.<br>
-     **Login Here:** [https://support.caction.com/login](https://support.caction.com/login)<br>
+     **Login Here:** [https://caction.com/login](https://caction.com/login)<br>
 
      <p align="center">
        <img src="img/Login_Page_Desktop.png" alt="Desktop_Login">

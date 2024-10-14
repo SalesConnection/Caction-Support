@@ -21,7 +21,7 @@ Updated: 8 August 2024<br>
 **View Attendance List**
 
 1. At the desktop site navigation bar, go to HR Suite > Attendance List.<br>
-   **Open Attendance List Here:** [https://support.caction.com/attendance/tablelist](https://support.caction.com/attendance/tablelist)<br>
+   **Open Attendance List Here:** [https://caction.com/attendance/tablelist](https://caction.com/attendance/tablelist)<br>
 
    <p align="center">
       <img src="img2/Attendance_List_Step_1.png" alt="Attendance List Step 1">

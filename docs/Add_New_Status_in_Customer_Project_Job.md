@@ -12,7 +12,7 @@ Keep track of all your Job, Project, Customer, Asset, Digital Form(s), and other
 <br><br><br>
 
 1. In adding statuses for all the different data levels in your system, we will be utilising the Wizard page that has access to all status relevant pages. In this guide, we will focus on the Project status as an example. At the desktop main navigation bar, click on Wizard.<br>
-   **Open Wizard Page Here:** [https://support.caction.com/wizard](https://support.caction.com/wizard)<br>
+   **Open Wizard Page Here:** [https://caction.com/wizard](https://caction.com/wizard)<br>
  
    <p align="center">
      <img src="img/Wizard_Sidebar.png" alt="Wizard Sidebar">

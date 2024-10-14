@@ -10,7 +10,7 @@ Check on any pending upload item(s) by each of your user. If you receive a messa
  iii. Selected user had swiped off the app.<br><br>
 
 1. At the desktop site's Main Navigation, go to User Management > Check Pending Update.<br>
-   **Check Pending Update here**: [https://support.caction.com/checkPendingUploads](https://support.caction.com/checkPendingUploads)<br>
+   **Check Pending Update here**: [https://caction.com/checkPendingUploads](https://caction.com/checkPendingUploads)<br>
 
    <p align="center">
       <img src="img/Check_Pending_Data_in_Desktop_And_Mobile_Step_1.png" alt="Check Pending Data Using Desktop Step 1">

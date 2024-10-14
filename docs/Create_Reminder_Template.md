@@ -15,7 +15,7 @@ Reminders serve as a digital assistant for you and your team to keep track of yo
 ## Create New Reminder Template
 
 1. At the desktop site's navigation bar, go to Template Settings > Reminder Templates.<br>
-   **Create Reminder Templates Here:** [https://support.caction.com/reminder/templatev2](https://support.caction.com/reminder/templatev2)<br>
+   **Create Reminder Templates Here:** [https://caction.com/reminder/templatev2](https://caction.com/reminder/templatev2)<br>
 
    <p align="center">
      <img src="img/Create_Reminder_Template_Step_1.png" alt="Create Reminder Template Step 1">

@@ -29,7 +29,7 @@ Updated: 24 May 2024<br>
 
 ### How to deactivate a user?
 1. Go to desktop site navigation bar > User Management > User List.<br>
-   **Open User List Page Here:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
+   **Open User List Page Here:** [https://caction.com/usermanage/userlist](https://caction.com/usermanage/userlist)<br>
    *Note: Only certain admins can deactivate users.<br>
 
    <p align="center">
@@ -71,7 +71,7 @@ Updated: 24 May 2024<br>
 
 ### How to delete a user?
 1. Go to desktop site navigation bar > User Management > User List.<br>
-   **Open User List Page Here:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
+   **Open User List Page Here:** [https://caction.com/usermanage/userlist](https://caction.com/usermanage/userlist)<br>
    *Note: Only certain admins can delete users.<br>
 
    <p align="center">
@@ -113,7 +113,7 @@ Updated: 24 May 2024<br>
 
 ### How to change to a new user?
 1. Go to desktop site navigation bar > User Management > User List.<br>
-   **Open User List Page Here:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
+   **Open User List Page Here:** [https://caction.com/usermanage/userlist](https://caction.com/usermanage/userlist)<br>
    *Note: Only certain admins can deactivate users.<br>
 
    <p align="center">

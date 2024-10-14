@@ -3,7 +3,7 @@ Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
 ## How to Assist My New User to Login?
   **Desktop Version**<br>
-  1. Click "Verify Email" through a **verification email** sent from admin@support.caction.com to verify it.<br>
+  1. Click "Verify Email" through a **verification email** sent from admin@caction.com to verify it.<br>
      *Note: If you can't find the email, please try to look for the spam folder.<br>
 
      <p align="center">
@@ -19,7 +19,7 @@ Updated: 24 May 2024<br>
      *Note: User can change password after login to the system. Visit this page to know more: [How to Change Account Password?](Change_Account_Password.md)<br>
   
   3. Login using the **registered** email address with the **correct** password.<br>
-     **Login Here:** [https://support.caction.com/login](https://support.caction.com/login)<br>
+     **Login Here:** [https://caction.com/login](https://caction.com/login)<br>
 
      <p align="center">
        <img src="img/Login_Page_Desktop_1.png" alt="Desktop_Login">

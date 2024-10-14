@@ -13,14 +13,14 @@ Updated: 23 May 2024<br>
     
 ### Desktop Version
   1. Go to the dashboard and click your name at the top right of the page.<br>
-     **Open Caction's Website Here:** [https://support.caction.com/](https://support.caction.com/)<br>
+     **Open Caction's Website Here:** [https://caction.com/](https://caction.com/)<br>
 
      <p align="center">
        <img src="img/Dashboard_Profile.png" alt="Dashboard Profile">
      </p>
   
   2. Click "Profile".<br>
-     **Open Profile Page Here:** [https://support.caction.com/usermanage/changepassword](https://support.caction.com/usermanage/changepassword)<br>
+     **Open Profile Page Here:** [https://caction.com/usermanage/changepassword](https://caction.com/usermanage/changepassword)<br>
 
      <p align="center">
        <img src="img/Profile.png" alt="Profile">

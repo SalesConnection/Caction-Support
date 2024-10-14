@@ -1,7 +1,7 @@
 ## How to Copy Account for New User?
     
   1. At the desktop site's navigation bar, go to User Management > Copy Account.<br>
-     **Copy Account Here:** [https://support.caction.com/transferAccount](https://support.caction.com/transferAccount)<br>
+     **Copy Account Here:** [https://caction.com/transferAccount](https://caction.com/transferAccount)<br>
 
      <p align="center">
        <img src="img/Copy_Account_Step_1.png" alt="Copy Account Step 1">

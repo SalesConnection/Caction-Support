@@ -19,7 +19,7 @@ Updated: 11 July 2024<br>
 <br><br><br>
 
 1. At the desktop site navigation bar, go to Business Management > Dashboard > Asset.<br>
-   **Open Asset Dashboard Here:** [https://support.caction.com/dashboard/asset](https://support.caction.com/dashboard/asset)<br>
+   **Open Asset Dashboard Here:** [https://caction.com/dashboard/asset](https://caction.com/dashboard/asset)<br>
 
    <p align="center">
       <img src="img2/Asset_Dashboard_Step_1.png" alt="Asset Dashboard Step 1">

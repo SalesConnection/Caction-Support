@@ -4,7 +4,7 @@ Updated: 24 May 2024<br>
 ## Where can I view my team’s travelling for the month?
 
 1. For example, you want to view your team's traveling for the month. Go to desktop site Main Navigation > Business Map > Business Travel (Table) <br> 
-   **Open the page here**: [https://support.caction.com/business-travel/table](https://support.caction.com/business-travel/table)<br>
+   **Open the page here**: [https://caction.com/business-travel/table](https://caction.com/business-travel/table)<br>
 
    <p align="center">
      <img src="img/Business_Travel_Step_1.png" alt="Where to view Business Traveling Step 1">

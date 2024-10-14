@@ -23,7 +23,7 @@ Updated: 18 June 2024<br>
 **Using Desktop**
 
 1.  Go to desktop site “Main Navigation" > "Business Management" > "Asset List".<br> 
-   **Add New Asset here**: [https://support.caction.com/asset-list](https://support.caction.com/asset-list)<br>
+   **Add New Asset here**: [https://caction.com/asset-list](https://caction.com/asset-list)<br>
 
     <p align="center">
        <img src="img/How_to_Create_Asset_Step_1.png" alt="How to add new asset Step 1">
@@ -149,7 +149,7 @@ Updated: 18 June 2024<br>
 **Using Desktop**
 
 1.  Go to desktop site “Main Navigation" > "Business Management" > "Schedule" > "Job Schedule".<br> 
-   **Open Job Schedule Page here**: [https://support.caction.com/activity/scheduler](https://support.caction.com/activity/scheduler)<br>
+   **Open Job Schedule Page here**: [https://caction.com/activity/scheduler](https://caction.com/activity/scheduler)<br>
 
     <p align="center">
        <img src="img/How_to_Create_Asset2_Step_1.png" alt="How to add new asset2 Step 1">
@@ -298,7 +298,7 @@ Updated: 18 June 2024<br>
 **Using Desktop**
 
 1.  Go to desktop site “Main Navigation" > "Business Management" > "Customer List".<br> 
-   **Open Customer List Page here**: [https://support.caction.com/customers](https://support.caction.com/customers)<br>
+   **Open Customer List Page here**: [https://caction.com/customers](https://caction.com/customers)<br>
 
     <p align="center">
        <img src="img/How_to_Create_Asset3_Step_1.png" alt="How to add new asset3 Step 1">

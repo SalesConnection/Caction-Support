@@ -76,7 +76,7 @@ Updated: 18 June 2024<br>
 **Desktop Version**
 
 1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
-   **Add New Job Here:** [https://support.caction.com/activity/scheduler](https://support.caction.com/activity/scheduler)<br>
+   **Add New Job Here:** [https://caction.com/activity/scheduler](https://caction.com/activity/scheduler)<br>
      
    <p align="center">
      <img src="img/Add_New_Job_Step_1.png" alt="Add New Job Step 1">

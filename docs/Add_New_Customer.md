@@ -23,7 +23,7 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
 **From Customer List**<br>
     
   1. At the desktop site's navigation bar, go to Business Management > Customer List.<br>
-     **Add New Customer Here:** [https://support.caction.com/customers](https://support.caction.com/customers)<br>
+     **Add New Customer Here:** [https://caction.com/customers](https://caction.com/customers)<br>
      
      <p align="center">
        <img src="img/Add_New_Customer_Step_1.png" alt="Add New Customer Step 1">
@@ -74,7 +74,7 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
 **From Job Creation Page**<br>
 
   1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
-     **Create Job Here:** [https://support.caction.com/activity/scheduler](https://support.caction.com/activity/scheduler)<br>
+     **Create Job Here:** [https://caction.com/activity/scheduler](https://caction.com/activity/scheduler)<br>
      
      <p align="center">
        <img src="img/Add_New_Customer2_Step_1.png" alt="Add New Customer2 Step 1">
@@ -150,7 +150,7 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
 **From Public Form**<br>
 
   1. At the desktop site's navigation bar, go to Template Settings > Public Form Templates.<br>
-     **Open Public Form Templates Page Here:** [https://support.caction.com/PublicForm/TemplateSetting](https://support.caction.com/PublicForm/TemplateSetting)<br>
+     **Open Public Form Templates Page Here:** [https://caction.com/PublicForm/TemplateSetting](https://caction.com/PublicForm/TemplateSetting)<br>
      
      <p align="center">
        <img src="img2/Add_New_Customer3_Step_1.png" alt="Add New Customer3 Step 1">
@@ -169,7 +169,7 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      </p>
   
   4. At the desktop's navigation bar, go to Business Reports > Public Form Report.<br>
-     **Open Public Form Report Page Here:** [https://support.caction.com/reports/publicform](https://support.caction.com/reports/publicform)<br>
+     **Open Public Form Report Page Here:** [https://caction.com/reports/publicform](https://caction.com/reports/publicform)<br>
 
      <p align="center">
        <img src="img2/Add_New_Customer3_Step_4.png" alt="Add New Customer3 Step 4">

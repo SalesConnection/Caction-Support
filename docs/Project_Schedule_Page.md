@@ -7,7 +7,7 @@ Updated: 10 July 2024<br>
 
 
 1. At the desktop site navigation bar, go to Business Management > Schedule > Project Schedule.<br>
-   **Open Project Schedule Here:** [https://support.caction.com/calendar/projectactivityschedule](https://support.caction.com/calendar/projectactivityschedule)<br>
+   **Open Project Schedule Here:** [https://caction.com/calendar/projectactivityschedule](https://caction.com/calendar/projectactivityschedule)<br>
 
    <p align="center">
       <img src="img2/Project_Schedule_Step_1.png" alt="Project Schedule Step 1">

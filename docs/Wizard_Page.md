@@ -6,7 +6,7 @@ Updated: 16 July 2024<br>
 **Wizard page** is a shortcut to navigate between the different setting pages (ie. Template Setting, Reminder Setting, Category Setting, etc.)<br><br>
 
 1. At the desktop site navigation bar, go to Wizard.<br>
-   **Open Wizard Page Here:** [https://support.caction.com/wizard](https://support.caction.com/wizard)<br>
+   **Open Wizard Page Here:** [https://caction.com/wizard](https://caction.com/wizard)<br>
 
    <p align="center">
       <img src="img2/Wizard_Page_Step_1.png" alt="Wizard Page Step 1">

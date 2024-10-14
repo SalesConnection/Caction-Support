@@ -6,7 +6,7 @@ Updated: 26 June 2024<br>
 **UOM** stands for Unit Of Measurement. It allows you to attach information such as quantity, unit price, discount, tax to a product/services.
 
   1. At the desktop site's navigation bar, go to Import > UOM Import.<br>
-     **Import UOM(s) Here:** [https://support.caction.com/importuom](https://support.caction.com/importuom)<br>
+     **Import UOM(s) Here:** [https://caction.com/importuom](https://caction.com/importuom)<br>
 
      <p align="center">
        <img src="img/Import_UOM_Step_1.png" alt="Import UOM Step 1">

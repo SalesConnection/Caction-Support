@@ -4,7 +4,7 @@ Updated: 14 June 2024<br>
 ## How do I Import New User(s)?
     
   1. At the desktop site's navigation bar, go to User Management > User Import.<br>
-     **Import User(s) Here:** [https://support.caction.com/usermanage/userimport](https://support.caction.com/usermanage/userimport)<br>
+     **Import User(s) Here:** [https://caction.com/usermanage/userimport](https://caction.com/usermanage/userimport)<br>
 
      <p align="center">
        <img src="img/Import_User_Step_1.png" alt="Import User Step 1">

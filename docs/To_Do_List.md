@@ -18,7 +18,7 @@ Updated: 26 June 2024<br>
 **Job To-do List Settings**<br>
     
   1. At the desktop site's navigation bar, go to Company Settings > Job Settings > Job To Do List.<br>
-     **Open Job To Do List Settings Here:** [https://support.caction.com/settings/commentRequirementSettings](https://support.caction.com/settings/commentRequirementSettings)<br>
+     **Open Job To Do List Settings Here:** [https://caction.com/settings/commentRequirementSettings](https://caction.com/settings/commentRequirementSettings)<br>
      
      <p align="center">
        <img src="img/To_Do_List_Step_1.png" alt="To Do List Step 1">
@@ -90,7 +90,7 @@ Updated: 26 June 2024<br>
 **Job Status Segmentation**<br>
 
   1. At the desktop site's navigation bar, go to Company Settings > Job Settings > Job Status Segmentation.<br>
-     **Open Job Status Segmentation Here:** [https://support.caction.com/settings/statusTransaction?page=act](https://support.caction.com/settings/statusTransaction?page=act)<br>
+     **Open Job Status Segmentation Here:** [https://caction.com/settings/statusTransaction?page=act](https://caction.com/settings/statusTransaction?page=act)<br>
      
      <p align="center">
        <img src="img/To_Do_List2_Step_1.png" alt="To Do List2 Step 1">

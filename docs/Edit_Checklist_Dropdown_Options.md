@@ -19,7 +19,7 @@ Updated: 24 May 2024<br>
 1. For example, if you want to edit checklist dropdown options for Service Sheet. 
    <br>
    Go to desktop site navigation bar > "Template Settings" > "Digital Form Templates" > "Digital Form Template Settings".<br>
-   **Open the page here**: [https://support.caction.com/ServiceReport/TemplateSetting](https://support.caction.com/ServiceReport/TemplateSetting)<br>
+   **Open the page here**: [https://caction.com/ServiceReport/TemplateSetting](https://caction.com/ServiceReport/TemplateSetting)<br>
 
    <p align="center">
     <img src="img/How_to_edit_checklist_dropdown_options_step_1.png">

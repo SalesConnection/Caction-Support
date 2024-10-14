@@ -4,7 +4,7 @@ Updated: 19 June 2024<br>
 ## How do I Import New Customer(s)?
     
   1. At the desktop site's navigation bar, go to Import > Customer Import.<br>
-     **Import Customer(s) Here:** [https://support.caction.com/customerimport](https://support.caction.com/customerimport)<br>
+     **Import Customer(s) Here:** [https://caction.com/customerimport](https://caction.com/customerimport)<br>
 
      <p align="center">
        <img src="img/Import_Customer_Step_1.png" alt="Import Customer Step 1">
