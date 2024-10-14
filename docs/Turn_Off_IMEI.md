@@ -16,7 +16,7 @@ Updated: 18 June 2024<br>
 **Enable/Disable for Whole Company**<br>
 
 1. To start, go to the desktop site’s navigation bar > User Management > User Account Customisation.<br>
-   **Open User Account Customisation Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+   **Open User Account Customisation Here:** [https://support.caction.com/uac](https://support.caction.com/uac)<br>
 
    <p align="center">
      <img src="img/Turn_Off_IMEI_Step_1.png" alt="Turn Off IMEI Step 1">
@@ -66,7 +66,7 @@ Updated: 18 June 2024<br>
 **Enable/Disable for Individual User**<br>
 
 1. To start, go to the desktop site’s navigation bar > User Management > User Account Customisation.<br>
-   **Open User Account Customisation Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+   **Open User Account Customisation Here:** [https://support.caction.com/uac](https://support.caction.com/uac)<br>
 
    <p align="center">
      <img src="img/Turn_Off_IMEI2_Step_1.png" alt="Turn Off IMEI2 Step 1">
@@ -125,7 +125,7 @@ Updated: 18 June 2024<br>
 
 **Related Articles**
 - [I Can’t Login to My Other Phone. Why?](IMEI.md)
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
 

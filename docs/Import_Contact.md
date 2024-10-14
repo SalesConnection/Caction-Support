@@ -4,7 +4,7 @@ Updated: 28 June 2024<br>
 ## How do I Import New Contact(s)?
     
   1. At the desktop site's navigation bar, go to Import > Contact Import.<br>
-     **Import Contact(s) Here:** [https://salesconnection.my/contact/import](https://salesconnection.my/contact/import)<br>
+     **Import Contact(s) Here:** [https://support.caction.com/contact/import](https://support.caction.com/contact/import)<br>
 
      <p align="center">
        <img src="img/Import_Contact_Step_1.png" alt="Import Contact Step 1">

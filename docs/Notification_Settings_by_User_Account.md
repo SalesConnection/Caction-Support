@@ -8,7 +8,7 @@ Customise you and your team’s notification settings on the system to minimize 
 *Note: Only certain admins can edit the notification settings. Please contact your admin if you wish to enable the notifications.<br>
  
 1. To enable notifications for users, go to desktop site navigation bar > User Management > User Account Customisation.<br>
-   **Open UAC Page Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+   **Open UAC Page Here:** [https://support.caction.com/uac](https://support.caction.com/uac)<br>
      
    <p align="center">
      <img src="img/User_Account_Customisation.png" alt="User Account Customisation">

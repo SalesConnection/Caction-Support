@@ -27,7 +27,7 @@ Updated: 7 June 2024<br>
 
   **Desktop Version**<br>
   1. To assist check out, go to desktop site navigation bar > Business Map > Overview.<br>
-     **Open the Business Map Overview Here:** [https://salesconnection.my/BusinessMap](https://salesconnection.my/BusinessMap)<br>
+     **Open the Business Map Overview Here:** [https://support.caction.com/BusinessMap](https://support.caction.com/BusinessMap)<br>
 
      <p align="center">
         <img src="img/Business_Map_Overview.png" alt="Business Map - Overview - Desktop">

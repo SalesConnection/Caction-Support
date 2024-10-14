@@ -10,7 +10,7 @@ Updated: 24 May 2024<br>
      </p>
 
   2. Click on the "+" button to access the "Add New User" page.<br>
-     **Add User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
+     **Add User Here:** [https://support.caction.com/usermanage/adduser](https://support.caction.com/usermanage/adduser)<br>
 
      <p align="center">
        <img src="img/Add_User_Button.png" alt="Add User Button">
@@ -41,14 +41,14 @@ Updated: 24 May 2024<br>
     <img src="img/Reminder_of_User_List.png" alt="Reminder in User List">
   </p>
   
-  **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br><br>
+  **Check Your User Limit Here:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br><br>
 
 ### Why I cannot add a user?
 
   You might have reached the **maximum limit** of user accounts that can be created.<br>
   To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
 
-  **Check Your User Limit Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
+  **Check Your User Limit Here:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
   
   If you want to add more users, **contact us** through 012-2780122 to upgrade your subscription plan.
   <br><br><br>
@@ -56,6 +56,6 @@ Updated: 24 May 2024<br>
 **Related Articles**<br>
 - [How to Add New User Category?](Add_New_User_Category.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Add_New_User.html) -->

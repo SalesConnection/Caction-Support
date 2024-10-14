@@ -18,7 +18,7 @@ Updated: 7 August 2024<br>
   2. Server error shown.<br>
   
      For assistance, follow these steps:<br>
-     a. Reach out to the Sales Connection support team at **012-2780122**.<br>
+     a. Reach out to the Caction support team at **012-2780122**.<br>
         
      b. When contacting support, please provide the following information:<br>
      1. Your account details (Company name, username, and phone number/email registered).<br>

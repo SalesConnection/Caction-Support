@@ -27,7 +27,7 @@ Updated: 22 July 2024<br>
      <img src="img/Did_Not_Get_Any_Notification_From_System_Step_2.png" alt="Notification Setting Step 2" width="280" height="550">
    </p><br>
 
-3. Click "Sales Connection".
+3. Click "Caction".
 
    <p align="center">
      <img src="img/Did_Not_Get_Any_Notification_From_System_Step_3.png" alt="Notification Setting Step 3" width="280" height="550">
@@ -85,7 +85,7 @@ Updated: 22 July 2024<br>
      <img src="img2/Desktop_Notification_Setting_Step_6.png" alt="Desktop Notification Setting Step 6">
    </p><br>
 
-7. Paste the Sales Connection link (https://salesconnection.my/activity/scheduler) in here.
+7. Paste the Caction link (https://support.caction.com/activity/scheduler) in here.
 
    <p align="center">
      <img src="img2/Desktop_Notification_Setting_Step_7.png" alt="Desktop Notification Setting Step 7">
@@ -97,7 +97,7 @@ Updated: 22 July 2024<br>
      <img src="img2/Desktop_Notification_Setting_Step_8.png" alt="Desktop Notification Setting Step 8">
    </p><br>
 
-9. Once it is on “Allow”, you will begin receiving notifications from Sales Connection on the PC you are using similar to your mobile device that’s logged into Sales Connection.
+9. Once it is on “Allow”, you will begin receiving notifications from Caction on the PC you are using similar to your mobile device that’s logged into Caction.
 
    <p align="center">
      <img src="img2/Desktop_Notification_Setting_Step_9.png" alt="Desktop Notification Setting Step 9">

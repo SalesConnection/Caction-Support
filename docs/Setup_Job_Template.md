@@ -4,7 +4,7 @@ Updated: 25 June 2024<br>
 ## How to Setup Job Template Page?
     
 1. At the desktop site's navigation bar, go to Template Settings > Job Templates.<br>
-   **Open Job Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
+   **Open Job Templates Here:** [https://support.caction.com/reminder/templatev2](https://support.caction.com/reminder/templatev2)<br>
 
    <p align="center">
       <img src="img/Job_Template_Step_1.png" alt="Job Template Step 1">

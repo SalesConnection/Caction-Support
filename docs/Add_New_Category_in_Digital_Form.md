@@ -7,7 +7,7 @@
      </p>
 
   2. Click on "Delivery Order".<br>
-     **Add New Digital Form Category Here:** [https://salesconnection.my/ServiceReport/DigitalFormCategory](https://salesconnection.my/ServiceReport/DigitalFormCategory)<br>
+     **Add New Digital Form Category Here:** [https://support.caction.com/ServiceReport/DigitalFormCategory](https://support.caction.com/ServiceReport/DigitalFormCategory)<br>
 
      <p align="center">
        <img src="img/Delivery_Order_Category.png" alt="Delivery Order Category">

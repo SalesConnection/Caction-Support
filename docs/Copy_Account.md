@@ -1,7 +1,7 @@
 ## How to Copy Account for New User?
     
   1. At the desktop site's navigation bar, go to User Management > Copy Account.<br>
-     **Copy Account Here:** [https://salesconnection.my/transferAccount](https://salesconnection.my/transferAccount)<br>
+     **Copy Account Here:** [https://support.caction.com/transferAccount](https://support.caction.com/transferAccount)<br>
 
      <p align="center">
        <img src="img/Copy_Account_Step_1.png" alt="Copy Account Step 1">
@@ -67,6 +67,6 @@
 **Related Articles**<br>
 - [How to Add New User?](Add_New_User.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Copy_Account.html) -->

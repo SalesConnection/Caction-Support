@@ -6,7 +6,7 @@ Updated: 28 June 2024<br>
 *Note: Sub-Admin and Admin users will automatically have access to Desktop Version.<br><br>
 
 1. At the desktop site navigation bar, go to User Management > User List.<br>
-   **Open User List Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
+   **Open User List Here:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
 
    <p align="center">
       <img src="img/Enable_Version_Access_Permission_Step_1.png" alt="Enable Version Access Permission Step 1">
@@ -46,7 +46,7 @@ Updated: 28 June 2024<br>
   <br><br><br>
 
 **Related Articles**
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Enable_Disable_Version_Access_Permission.html) -->

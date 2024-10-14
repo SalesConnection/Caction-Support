@@ -15,7 +15,7 @@ Reminders serve as a digital assistant for you and your team to keep track of yo
 ## Create New Reminder Template
 
 1. At the desktop site's navigation bar, go to Template Settings > Reminder Templates.<br>
-   **Create Reminder Templates Here:** [https://salesconnection.my/reminder/templatev2](https://salesconnection.my/reminder/templatev2)<br>
+   **Create Reminder Templates Here:** [https://support.caction.com/reminder/templatev2](https://support.caction.com/reminder/templatev2)<br>
 
    <p align="center">
      <img src="img/Create_Reminder_Template_Step_1.png" alt="Create Reminder Template Step 1">
@@ -57,7 +57,7 @@ Reminders serve as a digital assistant for you and your team to keep track of yo
      <img src="img/Create_Reminder_Template_Step_5.png" alt="Create Reminder Template Step 5">
    </p>
 
-   *Note: External reminder may incur additional cost. Please check with your Sales Connection Consultant for further information.<br>
+   *Note: External reminder may incur additional cost. Please check with your Caction Consultant for further information.<br>
 
 6. If you wish to add another reminder in the same template, click “Add Reminder” and repeat the previous steps. Otherwise, click “Save”.<br>
 

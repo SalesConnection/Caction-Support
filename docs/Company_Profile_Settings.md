@@ -16,7 +16,7 @@ On **Company Profile Settings**, you would be able to change the system settings
    **Company Profile**
 
 1. At the desktop site navigation bar, go to User Management > Company Profile Settings.<br>
-   **Open Company Profile Settings Here:** [https://salesconnection.my/settings/companysettings](https://salesconnection.my/settings/companysettings)<br>
+   **Open Company Profile Settings Here:** [https://support.caction.com/settings/companysettings](https://support.caction.com/settings/companysettings)<br>
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_1.png" alt="Company Profile Settings Step 1">
@@ -48,7 +48,7 @@ On **Company Profile Settings**, you would be able to change the system settings
       <img src="img/Company_Profile_Settings_Step_5.png" alt="Company Profile Settings Step 5">
    </p>
   
-6. You can select an icon to put for the system notifications that your team would receive on their mobile device app. If nothing is set here, it will be the Sales Connection icon.
+6. You can select an icon to put for the system notifications that your team would receive on their mobile device app. If nothing is set here, it will be the Caction icon.
 
    <p align="center">
       <img src="img/Company_Profile_Settings_Step_6.png" alt="Company Profile Settings Step 6">

@@ -4,7 +4,7 @@ Updated: 24 May 2024<br>
 ## How to Use Update Report Filter?
 
 1. For example, to use filter for "Job Updates Report", go to Business Report > Job Update Report.<br>
-   **Open the link here:** [https://salesconnection.my/reports/activity-update](https://salesconnection.my/reports/activity-update)
+   **Open the link here:** [https://support.caction.com/reports/activity-update](https://support.caction.com/reports/activity-update)
 
    <p align="center">
      <img src="img/Job_Update_Report_Filter_Step_1.png">

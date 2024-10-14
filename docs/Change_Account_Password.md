@@ -13,14 +13,14 @@ Updated: 23 May 2024<br>
     
 ### Desktop Version
   1. Go to the dashboard and click your name at the top right of the page.<br>
-     **Open Sales Connection's Website Here:** [https://salesconnection.my/](https://salesconnection.my/)<br>
+     **Open Caction's Website Here:** [https://support.caction.com/](https://support.caction.com/)<br>
 
      <p align="center">
        <img src="img/Dashboard_Profile.png" alt="Dashboard Profile">
      </p>
   
   2. Click "Profile".<br>
-     **Open Profile Page Here:** [https://salesconnection.my/usermanage/changepassword](https://salesconnection.my/usermanage/changepassword)<br>
+     **Open Profile Page Here:** [https://support.caction.com/usermanage/changepassword](https://support.caction.com/usermanage/changepassword)<br>
 
      <p align="center">
        <img src="img/Profile.png" alt="Profile">
@@ -89,7 +89,7 @@ Updated: 23 May 2024<br>
      <br><br><br>
 
 **Related Articles**
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 - [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Change_Account_Password.html) -->

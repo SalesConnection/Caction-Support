@@ -11,7 +11,7 @@ Updated: 24 May 2024<br>
 <br>
 
 1. For example, if you want to add dropdown options for Quotations. Go to desktop site navigation bar > "Template Settings" > "Digital Form Templates" > "Digital Form Template Settings".<br>
-   **Open the page here**: [https://salesconnection.my/ServiceReport/TemplateSetting](https://salesconnection.my/ServiceReport/TemplateSetting)<br>
+   **Open the page here**: [https://support.caction.com/ServiceReport/TemplateSetting](https://support.caction.com/ServiceReport/TemplateSetting)<br>
 
    <p align="center">
      <img src="img/How_to_add_dropdown_options_in_DF_step_1.png" alt="How to add dropdown options in DF step 1">

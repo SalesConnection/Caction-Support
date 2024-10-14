@@ -4,10 +4,10 @@ Updated: 7 August 2024<br>
 
 ## How do I set the system to skip project creation/selection during customer/job creation?
 
-A **Project** in Sales Connection serves as a folder to organize and manage both external and internal services, and as a contract for easy recognition and tracking of tasks and progress.<br><br>
+A **Project** in Caction serves as a folder to organize and manage both external and internal services, and as a contract for easy recognition and tracking of tasks and progress.<br><br>
 
 1. At the desktop's navigation bar, go to User Management > User Account Customisation.<br>
-   **Open User Account Customisation Page Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+   **Open User Account Customisation Page Here:** [https://support.caction.com/uac](https://support.caction.com/uac)<br>
    
    <p align="center">
      <img src="img2/Cant_Find_Project_Step_1.png" alt="Cant Find Project Step 1">

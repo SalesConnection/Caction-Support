@@ -77,7 +77,7 @@ Updated: 20 June 2024<br>
 **Desktop Version**
 
 1. At the desktop site's navigation bar, go to Business Management > Customer List.<br>
-   **Add New Project Here:** [https://salesconnection.my/customers](https://salesconnection.my/customers)<br>
+   **Add New Project Here:** [https://support.caction.com/customers](https://support.caction.com/customers)<br>
      
    <p align="center">
      <img src="img/Add_New_Project_Step_1.png" alt="Add New Project Step 1">

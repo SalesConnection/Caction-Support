@@ -69,7 +69,7 @@ Updated: 24 May 2024<br>
 **Desktop:**<br>
 
 1. To comment with attachment in website, go to the desktop site Main Navigation > Business Management > Schedule > Job Schedule.<br>
-   **Open the Job Scedule Page:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
+   **Open the Job Scedule Page:** [https://support.caction.com/activity/scheduler](https://support.caction.com/activity/scheduler)<br>
 
    <p align="center">
      <img src="img/How_to_Upload_Attachment_In_Desktop_Step_1.png" alt="How to Upload Attachment in Desktop Step 1">

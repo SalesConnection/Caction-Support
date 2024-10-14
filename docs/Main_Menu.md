@@ -1,4 +1,4 @@
-Welcome to the Sales Connection Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
+Welcome to the Caction Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
 
 ## Main Menu
 
@@ -9,7 +9,7 @@ Welcome to the Sales Connection Support Site. Here you'll find documentation and
    <details>
    <summary>View Login & Authentication FAQ/Articles</summary>
    <br>
-   - <a href="Login.html">How to Login Into Sales Connection Using Mobile and Desktop?</a><br>
+   - <a href="Login.html">How to Login Into Caction Using Mobile and Desktop?</a><br>
    - <a href="New_User_Login.html">How to Assist My New User to Login?</a><br>
    - <a href="IMEI.html">I Can't Login to My Other Phone. Why?</a><br>
    - <a href="Turn_Off_IMEI.html">How to enable or disable IMEI Login Check? (Device Changing Detection)</a><br>

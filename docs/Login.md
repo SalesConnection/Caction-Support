@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 23 May 2024<br>
 Updated: 23 May 2024<br>
-## 👩‍💼 How to Login Into Sales Connection Using Mobile and Desktop?
+## 👩‍💼 How to Login Into Caction Using Mobile and Desktop?
 
 **Navigate to the section by clicking it.**<br>
 
@@ -14,15 +14,15 @@ Updated: 23 May 2024<br>
     
 ### Desktop Version
 *Note: You can request desktop access by contacting your administrator.
-  1. Visit Sales Connection's website and click "Login".<br>
-     **Open Sales Connection's Website Here:** [https://salesconnection.my/](https://salesconnection.my/)<br>
+  1. Visit Caction's website and click "Login".<br>
+     **Open Caction's Website Here:** [https://support.caction.com/](https://support.caction.com/)<br>
 
      <p align="center">
-       <img src="img/Sales_Connection_Website.png" alt="Sales Connection's Website">
+       <img src="img/Sales_Connection_Website.png" alt="Caction's Website">
      </p>
   
   2. Login using the **registered** email address with the **correct** password.<br>
-     **Login Here:** [https://salesconnection.my/login](https://salesconnection.my/login)<br>
+     **Login Here:** [https://support.caction.com/login](https://support.caction.com/login)<br>
 
      <p align="center">
        <img src="img/Login_Page_Desktop.png" alt="Desktop_Login">
@@ -39,7 +39,7 @@ Updated: 23 May 2024<br>
 
 ### Mobile Version
 **Phone Login**<br>
-  1. Download the Sales Connection app from Google Playstore or App Store.<br>
+  1. Download the Caction app from Google Playstore or App Store.<br>
      **Download Here for Android User:** [https://play.google.com/store/apps/details?id=com.connection.crm](https://play.google.com/store/apps/details?id=com.connection.crm)<br>
      **Download Here for IOS User:** [https://apps.apple.com/us/app/sales-connection/id1327210298](https://apps.apple.com/us/app/sales-connection/id1327210298)<br>
      **Download Here for Huawei User:** [https://tinyurl.com/yvj4pwf7](https://tinyurl.com/yvj4pwf7)<br> 
@@ -48,7 +48,7 @@ Updated: 23 May 2024<br>
        <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
      </p>
   
-  2. Open the Sales Connection's App, click the "Login" button then enter the **registered** phone number and click "Login".<br>
+  2. Open the Caction's App, click the "Login" button then enter the **registered** phone number and click "Login".<br>
 
      <p align="center">
        <img src="img/Login_Page_Mobile.png" alt="Mobile Login" width="280" height="550">
@@ -72,7 +72,7 @@ Updated: 23 May 2024<br>
 <a id="section3"></a>
 
 **Email Login**<br>
-1. Download the Sales Connection app from Google Playstore or App Store.<br>
+1. Download the Caction app from Google Playstore or App Store.<br>
      **Download Here for Android User:** [https://play.google.com/store/apps/details?id=com.connection.crm](https://play.google.com/store/apps/details?id=com.connection.crm)<br>
      **Download Here for IOS User:** [https://apps.apple.com/us/app/sales-connection/id1327210298](https://apps.apple.com/us/app/sales-connection/id1327210298)<br>
      **Download Here for Huawei User:** [https://tinyurl.com/yvj4pwf7](https://tinyurl.com/yvj4pwf7)<br> 
@@ -81,7 +81,7 @@ Updated: 23 May 2024<br>
        <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
      </p>
   
-  2. Open the Sales Connection's App, click the "Login" button and choose "Login via Email".<br>
+  2. Open the Caction's App, click the "Login" button and choose "Login via Email".<br>
 
      <p align="center">
        <img src="img/Login_Via_Email.png" alt="Email Login" width="280" height="550">

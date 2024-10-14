@@ -6,7 +6,7 @@ Updated: 24 May 2024<br>
 *Note: Please ensure that you already wait for at least 5 mins for the "OTP Code". If you still not receiving it, please contact admin to perform further action.
 
   1. To generate "OTP Code" for users, go to User Management > User List.<br>
-     **Open User List Page Here:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
+     **Open User List Page Here:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
      *Note: Only certain admins can generate OTP for users.
 
      <p align="center">
@@ -32,7 +32,7 @@ Updated: 24 May 2024<br>
        <img src="img/OTP_Generated.png" alt="OTP Generated">
      </p>
 
-  5. To login with the "OTP Code" generated, open Sales Connection's app and click on the "Help" button at the top right corner of the page.<br>
+  5. To login with the "OTP Code" generated, open Caction's app and click on the "Help" button at the top right corner of the page.<br>
 
      <p align="center">
        <img src="img/Help_Button_Mobile.png" alt="Help Button Mobile" width="280" height="550">

@@ -12,7 +12,7 @@
 
  - **Mobile App**:
 
-  1. At "Sales Connection" Schedule page, click the add button.
+  1. At "Caction" Schedule page, click the add button.
 
      <p align="center">
        <img src="img/App_Personal_Reminder_Step_1.png" alt="App Personal Reminder Step 1" width="280" height="550">

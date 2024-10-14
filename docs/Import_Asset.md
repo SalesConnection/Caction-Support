@@ -4,7 +4,7 @@ Updated: 18 June 2024<br>
 ## How do I Import New Asset(s)?
 
 1. At the desktop site's navigation bar, go to Import > Asset Import.<br>
-   **Import Asset(s) Here:** [https://salesconnection.my/AssetImport/assetExcelImport](https://salesconnection.my/AssetImport/assetExcelImport)
+   **Import Asset(s) Here:** [https://support.caction.com/AssetImport/assetExcelImport](https://support.caction.com/AssetImport/assetExcelImport)
 
    <p align="center">
      <img src="img/Import_Asset_Step_1.png" alt="Import Asset Step 1">

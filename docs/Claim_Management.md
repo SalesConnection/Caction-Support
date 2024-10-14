@@ -19,7 +19,7 @@ Updated: 16 July 2024<br>
 <br><br><br>
 
 1. At the desktop site navigation bar, go to HR Suite > Claims Management.<br>
-   **Open Claims Management Here:** [https://salesconnection.my/claim/list](https://salesconnection.my/claim/list)<br>
+   **Open Claims Management Here:** [https://support.caction.com/claim/list](https://support.caction.com/claim/list)<br>
 
    <p align="center">
       <img src="img2/Claims_Management_Step_1.png" alt="Claims Management Step 1">

@@ -12,7 +12,7 @@ Updated: 14 August 2024<br>
 <a id="section1"></a>
 
 1. At the desktop site's navigation bar, go to Template Settings > Digital Form Templates > PDF Template Customization.<br>
-   **Set Up PDF Template Here:** [https://salesconnection.my/DigitalFormSetting/templatecustomisation](https://salesconnection.my/DigitalFormSetting/templatecustomisation)<br>
+   **Set Up PDF Template Here:** [https://support.caction.com/DigitalFormSetting/templatecustomisation](https://support.caction.com/DigitalFormSetting/templatecustomisation)<br>
      
    <p align="center">
      <img src="img/Create_PDF_Step_1.png" alt="Create PDF Step 1">
@@ -179,7 +179,7 @@ Updated: 14 August 2024<br>
     **Generate PDF**
 
 17. To generate PDF for digital form, at the desktop site navigation bar, go to Business Reports > Digital Form Report.<br>
-    **Open Digital Form Report Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)
+    **Open Digital Form Report Here:** [https://support.caction.com/reports/digitalform?code=DR01](https://support.caction.com/reports/digitalform?code=DR01)
 
     <p align="center">
        <img src="img/Create_PDF_Step_17.png" alt="Create PDF Step 17">

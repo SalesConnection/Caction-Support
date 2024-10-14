@@ -4,7 +4,7 @@ Updated: 24 May 2024<br>
 ## 👩‍💼 How to Add New User Category?
     
   1. At the desktop site's navigation bar, go to Company Settings > Staff Settings > Department/Team Settings.<br>
-     **Add New User Category Here:** [https://salesconnection.my/settings/CategoryList?type=usother](https://salesconnection.my/settings/CategoryList?type=usother)<br>
+     **Add New User Category Here:** [https://support.caction.com/settings/CategoryList?type=usother](https://support.caction.com/settings/CategoryList?type=usother)<br>
 
      <p align="center">
        <img src="img/Department_Team_Settings.png" alt="Department Team Settings">
@@ -35,7 +35,7 @@ Updated: 24 May 2024<br>
      </p>
 
   6. The result will be shown below.<br>
-     **Add New User Here:** [https://salesconnection.my/usermanage/adduser](https://salesconnection.my/usermanage/adduser)<br>
+     **Add New User Here:** [https://support.caction.com/usermanage/adduser](https://support.caction.com/usermanage/adduser)<br>
 
      <p align="center">
        <img src="img/Add_New_User_Category_Result.png" alt="Add New User Category Result">

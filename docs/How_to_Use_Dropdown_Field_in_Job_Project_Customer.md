@@ -17,9 +17,9 @@ Updated: 18 June 2024<br>
    **Add Dropdown Field**
 
 1. For example, if you want to add a dropdown options for Customer. Go to desktop site navigation bar > Template Settings > Customer Templates.<br>
-   **Open Customer Templates Here**: [https://salesconnection.my/templateSettings/CustomerTemplates](https://salesconnection.my/templateSettings/CustomerTemplates)<br>
-   **Open Project Templates Here**: [https://salesconnection.my/templateSettings/DealTemplates](https://salesconnection.my/templateSettings/DealTemplates)<br>
-   **Open Job Templates Here**: [https://salesconnection.my/templateSettings/ActivityTemplates](https://salesconnection.my/templateSettings/ActivityTemplates)<br>
+   **Open Customer Templates Here**: [https://support.caction.com/templateSettings/CustomerTemplates](https://support.caction.com/templateSettings/CustomerTemplates)<br>
+   **Open Project Templates Here**: [https://support.caction.com/templateSettings/DealTemplates](https://support.caction.com/templateSettings/DealTemplates)<br>
+   **Open Job Templates Here**: [https://support.caction.com/templateSettings/ActivityTemplates](https://support.caction.com/templateSettings/ActivityTemplates)<br>
 
    <p align="center">
      <img src="img/How_to_Use_Dropdown_Field_in_Customer_Step_1.png" alt="How to Use Dropdown Field in Customer Step 1">

@@ -128,7 +128,7 @@ Updated: 24 May 2024<br>
       <img src="img/Reset_Password_Using_Email_In_App_Step_10.png" alt="Reset Passsword Using Email in App Step 10" width="280" height="550">
     </p><br>        
 
-10. Now, you need to go back to Sales Connection app, and use your new password to login.<br>
+10. Now, you need to go back to Caction app, and use your new password to login.<br>
  
 11. Remember to tick “Remember Me” if the phone is owned by you.
 
@@ -152,7 +152,7 @@ Updated: 24 May 2024<br>
 <br><br><br>
 
 **Related Articles**<br>
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 - [How to Change Account Password?](Change_Account_Password.md)
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Forgot_Password.html) -->

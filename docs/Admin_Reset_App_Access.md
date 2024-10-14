@@ -23,7 +23,7 @@ Updated: 14 June 2024<br>
 **User Online**
 
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
-   **Open the User List:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
+   **Open the User List:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">
@@ -85,7 +85,7 @@ Updated: 14 June 2024<br>
 **User Offline / App Deleted**
 
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
-   **Open the User List:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
+   **Open the User List:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">
    </p>
@@ -132,7 +132,7 @@ Updated: 14 June 2024<br>
 
 8. Click "Skip Pending Data" to continue with resetting app. This action may causes data lost if there is any pending data.<br>
 
-   *Note: If the prompt "Unable to Retrieve Results" appear, it means that either the user's phone is currently offline or the user has deleted Sales Connection mobile app.
+   *Note: If the prompt "Unable to Retrieve Results" appear, it means that either the user's phone is currently offline or the user has deleted Caction mobile app.
 
    <p align="center">
       <img src="img/Reset_App_Access_Skip_Pending_User_Online_Step_8.png" alt="Admin Assist Reset App Skip Pending Step 8">
@@ -161,7 +161,7 @@ Updated: 14 June 2024<br>
 ### User has pending data
 
 1. To reset user's app, go to the desktop site navigation bar > User Management > User List.<br>
-   **Open the User List:** [https://salesconnection.my/usermanage/userlist](https://salesconnection.my/usermanage/userlist)<br>
+   **Open the User List:** [https://support.caction.com/usermanage/userlist](https://support.caction.com/usermanage/userlist)<br>
 
    <p align="center">
       <img src="img/Reset_App_Access_No_Pending_User_Online_Step_1.png" alt="Admin Assist Reset App Step 1">
@@ -241,7 +241,7 @@ Updated: 14 June 2024<br>
 <br><br><br>
 
 **Related Articles**
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
 - [How to Copy Account for New User?](Copy_Account.md)

@@ -6,7 +6,7 @@ Updated: 24 May 2024<br>
 *Note: Only certain admins can disable the notification. Please contact your admin if you wish to disable the notifications.<br>
 
   1. To disable notifications for users, go to desktop site navigation bar > User Management > User Account Customisation.<br>
-     **Open UAC Page Here:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+     **Open UAC Page Here:** [https://support.caction.com/uac](https://support.caction.com/uac)<br>
      
      <p align="center">
        <img src="img/User_Account_Customisation.png" alt="User Account Customisation">
@@ -91,7 +91,7 @@ Updated: 24 May 2024<br>
 <br><br><br>
 
 **Related Articles**<br>
-- [How to Login Into Sales Connection Using Mobile and Desktop?](Login.md)
+- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [I Can't Login to My Other Phone. Why?](IMEI.md)
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)

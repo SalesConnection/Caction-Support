@@ -16,7 +16,7 @@ You and your team can start creating the digitalised form(s) in the system throu
 
 ### From Job
 1. At the desktop site's navigation bar, go to Business Management > Schedule > Job Schedule.<br>
-   **Create Digital Form Here:** [https://salesconnection.my/activity/scheduler](https://salesconnection.my/activity/scheduler)<br>
+   **Create Digital Form Here:** [https://support.caction.com/activity/scheduler](https://support.caction.com/activity/scheduler)<br>
      
    <p align="center">
      <img src="img/Create_Digital_Form_Step_1.png" alt="Create Digital Form Step 1">
@@ -110,7 +110,7 @@ You and your team can start creating the digitalised form(s) in the system throu
 ### From Project
 
 1. At the desktop site's navigation bar, go to Business Reports > Project Report.<br>
-   **Create Digital Form Here:** [https://salesconnection.my/reports/deal](https://salesconnection.my/reports/deal)<br>
+   **Create Digital Form Here:** [https://support.caction.com/reports/deal](https://support.caction.com/reports/deal)<br>
      
    <p align="center">
      <img src="img/Create_Digital_Form2_Step_1.png" alt="Create Digital Form2 Step 1">
@@ -210,7 +210,7 @@ You and your team can start creating the digitalised form(s) in the system throu
 ### From Digital Form
 
 1. At the desktop site's navigation bar, go to Business Reports > Digital Form Report.<br>
-   **Create Digital Form Here:** [https://salesconnection.my/reports/digitalform?code=DR01](https://salesconnection.my/reports/digitalform?code=DR01)<br>
+   **Create Digital Form Here:** [https://support.caction.com/reports/digitalform?code=DR01](https://support.caction.com/reports/digitalform?code=DR01)<br>
      
    <p align="center">
      <img src="img/Create_Digital_Form3_Step_1.png" alt="Create Digital Form3 Step 1">

@@ -10,7 +10,7 @@ Updated: 27 May 2024<br>
      </p>
 
   2. Click on "Delivery Order".<br>
-     **Add New Digital Form Status Here:** [https://salesconnection.my/ServiceReport/DigitalFormStatus](https://salesconnection.my/ServiceReport/DigitalFormStatus)<br>
+     **Add New Digital Form Status Here:** [https://support.caction.com/ServiceReport/DigitalFormStatus](https://support.caction.com/ServiceReport/DigitalFormStatus)<br>
 
      <p align="center">
        <img src="img/Delivery_Order_Status.png" alt="Delivery Order Status">

@@ -17,7 +17,7 @@ Updated: 9 July 2024<br>
 ### Generate QR Code For Asset - Desktop
 
 1. For example, if you want to create a Public Form for an asset, go to Main Navigation > Business Management > Asset List.<br>
-     **Open Asset List Page Here:** [https://salesconnection.my/asset-list](https://salesconnection.my/asset-list)<br>
+     **Open Asset List Page Here:** [https://support.caction.com/asset-list](https://support.caction.com/asset-list)<br>
 
    <p align="center">
      <img src="img/How_to_Create_Public_Form_Step_1.png" alt="Creation of Public Form Step 1">
@@ -133,7 +133,7 @@ Updated: 9 July 2024<br>
 
 ### Genarate QR Code For Asset - Mobile App
 
-1. In Sales Connection Mobile App, click "Dashboard" page.
+1. In Caction Mobile App, click "Dashboard" page.
 
    <p align="center">
      <img src="img/Creat_QR_Code_For_Asset_in_App_Step_1.png" alt="Creation of Public Form in App Step 1" width="280" height="550">

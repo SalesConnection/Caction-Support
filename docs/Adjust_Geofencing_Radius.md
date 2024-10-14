@@ -4,7 +4,7 @@ Updated: 24 May 2024<br>
 ## How to Adjust Geofencing Radius?
 
 1. To adjust the staff check in distance, go to the desktop site navigation bar > Company Settings > Staff Settings > Check-in Distance Settings.<br>
-   **Open the Check-in Distance Settings Page Here:** [https://salesconnection.my/settings/mileage2](https://salesconnection.my/settings/mileage2)<br>
+   **Open the Check-in Distance Settings Page Here:** [https://support.caction.com/settings/mileage2](https://support.caction.com/settings/mileage2)<br>
    <p align="center">
       <img src="img/Geofencing_Radius_Page.png" alt="Geofencing Radius Page">
    </p>

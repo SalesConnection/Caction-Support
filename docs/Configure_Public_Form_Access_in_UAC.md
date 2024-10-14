@@ -6,7 +6,7 @@ Updated: 1 August 2024<br>
 Decide on which team members should have access on reviewing public form submissions and take action towards it through the access control.<br><br>
 
 1. At the desktop site's navigation bar, go to User Management > User Account Customization.<br>
-   **Open User Account Customization:** [https://salesconnection.my/uac](https://salesconnection.my/uac)<br>
+   **Open User Account Customization:** [https://support.caction.com/uac](https://support.caction.com/uac)<br>
      
    *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.
 

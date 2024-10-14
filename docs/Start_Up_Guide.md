@@ -1,17 +1,17 @@
 ## Start Up Guide
 
-## Get Started with Sales Connection
+## Get Started with Caction
 
-Sales Connection helps you streamline your business processes, manage customers effectively, and enhance overall business operations. Whether you’re joining an established or customized system, set up for success! Sales Connection is flexible and customizable, so everyone uses it a little differently.<br>
+Caction helps you streamline your business processes, manage customers effectively, and enhance overall business operations. Whether you’re joining an established or customized system, set up for success! Caction is flexible and customizable, so everyone uses it a little differently.<br>
 
-This guide walks you through customizing your experience of Sales Connection.<br>
+This guide walks you through customizing your experience of Caction.<br>
 
 *Note: Some of the following features have plan-based limits or are optional. Contact our salesman to upgrade.<br><br>
 
 
 ## System Role and Permission
 
-Sales Connection supports various user types, each with distinct levels of access and permissions to ensure proper control and security within the platform:<br><br>
+Caction supports various user types, each with distinct levels of access and permissions to ensure proper control and security within the platform:<br><br>
 
 - **Admin:** Full access to all system data, features, and user management.
 - **Subadmin:** High-level access to all data within your department with some restrictions compared to Admin.
@@ -23,7 +23,7 @@ For more details, visit the [User Types Default Access page](https://salesconnec
 
 ## Data Level Structure
 
-Sales Connection organizes its data into seven hierarchical levels which is called Data Level Structure, ensuring structured and efficient data management:<br><br>
+Caction organizes its data into seven hierarchical levels which is called Data Level Structure, ensuring structured and efficient data management:<br><br>
 
 - **Customer:** This is the topmost level containing client information, including contact details, and addresses.
 - **Project:** Projects are organized under customers, representing major deals,  or contracts associated with a customer.
@@ -73,7 +73,7 @@ For more detailed information, visit the [Data Level Structure page](https://sal
 
 ## Features Overview
 
-Sales Connection offers a comprehensive suite of features designed to streamline business operations:<br><br>
+Caction offers a comprehensive suite of features designed to streamline business operations:<br><br>
 
 1. **Customer Management:** Centralize client information and details.
    - Easily store and access detailed customer data, history, and manage customer relationships effectively.<br>
@@ -96,12 +96,12 @@ Sales Connection offers a comprehensive suite of features designed to streamline
 7. **Asset Management:** Track and manage company equipment.
    - Keep a detailed record of company assets, monitor their condition, and compile data to analyze health of equipment.<br><br>
 
-For a detailed breakdown of each feature, visit the [Sales Connection Features page](https://salesconnection.github.io/Sales-Connection-Support/#features-knowledge).<br><br>
+For a detailed breakdown of each feature, visit the [Caction Features page](https://salesconnection.github.io/Sales-Connection-Support/#features-knowledge).<br><br>
 
 
 ## Additional Resources
 
-Sales Connection provides various resources to support users:<br><br>
+Caction provides various resources to support users:<br><br>
 
 1. **Help Center:** Access guides and FAQs for troubleshooting.
    - Find detailed documentation, step-by-step guides, and frequently asked questions to resolve common issues and learn how to use the system effectively.
@@ -113,8 +113,8 @@ Reach out to our dedicated support team for help with specific issues, technical
 
 ## Conclusion
 
-With Sales Connection, you have all the tools needed to streamline your sales processes, improve customer management, and enhance overall business efficiency. Follow this guide to set up your system, and leverage our features to optimize your operations.<br>
+With Caction, you have all the tools needed to streamline your sales processes, improve customer management, and enhance overall business efficiency. Follow this guide to set up your system, and leverage our features to optimize your operations.<br>
 
-Welcome to Sales Connection, and happy selling!<br><br>
+Welcome to Caction, and happy selling!<br><br>
 
 <!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Start_Up_Guide.html) -->

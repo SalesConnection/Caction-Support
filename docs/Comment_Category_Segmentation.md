@@ -6,7 +6,7 @@ Updated: 22 July 2024<br>
 **Comment Category Segmentation** page separates Comment options by different categories for Projects, Jobs, etc. Example: Only Sales Meeting Job will have “Sales Meeting Minutes” Comment option. This option can be set to not be available for other Job categories.<br><br>
 
 1. At the desktop site navigation bar, go to Wizard.<br>
-   **Open Wizard Page Here:** [https://salesconnection.my/wizard](https://salesconnection.my/wizard)<br>
+   **Open Wizard Page Here:** [https://support.caction.com/wizard](https://support.caction.com/wizard)<br>
 
    <p align="center">
       <img src="img2/Comment_Category_Segmentation_Step_1.png" alt="Comment Category Segmentation Step 1">

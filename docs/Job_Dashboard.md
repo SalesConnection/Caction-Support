@@ -19,7 +19,7 @@ Updated: 4 July 2024<br>
    *Note: This guide can also be applied to Project and Digital Form Dashboard.
 
    1. At the desktop site's navigation bar, go to Business Management > Dashboard > Job.<br>
-      **Open Job Dashboard Page Here:** [https://salesconnection.my/dashboard/task](https://salesconnection.my/dashboard/task)<br>
+      **Open Job Dashboard Page Here:** [https://support.caction.com/dashboard/task](https://support.caction.com/dashboard/task)<br>
      
       <p align="center">
        <img src="img2/Job_Dashboard_Tutorial_Step_1.png" alt="Job Dashboard Page Tutorial Step 1">

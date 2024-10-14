@@ -11,7 +11,7 @@ Pending data is usually used to check if a user has informed that a comment has 
 
 *Note: The following step done is done by user in Mobile App.
 
-1. On the Sales Connection mobile app, go to the "Dashboard" page.
+1. On the Caction mobile app, go to the "Dashboard" page.
 
    <p align="center">
       <img src="img/Check_Pending_Data_Using_App_Step_1.png" alt="Check Pending Data Using App Step 1" width="280" height="550">
