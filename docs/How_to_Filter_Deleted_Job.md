@@ -10,35 +10,35 @@
 Include Deleted Job<br>
 
    <p align="center">
-       <img src="docs/img/How_to_Filter_Deleted_Job_Step_2.png" alt="How to filter deleted job Step 2">
+       <img src="img/How_to_Filter_Deleted_Job_Step_2.png" alt="How to filter deleted job Step 2">
     </p><br>
 
 3. Then Select Yes
 
     <p align="center">
-       <img src="docs/img/How_to_Filter_Deleted_Job_Step_3.png" alt="How to filter deleted job Step 3">
+       <img src="img/How_to_Filter_Deleted_Job_Step_3.png" alt="How to filter deleted job Step 3">
     </p><br>
 
 4. In this case if you know which job id, you may also need to include this filter for
 job Sep No
 
    <p align="center">
-       <img src="docs/img/How_to_Filter_Deleted_Job_Step_4.png" alt="How to filter deleted job Step 4">
+       <img src="img/How_to_Filter_Deleted_Job_Step_4.png" alt="How to filter deleted job Step 4">
     </p><br>
 
 5. Job Equal to J00365
 
     <p align="center">
-       <img src="docs/img/How_to_Filter_Deleted_Job_Step_5.png" alt="How to filter deleted job Step 5">
+       <img src="img/How_to_Filter_Deleted_Job_Step_5.png" alt="How to filter deleted job Step 5">
     </p><br>
 
      <p align="center">
-       <img src="docs/img/How_to_Filter_Deleted_Job_Step_5.5.png" alt="How to filter deleted job Step 5.2">
+       <img src="img/How_to_Filter_Deleted_Job_Step_5.5.png" alt="How to filter deleted job Step 5.2">
     </p><br>
 
 6. Then scroll to the most bottom right and see who deleted in Update Content
 Section
 
    <p align="center">
-       <img src="docs/img/How_to_Filter_Deleted_Job_Step_6.png" alt="How to filter deleted job Step 6">
+       <img src="img/How_to_Filter_Deleted_Job_Step_6.png" alt="How to filter deleted job Step 6">
     </p><br>
