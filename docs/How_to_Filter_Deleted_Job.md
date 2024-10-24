@@ -33,7 +33,7 @@ job Sep No
     </p><br>
 
      <p align="center">
-       <img src="img/How_to_Filter_Deleted_Job_Step_5.5.png" alt="How to filter deleted job Step 5.2">
+       <img src="img/How_to_Filter_Deleted_Job_Step_5.2.png" alt="How to filter deleted job Step 5.2">
     </p><br>
 
 6. Then scroll to the most bottom right and see who deleted in Update Content
