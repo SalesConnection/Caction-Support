@@ -1,4 +1,4 @@
-## How_to_Add_a_New_Sub_Comment_Category_In_The_To_Do_List_Feature
+## How to Add a New Sub Comment Category In The To-Do List Feature
 
 0. Some general information for this support docs<br>
     a. Pre create comment category: Cause of breakdown<br>
