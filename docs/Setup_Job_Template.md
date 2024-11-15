@@ -82,4 +82,4 @@ Updated: 25 June 2024<br>
 - [Digital Form Template Settings](Digital_Form_Template_Settings.md)
 - [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
   
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Setup_Job_Template.html) -->
+<!-- [Link Text](https://support.caction.com/Setup_Job_Template.html) -->

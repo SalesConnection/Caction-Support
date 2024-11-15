@@ -117,4 +117,4 @@ On **Company Profile Settings**, you would be able to change the system settings
 - [UAC Policy Management](UAC_Policy_Management.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Company_Profile_Settings.html) -->
+<!-- [Link Text](https://support.caction.com/Company_Profile_Settings.html) -->

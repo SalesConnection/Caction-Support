@@ -70,4 +70,4 @@ Check on any pending upload item(s) by each of your user. If you receive a messa
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 - [How to Check Pending Data?](Check_Pending_Data.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Check_Pending_Update.html) -->
+<!-- [Link Text](https://support.caction.com/Check_Pending_Update.html) -->

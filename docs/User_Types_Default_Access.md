@@ -59,4 +59,4 @@ each team, etc. Note that a user can be in more than one Staff Category and a us
 - [How to add new user category?](Add_New_User_Category.md)<br>
 - [Data Level Structure](Data_Level_Structure.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/User_Types_Default_Access.html) -->
+<!-- [Link Text](https://support.caction.com/User_Types_Default_Access.html) -->

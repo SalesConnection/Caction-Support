@@ -73,4 +73,4 @@ Updated: 7 June 2024<br>
 **Related Articles**
 - [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Edit_Reminder_Template.html) -->
+<!-- [Link Text](https://support.caction.com/Edit_Reminder_Template.html) -->

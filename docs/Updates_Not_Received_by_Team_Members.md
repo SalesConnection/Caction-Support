@@ -34,4 +34,4 @@ Updated: 7 August 2024<br>
 - [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
 - [How to comment with photo / attachment?](Comment_With_Photo.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Updates_Not_Received_by_Team_Members.html) -->
+<!-- [Link Text](https://support.caction.com/Updates_Not_Received_by_Team_Members.html) -->

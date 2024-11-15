@@ -240,4 +240,4 @@ Updated: 16 July 2024<br>
 - [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
 - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Access_Submitted_Public_Form.html) -->
+<!-- [Link Text](https://support.caction.com/Access_Submitted_Public_Form.html) -->

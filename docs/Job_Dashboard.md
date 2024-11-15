@@ -326,4 +326,4 @@ Updated: 4 July 2024<br>
 - [How to Add New Job?](Add_New_Job.md)      
 - [Asset Dashboard](Asset_Dashboard.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Job_Dashboard.html) -->
+<!-- [Link Text](https://support.caction.com/Job_Dashboard.html) -->

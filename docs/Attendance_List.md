@@ -235,4 +235,4 @@ Updated: 8 August 2024<br>
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 - [Wizard Page](Wizard_Page.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Attendance_List.html) -->
+<!-- [Link Text](https://support.caction.com/Attendance_List.html) -->

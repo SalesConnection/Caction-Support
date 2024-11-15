@@ -69,4 +69,4 @@ Decide on which team members should have access on reviewing public form submiss
 - [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
 - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Configure_Public_Form_Access_in_UAC.html) -->
+<!-- [Link Text](https://support.caction.com/Configure_Public_Form_Access_in_UAC.html) -->

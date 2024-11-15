@@ -400,4 +400,4 @@ Updated: 5 July 2024<br>
 - [Project Schedule Page](Project_Schedule_Page.md)
 - [Wizard Page](Wizard_Page.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Job_Schedule_Page.html) -->
+<!-- [Link Text](https://support.caction.com/Job_Schedule_Page.html) -->

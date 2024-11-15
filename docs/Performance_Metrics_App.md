@@ -124,4 +124,4 @@ Updated: 9 August 2024<br>
 - [Metric Dashboard](Metric_Dashboard.md)
 - [Metric Dashboard Layout Settings](Metric_Dashboard_Layout_Settings.md)
   
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Performance_Metrics_App.html) -->
+<!-- [Link Text](https://support.caction.com/Performance_Metrics_App.html) -->

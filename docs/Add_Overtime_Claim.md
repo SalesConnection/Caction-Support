@@ -96,4 +96,4 @@ Utilize the overtime claim function to capture the extra hours your team has put
 - [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Add_Overtime_Claim.html) -->
+<!-- [Link Text](https://support.caction.com/Add_Overtime_Claim.html) -->

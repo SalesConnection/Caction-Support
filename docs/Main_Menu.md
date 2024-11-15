@@ -324,4 +324,4 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
    </details>
    <br><br>
    
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Main_Menu.html) -->
+<!-- [Link Text](https://support.caction.com/Main_Menu.html) -->

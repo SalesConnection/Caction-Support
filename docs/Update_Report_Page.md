@@ -327,4 +327,4 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 - [How to Use Update Report Filter?](Job_Update_Report_Filter.md)
 - [How to Pull Out Job/Project/Form Report?](Export_Report.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Update_Report_Page.html) -->
+<!-- [Link Text](https://support.caction.com/Update_Report_Page.html) -->

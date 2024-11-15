@@ -18,7 +18,7 @@ Caction supports various user types, each with distinct levels of access and per
 - **Staff:** Access primarily focused on task creation, execution, and operational activities.
 - **Associate User:** Limited access, mostly for collaboration, viewing tasks, and completing assigned work.<br><br>
   
-For more details, visit the [User Types Default Access page](https://salesconnection.github.io/Sales-Connection-Support/User_Types_Default_Access.html).<br><br>
+For more details, visit the [User Types Default Access page](https://support.caction.com/User_Types_Default_Access.html).<br><br>
 
 
 ## Data Level Structure
@@ -33,7 +33,7 @@ Caction organizes its data into seven hierarchical levels which is called Data L
 - **Public Form:** Forms accessible to external users, often used for data collection or public-facing interactions.
 - **Asset:** Company resources and equipment, tracked and managed within the system for operational efficiency.<br><br>
 
-For more detailed information, visit the [Data Level Structure page](https://salesconnection.github.io/Sales-Connection-Support/Data_Level_Structure.html).<br><br>
+For more detailed information, visit the [Data Level Structure page](https://support.caction.com/Data_Level_Structure.html).<br><br>
 
 
 ## Getting Started
@@ -96,7 +96,7 @@ Caction offers a comprehensive suite of features designed to streamline business
 7. **Asset Management:** Track and manage company equipment.
    - Keep a detailed record of company assets, monitor their condition, and compile data to analyze health of equipment.<br><br>
 
-For a detailed breakdown of each feature, visit the [Caction Features page](https://salesconnection.github.io/Sales-Connection-Support/#features-knowledge).<br><br>
+For a detailed breakdown of each feature, visit the [Caction Features page](https://support.caction.com/#features-knowledge).<br><br>
 
 
 ## Additional Resources
@@ -117,4 +117,4 @@ With Caction, you have all the tools needed to streamline your sales processes, 
 
 Welcome to Caction, and happy selling!<br><br>
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Start_Up_Guide.html) -->
+<!-- [Link Text](https://support.caction.com/Start_Up_Guide.html) -->

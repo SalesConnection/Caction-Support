@@ -34,4 +34,4 @@ Updated: 24 May 2024<br>
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
 - [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Adjust_Geofencing_Radius.html) -->
+<!-- [Link Text](https://support.caction.com/Adjust_Geofencing_Radius.html) -->

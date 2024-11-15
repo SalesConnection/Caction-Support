@@ -105,4 +105,4 @@ Updated: 28 June 2024<br>
 - [How do I Import New UOM(s)?](Import_UOM.md)
 - [How do I Import New User(s)?](Import_User.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Import_Contact.html) -->
+<!-- [Link Text](https://support.caction.com/Import_Contact.html) -->

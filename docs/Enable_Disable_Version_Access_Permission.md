@@ -49,4 +49,4 @@ Updated: 28 June 2024<br>
 - [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 - [How to Assist My New User to Login?](New_User_Login.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Enable_Disable_Version_Access_Permission.html) -->
+<!-- [Link Text](https://support.caction.com/Enable_Disable_Version_Access_Permission.html) -->

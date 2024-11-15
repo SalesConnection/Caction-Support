@@ -365,4 +365,4 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Add_New_Customer.html) -->
+<!-- [Link Text](https://support.caction.com/Add_New_Customer.html) -->

@@ -121,4 +121,4 @@ Updated: 24 May 2024<br>
 **Related Articles**
 - [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Comment_With_Photo.html) -->
+<!-- [Link Text](https://support.caction.com/Comment_With_Photo.html) -->

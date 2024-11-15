@@ -48,4 +48,4 @@ Updated: 24 May 2024<br>
 - [How to Add New User?](Add_New_User.md)
 - [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Add_New_User_Category.html) -->
+<!-- [Link Text](https://support.caction.com/Add_New_User_Category.html) -->

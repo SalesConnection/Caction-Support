@@ -438,4 +438,4 @@ Updated: 18 June 2024<br>
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/How_to_Add_New_Asset.html) -->
+<!-- [Link Text](https://support.caction.com/How_to_Add_New_Asset.html) -->

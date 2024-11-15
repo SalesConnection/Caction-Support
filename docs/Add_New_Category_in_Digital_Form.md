@@ -68,4 +68,4 @@
 - [How Do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)
 - [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)  
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Add_New_Category_in_Digital_Form.html) -->
+<!-- [Link Text](https://support.caction.com/Add_New_Category_in_Digital_Form.html) -->

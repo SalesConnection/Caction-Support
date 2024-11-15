@@ -39,7 +39,7 @@ Updated: 7 June 2024<br>
         <img src="img/Assisted_Check_Out_Button_Desktop.png" alt="Assisted Check Out Button - Desktop">
      </p>
      
-     *Note: If there is no "Assisted Check out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).<br>
+     *Note: If there is no "Assisted Check out" button, visit this page [How to Enable Assist Check Out?](https://support.caction.com/Enable_Assist_Check_Out.html).<br>
 
   3. Once the action is done, ask the user to refresh the job detail page to confirm the "Assisted Check out" was successful.
   
@@ -61,7 +61,7 @@ Updated: 7 June 2024<br>
         <img src="img/Assisted_Check_Out_Button_Mobile.png" alt="Assisted Check Out Button - Mobile" width="280" height="550">
      </p>
 
-     *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out?](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html).
+     *Note: If there is no "Check-out" button, visit this page [How to Enable Assist Check Out?](https://support.caction.com/Enable_Assist_Check_Out.html).
 
   3. Once the action is done, ask the user to refresh the job detail page to confirm the "Assisted Check out" was successful.
   
@@ -74,4 +74,4 @@ Updated: 7 June 2024<br>
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
 - [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Assist_Check_Out.html) -->
+<!-- [Link Text](https://support.caction.com/Assist_Check_Out.html) -->

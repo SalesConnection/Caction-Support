@@ -205,4 +205,4 @@ To edit the registered location set for your office check in/out, follow the ste
 - [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
 - [How to Adjust Geofencing Radius?](Adjust_Geofencing_Radius.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Office_Check_In_Settings.html) -->
+<!-- [Link Text](https://support.caction.com/Office_Check_In_Settings.html) -->

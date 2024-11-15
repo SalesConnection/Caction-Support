@@ -50,4 +50,4 @@ Updated: 31 May 2024<br>
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
 - [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/IMEI.html) -->
+<!-- [Link Text](https://support.caction.com/IMEI.html) -->

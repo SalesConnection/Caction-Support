@@ -235,4 +235,4 @@ Updated: 9 July 2024<br>
 - [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Creation_of_Public_Form.html) -->
+<!-- [Link Text](https://support.caction.com/Creation_of_Public_Form.html) -->

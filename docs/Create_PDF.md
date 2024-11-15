@@ -245,4 +245,4 @@ Updated: 14 August 2024<br>
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 - [Digital Form Template Settings](Digital_Form_Template_Settings.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Create_PDF.html) -->
+<!-- [Link Text](https://support.caction.com/Create_PDF.html) -->

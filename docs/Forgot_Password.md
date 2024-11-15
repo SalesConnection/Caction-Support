@@ -67,7 +67,7 @@ Updated: 24 May 2024<br>
        <img src="img/Reset_Password_Using_Desktop_Result.png" alt="Reset Password - Result">
      </p><br>
 
-   If you dont' know how to login by Using Desktop, please click here: [https://salesconnection.github.io/Sales-Connection-Support/Login.html#section1](https://salesconnection.github.io/Sales-Connection-Support/Login.html#section1)
+   If you dont' know how to login by Using Desktop, please click here: [https://support.caction.com/Login.html#section1](https://support.caction.com/Login.html#section1)
    <br>   
    <br>
      
@@ -136,7 +136,7 @@ Updated: 24 May 2024<br>
       <img src="img/Reset_Password_Using_Email_In_App_Step_12.png" alt="Reset Passsword Using Email in App Step 12" width="280" height="550">
     </p><br>    
 
- If you dont' know how to login by Using Email in App, please click here: [https://salesconnection.github.io/Sales-Connection-Support/Login.html#section3](https://salesconnection.github.io/Sales-Connection-Support/Login.html#section3)<br><br>
+ If you dont' know how to login by Using Email in App, please click here: [https://support.caction.com/Login.html#section3](https://support.caction.com/Login.html#section3)<br><br>
 
      
 ## I tried to click forget password and entered my email/phone number, but I didn’t receive reset password email, how?
@@ -155,4 +155,4 @@ Updated: 24 May 2024<br>
 - [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 - [How to Change Account Password?](Change_Account_Password.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Forgot_Password.html) -->
+<!-- [Link Text](https://support.caction.com/Forgot_Password.html) -->

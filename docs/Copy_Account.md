@@ -69,4 +69,4 @@
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [How to Login Into Caction Using Mobile and Desktop?](Login.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Copy_Account.html) -->
+<!-- [Link Text](https://support.caction.com/Copy_Account.html) -->

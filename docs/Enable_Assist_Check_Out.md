@@ -74,4 +74,4 @@ Updated: 24 May 2024<br>
 - [I Forgot to Check Out, How?](Assist_Check_Out.md)
 - [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Enable_Assist_Check_Out.html) -->
+<!-- [Link Text](https://support.caction.com/Enable_Assist_Check_Out.html) -->

@@ -58,4 +58,4 @@ Updated: 24 May 2024<br>
 - [How to Change Account Password?](Change_Account_Password.md)
 - [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Not_Receiving_OTP.html) -->
+<!-- [Link Text](https://support.caction.com/Not_Receiving_OTP.html) -->

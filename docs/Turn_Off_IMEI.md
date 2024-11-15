@@ -129,4 +129,4 @@ Updated: 18 June 2024<br>
 - [How to Assist My New User to Login?](New_User_Login.md)
 - [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
 
-<!-- [Link Text](https://salesconnection.github.io/Sales-Connection-Support/Turn_Off_IMEI.html) -->
+<!-- [Link Text](https://support.caction.com/Turn_Off_IMEI.html) -->
