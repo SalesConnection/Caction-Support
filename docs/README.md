@@ -199,4 +199,4 @@ Feel free to explore the sections above by clicking it for more information.<br>
 
 Thank you for choosing Caction.
 
-<!-- [Caction-Support](https://salesconnection.github.io/Caction-Support/) -->
+<!-- [Caction-Support](https://support.caction.com) -->
