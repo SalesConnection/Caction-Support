@@ -5,12 +5,12 @@ Updated: 24 May 2024<br>
 
 *Note: Please ensure that you already wait for at least 5 mins for the "OTP Code". If you still not receiving it, please contact admin to perform further action.
 
-  1. To generate "OTP Code" for users, go to User Management > User List.<br>
+  1. To generate "OTP Code" for users, go to HR Suite > User List.<br>
      **Open User List Page Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
      *Note: Only certain admins can generate OTP for users.
 
      <p align="center">
-       <img src="img/User_List.png" alt="User List">
+       <img src="img2/User_List_Sidebar1.png" alt="User List">
      </p>
   
   2. Navigate to the user who does not receive the "OTP Code".<br>
