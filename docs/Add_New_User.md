@@ -3,7 +3,7 @@ Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
 ## 👩‍💼 How to Add New User?
     
-  1. At the desktop site's navigation bar, go to User Management > User List.<br>
+  1. At the desktop site's navigation bar, go to HR Suite > User List.<br>
 
      <p align="center">
        <img src="img2/User_List_Sidebar1.png" alt="User List Sidebar">
@@ -35,7 +35,7 @@ Updated: 24 May 2024<br>
 ### What is the limit for me to add users?
 
   The total number of user accounts available depends on your **subscription plan**.<br>
-  To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
+  To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > HR Suite > User List. It is stated at the top of this page under “Reminder.”<br>
 
   <p align="center">
     <img src="img/Reminder_of_User_List.png" alt="Reminder in User List">
@@ -46,7 +46,7 @@ Updated: 24 May 2024<br>
 ### Why I cannot add a user?
 
   You might have reached the **maximum limit** of user accounts that can be created.<br>
-  To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
+  To check the remaining number of user accounts available, go to the desktop site’s navigation bar > HR Suite > User List. It is stated at the top of this page under “Reminder.”<br>
 
   **Check Your User Limit Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
   
