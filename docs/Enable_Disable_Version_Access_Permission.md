@@ -5,11 +5,11 @@ Updated: 28 June 2024<br>
 
 *Note: Sub-Admin and Admin users will automatically have access to Desktop Version.<br><br>
 
-1. At the desktop site navigation bar, go to User Management > User List.<br>
+1. At the desktop site navigation bar, go to HR Suite > User List.<br>
    **Open User List Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
 
    <p align="center">
-      <img src="img/Enable_Version_Access_Permission_Step_1.png" alt="Enable Version Access Permission Step 1">
+      <img src="img2/User_List_Sidebar1.png" alt="Enable Version Access Permission Step 1">
    </p>
      
    *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
