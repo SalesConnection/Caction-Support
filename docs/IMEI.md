@@ -21,11 +21,11 @@ Updated: 31 May 2024<br>
 ### How to solve these problems with IMEI?
 *Note: IMEI can be performed by certain admins and it can be enabled through the website only.<br>
 *To allow them to change phones in the future without your approval, click [here](Turn_Off_IMEI.md).
-1. To enable the IMEI, go to the desktop site’s navigation bar > User Management > User List.<br>
+1. To enable the IMEI, go to the desktop site’s navigation bar > HR Suite > User List.<br>
    **Open User List Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
 
    <p align="center">
-     <img src="img/User_List_Sidebar.png" alt="User List">
+     <img src="img2/User_List_Sidebar1.png" alt="User List">
    </p>
 
    *Note: Admins can also perform this action through the notification email received using the verified email address.<br>
