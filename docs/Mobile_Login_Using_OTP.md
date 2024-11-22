@@ -1,9 +1,9 @@
 ## How to do Mobile Login using OTP?
     
-1. At the desktop site's navigation bar, go to User Management > User List.
+1. At the desktop site's navigation bar, go to HR Suite > User List.
 
    <p align="center">
-      <img src="img/User_List_Sidebar.png" alt="User List Sidebar">
+      <img src="img2/User_List_Sidebar1.png" alt="User List Sidebar">
    </p>
 
 2. Click on the "+" button to access the "Add New User" page.
