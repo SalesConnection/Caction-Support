@@ -3,11 +3,11 @@ Created: 14 June 2024<br>
 Updated: 14 June 2024<br>
 ## How do I Import New User(s)?
     
-  1. At the desktop site's navigation bar, go to User Management > User Import.<br>
+  1. At the desktop site's navigation bar, go to HR Suite > User Import.<br>
      **Import User(s) Here:** [https://system.caction.com/usermanage/userimport](https://system.caction.com/usermanage/userimport)<br>
 
      <p align="center">
-       <img src="img/Import_User_Step_1.png" alt="Import User Step 1">
+       <img src="img2/Import_User_Step_1.png" alt="Import User Step 1">
      </p>
 
      *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
