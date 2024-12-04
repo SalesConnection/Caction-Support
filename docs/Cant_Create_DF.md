@@ -39,3 +39,7 @@
 <p align="center">
          <img src="img2/Cant_Create_DF_Step_8.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
 </p><br>
+9) Select apply changes to new users only or all users, and then save it.
+<p align="center">
+         <img src="img2/Cant_Create_DF_Step_9.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
+</p><br>
