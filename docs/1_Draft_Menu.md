@@ -102,7 +102,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Create Digital Form in Mobile App](Create_Digital_Form_Mobile.md)
 
 ### Guide to Change Language
-- [How to Add Change Language?](Guide_to_Change_Language.md)
+- [How to Change Language?](Guide_to_Change_Language.md)
 
 ## Business Management
 
