@@ -100,6 +100,8 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Create Digital Form?](Create_Digital_Form.md)
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 
+### Guide to Change Language
+- [How to Add Change Language?](Guide_to_Change_Language.md)
 
 ## Business Management
 
