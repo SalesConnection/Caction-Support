@@ -179,6 +179,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 ### Digital Form
 - [Digital Form Template Settings](Digital_Form_Template_Settings.md)
 - [How to Set Up Digital Form PDF Template?](Create_PDF.md)
+- [How to Create Digital Form in Mobile App](Create_Digital_Form_Mobile.md)
 
 
 ### Public Form
