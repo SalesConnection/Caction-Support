@@ -39,6 +39,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
 - [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
 - [How to Use Update Report Filter?](Update_Report_Page.md)
+- [How to filter for deleted job/Who deleted the job?](Filter_Deleted_Job.md)
 
 
 ### Dropdown
@@ -153,6 +154,10 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [Overtime Management](Overtime_Management.md)
 - [Attendance List](Attendance_List.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
+
+
+### User List
+- [How to activate traveling mileage calculation ?](Activation_Mileage.md)
 
 
 ## Company Settings
