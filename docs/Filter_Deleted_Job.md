@@ -39,19 +39,11 @@
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_8.png" alt="How to filter for deleted job/Who deleted the job?">
          <img src="img2/Filter_Deleted_Job_Step_9.png" alt="How to filter for deleted job/Who deleted the job?">
+         <img src="img2/Filter_Deleted_Job_Step_10.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
 9) Then scroll to the most bottom right and see who deleted in Update Content Section. <br>
 <p align="center">
-         <img src="img2/Filter_Deleted_Job_Step_10.png" alt="How to filter for deleted job/Who deleted the job?">
-</p><br>
-
-10) Select left corner menu icon to open sidebar. <br>
-<p align="center">
          <img src="img2/Filter_Deleted_Job_Step_11.png" alt="How to filter for deleted job/Who deleted the job?">
-</p><br>
-
-11) Select left corner menu icon to open sidebar. <br>
-<p align="center">
          <img src="img2/Filter_Deleted_Job_Step_12.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
