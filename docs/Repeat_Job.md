@@ -18,5 +18,10 @@
 ### Scenario 1: Repeat by days
 4) Select '+ Add Job' button to start create job. <br>
 <p align="center">
-         <img src="img2/Repeat_Job_Step_1.png" alt="Repeat Job Guide">
+         <img src="img2/Repeat_Job_Step_4.png" alt="Repeat Job Guide">
+</p><br>
+
+5) The . <br>
+<p align="center">
+         <img src="img2/Repeat_Job_Step_4.png" alt="Repeat Job Guide">
 </p><br>
