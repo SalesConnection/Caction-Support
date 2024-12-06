@@ -23,5 +23,5 @@
 
 5) The . <br>
 <p align="center">
-         <img src="img2/Repeat_Job_Step_4.png" alt="Repeat Job Guide">
+         <img src="img2/Repeat_Job_Step_5.png" alt="Repeat Job Guide">
 </p><br>
