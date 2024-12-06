@@ -1,4 +1,5 @@
 ## How to activate traveling mileage calculation ?
+### The traveling mileage calculation is an additional feature separate from the normal user account. If the user requires mileage calculation, you can activate it in the User List after inviting them to the system.
 
 1) Select left corner menu icon to open sidebar. <br>
 <p align="center">
@@ -15,7 +16,7 @@
          <img src="img2/Activation_Mileage_Step_3.png" alt="How to activate traveling mileage calculation ?">
 </p><br>
 
-4) To enable the traveling distance calculation setting, ensure that there are available user accounts allocated for this feature. <br>
+4) Please note that there's a limit to the number of users who can use this feature. <br>
 <p align="center">
          <img src="img2/Activation_Mileage_Step_4.png" alt="How to activate traveling mileage calculation ?">
 </p><br>
