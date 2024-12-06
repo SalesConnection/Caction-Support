@@ -31,7 +31,7 @@
          <img src="img2/Activation_Mileage_Step_6.png" alt="How to activate traveling mileage calculation ?">
 </p><br>
 
-7) The quota for user accounts is run out. <br> If you wish to add more quota, please contact caction support.<br>
+7) If the quota for user accounts is run out. Please contact <a href="https://wa.me/+60122780122">caction support</a> to add more quota. <br>
 <p align="center">
          <img src="img2/Activation_Mileage_Step_7.png" alt="How to activate traveling mileage calculation ?">
 </p><br>
