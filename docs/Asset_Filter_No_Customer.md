@@ -31,7 +31,7 @@
          <img src="img2/Asset_Filter_No_Customer_Step_7.png" alt="How to filter asset : No Customer Attached">
 </p><br>
 
-7) Result are displayed. <br>
+7) Results are displayed. <br>
 <p align="center">
          <img src="img2/Asset_Filter_No_Customer_Step_8.png" alt="How to filter asset : No Customer Attached">
 </p><br>
