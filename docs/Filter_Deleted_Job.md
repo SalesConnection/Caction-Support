@@ -31,35 +31,36 @@
 </p><br>
 
 ### Filter for deleted jobs only.
-#### To know how many job deleted, what jobs deleted, who deleted, when deleted.  
+#### To know how many jobs were deleted, what jobs were deleted, who deleted them, and when they were deleted. 
 
-7) Select Job Update.
+7) Select Job Update. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_13.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-8) Select Update Content.
+8) Select Update Content. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_14.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-9) Select 'Contains'.
+9) Select 'Update Content : Contains'. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_15.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-10) Write 'deleted' for the filter value.
+10) Write 'deleted' for the filter value. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_16.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-11) Deleted jobs are filtered and displayed.
+11) Deleted jobs are filtered and displayed. <br>
+#### Deleted jobs will be indicated with an exclamation (!) mark.
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_17.png" alt="How to filter for deleted job/Who deleted the job?">
          <img src="img2/Filter_Deleted_Job_Step_18.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-12) In you want to filter out specific deleted job, you may also need to include this filter for job Sep No. <br>
+12) If you know which Job is deleted, and wanted to know who deleted the job. You may also search the deleted job by using the filter for Job Seq No. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_7.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
