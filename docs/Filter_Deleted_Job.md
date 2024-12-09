@@ -54,7 +54,7 @@
 </p><br>
 
 11) Deleted jobs are filtered and displayed. <br>
-#### Deleted jobs will be indicated with an exclamation (!) mark.
+*Note: Deleted jobs will be indicated with an exclamation (!) mark.
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_17.png" alt="How to filter for deleted job/Who deleted the job?">
          <img src="img2/Filter_Deleted_Job_Step_18.png" alt="How to filter for deleted job/Who deleted the job?">
