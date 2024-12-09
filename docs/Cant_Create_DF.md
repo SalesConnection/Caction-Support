@@ -1,6 +1,6 @@
 ## I can access Digital Form. Why I can’t create Digital Form ?
-*Note: If you are unable to create Digital Form, please reach out to your admin for assistance.
-*Note: Only certain admins can perform this action.
+*Note: If you are unable to create Digital Form, please reach out to your admin for assistance.<br>
+*Note: Only certain admins can perform this action.<br>
 
 1) Select left corner menu icon to open sidebar. <br>
 <p align="center">
