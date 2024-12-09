@@ -5,22 +5,22 @@
          <img src="img2/Filter_Deleted_Job_Step_1.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-2) Select Business Reports. <br>
+2) Select 'Business Reports'. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_2.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-3) Select Job Update Report. <br>
+3) Select 'Job Update Report'. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_3.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-4) Click the filter search bar, and then select job from the list. <br>
+4) Click the filter search bar, and then select 'job' from the list. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_4.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-5) Under Job, scroll down and select include deleted job. <br>
+5) Under Job, scroll down and select 'Include Deleted Job'. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_5.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
@@ -33,12 +33,12 @@
 ### Filter for deleted jobs only.
 #### To know how many jobs were deleted, what jobs were deleted, who deleted them, and when they were deleted. 
 
-7) Select Job Update. <br>
+7) Select 'Job Update'. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_13.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
 
-8) Select Update Content. <br>
+8) Select 'Update Content'. <br>
 <p align="center">
          <img src="img2/Filter_Deleted_Job_Step_14.png" alt="How to filter for deleted job/Who deleted the job?">
 </p><br>
