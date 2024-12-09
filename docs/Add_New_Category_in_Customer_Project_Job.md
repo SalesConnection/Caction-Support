@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## How Do I Add New Category in Customer/Project/Job?
+## How Do I Add New Category in Customer/Project/Job/Digital Form/Asset/Public Form?
     
   1. For example, if you wish to add new category in Project. At the desktop site's navigation bar, go to Wizard.<br>
      **Open Wizard Page Here:** [https://system.caction.com/wizard](https://system.caction.com/wizard)<br>
