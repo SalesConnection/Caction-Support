@@ -16,7 +16,7 @@
 </p><br>
 
 ### Scenario 1: Repeat by days
-## Set with date
+#### Set with date
 4) Set the desired interval by entering the number of days for the job to repeat. <br>
 <p align="center">
          <img src="img2/Repeat_Job_Step_4.png" alt="Repeat Job Guide">
@@ -38,7 +38,7 @@
          <img src="img2/Repeat_Job_Step_62.png" alt="Repeat Job Guide">
 </p><br>
 
-## Set with occurences
+#### Set with occurences
 8) Select and specify the number of occurrences after which the job will stop repeating. <br>
 <p align="center">
          <img src="img2/Repeat_Job_Step_7.png" alt="Repeat Job Guide">
