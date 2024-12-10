@@ -31,10 +31,10 @@ Reason : They got access no.3 “All access except create/edit”
 2. Click contact icon to add new contact, fill in the details.<br>
 
   <p align="center">
-         <img src="img/How_to_Create_Contact_Step_2.png" alt="How to Create Contact">
+         <img src="img/How_to_Create_Contact_NewStep_4.png" alt="How to Create Contact">
        </p><br>
   <p align="center">
-           <img src="img/How_to_Create_Contact_Step_3.png" alt="How to Create Contact">
+           <img src="img/How_to_Create_Contact_NewStep_5.png" alt="How to Create Contact">
          </p><br>
 
 3. You may add more than one contact, there will be a list of contact person in Customer detail page.
@@ -47,5 +47,5 @@ Reason : They got access no.3 “All access except create/edit”
    Refer to guide attached : https://support.caction.com/Import_Contact.html<br>
 
 <p align="center">
-         <img src="img/How_to_Create_Contact_Step_5.png" alt="How to Create Contact">
+         <img src="img/How_to_Create_Contact_NewStep_6.png" alt="How to Create Contact">
        </p><br>
