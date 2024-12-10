@@ -10,7 +10,12 @@ Reason : They got access no.3 “All access except create/edit”
 <p align="center">
          <img src="img/How_to_Create_Contact_UAC.png" alt="How to Create Contact">
        </p><br>
-       
+
+**Navigate to section by clicking it**<br>
+
+- [Desktop Version](#section1)<br>
+- [Mobile Version - Phone](#section2)<br>
+<br><br><br>
 1. From customer details page, scroll down until you find contact session. Click to the plus scetion<br>
 
   <p align="center">
