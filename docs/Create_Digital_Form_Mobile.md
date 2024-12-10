@@ -2,6 +2,29 @@
 ### Customer, Project and Asset follow a similar process for creating a digital form.
 #### Short intro : Below shows an example of create digital form in job.
 #### Scenario 1 : Create DF from to do list.
+1) Select Job <br>
+
+<p align="center">
+         <img src="img2/Create_Digital_Form_Mobile_Step_11.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
+</p><br>
+
+2) Click on the “+” icon. <br>
+
+<p align="center">
+         <img src="img2/Create_Digital_Form_Mobile_Step_12.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
+</p><br>
+
+3) Click the “Add Digital Form” icon to choose digital form. <br>
+
+<p align="center">
+         <img src="img2/Create_Digital_Form_Mobile_Step_13.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
+</p><br>
+
+4) Select the Digital From require. <br>
+
+<p align="center">
+         <img src="img2/Create_Digital_Form_Mobile_Step_44.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
+</p><br>
 
 
 #### Scenario 2 : Create DF from “+” icon.
