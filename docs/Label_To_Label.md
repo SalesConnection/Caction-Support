@@ -12,9 +12,51 @@
          <img src="img2/Label_To_Label_Step_2.png" alt="Label-to-Label Mapping">
 </p><br>
 
-3) Save template <br>
-<p align="center">
+3) Scroll down to the 'DEFAULT FIELD PRE-POPULATE VALUE SETTINGS' section, ensure that the field names in both Project & Job Template are identical(eg. Description). <br>
+<p align="center"> Project Template Setting<br>
          <img src="img2/Label_To_Label_Step_3.png" alt="Label-to-Label Mapping">
+</p><br>
+<p align="center"> Job Template Setting<br>
+         <img src="img2/Label_To_Label_Step_4.png" alt="Label-to-Label Mapping">
 </p><br>
 
 ### How Label to Label works ? 
+4) Back to 'Job Schedule' and click '+ Add Job' button. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_5.png" alt="Label-to-Label Mapping">
+</p><br>
+
+5) Back to 'Job Schedule' and click '+ Add Job' button. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_6.png" alt="Label-to-Label Mapping">
+</p><br>
+
+6) Back to 'Job Schedule' and click '+ Add Job' button. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_7.png" alt="Label-to-Label Mapping">
+</p><br>
+
+7) Back to 'Job Schedule' and click '+ Add Job' button. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_8.png" alt="Label-to-Label Mapping">
+</p><br>
+
+8) Back to 'Job Schedule' and click '+ Add Job' button. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_9.png" alt="Label-to-Label Mapping">
+</p><br>
+
+9) Back to 'Job Schedule' and click '+ Add Job' button. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_10.png" alt="Label-to-Label Mapping">
+</p><br>
+
+10) Back to 'Job Schedule' and click '+ Add Job' button. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_11.png" alt="Label-to-Label Mapping">
+</p><br>
+
+11) Back to 'Job Schedule' and click '+ Add Job' button. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_12.png" alt="Label-to-Label Mapping">
+</p><br>
