@@ -27,7 +27,6 @@
 
 5. Only default system-generated words will be translated. Customized page names and field names will not be translated to preserve user-defined context and accuracy. <br>
 <p align="center">
-         <strong>Before & After</strong>                                                                      
-         <img src="img2/Guide_to_Change_Language_Step_6.png" alt="Guide to Change Language" style="width: 40%; height: auto;" align="left">
-         <img src="img2/Guide_to_Change_Language_Step_5.png" alt="Guide to Change Language" style="width: 40%; height: auto;" align="right">
+         <strong>Before:&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After:</strong><br>                                                                   
+         <img src="img2/Guide_to_Change_Language_Step_5.png" alt="Guide to Change Language" style="width: 40%; height: auto;"><br>
 </p><br>
