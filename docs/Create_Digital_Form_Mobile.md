@@ -8,7 +8,7 @@
          <img src="img2/Create_Digital_Form_Mobile_Step_11.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
 
-2) Click the button for 'Create Service Sheet'. <br>
+2) Scroll down to find To-Do List and click the button for 'Create Service Sheet'. <br>
 
 <p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_12.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
