@@ -8,6 +8,7 @@
 2) Select job category and save it. <br>
 <p align="center">
          <img src="img2/Repeat_Job_Step_2.png" alt="Repeat Job Guide">
+         <img src="img2/Repeat_Job_Step_2.1.png" alt="Repeat Job Guide">
 </p><br>
 
 3) Scroll down and select 'Create Repeat Job' button. <br>
