@@ -1,5 +1,16 @@
 ## How to Create Contact
+This Contact section is control by access in UAC setting (refer picture). Add this step for them to check with their admin if they got into these scenarios : 
 
+Scenario 1 : They don’t have contact section.<br>
+Reason : They need to have access to contact, not necessarily ‘all access granted ’, up to their admin to give which access. 
+
+Scenario 2 : They have this contact section, but don’t have the  “Attach Contact“ plus button<br>
+Reason : They got access no.3 “All access except create/edit” 
+
+<p align="center">
+         <img src="img/How_to_Create_Contact_UAC.png" alt="How to Create Contact">
+       </p><br>
+       
 1. From customer details page, scroll down until you find contact session. Click to the plus scetion<br>
 
   <p align="center">
