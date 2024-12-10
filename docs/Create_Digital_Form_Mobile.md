@@ -23,7 +23,7 @@
 4) Select the Digital From require. <br>
 
 <p align="center">
-         <img src="img2/Create_Digital_Form_Mobile_Step_44.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
+         <img src="img2/Create_Digital_Form_Mobile_Step_14.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
 
 
