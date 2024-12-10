@@ -19,8 +19,14 @@ Reason : They got access no.3 “All access except create/edit”
 1. From customer details page, scroll down until you find contact session. Click to the plus scetion<br>
 
   <p align="center">
-         <img src="img/How_to_Create_Contact_Step_1.png" alt="How to Create Contact">
-       </p><br>
+         <img src="img/How_to_Create_Contact_NewStep_1.png" alt="How to Create Contact">
+       </p>
+       <p align="center">
+         <img src="img/How_to_Create_Contact_NewStep_2.png" alt="How to Create Contact">
+       </p>
+       <p align="center">
+         <img src="img/How_to_Create_Contact_NewStep_3.png" alt="How to Create Contact">
+       </p>
 
 2. Click contact icon to add new contact, fill in the details.<br>
 
