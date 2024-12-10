@@ -8,19 +8,19 @@
          <img src="img2/Create_Digital_Form_Mobile_Step_11.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
 
-2) Click on the “+” icon. <br>
+2) Click the button for create service sheet. <br>
 
 <p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_12.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
 
-3) Click the “Add Digital Form” icon to choose digital form. <br>
+3) Click the 'Save' button after add the details. <br>
 
 <p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_13.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
 
-4) Select the Digital From require. <br>
+4) Digital form is created and shown. <br>
 
 <p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_14.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
@@ -46,7 +46,7 @@
          <img src="img2/Create_Digital_Form_Mobile_Step_3.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
 
-4) Select the Digital From require. <br>
+4) Select the Digital Form require. <br>
 
 <p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_4.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
