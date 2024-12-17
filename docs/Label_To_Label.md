@@ -59,7 +59,7 @@
          <img src="img2/Label_To_Label_Step_11.png" alt="Label-to-Label Mapping">
 </p><br>
 
-11) Project description sychronize to the Job description <br>
+11) Project description synchronize to the Job description <br>
 <p align="center">
          <img src="img2/Label_To_Label_Step_12.png" alt="Label-to-Label Mapping">
 </p><br>
