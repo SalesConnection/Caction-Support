@@ -11,7 +11,7 @@
 <p align="center">
          <img src="img2/How_to_Create_Contact_Mobile_Version_Step_2.PNG" alt="How to Create Contact">
        </p><br>
-3. From the customer deatils page, scroll down until you find contact session. Click to add contact<br><br>
+3. From the customer details page, scroll down until you find contact session. Click to add contact<br><br>
 
 <p align="center">
          <img src="img2/How_to_Create_Contact_Mobile_Version_Step_3.PNG" alt="How to Create Contact">
