@@ -102,7 +102,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 - [How to Create Digital Form in Mobile App](Create_Digital_Form_Mobile.md)
 
-### Guide to Change Language
+### How to Change the App Language
 - [How to Change Language?](Guide_to_Change_Language.md)
 
 ## Business Management
