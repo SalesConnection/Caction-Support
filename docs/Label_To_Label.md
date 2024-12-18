@@ -1,7 +1,7 @@
 ## Label-to-Label Mapping
-#### Definition: Label-to-label mapping automatically transfers values from one field to another in different pages or modules, provided the field names are identical.
-
 ### How to Perform Label-to-Label Mapping (Example for Project & Job)
+#### Label-to-label mapping automatically transfers values from one field to another in different pages or modules, provided the field names are identical.
+
 *Note: Field Name Consistency: Ensure exact spelling, capitalization, and spacing when naming fields.<br>
 
 1) Select left corner menu icon to open sidebar. <br>
