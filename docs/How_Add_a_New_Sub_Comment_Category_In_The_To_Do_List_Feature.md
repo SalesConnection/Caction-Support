@@ -26,3 +26,6 @@
 <p align="center">
        <img src="img2/How_Add_a_New_Sub_Comment_Category_In_The_To_Do_List_Feature_NewStep_4.png" alt="How to Add a New Sub Comment Category In The To-Do List Feature Step 2">
     </p><br>
+
+**Related Articles**<br>
+- [How to Set Up Sub Comment Categories In The To Do List](How_to_Set_Up_Sub_Comment_Categories_In_The_To_Do_List.md)
