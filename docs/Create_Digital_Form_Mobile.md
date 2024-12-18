@@ -1,7 +1,6 @@
 ## How to Create Digital Form in Mobile App
-### Customer, Project and Asset follow a similar process for creating a digital form.
-#### Short intro : Below shows an example of create digital form in job.
-#### Scenario 1 : Create DF from to do list.
+### Below is an example of how to create a digital form for a job. Creating a digital form will be the same for Customer, Project, and Asset. 
+#### Scenario 1 : Create Digital Form from to do list.
 1) Select Job <br>
 
 <p align="center">
@@ -14,13 +13,13 @@
          <img src="img2/Create_Digital_Form_Mobile_Step_12.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
 
-3) Click the 'Save' button after add the details. <br>
+3) Fill in the details and click 'Save'. <br>
 
 <p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_13.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
 
-4) Digital form is created and shown. <br>
+4) The digital form is created in the system.  <br>
 
 <p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_14.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
@@ -65,5 +64,15 @@
 </p><br>
 
 <p align="center">
+         <img src="img2/Create_Digital_Form_Mobile_Step_6.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;";">
+</p><br>
+
+<p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_10.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;";">
+</p><br>
+
+7) The digital form is created in the system.  <br>
+
+<p align="center">
+         <img src="img2/Create_Digital_Form_Mobile_Step_7.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;">
 </p><br>
