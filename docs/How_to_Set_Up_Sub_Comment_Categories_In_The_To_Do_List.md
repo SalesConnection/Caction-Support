@@ -14,7 +14,7 @@
 
 
 3. Select Job Category by clicking the arrow and choose your category.<br>
-   Disclaimer: If your category doesnt available there, click here: https://support.caction.com and it will guide you.
+   Disclaimer: If your category doesnt available there, click here: [https://support.caction.com](https://support.caction.com/Comment_Category_Segmentation.html) and it will guide you.
 
    <p align="center">
        <img src="img2/How_to_Set_Up_Sub_Comment_Categories_In_The_To_Do_List_Step_3.png" alt="How to Set Up Sub Comment Categories in the To-Do List Step 3">
