@@ -14,7 +14,8 @@
          <img src="img2/Label_To_Label_Step_2.png" alt="Label-to-Label Mapping">
 </p><br>
 
-3) Scroll down to the 'DEFAULT FIELD PRE-POPULATE VALUE SETTINGS' section, ensure that the field names in both Project & Job Template are identical(eg. Description). <br>
+3) Name the fields in the Project and Job templates exactly the same for correct label-to-label mapping (e.g., 'Description'). <br>
+*Note: Label to Label can be done with both default or custom.<br>
 <p align="center"> Project Template Setting<br>
          <img src="img2/Label_To_Label_Step_3.png" alt="Label-to-Label Mapping">
 </p><br>
