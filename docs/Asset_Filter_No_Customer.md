@@ -1,6 +1,6 @@
 ## How to filter asset : No Customer Attached
 
-1) Select left corner menu icon to open sidebar. <br>
+1) 1. Click the menu icon (three horizontal lines) in the top left corner to go to the Main Navigation. <br>
 <p align="center">
          <img src="img2/Asset_Filter_No_Customer_Step_1.png" alt="How to filter asset : No Customer Attached">
 </p><br>
@@ -11,7 +11,7 @@
 </p><br>
 
 3) Select 'Asset Update Report'. <br>
-*Note: Alternative method is choose 'Business Management' and then select 'Asset List'.<br>
+*Note : You may also perform this filtering in Asset List under Business Management.<br>
 <p align="center">
          <img src="img2/Asset_Filter_No_Customer_Step_3.png" alt="How to filter asset : No Customer Attached">
 </p><br>
