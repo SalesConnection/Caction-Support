@@ -14,14 +14,21 @@
          <img src="img/How_to_Create_Contact_Mobile_Version_Step_3.png" alt="How to Create Contact">
        </p><br>
 
+<p align="center">
+         <img src="img/How_to_Create_Contact_Mobile_Version_Step_4.png" alt="How to Create Contact">
+       </p><br>
+
 4. Click contact icon to add new contact, fill in the details.<br>
 
 <p align="center">
-         <img src="img/How_to_Create_Contact_Mobile_Version_Step_4.png" alt="How to Create Contact">
+         <img src="img/How_to_Create_Contact_Mobile_Version_Step_5.png" alt="How to Create Contact">
        </p><br>
 
 5. Click the save button to save your new contact.<br>
 
 <p align="center">
-         <img src="img/How_to_Create_Contact_Mobile_Version_Step_5.png" alt="How to Create Contact">
+         <img src="img/How_to_Create_Contact_Mobile_Version_Step_6.png" alt="How to Create Contact">
+       </p><br>
+<p align="center">
+         <img src="img/How_to_Create_Contact_Mobile_Version_Step_7.png" alt="How to Create Contact">
        </p><br>
