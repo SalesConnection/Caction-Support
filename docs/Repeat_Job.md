@@ -17,7 +17,7 @@
 </p><br>
 
 4) Set the frequency of the job to repeat. <br>
-*Note: Choose how often the job should repeat. <b>Example:</b> <br><br>
+*Note: Choose how often the job should repeat.<br><b>Example:</b> <br><br>
 <b>Repeat every 1 day </b> means the job will repeat every day.<br><br>
 <b>Repeat every 1 week </b> means the job will repeat every week.<br><br>
 <b>Repeat every 1 month </b> means the job will repeat every month.<br><br>
