@@ -29,8 +29,8 @@
 *Note: The job will repeats until the specified end date.<br>
 
 5) Click on "Days" and select your preferred option: Days, Weeks, or Months.  <br>
-•If you choose "Weeks", a "Repeat on" section will appear where you can select the days of the week.<br>
-•If you choose "Months", a "Monthly on" section will appear where you can select the day of the month.<br>
+•If you choose "Weeks", a "Repeat on" section will appear where you can select the days of the week.<br><br>
+•If you choose "Months", a "Monthly on" section will appear where you can select the day of the month.<br><br>
 *Note: The 'Repeat on' setting allows you to choose the specific days of the week for the job to repeat, only applicable if the repeat interval is set to weeks. You can select one or more days of the week.
 <p align="center">
          <img src="img2/Repeat_Job_Step_5.png" alt="Repeat Job Guide">
@@ -52,7 +52,7 @@
          <img src="img2/Repeat_Job_Step_9.png" alt="Repeat Job Guide">
 </p><br>
 
-### Scenario 2: By Occurrence
+### Scenario 2: Repeat Job By Occurrence
 *Note: <br>
 i. The job repeats until the specified number of occurrences is reached.<br>
 ii. Enter how many times the job should repeat (e.g., 2 times). <br><br>
