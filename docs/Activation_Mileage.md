@@ -21,7 +21,7 @@ The traveling mileage calculation is an additional feature separate from the nor
          <img src="img2/Activation_Mileage_Step_4.png" alt="How to activate traveling mileage calculation ?">
 </p><br>
 
-5) Click the icon below shown to activate traveling mileage calculation. <br>
+5) Click the icon below to activate the traveling mileage calculation. <br>
 <p align="center">
          <img src="img2/Activation_Mileage_Step_5.png" alt="How to activate traveling mileage calculation ?">
 </p><br>
