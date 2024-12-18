@@ -3,18 +3,18 @@
 1. Create Job, and save<br>
 
   <p align="center">
-       <img src="img/How_to_Choose_Contact_for_Job_Step_1.png" alt="Choose_Contact_for_Job">
+       <img src="img2/How_to_Choose_Contact_for_Job_NewStep_1.png" alt="Choose_Contact_for_Job">
      </p><br>
 
 2. Click to the job, go to Phone details dropdown arrow and choose contact<br>
    (Dont have to edit the job, just directly click the dropdown arrow)<br>
 
    <p align="center">
-       <img src="img/How_to_Choose_Contact_for_Job_Step_2.png" alt="Choose_Contact_for_Job">
+       <img src="img2/How_to_Choose_Contact_for_Job_NewStep_2.png" alt="Choose_Contact_for_Job">
      </p><br>
 
      <p align="center">
-       <img src="img/How_to_Choose_Contact_for_Job_Step_3.png" alt="Choose_Contact_for_Job">
+       <img src="img2/How_to_Choose_Contact_for_Job_NewStep_3.png" alt="Choose_Contact_for_Job">
      </p><br>
 
    Note:
