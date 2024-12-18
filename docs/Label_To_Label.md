@@ -49,7 +49,7 @@
          <img src="img2/Label_To_Label_Step_9.png" alt="Label-to-Label Mapping">
 </p><br>
 
-9) Edit description and save project. <br>
+9) Write description and save project. <br>
 <p align="center">
          <img src="img2/Label_To_Label_Step_10.png" alt="Label-to-Label Mapping">
 </p><br>
