@@ -1,29 +1,28 @@
 ## What is ISO field?
-#### Definition: Field that allows you to put the form version number at PDF
+#### The ISO field for the document number stores and standardizes document identifiers, ensuring consistent formatting and easy tracking across systems.
 
 1) Select left corner menu icon to open sidebar. <br>
 <p align="center">
          <img src="img2/ISO_Field_Step_1.png" alt="What is ISO field?">
 </p><br>
 
-2) Select 'Template Settings', under it select 'Digital Form Templates' and continue select 'PDF Template Customization'. <br>
+2) Go to Template Setting, select Digital Form Template and then choose PDF Template Customization. <br>
 <p align="center">
          <img src="img2/ISO_Field_Step_2.png" alt="What is ISO field?">
 </p><br>
 
-3) Select category and select 'Quotation'. <br>
+3) Select Digital Form Template and Digital Form Category. <br>
 <p align="center">
          <img src="img2/ISO_Field_Step_3.png" alt="What is ISO field?">
          <img src="img2/ISO_Field_Step_4.png" alt="What is ISO field?">
 </p><br>
 
-4) Select setting icon beside ISO Field. <br>
+4) Select setting icon next to the ISO Field. <br>
 <p align="center">
          <img src="img2/ISO_Field_Step_5.png" alt="What is ISO field?">
 </p><br>
 
-5) The position decide where the ISO Field in the PDF will located, while the ISO name represent the name of the ISO Field. <br>
-   Example: ISO name write 'FORM A' and tick the checkbox, then click 'Done' to proceed.<br>
+5) Choose ISO Field colour, position and the ISO Name and then click done. <br>
 <p align="center">
          <img src="img2/ISO_Field_Step_6.png" alt="What is ISO field?">
          <img src="img2/ISO_Field_Step_7.png" alt="What is ISO field?">
