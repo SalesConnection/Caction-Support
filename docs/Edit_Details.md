@@ -4,7 +4,7 @@
 #### Scenario 1 : (Web) Edit Job Details
 1) Select an existing job that want to edit. <br>
 <p align="center">
-         <img src="img2/Edit_Details_Step_1" alt="Edit Job Details">
+         <img src="img2/Edit_Details_Step_1.png" alt="Edit Job Details">
 </p><br>
 
 2) Click the three dot icon and select 'Edit Job'.<br>
