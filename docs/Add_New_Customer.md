@@ -276,7 +276,7 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
        <img src="img/Add_New_Customer_Mobile_Step_3.png" alt="Add New Customer Mobile Step 3" style="width: 30%; height: auto;">
      </p>
 
-  4. Click on the "tick" icon to save the customer.<br>
+  4. Click on the "Save" button to save the customer.<br>
      
      <p align="center">
        <img src="img/Add_New_Customer_Mobile_Step_4.png" alt="Add New Customer Mobile Step 4" style="width: 30%; height: auto;">
