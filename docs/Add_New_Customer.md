@@ -341,19 +341,19 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      *Note: Fields marked with an asterisk ( * ) are required.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Mobile_Step_6.png" alt="Add New Customer2 Mobile Step 6">
+       <img src="img/Add_New_Customer2_Mobile_Step_6.png" alt="Add New Customer2 Mobile Step 6" style="width: 30%; height: auto;">
      </p>
   
   7. Click on the "Save" button to save the customer.<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer2_Mobile_Step_7.png" alt="Add New Customer2 Mobile Step 7">
+       <img src="img/Add_New_Customer2_Mobile_Step_7.png" alt="Add New Customer2 Mobile Step 7" style="width: 30%; height: auto;">
      </p>
 
   8. The new customer is added successfully when this prompt appears. You may continue with creating a new Job<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Mobile_Step_8.png" alt="Add New Customer2 Mobile Step 8">
+       <img src="img/Add_New_Customer2_Mobile_Step_8.png" alt="Add New Customer2 Mobile Step 8" style="width: 30%; height: auto;">
      </p>
      <br><br><br>
 
