@@ -246,14 +246,14 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
   1. At the mobile app's navigation bar, go to Customer.<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_1.png" alt="Add New Customer Mobile Step 1">
+       <img src="img/Add_New_Customer_Mobile_Step_1.png" alt="Add New Customer Mobile Step 1" style="width: 30%; height: auto;">
      </p>
 
   2. Click on the "+" button to add new customer.<br>
      *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new Customer.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_2.png" alt="Add New Customer Mobile Step 2">
+       <img src="img/Add_New_Customer_Mobile_Step_2.png" alt="Add New Customer Mobile Step 2" style="width: 30%; height: auto;">
      </p>
   
   3. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
@@ -273,19 +273,19 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
      *Note: Fields marked with an asterisk ( * ) are required.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_3.png" alt="Add New Customer Mobile Step 3">
+       <img src="img/Add_New_Customer_Mobile_Step_3.png" alt="Add New Customer Mobile Step 3" style="width: 30%; height: auto;">
      </p>
 
   4. Click on the "tick" icon to save the customer.<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_4.png" alt="Add New Customer Mobile Step 4">
+       <img src="img/Add_New_Customer_Mobile_Step_4.png" alt="Add New Customer Mobile Step 4" style="width: 30%; height: auto;">
      </p>
 
   5. The new customer is added successfully when this prompt appears.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer_Mobile_Step_5.png" alt="Add New Customer Mobile Step 5">
+       <img src="img/Add_New_Customer_Mobile_Step_5.png" alt="Add New Customer Mobile Step 5" style="width: 30%; height: auto;">
      </p>
      <br><br>
 
@@ -296,32 +296,32 @@ Note: In your system, Customer may have been renamed to other (i.e Site, Client,
   1. At the mobile app's navigation bar, go to Schedule.<br>
      
      <p align="center">
-       <img src="img/Add_New_Customer2_Mobile_Step_1.png" alt="Add New Customer2 Mobile Step 1">
+       <img src="img/Add_New_Customer2_Mobile_Step_1.png" alt="Add New Customer2 Mobile Step 1" style="width: 30%; height: auto;">
      </p>
 
   2. Click on the "+" button to create new job.<br>
      *Note: If you do not see the "+" button, you may need to request permission or help from your Admin to register new job.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Mobile_Step_2.png" alt="Add New Customer2 Mobile Step 2">
+       <img src="img/Add_New_Customer2_Mobile_Step_2.png" alt="Add New Customer2 Mobile Step 2" style="width: 30%; height: auto;">
      </p>
 
   3. Select the job category.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Mobile_Step_3.png" alt="Add New Customer2 Mobile Step 3">
+       <img src="img/Add_New_Customer2_Mobile_Step_3.png" alt="Add New Customer2 Mobile Step 3" style="width: 30%; height: auto;">
      </p>
   
   4. Click on the "+" button to select customer for the job.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Mobile_Step_4.png" alt="Add New Customer2 Mobile Step 4">
+       <img src="img/Add_New_Customer2_Mobile_Step_4.png" alt="Add New Customer2 Mobile Step 4" style="width: 30%; height: auto;">
      </p>
   
   5. Click "+" to add new customer.<br>
 
      <p align="center">
-       <img src="img/Add_New_Customer2_Mobile_Step_5.png" alt="Add New Customer2 Mobile Step 5">
+       <img src="img/Add_New_Customer2_Mobile_Step_5.png" alt="Add New Customer2 Mobile Step 5" style="width: 30%; height: auto;">
      </p>
   
   6. Fill out the details of the new Customer. Available fields may differ depending on your company's system setup.<br>
