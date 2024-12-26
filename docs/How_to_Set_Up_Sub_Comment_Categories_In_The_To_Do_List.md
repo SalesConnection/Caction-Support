@@ -19,6 +19,10 @@
        <img src="img2/How_to_Set_Up_Sub_Comment_Categories_In_The_To_Do_List_Step_4.png" alt="How to Set Up Sub Comment Categories in the To-Do List Step 4">
     </p><br>
 
+    <p align="center">
+       <img src="img2/How_to_Set_Up_Sub_Comment_Categories_In_The_To_Do_List_Step_5.png" alt="How to Set Up Sub Comment Categories in the To-Do List Step 4">
+    </p><br>
+
 *Note: If the required comment category is not listed, you may visit [https://support.caction.com](https://support.caction.com/Comment_Category_Segmentation.html) to adjust the comment category segmentation.
 
 **Related Articles**<br>
