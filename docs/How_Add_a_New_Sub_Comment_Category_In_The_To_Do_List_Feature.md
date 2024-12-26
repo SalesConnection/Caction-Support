@@ -1,6 +1,6 @@
 ## How to Add a New Sub Comment Category In The To-Do List Feature
 
-1. Click the sidebar and go to Wizard Page<br>
+1. From Main Navigation and go to Wizard Page<br>
 
   <p align="center">
        <img src="img2/How_Add_a_New_Sub_Comment_Category_In_The_To_Do_List_Feature_NewStep_1.png" alt="How to Add a New Sub Comment Category In The To-Do List Feature Step 1">
