@@ -119,7 +119,7 @@ Updated: 24 May 2024<br>
   5. Click "Download" to download the file needed.<br>
 
      <p align="center">
-       <img src="img/Download_PDF_File.png" alt="Download PDF File">
+       <img src="img/Download_Export_Button.png" alt="Download PDF File">
      </p>
 
   6. The file downloaded can be viewed in your desktop "File Explorer".<br>
