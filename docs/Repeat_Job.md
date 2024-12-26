@@ -1,4 +1,4 @@
-## Repeat Job Guide
+## How to Create Repeat Job
 
 1) Select '+ Add Job' button to start create job. <br>
 <p align="center">
@@ -17,11 +17,10 @@
 </p><br>
 
 4) Set the frequency of the job to repeat. <br>
-*Note: Choose how often the job should repeat.<br>
 <b>Example:</b> <br>
-<b>Repeat every 1 day </b> means the job will repeat every day.<br><br>
-<b>Repeat every 1 week </b> means the job will repeat every week.<br><br>
-<b>Repeat every 1 month </b> means the job will repeat every month.<br><br>
+<b>Repeat every 1 day </b> means the job will repeat every day.<br>
+<b>Repeat every 1 week </b> means the job will repeat every week.<br>
+<b>Repeat every 1 month </b> means the job will repeat every month.<br>
          <img src="img2/Repeat_Job_Step_4.png" alt="Repeat Job Guide">
 </p><br>
 
@@ -53,9 +52,7 @@
 </p><br>
 
 ### Scenario 2: Repeat Job By Occurrence
-*Note: <br>
-i. The job repeats until the specified number of occurrences is reached.<br>
-ii. Enter how many times the job should repeat (e.g., 2 times). <br><br>
+The job repeats until the specified number of occurrences is reached. <br>
 9)  Select ‘After’ and set how many times the job will repeat. <br>
 <p align="center">
          <img src="img2/Repeat_Job_Step_10.png" alt="Repeat Job Guide">
