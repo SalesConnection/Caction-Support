@@ -1,39 +1,74 @@
 
 
 
-## How to Change Default Digital Form Email Sender Setting?
+## How to Verify Email Addresses in a Digital Form Email?
 
 The email feature allows the company to send digital form with a verified email address. The email can default sender role, such as primary, CC, BCC, or Tech Email. <br><br>
 
-1. At the navigation bar, go to User Management -> Company Profile Settings. Or click on the link https://system.caction.com/settings/companysettings <br>
+1. From the <b>Main Navigation Bar</b>, go to <b>User Management</b> and select <b>Company Profile Settings</b>. Alternatively, you can directly access this page by clicking the link below: https://system.caction.com/settings/companysettings <br>
+
+<p align="center">
+  <img src="img2/changeEmail2.png" alt="changeEmail2" width="200" height="300">
+</p>
+
+2. Navigate to the <b>Email List</b>. A list of associated email addresses will be displayed. <br>
+
+<p align="center">
+  <img src="img2/changeEmail3.png" alt="changeEmail3" width="550" height="300">
+</p>
+
+3. If the email address you nedd is not listed, add a new one by clicking the '+' icon at the bottom of the list. <br>
+
+4. Unverified email addresses are marked with a red exclamation mark (!). To verify an email, simply click on the red exclamation mark next to the respective address <br>
+
+5. Once the email is successfully verified, the red exlamation mark will disappear.<br><br>
+
+## How to Change the Primary Sending Email for Digital Form Emails?
+
+1. From the <b>Main Navigation Bar</b>, go to <b>User Management</b> and select <b>Company Profile Settings</b>. Alternatively, you can directly access this page by clicking the link below: https://system.caction.com/settings/companysettings <br>
 
 <p align="center">
   <img src="img2/first - change email.png" alt="Change email 1" width="600" height="300">
 </p>
 
-2. Click Email List, a list of email will be shown. <br>
+ 2. Locate the email list and click on the <b>three-dot</b> icon next to the email address you want to set as the priary sender.<br>
+ 
+ 3. From the dropdown menu, select '<b>Set as Primary</b>'.<br>
+ 
+ 4. The selected email address will now be updated as the primary sender. You can verify this change in both the <b>Company Profile</b> and the <b>Digital Form Email Settings</b> sections.<br>
+ <p align="center">
+  <img src="img2/changeEmail4.png" alt="changeEmail4" width="550" height="300">
+</p>
 
-3. Click on the three dot next to the email to choose the default sender role for the email. <br>
+## How to Set CC and BCC in Digital Form Emails?
 
-4. The red exclamation mark next to the email indicates that the email is unverified. Click on the red exclamation mark to verify the email. <br><br>
-
-## To Set Digital Form Default Sender
-
-1. At the navigation bar, go to Company Settings-> Digital Form Setting -> Digital Form Email Setting. Or click on the link https://system.caction.com/ServiceReport/digitalReportEmail<br>
+1. From the <b>Main Navigation Bar</b>, go to <b>Company Settings</b>, go to <b> Digital Form Settings</b>, and select <b>Digital Form Email Settings</b>.<br>
 
 <p align="center">
   <img src="img2/second - change email.png" alt="Change email 2" width="600" height="300">
 </p>
 
-2. Select the digital form to set the sender. <br>
+2. Select the <b>Digital Form</b> <br>
 
-3. Select a user(E.g SC Support Staff). At the "From" field, enter the email to be used as sender. The SC Support Staff will receive the Digital Form email from this specified sender email.<br>
+3. Select a user(E.g SC Support Staff) for whom you want to set the CC or BCC.<br>
+
+4. Click on the CC field section to begin adding email addresses.<br>
+
+5. From the displayed list, select the desired email address.<br>
+
+6. If the required email is not listed, refer to [How to Verify Email Addresses in a Digital Form Email?](#how-to-verify-email-addresses-in-a-digital-form-email) to add it to the list.<br>
+
+7. After selecting the email addresses, click <b> Save </b> to apply the changes.<br>
+
+8. If you need to configure CC/BCC for another user, repeat the same process for the next user.<br>
+
+9. If the settings need to be applied to all users, select the <b>Apply Changes to All Users</b> option.<br>
+
    
 <p align="center">
   <img src="img2/third - change email.png" alt="Change email 3" width="600" height="50">
 </p>
 
-4. If the user wants to apply changes to all users, they can tick the checkbox in the bottom left corner. Click Save to apply the email sending settings.
 <br><br><br>
 
 **Related Articles**
