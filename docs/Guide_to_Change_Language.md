@@ -1,13 +1,13 @@
 ## How to Change the App Language
 ### Language change is only supported on the mobile app.
 
-1. Under navigation bar > go to Dashboard<br>
+1. Under navigation bar, go to Dashboard<br>
 
 <p align="center">
          <img src="img2/Guide_to_Change_Language_Step_1.png" alt="Guide to Change Language" style="width: 40%; height: auto;">
 </p><br>
 
-2. Click people icon at the right corner.<br>
+2. Click profile icon at the right corner.<br>
 
 <p align="center">
          <img src="img2/Guide_to_Change_Language_Step_2.png" alt="Guide to Change Language" style="width: 40%; height: auto;">
