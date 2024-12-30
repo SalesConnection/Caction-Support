@@ -18,13 +18,13 @@ Updated: 30 December 2024<br>
 1. At the mobile app's navigation bar, go to Schedule.<br>
      
    <p align="center">
-     <img src="img/Add_New_Job_Mobile_Step_1.png" alt="Add New Job Mobile Step 1">
+     <img src="img/Add_New_Job_Mobile_Step_1.png" alt="Add New Job Mobile Step 1" style="width: 40%; height: auto;">
    </p>
 
 2. Click on the "+" button to add new job.<br>
 
    <p align="center">
-     <img src="img/Add_New_Job_Mobile_Step_2.png" alt="Add New Job Mobile Step 2">
+     <img src="img/Add_New_Job_Mobile_Step_2.png" alt="Add New Job Mobile Step 2" style="width: 40%; height: auto;">
    </p>
 
    *Note: If you do not see a “+” button, you may need to request permission or help from your Admin to register new job.
@@ -32,7 +32,7 @@ Updated: 30 December 2024<br>
 3. Select the job category.<br>
 
    <p align="center">
-     <img src="img/Add_New_Job_Mobile_Step_3.png" alt="Add New Job Mobile Step 3">
+     <img src="img/Add_New_Job_Mobile_Step_3.png" alt="Add New Job Mobile Step 3" style="width: 40%; height: auto;">
    </p>
 
    *Note: Please select the correct job category before proceeding. Different categories may have different requirements for different purposes.<br>
@@ -55,19 +55,19 @@ Updated: 30 December 2024<br>
    *Note: Fields marked with an asterisk ( * ) are required.<br>
 
    <p align="center">
-     <img src="img/Add_New_Job_Mobile_Step_4.png" alt="Add New Job Mobile Step 4">
+     <img src="img/Add_New_Job_Mobile_Step_4.png" alt="Add New Job Mobile Step 4" style="width: 40%; height: auto;">
    </p>
      
 5. Click on the "Save Job" button.<br>
      
    <p align="center">
-     <img src="img/Add_New_Job_Mobile_Step_5.png" alt="Add New Job Mobile Step 5">
+     <img src="img/Add_New_Job_Mobile_Step_5.png" alt="Add New Job Mobile Step 5" style="width: 40%; height: auto;">
    </p>
 
 6. The new job has been saved successfully when this prompt appears.<br>
 
    <p align="center">
-     <img src="img/Add_New_Job_Mobile_Step_6.png" alt="Add New Job Mobile Step 6">
+     <img src="img/Add_New_Job_Mobile_Step_6.png" alt="Add New Job Mobile Step 6" style="width: 40%; height: auto;">
    </p>
    <br><br>
    
