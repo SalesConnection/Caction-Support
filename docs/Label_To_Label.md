@@ -25,7 +25,8 @@
 ### How Label to Label works ?
 *Note: Data Synchronization: Changes made in the source field will update the destination field automatically. <br>
 4) The values entered in the Project level will automatically populate in the corresponding fields at the Job level. <br>
-*Note: The mapping follows a top-down hierarchy, transferring values from the upper data level (Project) to the lower data level (Job). This process is one-directional and does not support transferring values in the opposite direction (Job to Project). <br>
+*Note:<br>
+The mapping follows a top-down hierarchy, transferring values from the upper data level (Project) to the lower data level (Job). This process is one-directional and does not support transferring values in the opposite direction (Job to Project).   <br>
 
 <p align="center">
          <img src="img2/Label_To_Label_Step_5.png" alt="Label-to-Label Mapping">
