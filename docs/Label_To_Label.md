@@ -29,40 +29,6 @@
 
 <p align="center">
          <img src="img2/Label_To_Label_Step_5.png" alt="Label-to-Label Mapping">
-</p><br>
-<!---
-5) Select category and save it. <br>
-<p align="center">
          <img src="img2/Label_To_Label_Step_6.png" alt="Label-to-Label Mapping">
 </p><br>
---
-6) Click 'Select Customer'. <br>
-<p align="center">
-         <img src="img2/Label_To_Label_Step_7.png" alt="Label-to-Label Mapping">
-</p><br>
---
-7) Select customer. <br>
-<p align="center">
-         <img src="img2/Label_To_Label_Step_8.png" alt="Label-to-Label Mapping">
-</p><br>
---
-8) Click '+' icon to create project. <br>
-<p align="center">
-         <img src="img2/Label_To_Label_Step_9.png" alt="Label-to-Label Mapping">
-</p><br>
---
-10) Select created project to attach. <br>
-<p align="center">
-         <img src="img2/Label_To_Label_Step_11.png" alt="Label-to-Label Mapping">
-</p><br>
--->
 
-5) Write description and save project. <br>
-<p align="center">
-         <img src="img2/Label_To_Label_Step_10.png" alt="Label-to-Label Mapping">
-</p><br>
-
-6) Project description synchronize to the Job description <br>
-<p align="center">
-         <img src="img2/Label_To_Label_Step_12.png" alt="Label-to-Label Mapping">
-</p><br>
