@@ -51,17 +51,18 @@
          <img src="img2/Label_To_Label_Step_9.png" alt="Label-to-Label Mapping">
 </p><br>
 --
-9) Write description and save project. <br>
-<p align="center">
-         <img src="img2/Label_To_Label_Step_10.png" alt="Label-to-Label Mapping">
-</p><br>
---
 10) Select created project to attach. <br>
 <p align="center">
          <img src="img2/Label_To_Label_Step_11.png" alt="Label-to-Label Mapping">
 </p><br>
 -->
-5) Project description synchronize to the Job description <br>
+
+5) Write description and save project. <br>
+<p align="center">
+         <img src="img2/Label_To_Label_Step_10.png" alt="Label-to-Label Mapping">
+</p><br>
+
+6) Project description synchronize to the Job description <br>
 <p align="center">
          <img src="img2/Label_To_Label_Step_12.png" alt="Label-to-Label Mapping">
 </p><br>
