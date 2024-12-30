@@ -1,5 +1,5 @@
 ## How to Create Digital Form in Mobile App
-### Below is an example of how to create a digital form for a job. Creating a digital form will be the same for Customer, Project, and Asset. 
+### The steps below demonstrate how to create a digital form from a job. The process for creating a digital form is the same across all data level, including Customer, Project, and Asset.
 #### Scenario 1 : Create Digital Form from to do list.
 1) Select Job <br>
 
