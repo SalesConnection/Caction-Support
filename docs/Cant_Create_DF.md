@@ -29,7 +29,7 @@ You can choose a user to edit instead of editing the company settings. <br>
          <img src="img2/Cant_Create_DF_Step_7.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
 </p><br>
 
-6) Ensure that the creation control is set to 'Allow Access'. Then, save the access settings. <br>
+6) Ensure that the creation control for the required Digital Form is set to 'Allow Access', and save the updated access settings. <br>
 <p align="center">
 <!--          <img src="img2/Cant_Create_DF_Step_8.png" alt="I can access Digital Form. Why I can’t create Digital Form ?"> -->
          <img src="img2/Cant_Create_DF_Step_10.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
