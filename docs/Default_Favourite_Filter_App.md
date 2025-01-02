@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 23 May 2024<br>
-Updated: 23 May 2024<br>
+Updated: 1 January 2025<br>
 ## ⭐ How to Set Customized Favourite Filter as Default - App
 
 1. For example, if you want to set a favourite filter for Job Schedule. Click "Schedule".
@@ -15,22 +15,35 @@ Updated: 23 May 2024<br>
      <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_2.png" alt="Set Favourite Filter As Default Step 2" width="280" height="550">
    </p>
    
-3. Click and hold on the item that you want to set it as default.
+3. Click the manage filter button.
 
    <p align="center">
      <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_3.png" alt="Set Favourite Filter As Default Step 3" width="280" height="550">
    </p>
 
+4. Select the filter you want to set as default and click the three dots icon.
+
+   <p align="center">
+     <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_4.png" alt="Set Favourite Filter As Default Step 3" width="280" height="550">
+   </p>
+
+5. Click set as default.
+
+   <p align="center">
+     <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_5.png" alt="Set Favourite Filter As Default Step 3" width="280" height="550">
+   </p>
+
 4. The favourite filter has been save as default.
 
    <p align="center">
-     <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_4.png" alt="Set Favourite Filter As Default Step 4" width="280" height="550">
+     <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_6.png" alt="Set Favourite Filter As Default Step 4" width="280" height="550">
+      <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_7.png" alt="Set Favourite Filter As Default Step 4" width="280" height="550">
    </p>
    
 5. Here's the result.
 
    <p align="center">
-     <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Result.png" alt="Set Favourite Filter As Default Result" width="280" height="550">
+     <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_8.png" alt="Set Favourite Filter As Default Step 4" width="280" height="550">
    </p>
 
 <br><br><br>
