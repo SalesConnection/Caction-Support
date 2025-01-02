@@ -31,11 +31,12 @@ The job will repeats until the specified end date.<br>
 5) Click on "Days" and select your preferred option: Days, Weeks, or Months.  <br>
 •If you choose "Weeks", a "Repeat on" section will appear where you can select the days of the week.<br><br>
 •If you choose "Months", a "Monthly on" section will appear where you can select the day of the month.<br><br>
-*Note: The 'Repeat on' setting allows you to choose the specific days of the week for the job to repeat, only applicable if the repeat interval is set to weeks. You can select one or more days of the week.
 <p align="center">
          <img src="img2/Repeat_Job_Step_5.png" alt="Repeat Job Guide">
          <img src="img2/Repeat_Job_Step_6.png" alt="Repeat Job Guide">
-</p><br>
+</p>
+*Note: The 'Repeat on' setting allows you to choose the specific days of the week for the job to repeat, only applicable if the repeat interval is set to weeks. You can select one or more days of the week.
+<br><br>
 
 6) Select end date for when the repeat job should stop recurring. (e.g., Dec 11, 2024). <br>
 <p align="center">
