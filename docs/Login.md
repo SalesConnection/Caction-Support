@@ -48,7 +48,7 @@ Updated: 23 May 2024<br>
        <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
      </p>
   
-  2. Open the Caction's App, click the "Login" button then enter the **registered** phone number and click "Login".<br>
+  2. Open the Caction's App, enter the **registered** phone number and click "Send OTP".<br>
 
      <p align="center">
        <img src="img/Login_Page_Mobile.png" alt="Mobile Login" width="280" height="550">
@@ -62,7 +62,7 @@ Updated: 23 May 2024<br>
 
      *Note: Please wait **at least 5 minutes** before applying a new "OTP Code".
 
-  4. Enter the "OTP Code" you received and click the "SUBMIT" button to login to the app.<br>
+  4. Enter the "OTP Code" you received and click the "Verify" button to login to the app.<br>
 
      <p align="center">
        <img src="img/Login_Code.png" alt="Login Code" width="280" height="550">
@@ -81,7 +81,7 @@ Updated: 23 May 2024<br>
        <img src="img/Download_app.png" alt="Playstore" width="280" height="550">
      </p>
   
-  2. Open the Caction's App, click the "Login" button and choose "Login via Email".<br>
+  2. Open the Caction's App, choose "Email".<br>
 
      <p align="center">
        <img src="img/Login_Via_Email.png" alt="Email Login" width="280" height="550">
@@ -99,7 +99,7 @@ Updated: 23 May 2024<br>
        <img src="img/App_Email_Login_Step_4.png" alt="Email Login" width="280" height="550">
      </p>
 
-  5. Click "LOGIN" to login  to your account.
+  5. Click "Login" to login  to your account.
 
      <p align="center">
        <img src="img/App_Email_Login_Step_5.png" alt="Email Login" width="280" height="550">
