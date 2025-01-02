@@ -34,7 +34,7 @@ Updated: 1 January 2025<br>
 6. When you log in the next time, it will automatically show you the results applying the default filter you’ve selected.
 
    <p align="center">
-     <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Result.png" alt="Set Customized Favourite FIlter as default Step 5">
+     <img src="img/How_to_Set_Customize_Favourite_Filter_as_default_Step_5.png" alt="Set Customized Favourite FIlter as default Step 5">
    </p>
 
 <br><br><br>
