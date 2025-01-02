@@ -1,5 +1,13 @@
 ## How to Create Repeat Job
 
+**Navigate to the section by clicking it.**<br>
+- [Desktop Version](#section1)<br>
+- [Mobile Version](#section2)
+<br><br><br>
+
+<a id="section1"></a>
+**Desktop Version**
+
 1) Select '+ Add Job' button to start create job. <br>
 <p align="center">
          <img src="img2/Repeat_Job_Step_1.png" alt="Repeat Job Guide">
@@ -69,3 +77,7 @@ The job repeats until the specified number of occurrences is reached. <br><br>
 <p align="center">
          <img src="img2/Repeat_Job_Step_12.png" alt="Repeat Job Guide">
 </p><br>
+
+<a id="section2"></a>
+**Mobile Version**
+1) Select '+ ' button to start create job.
