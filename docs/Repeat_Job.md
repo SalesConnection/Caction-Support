@@ -1,4 +1,5 @@
 ## How to Create Repeat Job
+*Note: A repeat job can only be set up during job creation.
 
 1) Select '+ Add Job' button to start create job. <br>
 <p align="center">
