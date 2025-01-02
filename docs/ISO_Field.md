@@ -26,9 +26,7 @@ The ISO field is used for the document number stores and standardizes document i
 
 5) Choose ISO Field colour, position and the ISO Name and then click done. <br>
 <p align="center">
-         <img src="img2/ISO_Field_Step_6.png" alt="What is ISO field?">
-         <img src="img2/ISO_Field_Step_7.png" alt="What is ISO field?">
-         <img src="img2/ISO_Field_Step_11.png" alt="What is ISO field?">
+         <img src="img2/ISO_Field_Step_12.png" alt="What is ISO field?">
 </p><br>
 
 6) Click 'Save' to save the settings and confirm it. <br>
