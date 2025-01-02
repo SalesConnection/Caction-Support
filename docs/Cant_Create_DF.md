@@ -1,35 +1,35 @@
 ## I can access Digital Form. Why I can’t create Digital Form ?
 *Note: If you are unable to create Digital Form, please reach out to your admin for assistance. Only certain admins can perform this action.<br>
 
-1) Select left corner menu icon to open sidebar. <br>
+1. Select left corner menu icon to open sidebar. <br>
 <p align="center">
          <img src="img2/Cant_Create_DF_Step_1.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
 </p><br>
 
-2) Select User Management. <br>
+2. Select User Management. <br>
 <p align="center">
          <img src="img2/Cant_Create_DF_Step_3.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
 </p><br>
 
-3) Select User Account Customisation. <br>
+3. Select User Account Customisation. <br>
 <p align="center">
          <img src="img2/Cant_Create_DF_Step_4.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
 </p><br>
 
-4) Select the pen icon to edit the settings. Choosing ‘Company setting’ will reflect the setting to all users. <br>
+4. Select the pen icon to edit the settings. Choosing ‘Company setting’ will reflect the setting to all users. <br>
 You can choose a user to edit instead of editing the company settings. <br>
 <p align="center">
 <!--          <img src="img2/Cant_Create_DF_Step_5.png" alt="I can access Digital Form. Why I can’t create Digital Form ?"> -->
          <img src="img2/Cant_Create_DF_Step_2.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
 </p><br>
 
-5) Select Access Settings. <br>
+5. Select Access Settings. <br>
 <p align="center">
 <!--          <img src="img2/Cant_Create_DF_Step_6.png" alt="I can access Digital Form. Why I can’t create Digital Form ?"> -->
          <img src="img2/Cant_Create_DF_Step_7.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
 </p><br>
 
-6) Ensure that the creation control for the required Digital Form is set to 'Allow Access', and save the updated access settings. <br>
+6. Ensure that the creation control for the required Digital Form is set to 'Allow Access', and save the updated access settings. <br>
 <p align="center">
 <!--          <img src="img2/Cant_Create_DF_Step_8.png" alt="I can access Digital Form. Why I can’t create Digital Form ?"> -->
          <img src="img2/Cant_Create_DF_Step_10.png" alt="I can access Digital Form. Why I can’t create Digital Form ?">
