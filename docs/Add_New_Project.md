@@ -16,19 +16,19 @@ Updated: 20 June 2024<br>
 1. At the mobile app's navigation bar, go to Customer.<br>
      
    <p align="center">
-     <img src="img/Add_New_Project_Mobile_Step_1.png" alt="Add New Project Mobile Step 1">
+     <img src="img/Add_New_Project_Mobile_Step_1.png" alt="Add New Project Mobile Step 1" style="width: 40%; height: auto;">
    </p>
 
 2. Click on the Customer that needs to create a new project.<br>
 
    <p align="center">
-     <img src="img/Add_New_Project_Mobile_Step_2.png" alt="Add New Project Mobile Step 2">
+     <img src="img/Add_New_Project_Mobile_Step_2.png" alt="Add New Project Mobile Step 2" style="width: 40%; height: auto;">
    </p>
 
 3. Click on the "+" button.<br>
      
    <p align="center">
-     <img src="img/Add_New_Project_Mobile_Step_3.png" alt="Add New Project Mobile Step 3">
+     <img src="img/Add_New_Project_Mobile_Step_3.png" alt="Add New Project Mobile Step 3" style="width: 40%; height: auto;">
    </p>
 
    *Note: If you do not see a “+” button, you may need to request permission or help from your Admin to register new Project.<br>
@@ -36,7 +36,7 @@ Updated: 20 June 2024<br>
 4. Click the "Add Project" icon to add a new project for the customer.<br>
 
    <p align="center">
-     <img src="img/Add_New_Project_Mobile_Step_4.png" alt="Add New Project Mobile Step 4">
+     <img src="img/Add_New_Project_Mobile_Step_4.png" alt="Add New Project Mobile Step 4" style="width: 40%; height: auto;">
    </p>
      
 5. Fill out the details of the new project.<br>
@@ -56,19 +56,19 @@ Updated: 20 June 2024<br>
    | Product/Services | Select the products or services involved in the project. |
           
    <p align="center">
-     <img src="img/Add_New_Project_Mobile_Step_5.png" alt="Add New Project Mobile Step 5">
+     <img src="img/Add_New_Project_Mobile_Step_5.png" alt="Add New Project Mobile Step 5" style="width: 40%; height: auto;">
    </p>
 
 6. Click the "tick" icon to save the project.<br>
 
      <p align="center">
-       <img src="img/Add_New_Project_Mobile_Step_6.png" alt="Add New Project Mobile Step 6">
+       <img src="img/Add_New_Project_Mobile_Step_6.png" alt="Add New Project Mobile Step 6" style="width: 40%; height: auto;">
      </p>
 
 7. The new project has been saved successfully when this prompt appears.<br>
 
      <p align="center">
-       <img src="img/Add_New_Project_Mobile_Step_7.png" alt="Add New Project Mobile Step 7">
+       <img src="img/Add_New_Project_Mobile_Step_7.png" alt="Add New Project Mobile Step 7" style="width: 40%; height: auto;">
      </p>
      <br><br>
      
