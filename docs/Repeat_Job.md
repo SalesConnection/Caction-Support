@@ -105,3 +105,37 @@ The job repeats until the specified number of occurrences is reached. <br><br>
 <p align="center">
          <img src="img2/Repeat_Job_Mobile_Step_4.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
 </p><br>
+
+### Scenario 1: Repeat Job by End Date  
+The job will repeats until the specified end date.<br>
+
+5) Click on "Days" and select your preferred option: Days, Weeks, or Months.  <br>
+•If you choose "Weeks", a "Repeat on" section will appear where you can select the days of the week.<br><br>
+•If you choose "Months", a "Monthly on" section will appear where you can select the day of the month.<br><br>
+<p align="center">
+         <img src="img2/Repeat_Job_Mobile_Step_5.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+         <img src="img2/Repeat_Job_Mobile_Step_6.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+</p>
+*Note: The 'Repeat on' setting allows you to choose the specific days of the week for the job to repeat, only applicable if the repeat interval is set to weeks. You can select one or more days of the week.
+<br><br>
+
+6) Select which day want to be repeated. <br>
+<p align="center">
+         <img src="img2/Repeat_Job_Mobile_Step_7.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+</p><br>
+
+6) Select end date for when the repeat job should stop recurring. (e.g., 09 Jan 2025). <br>
+<p align="center">
+         <img src="img2/Repeat_Job_Mobile_Step_8.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+         <img src="img2/Repeat_Job_Mobile_Step_9.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+</p><br>
+
+7) Click 'Save' button.
+<p align="center">
+         <img src="img2/Repeat_Job_Mobile_Step_10.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+</p><br>
+
+8) The repeated job is set up successfully.
+<p align="center">
+         <img src="img2/Repeat_Job_Mobile_Step_11.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+</p><br>
