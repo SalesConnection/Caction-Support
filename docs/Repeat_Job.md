@@ -83,18 +83,18 @@ The job repeats until the specified number of occurrences is reached. <br><br>
 **Mobile Version**
 1) Select '+ ' button to start create job.
 <p align="center">
-         <img src="img2/Repeat_Job_Mobile_Step_1.png" alt="Repeat Job Guide">
+         <img src="img2/Repeat_Job_Mobile_Step_1.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
 </p>
 *Note: A repeat job can only be set up during job creation. <br><br>
 
 2) Select job category. <br>
 <p align="center">
-         <img src="img2/Repeat_Job_Mobile_Step_2.png" alt="Repeat Job Guide">
+         <img src="img2/Repeat_Job_Mobile_Step_2.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
 </p><br>
 
 3) Click the 'Does not repeat' button.
 <p align="center">
-         <img src="img2/Repeat_Job_Mobile_Step_3.png" alt="Repeat Job Guide">
+         <img src="img2/Repeat_Job_Mobile_Step_3.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
 </p><br>
 
 4) Set the frequency of the job to repeat. <br>
@@ -103,5 +103,5 @@ The job repeats until the specified number of occurrences is reached. <br><br>
 <b>Repeat every 1 week </b> means the job will repeat every week.<br>
 <b>Repeat every 1 month </b> means the job will repeat every month.<br><br>
 <p align="center">
-         <img src="img2/Repeat_Job_Mobile_Step_4.png" alt="Repeat Job Guide">
+         <img src="img2/Repeat_Job_Mobile_Step_4.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
 </p><br>
