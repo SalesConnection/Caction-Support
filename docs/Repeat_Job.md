@@ -139,3 +139,20 @@ The job will repeats until the specified end date.<br>
 <p align="center">
          <img src="img2/Repeat_Job_Mobile_Step_11.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
 </p><br>
+
+### Scenario 2: Repeat Job By Occurrence
+The job repeats until the specified number of occurrences is reached. <br><br>
+9)  Select occurrence option and set how many times the job will repeat. <br>
+<p align="center">
+         <img src="img2/Repeat_Job_Mobile_Step_12.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+</p><br>
+
+10) Click the 'Save' button to proceed with the selected repeat settings. <br>
+<p align="center">
+         <img src="img2/Repeat_Job_Mobile_Step_13.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+</p><br>
+
+11) The jobs will be repeated weekly on Tuesday for 2 times.  <br>
+<p align="center">
+        <img src="img2/Repeat_Job_Mobile_Step_14.png" alt="Repeat Job Guide" style="width: 40%; height: auto;">
+</p><br>
