@@ -1,5 +1,5 @@
 
-<img alt="Caction homepage" title="Homepage" src="https://caction.com/image/caction-290x80.png" width="120" height="30"/>
+<a href="https://caction.com/">Visit Our Homepage</a>
 
 Welcome to the Caction Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
 
