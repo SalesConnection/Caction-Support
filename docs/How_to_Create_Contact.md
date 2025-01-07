@@ -10,9 +10,6 @@
   <p align="center">
          <img src="img/How_to_Create_Contact_NewStep_1.png" alt="How to Create Contact">
        </p>
-       <p align="center">
-         <img src="img/How_to_Create_Contact_NewStep_2.png" alt="How to Create Contact">
-       </p>
        <p align="center"><img src="img/How_to_Create_Contact_NewStep_3.png" alt="How to Create Contact"></p><br>
 
 2. Click to the plus button to attach contact<br>
