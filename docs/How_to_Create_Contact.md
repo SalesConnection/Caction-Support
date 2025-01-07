@@ -5,7 +5,7 @@
 - [Desktop Version](How_to_Create_Contact.md)<br>
 - [Mobile Version - Phone](How_to_Create_Contact_Mobile_Version.md)<br>
 <br>
-1. Go to Customer details page, scroll down until you find the contact section. <br>
+1. Go to Customer details page, scroll down until you find the contact section. <br><br>
 
   <p align="center">
          <img src="img/How_to_Create_Contact_NewStep_1.png" alt="How to Create Contact">
