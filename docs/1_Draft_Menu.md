@@ -212,5 +212,5 @@ Feel free to explore the sections above by clicking it for more information.<br>
 Thank you for choosing Caction.
 
 
-<!--![Homepage](https://caction.com/image/caction-290x80.png){width=30}-->
+<!--![Homepage](https://caction.com/image/caction-290x80.png)-->
 <!-- [Caction-Support](https://support.caction.com/1_Draft_Menu.html) -->
