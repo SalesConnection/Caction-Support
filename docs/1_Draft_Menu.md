@@ -1,6 +1,4 @@
-<div class="header-img">
-    ![Homepage](https://caction.com/image/caction-290x80.png){width=30;}
-</div>
+
 
 Welcome to the Caction Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
 
@@ -213,4 +211,6 @@ Feel free to explore the sections above by clicking it for more information.<br>
 
 Thank you for choosing Caction.
 
+
+<!--![Homepage](https://caction.com/image/caction-290x80.png){width=30;}-->
 <!-- [Caction-Support](https://support.caction.com/1_Draft_Menu.html) -->
