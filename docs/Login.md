@@ -13,7 +13,7 @@ Updated: 23 May 2024<br>
 <a id="section1"></a>
     
 ### Desktop Version
-*Note: You can request desktop access by contacting your administrator.
+*Note: If you do not have access to the desktop version, please contact your Admin account.
   1. Visit Caction's website and click "Login".<br>
      **Open Caction's Website Here:** [https://system.caction.com/](https://system.caction.com/)<br>
 
