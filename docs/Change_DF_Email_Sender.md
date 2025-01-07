@@ -21,7 +21,7 @@ The email feature allows the company to send digital form with a verified email 
 
 4. Unverified email addresses are marked with a red exclamation mark (!). To verify an email, simply click on the red exclamation mark next to the respective address <br>
 
-5. Once the email is successfully verified, the red exlamation mark will disappear.<br><br>
+5. Once the email is successfully verified, the red exclamation mark will disappear.<br><br>
 
 ## How to Change the Primary Sending Email for Digital Form Emails?
 
