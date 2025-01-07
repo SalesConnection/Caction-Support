@@ -61,13 +61,7 @@
 
 <p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_9.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;";">
-</p><br>
-
-<p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_6.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;";">
-</p><br>
-
-<p align="center">
          <img src="img2/Create_Digital_Form_Mobile_Step_10.png" alt="How to Create Digital Form in Mobile App" style="width: 30%; height: auto;";">
 </p><br>
 
