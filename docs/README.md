@@ -1,5 +1,4 @@
 
-<a href="https://caction.com/">Visit Our Homepage</a>
 
 Welcome to the Caction Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
 
