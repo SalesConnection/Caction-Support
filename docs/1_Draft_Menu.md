@@ -211,5 +211,3 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 Feel free to explore the sections above by clicking it for more information.<br><br>
 
 Thank you for choosing Caction.
-
-<!-- [Caction-Support](https://support.caction.com/1_Draft_Menu.html) -->
