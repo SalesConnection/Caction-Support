@@ -23,12 +23,12 @@ Note: For <b>label-to-label mapping</b>, both the spelling and the <b>field type
 </p><br>
 
 ### How Label to Label works ?
-4) The values entered in the <b>Project</b>  level during Projectcreation will automatically populate in the corresponding fields at the <b>Job</b> level during Job creation. <br><br>
+4) The values entered in the <b>Project</b>  level during Project creation will automatically populate in the corresponding fields at the <b>Job</b> level during Job creation. <br><br>
 <b>Note:</b><br>
 The mapping follows a <b>top-down hierarchy</b>, transferring values from the upper data level (<b>Project</b>) to the lower data level (<b>Job</b>). This process is <b>one-directional</b> and does not support transferring values in the opposite direction (<b>Job</b> to <b>Project</b>).   <br>
 
 <p align="center">
-         <img src="img2/Label_To_Label_Step_5.png" alt="Label-to-Label Mapping" width="100%">
+         <img src="img2/Label_To_Label_Step_5.png" alt="Label-to-Label Mapping" width="100%"><br>
          <img src="img2/Label_To_Label_Step_6.png" alt="Label-to-Label Mapping" width="100%">
 </p><br>
 
