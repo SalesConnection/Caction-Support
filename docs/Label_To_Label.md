@@ -2,7 +2,7 @@
 ### How to Perform Label-to-Label Mapping (Example for Project & Job)
 #### Label-to-label mapping automatically transfers values from one field to another in different pages or modules, provided the field names are identical.
 
-*Note: For label-to-label mapping, both the spelling and the field type must match precisely to ensure accurate mapping and functionality.<br>
+Note: For label-to-label mapping, both the spelling and the field type must match precisely to ensure accurate mapping and functionality.<br>
 
 1) Select left corner menu icon to open sidebar. <br>
 <p align="center">
@@ -23,9 +23,8 @@
 </p><br>
 
 ### How Label to Label works ?
-*Note: Data Synchronization: Changes made in the source field will update the destination field automatically. <br>
 4) The values entered in the Project level during Project creation will automatically populate in the corresponding fields at the Job level during Job creation. <br><br>
-*Note:<br>
+Note:<br>
 The mapping follows a top-down hierarchy, transferring values from the upper data level (Project) to the lower data level (Job). This process is one-directional and does not support transferring values in the opposite direction (Job to Project).   <br>
 
 <p align="center">
