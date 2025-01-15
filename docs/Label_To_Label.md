@@ -23,9 +23,9 @@ Note: For label-to-label mapping, both the spelling and the field type must matc
 </p><br>
 
 ### How Label to Label works ?
-4) The values entered in the Project level during Project creation will automatically populate in the corresponding fields at the Job level during Job creation. <br><br>
+4) The values entered in the <b>Project</b>  level during Projectcreation will automatically populate in the corresponding fields at the <b>Job</b> level during Job creation. <br><br>
 Note:<br>
-The mapping follows a top-down hierarchy, transferring values from the upper data level (Project) to the lower data level (Job). This process is one-directional and does not support transferring values in the opposite direction (Job to Project).   <br>
+The mapping follows a <b>top-down hierarchy</b>, transferring values from the upper data level (<b>Project</b>) to the lower data level (<b>Job</b>). This process is <b>one-directional</b> and does not support transferring values in the opposite direction (<b>Job</b> to <b>Project</b>).   <br>
 
 <p align="center">
          <img src="img2/Label_To_Label_Step_5.png" alt="Label-to-Label Mapping" width="100%">
