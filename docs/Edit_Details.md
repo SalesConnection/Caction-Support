@@ -43,13 +43,13 @@
 
 2) Click the three dot icon and select 'Edit'.<br>
 <p align="center">
-         <img src="img2/Edit_Details_Step_6.png" alt="Edit Job Details" style="width: 30%; height: auto;">
+         <img src="img2/Edit_Details_Step_6.png" alt="Edit Job Details" style="width: 30%; height: auto;">&nbsp;&nbsp;
          <img src="img2/Edit_Details_Step_7.png" alt="Edit Job Details" style="width: 30%; height: auto;">
 </p><br>
 
 3) Edit the details and save it.<br>
 <p align="center">
-         <img src="img2/Edit_Details_Step_8.png" alt="Edit Job Details" style="width: 30%; height: auto;">
+         <img src="img2/Edit_Details_Step_8.png" alt="Edit Job Details" style="width: 30%; height: auto;">&nbsp;&nbsp;
          <img src="img2/Edit_Details_Step_9.png" alt="Edit Job Details" style="width: 30%; height: auto;">
 </p><br>
 
