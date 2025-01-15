@@ -38,7 +38,7 @@
 The job will repeats until the specified end date.<br>
 
 5) Click on "Days" and select your preferred option: Days, Weeks, or Months.  <br>
-•If you choose "Weeks", a "Repeat on" section will appear where you can select the days of the week.<br><br>
+•If you choose "Weeks", a "Repeat on" section will appear where you can select the days of the week.<br>
 •If you choose "Months", a "Monthly on" section will appear where you can select the day of the month.<br><br>
 <p align="center">
          <img src="img2/Repeat_Job_Step_5.png" alt="Repeat Job Guide">
