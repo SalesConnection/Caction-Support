@@ -1,9 +1,9 @@
 Version 1.0<br>
 Created: 23 May 2024<br>
 Updated: 1 January 2025<br>
-## ⭐ How to Set Customized Favourite Filter as Default - App
+## ⭐ How to Set Customized Favourite Filter as Default in Job Schedule - App
 
-1. For example, if you want to set a favourite filter for Job Schedule. Click "Schedule".
+1. If you want to set a favourite filter for Job Schedule. Click "Schedule".
 
    <p align="center">
      <img src="img/How_to_Set_Favourite_Filter_as_Default_In_App_Step_1.png" alt="Set Favourite Filter As Default Step 1" width="280" height="550">
