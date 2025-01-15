@@ -2,7 +2,7 @@
 ### How to Perform Label-to-Label Mapping (Example for Project & Job)
 #### Label-to-label mapping automatically transfers values from one field to another in different pages or modules, provided the field names are identical.
 
-Note: For label-to-label mapping, both the spelling and the field type must match precisely to ensure accurate mapping and functionality.<br>
+Note: For <b>label-to-label mapping</b>, both the spelling and the <b>field type</b> must match precisely to ensure accurate mapping and functionality.<br>
 
 1) Select left corner menu icon to open sidebar. <br>
 <p align="center">
