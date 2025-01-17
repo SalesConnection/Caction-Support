@@ -22,7 +22,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 ### New User
 - [How to Add New User?](Add_New_User.md)
 - [How to Add New User Category?](Add_New_User_Category.md)
-- [How to Copy Account for New User?](Copy_Account.md)
+<!-- - [How to Copy Account for New User?](Copy_Account.md) -->
 
 
 ### Updates
