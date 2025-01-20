@@ -106,7 +106,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img/Report_Page_Default_Columns_Step_7.png" alt="Report Page Default Columns Step 7">
    </p>
 
-8. If you wish to name the default columns, click "Column Group 2".
+8. If you wish to name the default columns, click "Default Columns".
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_8.png" alt="Report Page Default Columns Step 8">
@@ -118,7 +118,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img/Report_Page_Default_Columns_Step_9.png" alt="Report Page Default Columns Step 9">
    </p>
 
-10. Enter the name of the "Default Columns".
+10. Enter the name of the of customize column.
 
     <p align="center">
       <img src="img/Report_Page_Default_Columns_Step_10.png" alt="Report Page Default Columns Step 10">
