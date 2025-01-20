@@ -106,7 +106,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img/Report_Page_Default_Columns_Step_7.png" alt="Report Page Default Columns Step 7">
    </p>
 
-8. If you wish to name the default columns, click "Default Columns".
+8. If you wish to name the customized columns, click "Default Columns".
 
    <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_8.png" alt="Report Page Default Columns Step 8">
@@ -118,7 +118,7 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img/Report_Page_Default_Columns_Step_9.png" alt="Report Page Default Columns Step 9">
    </p>
 
-10. Enter the name of the of customize column.
+10. Enter the name of the of customized column.
 
     <p align="center">
       <img src="img/Report_Page_Default_Columns_Step_10.png" alt="Report Page Default Columns Step 10">
@@ -130,25 +130,25 @@ The Report Page allows you to **generate** and **customize** reports across vari
       <img src="img/Report_Page_Default_Columns_Step_11.png" alt="Report Page Default Columns Step 11">
     </p>
 
-12. The "Default Columns" has been renamed successfully.
+12. The customized column has been renamed successfully.
 
     <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_12.png" alt="Report Page Default Columns Step 12">
     </p>
    
-13. On the next time you enter this page, click on the "Default Columns".
+13. On the next time you enter this page, click on the customized column.
 
     <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_13.png" alt="Report Page Default Columns Step 13">
     </p>
 
-14. Click on the "Default Columns" that you want.
+14. Click on the customized column that you want.
 
     <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_14.png" alt="Report Page Default Columns Step 14">
     </p>
 
-15. The Report with chosen "Default Columns" will be shown as below.
+15. The Report with chosen "Monthly Report" will be shown as below.
 
     <p align="center">
      <img src="img/Report_Page_Default_Columns_Step_15.png" alt="Report Page Default Columns Step 15">
