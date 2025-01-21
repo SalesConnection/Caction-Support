@@ -1,4 +1,4 @@
-## How to edit details?
+## How to edit Job details?
 
 **Navigate to the section by clicking it.**<br>
 
