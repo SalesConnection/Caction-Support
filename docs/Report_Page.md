@@ -136,10 +136,10 @@ The Report Page allows you to **generate** and **customize** reports across vari
      <img src="img/Report_Page_Default_Columns_Step_12.png" alt="Report Page Default Columns Step 12">
     </p>
    
-13. On the next time you enter this page, click on the customized column.
+13. On the next time you enter this page, click "Default Columns".
 
     <p align="center">
-     <img src="img/Report_Page_Default_Columns_Step_13.png" alt="Report Page Default Columns Step 13">
+     <img src="img/Report_Page_Default_Columns_Step_8.png" alt="Report Page Default Columns Step 13">
     </p>
 
 14. Click on the customized column that you want.
