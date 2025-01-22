@@ -2,6 +2,8 @@
 
 1. Go to Job, and Click on ‘Customer’ to expend Customer details.<br>
 
+    Note: Contacts can only be changed after the job is created. 
+
   <p align="center">
        <img src="img2/How_to_Choose_Contact_for_Job_NewStep_1.png" alt="Choose_Contact_for_Job">
      </p><br>
