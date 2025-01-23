@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 7 June 2024<br>
 Updated: 7 June 2024<br>
-## How to Edit Reminder Template?
+## How to Edit a Reminder Template?
     
   1. For example, if you wish to edit the reminder template for Project. At the desktop site's navigation bar, go to Template Settings > Reminder Templates.<br>
      **Edit Reminder Templates Here:** [https://system.caction.com/reminder/templatev2](https://system.caction.com/reminder/templatev2)<br>
