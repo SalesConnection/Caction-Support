@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 1 August 2024<br>
 Updated: 1 August 2024<br>
-## How to Configure Public Form Access in UAC?
+## How to Configure Public Form Access in UAC (Admin Only)?
 
 Decide on which team members should have access on reviewing public form submissions and take action towards it through the access control.<br><br>
 
