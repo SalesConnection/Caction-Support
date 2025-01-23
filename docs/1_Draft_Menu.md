@@ -12,8 +12,8 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Add a New Asset?](How_to_Add_New_Asset.md)
 - [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
 - [How to Filter Jobs by Date Range?](Job_Filter_by_Date_Range.md)
-<!-- [How to Change the Default Contact in a Job?]() -->
 - [How to Create a Public Form?](Creation_of_Public_Form.md)
+<!-- [How to Change the Default Contact in a Job?]() -->
 
 ### Check-In / Check-Out
 - [I Forgot to Check Out. What Should I Do?](Assist_Check_Out.md)
@@ -23,21 +23,21 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 
 ### Dashboard
 - [Job Dashboard](Job_Dashboard.md)
-<!-- [Project Dashboard]()-->
 - [Asset Dashboard](Asset_Dashboard.md)
+<!-- [Project Dashboard]()-->
 <!-- [Digital Form Dashboard]()-->
 
 ### Customer & Asset List
 - [Customer List](Customer_List.md)
-- [Asset List]()
 - [How to Add a New Customer?](Add_New_Customer.md)
 - [Data Level Structure](Data_Level_Structure.md)
 - [How to Add a New Asset?](How_to_Add_New_Asset.md)
 - [How to Add a New Project?](Add_New_Project.md)
 - [How to Add a New Product/Service?](Add_New_Product&Service_List.md)
-- [How to Create a Contact?]()
 - [How to Set a Customized Favourite Filter as Default (Desktop)?](Default_Favourite_Filter.md)
 - [How to Set a Customized Favourite Filter as Default (App)?](Default_Favourite_Filter_App.md)
+<!-- [Asset List]()-->
+<!-- [How to Create a Contact?]()-->
 
 ### Business Reports
 - [Report Page](Report_Page.md)
@@ -47,8 +47,8 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Set a Customized Favourite Filter as Default (Desktop)?](Default_Favourite_Filter.md)
 - [How to Set a Customized Favourite Filter as Default (App)?](Default_Favourite_Filter_App.md)
 - [How to Use the Update Report Filter?](Update_Report_Page.md)
-- [How to Filter Assets Without an Attached Customer?]()
 - [How to Find Deleted Jobs or Identify Who Deleted a Job?](Filter_Deleted_Job.md)
+<!-- [How to Filter Assets Without an Attached Customer?]()-->
 
 ### Business Metrics
 - [Understanding the Metrics Dashboard](Metric_Dashboard.md)
@@ -57,8 +57,8 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 ### Business Map
 - [Business Travel (List View)](Business_Travel.md)
 - [Business Travel (Table View)](Business_Travel_Table.md)
-- [Overview]()
-- [Geolocation Beta]()
+<!-- [Overview]()-->
+<!-- [Geolocation Beta]()-->
 
 ### HR Suite
 - [How to Use Claim Management?](Claim_Management.md)
@@ -89,14 +89,14 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 
 ### Company Settings
 - [How to Set Up the To-Do List?](To_Do_List.md)
-- [Status Segmentation Guide]()
 - [Comment Category Segmentation Guide](Comment_Category_Segmentation.md)
-- [How to Add a New Category for Customers, Projects, Jobs or Digital forms?](Add_New_Category_in_Customer_Project_Job.md)-[df](Add_New_Category_in_Digital_Form.md)
-- [How to Add a New Status for Customers, Projects, Jobs or Digital Forms?](Add_New_Status_in_Customer_Project_Job.md)-[df](Add_New_Status_in_Digital_Form.md)
+- [How to Add a New Category for Customers, Projects, Jobs or Digital forms?](Add_New_Category_in_Customer_Project_Job_DF.md)
+- [How to Add a New Status for Customers, Projects, Jobs or Digital Forms?](Add_New_Status_in_Customer_Project_Job_DF.md)
 - [How to Adjust the Geofencing Radius?](Adjust_Geofencing_Radius.md)
 - [How to Edit the Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
-- [How to Set Up Sub-Comment Categories in the To-Do List?]()
 - [Wizard: Quick Access to Configuration](Wizard_Page.md)
+<!-- [Status Segmentation Guide]()-->
+<!-- [How to Set Up Sub-Comment Categories in the To-Do List?]()-->
 
 ### User Management
 - [Understanding User Type Default Access](User_Types_Default_Access.md)
