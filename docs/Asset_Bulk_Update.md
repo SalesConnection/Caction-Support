@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 26 June 2024<br>
 Updated: 26 June 2024<br>
-## How to do Asset Bulk Update?
+## How to Perform a Bulk Update for Assets?
 
   1. At the desktop site's navigation bar, go to Import > Asset Bulk Update.<br>
      **Do Asset Bulk Update here:** [https://system.caction.com/assetbulkimport](https://system.caction.com/assetbulkimport)<br>
