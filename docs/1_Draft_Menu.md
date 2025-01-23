@@ -107,9 +107,9 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Configure Public Form Access in UAC (Admin Only)?](Configure_Public_Form_Access_in_UAC.md)
 - [How to Enable or Disable IMEI Login Check (Device Change Detection)?](Turn_Off_IMEI.md)
 - [How to Reset App Access for a User?](Admin_Reset_App_Access.md)
-- [How to Verify Email Addresses in Digital Form Emails?]()
 - [How to Change the Default Email Address in Digital Form Emails?](Change_DF_Email_Sender.md)
 - [How to Manage Notification Settings for User Accounts?](Notification_Settings_by_User_Account.md)
+<!-- [How to Verify Email Addresses in Digital Form Emails?]()-->
 
 ### Import
 - [How to Import New Customers?](Import_Customer.md)
@@ -122,11 +122,11 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Perform a Bulk Update for Assets?](Asset_Bulk_Update.md)
 
 ### Template Settings
-- [How to Set Up a Customer Template?]()
-- [How to Set Up a Project Template?]()
+<!-- [How to Set Up a Customer Template?]()-->
+<!--  [How to Set Up a Project Template?]()-->
+<!--  [How to Set Up an Asset Template?]()-->
+<!--  [How to Set Up a Digital Form Template?]()-->
 - [How to Set Up a Job Template?](Setup_Job_Template.md)
-- [How to Set Up an Asset Template?]()
-- [How to Set Up a Digital Form Template?]()
 - [How to Perform Label-to-Label Mapping?](Label_To_Label.md)
 - [How to Set Up a Digital Form PDF Template?](Create_PDF.md)
 - [How to Add an ISO in a PDF?](ISO_Field.md)
@@ -168,13 +168,13 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Sign and Upload a Company Stamp into a Digital Form?](Request_Signature_Company_Stamp.md)
 - [How to Activate Traveling Mileage Calculation?](Activation_Mileage.md)
 - [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
-- [How to Force Close or Restart the App After Applying New Settings?]()
+- [How to Update Job Details in Caction?](Edit_Details.md)
+- [Pending Data or Updates Guide]-[1](Updates_Not_Received_by_Team_Members.md)-[2](Check_Pending_Update.md)-[3](Check_Pending_Data.md)
+<!-- [How to Force Close or Restart the App After Applying New Settings?]()
 - [How to Allow Camera Access on Mobile?]()
 - [How to Enable GPS Access on Mobile?]()
 - [How to Attach an Address Using Latitude and Longitude?]()
-- [How to Set Up Time Synchronization?]()
-- [How to Update Job Details in Caction?](Edit_Details.md)
-- [Pending Data or Updates Guide]-[1](Updates_Not_Received_by_Team_Members.md)-[2](Check_Pending_Update.md)-[3](Check_Pending_Data.md)
+- [How to Set Up Time Synchronization?]()-->
 <br><br>
 
 Feel free to explore the sections above by clicking it for more information.<br><br>
