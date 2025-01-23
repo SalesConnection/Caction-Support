@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 22 July 2024<br>
 Updated: 22 July 2024<br>
-## Comment Category Segmentation
+## Comment Category Segmentation Guide
 
 **Comment Category Segmentation** page separates Comment options by different categories for Projects, Jobs, etc. Example: Only Sales Meeting Job will have “Sales Meeting Minutes” Comment option. This option can be set to not be available for other Job categories.<br><br>
 
