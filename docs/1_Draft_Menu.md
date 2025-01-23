@@ -106,7 +106,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [I Can’t Access Digital Forms. Please Help.](Cant_Create_DF.md)
 - [How to Configure Public Form Access in UAC (Admin Only)?](Configure_Public_Form_Access_in_UAC.md)
 - [How to Enable or Disable IMEI Login Check (Device Change Detection)?](Turn_Off_IMEI.md)
-- [How to Reset App Access for a User?](Admin_Reset_App_Access.md)
+- [How Can an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
 - [How to Change the Default Email Address in Digital Form Emails?](Change_DF_Email_Sender.md)
 - [How to Manage Notification Settings for User Accounts?](Notification_Settings_by_User_Account.md)
 <!-- [How to Verify Email Addresses in Digital Form Emails?]()-->
