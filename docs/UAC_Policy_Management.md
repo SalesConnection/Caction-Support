@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 3 July 2024<br>
 Updated: 3 July 2024<br>
-## UAC Policy Management
+## UAC (User Access Control) Policy Management
 
 **UAC Policy Management** is a feature for you to set user setting templates for your users to easily be applied for new users or users being moved to different roles in the system.<br><br>
 
