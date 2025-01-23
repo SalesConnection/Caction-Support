@@ -30,7 +30,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 ### Customer & Asset List
 - [Customer List](Customer_List.md)
 - [How to Add a New Customer?](Add_New_Customer.md)
-- [Data Level Structure](Data_Level_Structure.md)
+- [Data Level Structure Explanation](Data_Level_Structure.md)
 - [How to Add a New Asset?](How_to_Add_New_Asset.md)
 - [How to Add a New Project?](Add_New_Project.md)
 - [How to Add a New Product/Service?](Add_New_Product&Service_List.md)
