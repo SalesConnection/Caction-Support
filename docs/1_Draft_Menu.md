@@ -67,8 +67,9 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Add an Overtime Claim?](Add_Overtime_Claim.md)
 - [How to Activate Traveling Mileage Calculation?](Activation_Mileage.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
-- [How to Deactivate a Resigned User?](Delete,_Deactivate_or_Change_User.md)
-- [How to Replace Resigned User with A New User in The System?](Delete,_Deactivate_or_Change_User.md)
+- [How to Delete a Resigned User?](Delete_User.md)
+- [How to Deactivate a Resigned User?](Deactivate_User.md)
+- [How to Replace Resigned User with A New User in The System?](Replace_User.md)
 - [How to Enable or Disable Desktop Access for Staff?](Enable_Disable_Version_Access_Permission.md)
 
 ### Login
