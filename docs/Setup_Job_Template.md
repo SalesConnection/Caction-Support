@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 25 June 2024<br>
 Updated: 25 June 2024<br>
-## How to Setup Job Template Page?
+## How to Set Up a Job Template?
     
 1. At the desktop site's navigation bar, go to Template Settings > Job Templates.<br>
    **Open Job Templates Here:** [https://system.caction.com/reminder/templatev2](https://system.caction.com/reminder/templatev2)<br>
