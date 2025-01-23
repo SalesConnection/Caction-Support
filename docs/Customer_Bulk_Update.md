@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 11 July 2024<br>
 Updated: 11 July 2024<br>
-## How to do Customer/Project/Product/Services/UOM Bulk Update?
+## How to Perform Bulk Updates for Customers, Projects, Products, Services, and UOMs?
 
 *Note: This guide for Bulk Update is to batch edit existing data in the system. To import new data, please refer to the related articles attached at the bottom of the page. 
   
