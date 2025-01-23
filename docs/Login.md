@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 23 May 2024<br>
 Updated: 23 May 2024<br>
-## 👩‍💼 How to Login Into Caction Using Mobile and Desktop?
+## 👩‍💼 How to Log in to Caction Using Mobile and Desktop?
 
 **Navigate to the section by clicking it.**<br>
 
