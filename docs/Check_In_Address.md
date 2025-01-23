@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 27 May 2024<br>
 Updated: 27 May 2024<br>
-## I am at the location, but the system says I am too far from the location.
+## I am at the Location, but the System Says I am Too Far.
 
 ### Scenarios below will cause staff cannot check in:
 
