@@ -12,7 +12,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Add a New Asset?](How_to_Add_New_Asset.md)
 - [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
 - [How to Filter Jobs by Date Range?](Job_Filter_by_Date_Range.md)
-- [How to Change the Default Contact in a Job?]()
+<!-- [How to Change the Default Contact in a Job?]() -->
 - [How to Create a Public Form?](Creation_of_Public_Form.md)
 
 ### Check-In / Check-Out
@@ -23,9 +23,9 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 
 ### Dashboard
 - [Job Dashboard](Job_Dashboard.md)
-- [Project Dashboard]()
+<!-- [Project Dashboard]()-->
 - [Asset Dashboard](Asset_Dashboard.md)
-- [Digital Form Dashboard]()
+<!-- [Digital Form Dashboard]()-->
 
 ### Customer & Asset List
 - [Customer List](Customer_List.md)
