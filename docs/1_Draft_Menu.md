@@ -150,8 +150,8 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Add a New Product or Service?](Add_New_Product&Service_List.md)
 
 ### Other Features
-- [How to Use the Job Category Schedule?](Job_Schedule_Page.md)
 - [How to Use the Project Schedule?](Project_Schedule_Page.md)
+<!-- [How to Use the Job Category Schedule?]()-->
 
 
 ### FAQs
