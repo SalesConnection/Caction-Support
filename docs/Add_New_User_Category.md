@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## 👩‍💼 How to Add New User Category?
+## 👩‍💼 How to Create a New User Category?
     
   1. At the desktop site's navigation bar, go to Company Settings > Staff Settings > Department/Team Settings.<br>
      **Add New User Category Here:** [https://system.caction.com/settings/CategoryList?type=usother](https://system.caction.com/settings/CategoryList?type=usother)<br>
