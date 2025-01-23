@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 23 May 2024<br>
 Updated: 1 January 2025<br>
-## ❤ How to Set Customized Favourite Filter as Default - Desktop
+## ❤ How to Set a Customized Favourite Filter as Default (Desktop)?
 
 *When to use this? Favorite filter is to simplify the process so that you don’t have to click the filters repetitively.<br>
 
