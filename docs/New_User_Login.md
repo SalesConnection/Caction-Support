@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## How to Assist My New User to Login?
+## How to Assist a New User with Login?
   **Desktop Version**<br>
   1. Click "Verify Email" through a **verification email** sent from admin@system.caction.com to verify it.<br>
      *Note: If you can't find the email, please try to look for the spam folder.<br>
