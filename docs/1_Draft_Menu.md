@@ -161,7 +161,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Replace Resigned User with A New User in The System?](Replace_User.md)
 - [How to Enable or Disable Desktop Access for Staff?](Enable_Disable_Version_Access_Permission.md)
 - [Where Can I View My Team’s Travel Records for the Month?](View_Business_Travelling.md)
-- [How to Generate a Job, Project, or Form Report?](Export_Report.md)
+- [How to Generate a Job, Project, or Digital Form Report?](Export_Report.md)
 - [How Can an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
 - [I Can’t Load the Schedule Page. What Should I Do?](Can't_Load_Schedule_Page.md)
 - [How Do I Skip Project Creation or Selection When Creating a Customer or Job?](Can't_Find_Project.md)
