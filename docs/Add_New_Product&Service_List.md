@@ -1,4 +1,4 @@
-## How to Add a New Product/Service?
+## How to Add a New Product or Service?
 
 **Navigate to the section by clicking it.**<br>
 
