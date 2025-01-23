@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 28 June 2024<br>
-Updated: 28 June 2024<br>
-## How to Enable/Disable Desktop Version Access Permission? (For Staff)
+Updated: 23 January 2025<br>
+## How to Enable or Disable Desktop Access for Staff?
 
 *Note: Sub-Admin and Admin users will automatically have access to Desktop Version.<br><br>
 
