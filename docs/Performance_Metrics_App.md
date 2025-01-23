@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 9 August 2024<br>
 Updated: 9 August 2024<br>
-## Performance Metrics (APP)
+## What Are Performance Metrics in the App?
 
 **Performance Metrics** page provides quick access to key job and project statistics, including overdue jobs, total jobs, completed jobs, top 5 customers by month, and total projects won. Each metric has a "View" button for detailed reports.<br><br>
 
