@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 14 June 2024<br>
 Updated: 14 June 2024<br>
-## How to Reset App Access for a User?
+## How Can an Admin Reset App Access for a User?
 
 *Note: This feature allows admin to perform resetting actions in situations where users have resigned, uninstalled the app, or consistently offline.
 
