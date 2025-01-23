@@ -1,4 +1,4 @@
-## How to activate traveling mileage calculation ?
+## How to Activate Traveling Mileage Calculation?
 The traveling mileage calculation is an additional feature separate from the normal user account. If the user requires mileage calculation, you can activate it in the User List after inviting them to the system.
 
 1) Select left corner menu icon to open sidebar. <br>
