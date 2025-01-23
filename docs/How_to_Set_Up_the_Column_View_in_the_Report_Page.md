@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## ❤ How to Set Up the Column View in the Report Page?
+## ❤ How to Set Up Column View in the Report Page?
 
 **Desktop site:**<br>
 
