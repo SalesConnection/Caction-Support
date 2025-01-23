@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 18 June 2024<br>
 Updated: 18 June 2024<br>
-## How to Use Dropdown Field in Job/Project/Customer?
+## How to Use Dropdown Fields in Jobs, Projects, and Customers?
 
 **Navigate to the section by clicking it.**<br>
 
