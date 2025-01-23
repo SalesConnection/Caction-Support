@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 16 July 2024<br>
 Updated: 16 July 2024<br>
-## How to Add Overtime Claim?
+## How to Add an Overtime Claim?
 
 Utilize the overtime claim function to capture the extra hours your team has put in to complete the job.<br><br>
 
