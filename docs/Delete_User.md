@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 23 January 2025<br>
-## How to Replace Resigned User with A New User in The System?
+## How to Delete a Resigned User?
 
 **Differences between delete, deactivate and replace user**
 
@@ -13,8 +13,8 @@ Updated: 23 January 2025<br>
 
 <br><br>
 **Navigate to others.**<br>
-- [How to Delete a Resigned User?](Delete_User.md)
 - [How to Deactivate a Resigned User?](Deactivate_User.md)
+- [How to Replace Resigned User with A New User in The System?](Replace_User.md)
 <br><br><br>
 
 ## ⚠ Delete a Resigned User
