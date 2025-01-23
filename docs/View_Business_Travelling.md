@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## Where can I view my team’s travelling for the month?
+## Where Can I View My Team’s Travel Records for the Month?
 
 1. For example, you want to view your team's traveling for the month. Go to desktop site Main Navigation > Business Map > Business Travel (Table) <br> 
    **Open the page here**: [https://system.caction.com/business-travel/table](https://system.caction.com/business-travel/table)<br>
