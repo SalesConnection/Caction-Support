@@ -156,7 +156,9 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 
 ### FAQs
 - [How to Add Comments with a Photo or Attachment?](Comment_With_Photo.md)
-- [How to Replace a Resigned User with A New User in The System?](Delete,_Deactivate_or_Change_User.md)
+- [How to Delete a Resigned User?](Delete_User.md)
+- [How to Deactivate a Resigned User?](Deactivate_User.md)
+- [How to Replace Resigned User with A New User in The System?](Replace_User.md)
 - [How to Enable or Disable Desktop Access for Staff?](Enable_Disable_Version_Access_Permission.md)
 - [Where Can I View My Team’s Travel Records for the Month?](View_Business_Travelling.md)
 - [How to Generate a Job, Project, or Form Report?](Export_Report.md)
