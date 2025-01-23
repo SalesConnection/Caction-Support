@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## I Get Spammed By a Lot of Notifications. How Do I Disable It?
+## I’m Getting Too Many Notifications. How Do I Disable Them?
 
 *Note: Only certain admins can disable the notification. Please contact your admin if you wish to disable the notifications.<br>
 
