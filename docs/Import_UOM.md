@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 26 June 2024<br>
 Updated: 26 June 2024<br>
-## How do I Import New UOM(s)?
+## How to Import New Units of Measurement (UOMs)?
 
 **UOM** stands for Unit Of Measurement. It allows you to attach information such as quantity, unit price, discount, tax to a product/services.
 
