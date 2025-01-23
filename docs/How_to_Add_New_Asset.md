@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 18 June 2024<br>
-Updated: 18 June 2024<br>
-## How to Add New Asset?
+Updated: 23 January 2025<br>
+## How to Add a New Asset?
 *Note: In your system, Asset may have been renamed to others (i.e Lift/Esc, Machine, Equipment, Printer, Aircond, etc.)<br>
 
 **Navigate to the section by clicking it.**<br>
