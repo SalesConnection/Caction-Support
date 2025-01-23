@@ -1,4 +1,4 @@
-## How to edit Job details?
+## How to Update Job Details in Caction?
 
 **Navigate to the section by clicking it.**<br>
 
