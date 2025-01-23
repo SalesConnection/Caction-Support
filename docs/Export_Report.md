@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## How to Generate a Job/Project/Digital Form Report?
+## How to Generate a Job, Project, or Form Report?
 **Difference Between CSV, Excel and PDF**<br>
 
 | Feature | CSV | Excel | PDF |
