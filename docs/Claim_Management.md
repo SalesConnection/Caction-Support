@@ -259,6 +259,12 @@ Updated: 16 July 2024<br>
    <p align="center">
       <img src="img2/Claim_Management_Export.png" alt="Claim Management Export">
    </p>
+
+2.Choose the type of file want to be export.
+
+   <p align="center">
+      <img src="img2/Claim_Management_Export_type.png" alt="Claim Management Export">
+   </p>
    <br><br><br>
 
 **Related Articles**
