@@ -101,7 +101,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 
 ### User Management
 - [Understanding User Type Default Access](User_Types_Default_Access.md)
-- [UAC (User Access Control) Policy Management](UAC_Policy_Management.md)
+- [UAC (User Account Customisation) Policy Management](UAC_Policy_Management.md)
 - [Company Profile Settings](Company_Profile_Settings.md)
 - [I Can’t Access Digital Forms. Please Help.](Cant_Create_DF.md)
 - [How to Configure Public Form Access in UAC (Admin Only)?](Configure_Public_Form_Access_in_UAC.md)
