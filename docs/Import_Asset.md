@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 18 June 2024<br>
 Updated: 18 June 2024<br>
-## How do I Import New Asset(s)?
+## How to Import New Assets?
 
 1. At the desktop site's navigation bar, go to Import > Asset Import.<br>
    **Import Asset(s) Here:** [https://system.caction.com/AssetImport/assetExcelImport](https://system.caction.com/AssetImport/assetExcelImport)

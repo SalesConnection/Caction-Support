@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 June 2024<br>
 Updated: 24 June 2024<br>
-## How do I Import New Project(s)?
+## How to Import New Projects?
     
   1. At the desktop site's navigation bar, go to Import > Project Import.<br>
      **Import Project(s) Here:** [https://system.caction.com/dealupload](https://system.caction.com/dealupload)<br>

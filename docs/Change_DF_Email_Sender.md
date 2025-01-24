@@ -1,7 +1,7 @@
 
 
 
-## How to Verify Email Addresses in a Digital Form Email?
+## How to Change the Default Email Address in Digital Form Emails?
 
 The email feature allows the company to send digital form with a verified email address. The email can default sender role, such as primary, CC, BCC, or Tech Email. <br><br>
 

@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 26 June 2024<br>
 Updated: 26 June 2024<br>
-## To-do List Setup
+## How to Set Up the To-Do List?
 
 *Note: The tutorial below is based on Job Page but all of these can be applied to other data level such as Project, Digital Form and others.
 <br>

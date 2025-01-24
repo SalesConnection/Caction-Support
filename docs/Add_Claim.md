@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 22 July 2024<br>
 Updated: 22 July 2024<br>
-## How to Add Claim?
+## How to Submit a Claim?
 
 The claim feature allows company staff to easily submit and track claims for expenses such as fuel, meals, parking fees, tools, and more.<br><br>
 
@@ -29,7 +29,7 @@ The claim feature allows company staff to easily submit and track claims for exp
      <img src="img2/Add_Claim_Step_4.png" alt="Add Claim Step 4" width="280" height="550">
    </p>
 
-5. Click on the "tick" icon.
+5. Click on the "Save" button.
 
    <p align="center">
      <img src="img2/Add_Claim_Step_5.png" alt="Add Claim Step 5" width="280" height="550">
@@ -73,7 +73,7 @@ The claim feature allows company staff to easily submit and track claims for exp
 
     *Note: Only one file (photo/video/document) may be attached to a claim.<br>
 
-12. Select for the attachement's format.
+12. Select for the attachment's format.
 
     <p align="center">
       <img src="img2/Add_Claim_Step_12.png" alt="Add Claim Step 12" width="280" height="550">
@@ -91,7 +91,7 @@ The claim feature allows company staff to easily submit and track claims for exp
       <img src="img2/Add_Claim_Step_14.png" alt="Add Claim Step 14" width="280" height="550">
     </p>
 
-15. Click on the "tick" icon to submit ypour claim.
+15. Click on the "Save" button to submit your claim.
 
     <p align="center">
       <img src="img2/Add_Claim_Step_15.png" alt="Add Claim Step 15" width="280" height="550">

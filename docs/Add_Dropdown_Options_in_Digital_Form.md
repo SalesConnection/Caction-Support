@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## 🔽 How to Add Dropdown Options in Digital Form?
+## 🔽 How to Add Dropdown Options in a Digital Form?
 
 **Desktop site:**<br>
  

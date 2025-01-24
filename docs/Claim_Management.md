@@ -53,7 +53,7 @@ Updated: 16 July 2024<br>
       <img src="img2/Claim_Management_Default_Columns_Step_4.png" alt="Claim Management Default Columns Step 4">
    </p>
 
-5. The customize columns will be displayed as below and you can apply it next time.
+5. Scroll to right and the customize columns will be displayed as below, you can apply it next time.
 
    <p align="center">
       <img src="img2/Claim_Management_Default_Columns_Step_5.png" alt="Claim Management Default Columns Step 5">
@@ -258,6 +258,12 @@ Updated: 16 July 2024<br>
 
    <p align="center">
       <img src="img2/Claim_Management_Export.png" alt="Claim Management Export">
+   </p>
+
+2.Choose the type of file want to be export.
+
+   <p align="center">
+      <img src="img2/Claim_Management_Export_type.png" alt="Claim Management Export">
    </p>
    <br><br><br>
 

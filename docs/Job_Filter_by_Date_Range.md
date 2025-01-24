@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 23 May 2024<br>
 Updated: 23 May 2024<br>
-## 🧾 How to filter job by date range?
+## 🧾 How to Filter Jobs by Date Range?
 
 **Desktop site:**<br>
 

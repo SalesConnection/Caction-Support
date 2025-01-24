@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 18 July 2024<br>
 Updated: 18 July 2024<br>
-## Notification Settings by User Account
+## How to Manage Notification Settings for User Accounts?
 
 Customise you and your team’s notification settings on the system to minimize unnecessary alert updates and optimise your team’s operations with the system.<br><br>
 

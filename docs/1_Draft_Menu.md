@@ -2,209 +2,181 @@
 
 Welcome to the Caction Support Site. Here you'll find documentation and resources to help you get the most out of our products and services.<br><br>
 
-## FAQs
-### Login
-- [How to Login Into Caction Using Mobile and Desktop?](Login.md)
-- [How to Assist My New User to Login?](New_User_Login.md)
-- [I Can't Login to My Other Phone. Why?](IMEI.md)
-- [How to enable or disable IMEI Login Check? (Device Changing Detection)](Turn_Off_IMEI.md)
-- [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
-- [How to Enable/Disable Version Access Permission? (For Staff)](Enable_Disable_Version_Access_Permission.md)
-
-
-### Check In/Check Out
-- [I Forgot to Check Out, How?](Assist_Check_Out.md)
-- [How to Enable Assist Check Out?](Enable_Assist_Check_Out.md)
-- [I am at the location, but the system says I am too far from the location.](Check_In_Address.md)
-- [How to Adjust Geofencing Radius?](Adjust_Geofencing_Radius.md)
-
-
-### New User
-- [How to Add New User?](Add_New_User.md)
-<!--- [How to Copy Account for New User?](Copy_Account.md) -->
-- [How to Add New User Category?](Add_New_User_Category.md)
-
-
-### Updates
-- [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
-- [How to Check Pending Update?](Check_Pending_Update.md)
-- [How to Check Pending Data?](Check_Pending_Data.md)
-
-### Password 
-- [I forgot my password. How can I recover or reset it?](Forgot_Password.md)
-- [How to Change Account Password?](Change_Account_Password.md)
-
-
-### Filter
-- [How to Filter Job by Date Range?](Job_Filter_by_Date_Range.md)
-- [How to Set Customized Favourite Filter as Default - Desktop ](Default_Favourite_Filter.md)
-- [How to Set Customized Favourite Filter as Default - App ](Default_Favourite_Filter_App.md)
-- [How to Set Up the Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
-- [How to Use Update Report Filter?](Update_Report_Page.md)
-- [How to filter for deleted job/Who deleted the job?](Filter_Deleted_Job.md)
-
-
-### Dropdown
-- [How to Add Dropdown Options in Digital Form?](Add_Dropdown_Options_in_Digital_Form.md)
-- [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
-- [How to Use Dropdown Field in Job/Project/Customer?](How_to_Use_Dropdown_Field_in_Job_Project_Customer.md)
-
-
-### Category
-- [How do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
-- [How do I Add New Category in Digital Form?](Add_New_Category_in_Digital_Form.md)
-
-
-### Status
-- [How do I Add New Status in Customer/Project/Job?](Add_New_Status_in_Customer_Project_Job.md)
-- [How do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
-
-
-### Access Control
-- [I can't access Digital Form. Please help.](Can't_Access_Digital_Form.md)
-- [How to Configure Public Form Access in UAC (Done by Admin)?](Configure_Public_Form_Access_in_UAC.md)
-
-### Remote Signature
-- [How to Edit Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
-- [How to Request for Remote Signature From Customer?](How_to_Get_Remote_Signature_From_Customer.md)
-- [How to Sign and Upload Company Stamp into Digital Form？](Request_Signature_Company_Stamp.md)
-
-
-### Reminder 
-- [How to Edit Reminder Template?](Edit_Reminder_Template.md)
-- [How to Create New Reminder Template and do Autopopulate Setting?](Create_Reminder_Template.md)
-
-
-### Notification
-- [I Get Spammed By a Lot of Notifications. How Do I Disable It?](Disable_Notification.md)
-- [I am Not Getting Any Notification From the System On My Device. Why?](Not_Getting_Notification.md)
-
-
-### Others
-- [How Do I Delete/Deactivate a Resigned User or Change to a New User?](Delete,_Deactivate_or_Change_User.md)
-- [How to Pull Out Job/Project/Form Report?](Export_Report.md)
-- [How to comment with photo / attachment?](Comment_With_Photo.md)
-- [Where can I view my team's travelling for the month?](View_Business_Travelling.md)
-- [I can't load the schedule page. Why?](Can't_Load_Schedule_Page.md)
-- [How does an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
-- [Why is the Console Tab showing a different number of jobs for the same customer?](Different_Number_Jobs_For_Same_Customer.md)
-- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
-- [How to Add New Product/Services?](Add_New_Product&Service_List.md)
-- [Comment Category Segmentation](Comment_Category_Segmentation.md)
-- [How do I set the system to skip project creation/selection during customer/job creation?](Can't_Find_Project.md)
-- [How to Change Default Digital Form Email Sender Setting?](Change_DF_Email_Sender.md)
-  
-## Features Knowledge 
-- [Data Level Structure](Data_Level_Structure.md)
-- [User Type Default Access](User_Types_Default_Access.md)
-
-### General
-- [How to Add New Project?](Add_New_Project.md)
-- [How to Create Digital Form?](Create_Digital_Form.md)
-- [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
-- [How to Create Digital Form in Mobile App](Create_Digital_Form_Mobile.md)
-
-### How to Change the App Language
-- [How to Change Language?](Guide_to_Change_Language.md)
-
 ## Business Management
+### Getting Started
+- [How to Use Job Schedule Page?](Job_Schedule_Page.md)
+- [How to Add a New Job?](Add_New_Job.md)
+- [How to Create a Repeat Job?](Repeat_Job.md)
+- [How to Add a New Customer?](Add_New_Customer.md)
+- [How to Add a New Project?](Add_New_Project.md)
+- [How to Add a New Asset?](How_to_Add_New_Asset.md)
+- [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
+- [How to Filter Jobs by Date Range?](Job_Filter_by_Date_Range.md)
+- [How to Change the Default Contact in a Job?](How_to_Choose_Contact_for_Job.md)
+- [How to Create a Public Form?](Creation_of_Public_Form.md)
 
-### Schedule
-- [How to Add New Job?](Add_New_Job.md)
-- [Job Schedule Page](Job_Schedule_Page.md)
-- [Project Schedule Page](Project_Schedule_Page.md)
-
+### Check-In / Check-Out
+- [I Forgot to Check Out. What Should I Do?](Assist_Check_Out.md)
+- [How to Enable Assist Check-Out?](Enable_Assist_Check_Out.md)
+- [I am at the Location, but the System Says I am Too Far.](Check_In_Address.md)
+- [How to Adjust the Geofencing Radius?](Adjust_Geofencing_Radius.md)
 
 ### Dashboard
-- [Asset Dashboard](Asset_Dashboard.md)
 - [Job Dashboard](Job_Dashboard.md)
+- [Asset Dashboard](Asset_Dashboard.md)
+<!-- [Project Dashboard]()-->
+<!-- [Digital Form Dashboard]()-->
 
-
-### Customer List
-- [How to Add New Customer?](Add_New_Customer.md)
+### Customer & Asset List
 - [Customer List](Customer_List.md)
+- [How to Add a New Customer?](Add_New_Customer.md)
+- [Data Level Structure Explanation](Data_Level_Structure.md)
+- [How to Add a New Asset?](How_to_Add_New_Asset.md)
+- [How to Add a New Project?](Add_New_Project.md)
+- [How to Add a New Product/Service?](Add_New_Product&Service_List.md)
+- [How to Set a Customized Favourite Filter as Default (Desktop)?](Default_Favourite_Filter.md)
+- [How to Set a Customized Favourite Filter as Default (App)?](Default_Favourite_Filter_App.md)
+<!-- [Asset List]()-->
+<!-- [How to Create a Contact?]()-->
 
-
-### Asset List
-- [How to Add New Asset?](How_to_Add_New_Asset.md)
-
-
-### Product/Services List
-- [Product/Services List](Product_Services_List.md)
-
-
-## Business Reports
+### Business Reports
 - [Report Page](Report_Page.md)
 - [Update Report Page](Update_Report_Page.md)
-- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
+- [How to Set Up Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
+- [How to Generate a Job, Project, or Digital Form Report?](Export_Report.md)
+- [How to Set a Customized Favourite Filter as Default (Desktop)?](Default_Favourite_Filter.md)
+- [How to Set a Customized Favourite Filter as Default (App)?](Default_Favourite_Filter_App.md)
+- [How to Use the Update Report Filter?](Update_Report_Page.md)
+- [How to Find Deleted Jobs or Identify Who Deleted a Job?](Filter_Deleted_Job.md)
+<!-- [How to Filter Assets Without an Attached Customer?]()-->
 
-## Business Metrics
-- [Metric Dashboard](Metric_Dashboard.md)
-- [Metric Dashboard Layout Settings](Metric_Dashboard_Layout_Settings.md)
-- [Performance Metrics (App)](Performance_Metrics_App.md)
+### Business Metrics
+- [Understanding the Metrics Dashboard](Metric_Dashboard.md)
+- [What Are Performance Metrics in the App?](Performance_Metrics_App.md)
 
+### Business Map
+- [Business Travel (List View)](Business_Travel.md)
+- [Business Travel (Table View)](Business_Travel_Table.md)
+<!-- [Overview]()-->
+<!-- [Geolocation Beta]()-->
 
-## Business Map 
-- [Business Travel](Business_Travel.md)
-- [Business Travel (Table)](Business_Travel_Table.md)
-  
-
-## HR Suite
-- [How to Add Claim?](Add_Claim.md)
-- [Claim Management](Claim_Management.md)
-- [How to Add Overtime Claim?](Add_Overtime_Claim.md)
+### HR Suite
+- [How to Use Claim Management?](Claim_Management.md)
+- [How to Submit a Claim?](Add_Claim.md)
 - [Overtime Management](Overtime_Management.md)
-- [Attendance List](Attendance_List.md)
+- [How to Add an Overtime Claim?](Add_Overtime_Claim.md)
+- [How to Activate Traveling Mileage Calculation?](Activation_Mileage.md)
 - [Office Check-In Settings](Office_Check_In_Settings.md)
+- [How to Delete a Resigned User?](Delete_User.md)
+- [How to Deactivate a Resigned User?](Deactivate_User.md)
+- [How to Replace Resigned User with A New User in The System?](Replace_User.md)
+- [How to Enable or Disable Desktop Access for Staff?](Enable_Disable_Version_Access_Permission.md)
 
+### Login
+- [How to Log in to Caction Using Mobile and Desktop?](Login.md)
+- [How to Assist a New User with Login?](New_User_Login.md)
+- [Why Can’t I Log in on My Other Phone?](IMEI.md)
+- [How to Enable or Disable IMEI Login Check (Device Change Detection)?](Turn_Off_IMEI.md)
+- [My Staff Did Not Receive Their OTP. What Should I Do?](Not_Receiving_OTP.md)
 
-### User List
-- [How to activate traveling mileage calculation ?](Activation_Mileage.md)
+### Password Management
+- [I Forgot My Password. How Do I Reset It?](Forgot_Password.md)
+- [How to Change My Account Password?](Change_Account_Password.md)
 
+### New User Setup
+- [How to Add a New User?](Add_New_User.md)
+- [How to Create a New User Category?](Add_New_User_Category.md)
+- [How to Copy an Account for a New User?](Copy_Account.md)
 
-## Company Settings
+### Company Settings
+- [How to Set Up the To-Do List?](To_Do_List.md)
+- [Comment Category Segmentation Guide](Comment_Category_Segmentation.md)
+- [How to Add a New Category for Customers, Projects, Jobs or Digital forms?](Add_New_Category_in_Customer_Project_Job_DF.md)
+- [How to Add a New Status for Customers, Projects, Jobs or Digital Forms?](Add_New_Status_in_Customer_Project_Job_DF.md)
+- [How to Adjust the Geofencing Radius?](Adjust_Geofencing_Radius.md)
+- [How to Edit the Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
+- [Wizard: Quick Access to Configuration](Wizard_Page.md)
+<!-- [Status Segmentation Guide]()-->
+<!-- [How to Set Up Sub-Comment Categories in the To-Do List?]()-->
 
-### Job Settings 
-- [To-do List Setup](To_Do_List.md)
-
-
-## Import
-- [How to Import New Customer(s)?](Import_Customer.md)
-- [How to Import New Project(s)?](Import_Project.md)
-- [How do I Import New Asset(s)?](Import_Asset.md)
-- [How to Import New Contact(s)?](Import_Contact.md)
-- [How to Import New Product/Services(s)?](Import_Product_Services.md)
-- [How to Import New UOM(s)?](Import_UOM.md)
-- [How to do Customer/Project/Product/Services/UOM Bulk Update?](Customer_Bulk_Update.md)
-- [How to do Asset Bulk Update?](Asset_Bulk_Update.md)
-
-## Template Settings
-
-### Job
-- [How to Setup Job Template Page?](Setup_Job_Template.md)
-
-
-### Digital Form
-- [Digital Form Template Settings](Digital_Form_Template_Settings.md)
-- [How to Set Up Digital Form PDF Template?](Create_PDF.md)
-
-
-### Public Form
-- [How to Setup Public Form Template Page?](Setup_Public_Form_Template_Page.md)
-
-
-## User Management 
-
-### User Account Customization 
-- [UAC Policy Management](UAC_Policy_Management.md)
+### User Management
+- [Understanding User Type Default Access](User_Types_Default_Access.md)
+- [User Account Customisation (UAC) Policy Management](UAC_Policy_Management.md)
 - [Company Profile Settings](Company_Profile_Settings.md)
-- [Notification Settings by User Account](Notification_Settings_by_User_Account.md)
-- [How do I Import New User(s)?](Import_User.md)
-- [I can access Digital Form. Why I can’t create Digital Form?](Cant_Create_DF.md)
+- [I Can’t Access Digital Forms. Please Help.](Cant_Create_DF.md)
+- [How to Configure Public Form Access in UAC (Admin Only)?](Configure_Public_Form_Access_in_UAC.md)
+- [How to Enable or Disable IMEI Login Check (Device Change Detection)?](Turn_Off_IMEI.md)
+- [How Can an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
+- [How to Change the Default Email Address in Digital Form Emails?](Change_DF_Email_Sender.md)
+- [How to Manage Notification Settings for User Accounts?](Notification_Settings_by_User_Account.md)
+<!-- [How to Verify Email Addresses in Digital Form Emails?]()-->
+
+### Import
+- [How to Import New Customers?](Import_Customer.md)
+- [How to Import New Projects?](Import_Project.md)
+- [How to Import New Assets?](Import_Asset.md)
+- [How to Import New Contacts?](Import_Contact.md)
+- [How to Import New Products or Services?](Import_Product_Services.md)
+- [How to Import New Units of Measurement (UOMs)?](Import_UOM.md)
+- [How to Perform Bulk Updates for Customers, Projects, Products, Services, and UOMs?](Customer_Bulk_Update.md)
+- [How to Perform a Bulk Update for Assets?](Asset_Bulk_Update.md)
+
+### Template Settings
+<!-- [How to Set Up a Customer Template?]()-->
+<!--  [How to Set Up a Project Template?]()-->
+<!--  [How to Set Up an Asset Template?]()-->
+<!--  [How to Set Up a Digital Form Template?]()-->
+- [How to Set Up a Job Template?](Setup_Job_Template.md)
+- [How to Perform Label-to-Label Mapping?](Label_To_Label.md)
+- [How to Set Up a Digital Form PDF Template?](Create_PDF.md)
+- [How to Add an ISO in a PDF?](ISO_Field.md)
+- [How to Set Up a Public Form Template?](Setup_Public_Form_Template_Page.md)
+- [How to Add Dropdown Options in a Digital Form?](Add_Dropdown_Options_in_Digital_Form.md)
+- [How to Use Dropdown Fields in Jobs, Projects, and Customers?](How_to_Use_Dropdown_Field_in_Job_Project_Customer.md)
+- [How to Edit Checklist Dropdown Options?](Edit_Checklist_Dropdown_Options.md)
+- [How to Edit a Reminder Template?](Edit_Reminder_Template.md)
+- [How to Create a New Reminder Template and Enable Auto-Population?](Create_Reminder_Template.md)
+- [Data Level Structure Explanation](Data_Level_Structure.md)
+
+  
+### Notifications & Reminders
+- [I’m Getting Too Many Notifications. How Do I Disable Them?](Disable_Notification.md)
+- [I Am Not Receiving Any Notifications on My Device. Why?](Not_Getting_Notification.md)
+- [How to Create a New Reminder Template and Enable Auto-Population?](Create_Reminder_Template.md)
+- [Wizard: Quick Access to Configuration](Wizard_Page.md)
+
+### Product & Services
+- [Product and Services List](Product_Services_List.md)
+- [How to Add a New Product/Service?](Add_New_Product&Service_List.md)
+
+### Other Features
+- [How to Use the Project Schedule?](Project_Schedule_Page.md)
+<!-- [How to Use the Job Category Schedule?]()-->
 
 
-## Wizard
-- [Wizard Page](Wizard_Page.md)
+### FAQs
+- [How to Add Comments with a Photo or Attachment?](Comment_With_Photo.md)
+- [How to Delete a Resigned User?](Delete_User.md)
+- [How to Deactivate a Resigned User?](Deactivate_User.md)
+- [How to Replace Resigned User with A New User in The System?](Replace_User.md)
+- [How to Enable or Disable Desktop Access for Staff?](Enable_Disable_Version_Access_Permission.md)
+- [Where Can I View My Team’s Travel Records for the Month?](View_Business_Travelling.md)
+- [How to Generate a Job, Project, or Digital Form Report?](Export_Report.md)
+- [How Can an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
+- [I Can’t Load the Schedule Page. What Should I Do?](Can't_Load_Schedule_Page.md)
+- [How Do I Skip Project Creation or Selection When Creating a Customer or Job?](Can't_Find_Project.md)
+- [Why Does the Console Tab Show a Different Number of Jobs for the Same Customer?](Different_Number_Jobs_For_Same_Customer.md)
+- [How to Request a Remote Signature from a Customer?](How_to_Get_Remote_Signature_From_Customer.md)
+- [How to Sign and Upload a Company Stamp into a Digital Form?](Request_Signature_Company_Stamp.md)
+- [How to Activate Traveling Mileage Calculation?](Activation_Mileage.md)
+- [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
+- [How to Update Job Details in Caction?](Edit_Details.md)
+- [Pending Data or Updates Guide](Pending_Data_or_Updates_Guide.md)
+<!-- [How to Force Close or Restart the App After Applying New Settings?]()
+- [How to Allow Camera Access on Mobile?]()
+- [How to Enable GPS Access on Mobile?]()
+- [How to Attach an Address Using Latitude and Longitude?]()
+- [How to Set Up Time Synchronization?]()-->
 <br><br>
 
 Feel free to explore the sections above by clicking it for more information.<br><br>

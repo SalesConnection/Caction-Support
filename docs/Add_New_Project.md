@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 20 June 2024<br>
-Updated: 20 June 2024<br>
-## How to Add New Project?
+Updated: 23 January 2025<br>
+## How to Add a New Project?
 
 **Navigate to the section by clicking it.**<br>
 

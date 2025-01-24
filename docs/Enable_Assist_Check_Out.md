@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 24 May 2024<br>
-## ❓ How to Enable Assist Check Out?
+## ❓ How to Enable Assist Check-Out?
 
 *Note: Only certain admins can perform this action.<br><br>
 

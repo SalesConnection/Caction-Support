@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 4 July 2024<br>
 Updated: 4 July 2024<br>
-## Product/Services List
+## Product and Services List
 
 **Product/Services List** displays detailed information about the products and services offered by the company, including sequence numbers, names, and additional data for efficient inventory management.<br><br>
 

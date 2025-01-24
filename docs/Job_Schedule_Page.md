@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 5 July 2024<br>
-Updated: 5 July 2024<br>
-## Job Schedule Page
+Updated: 23 January 2025<br>
+## How to Use Job Schedule Page?
 
 **Job Schedule** organizes and displays upcoming jobs and tasks in a calendar format, detailing job descriptions, statuses, and assigned personnel. It helps users manage and track the scheduling and progress of various jobs.<br><br>
 

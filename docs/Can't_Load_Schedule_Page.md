@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 24 May 2024<br>
 Updated: 7 August 2024<br>
-## I can't load the schedule page. Why?
+## I Can’t Load the Schedule Page. What Should I Do?
 
 ### Here are the potential issues and solutions:
 (If you have followed the steps provided and the issue still persists, please follow the next suggested solution).<br><br>

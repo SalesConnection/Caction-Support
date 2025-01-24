@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 9 August 2024<br>
 Updated: 9 August 2024<br>
-## Why is the Console Tab showing a different number of jobs for the same customer?
+## Why Does the Console Tab Show a Different Number of Jobs for the Same Customer?
 
 ### Here are the potential issues and solutions:
 (If yes to each, move on to the next scenario).<br><br>

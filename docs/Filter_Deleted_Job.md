@@ -1,4 +1,4 @@
-## How to filter for deleted job/Who deleted the job?
+## How to Find Deleted Jobs or Identify Who Deleted a Job?
 
 1) Select left corner menu icon to open sidebar. <br>
 <p align="center">

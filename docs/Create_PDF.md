@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 14 August 2024<br>
 Updated: 14 August 2024<br>
-## How to Set Up Digital Form PDF Template?
+## How to Set Up a Digital Form PDF Template?
 
 **Navigate to the section by clicking it.**<br>
 
