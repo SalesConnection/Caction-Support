@@ -1,6 +1,16 @@
 Version 1.0<br>
 Created: 16 July 2024<br>
 Updated: 16 July 2024<br>
+
+**Navigate to the section by clicking it.**<br>
+
+- [Digital Form Category](#section1)<br>
+- [How to Use the Update Report Filter?](#section2)<br>
+- [How to customize Columns?](#section3)<br>
+- [Favourite Filter](#section4)<br>
+- [How to Export Report?](#section5)
+<br><br><br>
+
 ### Update Report Page
 
 The Update Report Page allows you to **generate** and **customize** reports across various types similar to the Report Page. In addition to the comprehensive report generation and customization features, this page includes a **comment section** which allowing you to view and manage comments related to each report, enhancing collaboration and tracking.<br>
@@ -30,15 +40,6 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 <br><br>
 
-**Navigate to the section by clicking it.**<br>
-
-- [Digital Form Category](#section1)<br>
-- [Filter](#section2)<br>
-- [Default Columns](#section3)<br>
-- [Favourite Filter](#section4)<br>
-- [Export Report](#section5)
-<br><br><br>
-
 <a id="section1"></a>
 
 ### Digital Form Category
@@ -64,7 +65,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 <a id="section2"></a>
 
-### Filter 
+### How to Use the Update Report Filter? 
 
 1. For example, if you want to filter update status in Service Sheet Update Report, click on "Filter Table Record".
 
