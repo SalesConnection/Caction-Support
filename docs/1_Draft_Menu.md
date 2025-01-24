@@ -13,7 +13,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
 - [How to Filter Jobs by Date Range?](Job_Filter_by_Date_Range.md)
 - [How to Create a Public Form?](Creation_of_Public_Form.md)
-<!-- [How to Change the Default Contact in a Job?]() -->
+- [How to Change the Default Contact in a Job?](How_to_Choose_Contact_for_Job.md)
 
 ### Check-In / Check-Out
 - [I Forgot to Check Out. What Should I Do?](Assist_Check_Out.md)
