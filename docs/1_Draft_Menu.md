@@ -43,7 +43,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [Report Page](Report_Page.md)
 - [Update Report Page](Update_Report_Page.md)
 - [How to Set Up Column View in the Report Page?](How_to_Set_Up_the_Column_View_in_the_Report_Page.md)
-- [How to Generate a Job, Project, Digital Form Report?](Export_Report.md)
+- [How to Generate a Job, Project, or Digital Form Report?](Export_Report.md)
 - [How to Set a Customized Favourite Filter as Default (Desktop)?](Default_Favourite_Filter.md)
 - [How to Set a Customized Favourite Filter as Default (App)?](Default_Favourite_Filter_App.md)
 - [How to Use the Update Report Filter?](Update_Report_Page.md)
