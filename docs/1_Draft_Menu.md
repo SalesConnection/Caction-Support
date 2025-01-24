@@ -127,8 +127,8 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 <!--  [How to Set Up an Asset Template?]()-->
 <!--  [How to Set Up a Digital Form Template?]()-->
 - [How to Set Up a Job Template?](Setup_Job_Template.md)
-- [How to Set Up a Digital Form PDF Template?](Create_PDF.md)
 - [How to Perform Label-to-Label Mapping?](Label_To_Label.md)
+- [How to Set Up a Digital Form PDF Template?](Create_PDF.md)
 - [How to Add an ISO in a PDF?](ISO_Field.md)
 - [How to Set Up a Public Form Template?](Setup_Public_Form_Template_Page.md)
 - [How to Add Dropdown Options in a Digital Form?](Add_Dropdown_Options_in_Digital_Form.md)
