@@ -4,10 +4,10 @@ Updated: 16 July 2024<br>
 
 **Navigate to the section by clicking it.**<br>
 
-- [Digital Form Category](#section1)<br>
+- [How to Select Digital Form Category?](#section1)<br>
 - [How to Use the Update Report Filter?](#section2)<br>
-- [How to customize Columns?](#section3)<br>
-- [Favourite Filter](#section4)<br>
+- [How to Customize Columns?](#section3)<br>
+- [How to Save Favourite Filter?](#section4)<br>
 - [How to Export Report?](#section5)
 <br><br><br>
 
@@ -42,7 +42,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 <a id="section1"></a>
 
-### Digital Form Category
+### How to Select Digital Form Category?
 
 1. Select the Digital Form category you want by clicking the expand button beside Quotation.
 
@@ -122,7 +122,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 <a id="section3"></a>
 
-### Default Columns
+### How to Customize Columns?
 
 1. If you want to display different columns for the Update Report, click on "Default Columns".
 
@@ -212,7 +212,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 <a id="section4"></a>
 
-### Favourite Filter
+### How to Save Favourite Filter?
 
 1. Ensure that the "Filter" and "Default Columns" you want is applied.
 
@@ -295,7 +295,7 @@ The Update Report Page allows you to **generate** and **customize** reports acro
 
 <a id="section5"></a>
 
-### Export Report 
+### How to Export Report?
 
 1. Click on the format you want to export. For example, if you want to export the Quotation Update Report in Excel, click "Excel".
 
