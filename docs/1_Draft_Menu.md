@@ -171,7 +171,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Activate Traveling Mileage Calculation?](Activation_Mileage.md)
 - [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
 - [How to Update Job Details in Caction?](Edit_Details.md)
-- [Pending Data or Updates Guide]-[1](Updates_Not_Received_by_Team_Members.md)-[2](Check_Pending_Update.md)-[3](Check_Pending_Data.md)
+- [Pending Data or Updates Guide](Pending_Data_or_Updates_Guide.md)
 <!-- [How to Force Close or Restart the App After Applying New Settings?]()
 - [How to Allow Camera Access on Mobile?]()
 - [How to Enable GPS Access on Mobile?]()
