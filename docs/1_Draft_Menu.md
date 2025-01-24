@@ -147,7 +147,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 
 ### Product & Services
 - [Product and Services List](Product_Services_List.md)
-- [How to Add a New Product or Service?](Add_New_Product&Service_List.md)
+- [How to Add a New Product/Service?](Add_New_Product&Service_List.md)
 
 ### Other Features
 - [How to Use the Project Schedule?](Project_Schedule_Page.md)
