@@ -29,7 +29,7 @@ Utilize the overtime claim function to capture the extra hours your team has put
       <img src="img2/Add_Overtime_Claim_Step_4.png" alt="Add Overtime Claim Step 4">
    </p>
 
-5. Click on the "tick" icon.
+5. Click on the "Save" button.
 
    <p align="center">
       <img src="img2/Add_Overtime_Claim_Step_5.png" alt="Add Overtime Claim Step 5">
@@ -76,7 +76,7 @@ Utilize the overtime claim function to capture the extra hours your team has put
       <img src="img2/Add_Overtime_Claim_Step_11.png" alt="Add Overtime Claim Step 11">
     </p>
 
-12. Click on the "tick" icon.
+12. Click on the "Save" button.
 
     <p align="center">
       <img src="img2/Add_Overtime_Claim_Step_12.png" alt="Add Overtime Claim Step 12">
