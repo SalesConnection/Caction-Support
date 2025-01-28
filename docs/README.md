@@ -10,6 +10,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Add a New Customer?](Add_New_Customer.md)
 - [How to Add a New Project?](Add_New_Project.md)
 - [How to Add a New Asset?](How_to_Add_New_Asset.md)
+- [How to Create a Digital Form?](Create_Digital_Form.md)
 - [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
 - [How to Filter Jobs by Date Range?](Job_Filter_by_Date_Range.md)
 - [How to Change the Default Contact in a Job?](How_to_Choose_Contact_for_Job.md)
@@ -104,6 +105,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [User Account Customisation (UAC) Policy Management](UAC_Policy_Management.md)
 - [Company Profile Settings](Company_Profile_Settings.md)
 - [I Can’t Access Digital Forms. Please Help.](Cant_Create_DF.md)
+- [How to Access Submitted Public Form?](Access_Submitted_Public_Form.md)
 - [How to Configure Public Form Access in UAC (Admin Only)?](Configure_Public_Form_Access_in_UAC.md)
 - [How to Enable or Disable IMEI Login Check (Device Change Detection)?](Turn_Off_IMEI.md)
 - [How Can an Admin Reset App Access for a User?](Admin_Reset_App_Access.md)
@@ -127,8 +129,9 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 <!--  [How to Set Up an Asset Template?]()-->
 <!--  [How to Set Up a Digital Form Template?]()-->
 - [How to Set Up a Job Template?](Setup_Job_Template.md)
-- [How to Perform Label-to-Label Mapping?](Label_To_Label.md)
+- [How to Set Up a Digital Form Template?](Digital_Form_Template_Settings.md)
 - [How to Set Up a Digital Form PDF Template?](Create_PDF.md)
+- [How to Perform Label-to-Label Mapping?](Label_To_Label.md)
 - [How to Add an ISO in a PDF?](ISO_Field.md)
 - [How to Set Up a Public Form Template?](Setup_Public_Form_Template_Page.md)
 - [How to Add Dropdown Options in a Digital Form?](Add_Dropdown_Options_in_Digital_Form.md)
@@ -171,6 +174,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Activate Traveling Mileage Calculation?](Activation_Mileage.md)
 - [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
 - [How to Update Job Details in Caction?](Edit_Details.md)
+- [How to Generate and Share QR Code for Public Form?](Creation_of_Public_Form.md)
 - [Pending Data or Updates Guide](Pending_Data_or_Updates_Guide.md)
 
 <!-- - [How to Force Close or Restart the App After Applying New Settings?]() -->

@@ -1,7 +1,7 @@
 Version 1.0<br>
 Created: 14 August 2024<br>
 Updated: 14 August 2024<br>
-## Digital Form Template Settings
+## How to Set Up a Digital Form Template?
 
 The Digital Form Template Settings page enables users to **configure** and **manage** digital form templates comprehensively, providing flexibility and control over various business processes.<br>
 
