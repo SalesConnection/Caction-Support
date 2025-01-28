@@ -1,4 +1,4 @@
-## How to Add a New Sub Comment Category
+## How to Add New Sub Comment Category?
 
 1. From Main Navigation and go to Wizard Page<br>
 
