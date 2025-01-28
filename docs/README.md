@@ -172,11 +172,12 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Create a Digital Form in the Mobile App?](Create_Digital_Form_Mobile.md)
 - [How to Update Job Details in Caction?](Edit_Details.md)
 - [Pending Data or Updates Guide](Pending_Data_or_Updates_Guide.md)
-<!-- [How to Force Close or Restart the App After Applying New Settings?]()
-- [How to Allow Camera Access on Mobile?]()
-- [How to Enable GPS Access on Mobile?]()
-- [How to Attach an Address Using Latitude and Longitude?]()
-- [How to Set Up Time Synchronization?]()-->
+
+<!-- - [How to Force Close or Restart the App After Applying New Settings?]() -->
+<!-- - [How to Allow Camera Access on Mobile?]() -->
+<!-- - [How to Enable GPS Access on Mobile?]() -->
+<!-- - [How to Attach an Address Using Latitude and Longitude?]() -->
+<!-- - [How to Set Up Time Synchronization?]() -->
 <br><br>
 
 Feel free to explore the sections above by clicking it for more information.<br><br>
