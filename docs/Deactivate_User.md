@@ -32,25 +32,25 @@ Updated: 23 January 2025<br>
       <img src="img/User_List_Sidebar1.png" alt="User List">
    </p>
    
-3. Navigate to the user you want to deactivate.<br>
+2. Navigate to the user you want to deactivate.<br>
 
    <p align="center">
       <img src="img/User_in_User_List.png" alt="User in User List">
    </p>
 
-4. Click on the "Green Tick" icon to deactivate the user.<br>
+3. Click on the "Green Tick" icon to deactivate the user.<br>
 
    <p align="center">
       <img src="img/Deactivate_Button.png" alt="Deactivate Button">
    </p>
 
-5. Click "Yes" to confirm your deactivation.<br>
+4. Click "Yes" to confirm your deactivation.<br>
 
    <p align="center">
       <img src="img/Confirm_Deactivate.png" alt="Confirm Deactivate">
    </p>
 
-6. Click "OK" and the user has been deactivated successfully.<br>
+5. Click "OK" and the user has been deactivated successfully.<br>
 
    <p align="center">
       <img src="img/Deactivate_Successful.png" alt="Deactivate Successful">
