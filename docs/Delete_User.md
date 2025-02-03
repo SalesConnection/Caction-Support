@@ -30,7 +30,7 @@ Updated: 23 January 2025<br>
    *Note: Only certain admins can delete users.<br>
 
    <p align="center">
-      <img src="img2/User_List_Sidebar1.png" alt="User List">
+      <img src="img/User_List_Sidebar1.png" alt="User List">
    </p>
 
 2. Navigate to the user you want to delete.<br>
