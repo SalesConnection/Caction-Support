@@ -9,7 +9,7 @@ Updated: 23 January 2025<br>
    **Open User List Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
 
    <p align="center">
-      <img src="img2/User_List_Sidebar1.png" alt="Enable Version Access Permission Step 1">
+      <img src="img/User_List_Sidebar1.png" alt="Enable Version Access Permission Step 1">
    </p>
      
    *Note: You must have access to User Management menu to perform this action. Please request permission or help from your admin if you do not have access to the menu.<br>
