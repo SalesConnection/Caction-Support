@@ -29,7 +29,7 @@ Updated: 23 January 2025<br>
    *Note: Only certain admins can deactivate users.<br>
 
    <p align="center">
-      <img src="img2/User_List_Sidebar1.png" alt="User List">
+      <img src="img/User_List_Sidebar1.png" alt="User List">
    </p>
    
 2. Navigate to the user you want to change the details to the new user.<br>
