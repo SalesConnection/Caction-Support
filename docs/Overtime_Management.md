@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 15 July 2024<br>
-Updated: 15 July 2024<br>
+Updated: 3 February 2025<br>
 ## Overtime Management
 
 **Overtime Management** tracks employee overtime claims, including the date, time, user, customer, notes, category, description, and start/end times. It ensures accurate recording and monitoring of overtime hours for compensation and compliance.<br><br>
