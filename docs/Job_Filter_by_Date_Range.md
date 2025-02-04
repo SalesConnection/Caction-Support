@@ -3,7 +3,15 @@ Created: 23 May 2024<br>
 Updated: 23 May 2024<br>
 ## 🧾 How to Filter Jobs by Date Range?
 
-**Desktop site:**<br>
+**Navigate to the section by clicking it.**<br>
+
+- [Desktop Version](#section1)<br>
+- [Mobile Version](#section2)
+<br><br><br>
+
+<a id="section1"></a>
+
+## Desktop Version
 
  1. To filter job, go to Main Navigation> Business Management > Schedule > Job Schedule.<br>
    **Filter Job Here:** [https://system.caction.com/activity/scheduler](https://system.caction.com/activity/scheduler)
@@ -44,7 +52,9 @@ Updated: 23 May 2024<br>
     </p>
     <br>
     
-**Mobile App:**<br>
+<a id="section2"></a>
+
+## Mobile Version
   1. At the Caction mobile app, select the "Schedule" page in the bottom center.
 
      <p align="center">
