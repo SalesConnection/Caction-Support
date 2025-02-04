@@ -223,73 +223,73 @@ Updated: 23 January 2025<br>
 1. At the mobile app's navigation bar, go to Schedule.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_1.png" alt="Job Schedule Mobile Step 1">
+      <img src="img2/Job_Schedule_Mobile_Step_1.png" alt="Job Schedule Mobile Step 1" style="width: 30%; height: auto;">
    </p>
 
 2. Click on the "+" button to add new job.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_2.png" alt="Job Schedule Mobile Step 2">
+      <img src="img2/Job_Schedule_Mobile_Step_2.png" alt="Job Schedule Mobile Step 2" style="width: 30%; height: auto;">
    </p>
   
 3. Scroll to the left or right to search for a job using the date.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_3.png" alt="Job Schedule Mobile Step 3">
+      <img src="img2/Job_Schedule_Mobile_Step_3.png" alt="Job Schedule Mobile Step 3" style="width: 30%; height: auto;">
    </p>
    
 4. Click on the date you want to view.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_4.png" alt="Job Schedule Mobile Step 4">
+      <img src="img2/Job_Schedule_Mobile_Step_4.png" alt="Job Schedule Mobile Step 4" style="width: 30%; height: auto;">
    </p>
 
 5. Click on the job to open the job details page.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_5.png" alt="Job Schedule Mobile Step 5">
+      <img src="img2/Job_Schedule_Mobile_Step_5.png" alt="Job Schedule Mobile Step 5" style="width: 30%; height: auto;">
    </p>
 
 6. Click on the options to filter the job on that day.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_6.png" alt="Job Schedule Mobile Step 6">
+      <img src="img2/Job_Schedule_Mobile_Step_6.png" alt="Job Schedule Mobile Step 6" style="width: 30%; height: auto;">
    </p>
   
 7. For example, only pending jobs will be shown if click on the "Pending Job" option.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_7.png" alt="Job Schedule Mobile Step 7">
+      <img src="img2/Job_Schedule_Mobile_Step_7.png" alt="Job Schedule Mobile Step 7" style="width: 30%; height: auto;">
    </p>
   
 8. Click on the "Filter" icon.
    
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_8.png" alt="Job Schedule Mobile Step 8">
+      <img src="img2/Job_Schedule_Mobile_Step_8.png" alt="Job Schedule Mobile Step 8" style="width: 30%; height: auto;">
    </p>
   
 9. Click the "three dots" icon.
 
    <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_9.png" alt="Job Schedule Mobile Step 9">
+      <img src="img2/Job_Schedule_Mobile_Step_9.png" alt="Job Schedule Mobile Step 9" style="width: 30%; height: auto;">
    </p>
   
 10. Click "Advance Filter Options".
 
     <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_10.png" alt="Job Schedule Mobile Step 10">
+      <img src="img2/Job_Schedule_Mobile_Step_10.png" alt="Job Schedule Mobile Step 10" style="width: 30%; height: auto;">
     </p>
 
 11. Select extra fields to filter the job.
 
     <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_11.png" alt="Job Schedule Mobile Step 11">
+      <img src="img2/Job_Schedule_Mobile_Step_11.png" alt="Job Schedule Mobile Step 11" style="width: 30%; height: auto;">
     </p>
   
 12. Click on the "DONE" button.
 
     <p align="center">
-      <img src="img2/Job_Schedule_Mobile_Step_12.png" alt="Job Schedule Mobile Step 12">
+      <img src="img2/Job_Schedule_Mobile_Step_12.png" alt="Job Schedule Mobile Step 12" style="width: 30%; height: auto;">
     </p>
   
 13. Use the filter to filter the job.
