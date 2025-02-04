@@ -25,7 +25,7 @@ Updated: 23 May 2024<br>
       <img src="img/Job_Filter_by_Date_Range_Step_3.png" alt="Job Filter by date range 3">
     </p>   
 
- 4. Click on any month that you like to search. For example, click on "Apr".
+ 4. Click on any month that you like to search. For example, click on "Jan".
 
     <p align="center">
       <img src="img/Job_Filter_by_Date_Range_Step_4.png" alt="Job Filter by date range 4">
@@ -37,7 +37,7 @@ Updated: 23 May 2024<br>
       <img src="img/Job_Filter_by_Date_Range_Step_5.png" alt="Job Filter by date range 5">
     </p>
 
- 6. Now, you are able to view the jobs created in April 2024.
+ 6. Now, you are able to view the jobs created in January 2025.
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_result.png" alt="Job Filter by date range result">
