@@ -27,7 +27,7 @@ Updated: 23 May 2024<br>
        <img src="img/Job_Filter_by_Date_Range_Step_2.png" alt="Job Filter by date range 2">
     </p>
 
- 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view the job in April 2024, click "May" and you will be able to select a month.
+ 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view the job in January 2025, click "February" and you will be able to select a month.
 
     <p align="center">
       <img src="img/Job_Filter_by_Date_Range_Step_3.png" alt="Job Filter by date range 3">
