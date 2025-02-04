@@ -209,7 +209,7 @@ Updated: 23 January 2025<br>
       <img src="img2/Job_Schedule_Step_30.png" alt="Job Schedule Step 30">
     </p>
   
-31. Click on the "+" button to add a new job.
+31. Click on the "+ Add Job" button to add a new job.
 
     <p align="center">
       <img src="img2/Job_Schedule_Step_31.png" alt="Job Schedule Step 31">
