@@ -1,3 +1,10 @@
+---
+layout: default
+title: About Us
+description: Learn more about our team and mission.
+url: support.caction.com
+---
+
 Version 1.0<br>
 Created: 5 July 2024<br>
 Updated: 23 January 2025<br>
