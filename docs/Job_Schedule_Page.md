@@ -1,8 +1,6 @@
 ---
-layout: default
 title: About Us
 description: Learn more about our team and mission.
-url: support.caction.com
 ---
 
 Version 1.0<br>
