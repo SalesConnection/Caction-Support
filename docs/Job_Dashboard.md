@@ -1,7 +1,6 @@
 ---
-title: Job Dashboard
-description: This is tutorial to navigate job dashboard in the system.
-url: https://support.caction.com/Job_Dashboard.html
+title: "........"
+description: "......."
 ---
 
 Version 1.0<br>
