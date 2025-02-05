@@ -1,6 +1,6 @@
 ---
-title: About Us
-description: Learn more about our team and mission.
+title: How to Use Job Schedule Page?
+description: Job Schedule organizes and displays upcoming jobs and tasks in a calendar format, detailing job descriptions, statuses, and assigned personnel. It helps users manage and track the scheduling and progress of various jobs.
 ---
 
 Version 1.0<br>
