@@ -1,3 +1,8 @@
+---
+title: How to Add a New Asset?
+description: This is tutorial to add a new asset in the system.
+---
+
 Version 1.0<br>
 Created: 18 June 2024<br>
 Updated: 23 January 2025<br>
