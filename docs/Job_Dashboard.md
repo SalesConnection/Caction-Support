@@ -1,8 +1,6 @@
 ---
-layout: default
-title: About Us
-description: Learn more about our team and mission.
-url: support.caction.com
+title: Job Dashboard
+description: This is tutorial to use job dashboard in the system.
 ---
 
 Version 1.0<br>
