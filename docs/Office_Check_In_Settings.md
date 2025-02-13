@@ -11,13 +11,13 @@ Save your office address(es) into the system and set them up for your team to cl
 - [Clear Assigned User](#section2)<br>
 - [Delete Office Check-In Location](#section3)<br>
 - [Edit Office Check-In Location](#section4)
-<br><br><br>
+<br><br>
 
 <a id="section1"></a>
 
 ### Add Office Check-In Location
 
-1. At the desktop site navigation bar, go to HR Suite > Office Check-in Settings.<br>
+1. At the desktop site navigation bar, go to HR Suite and click to Office Check-in Settings.<br>
    **Open Office Check-In Settings Here:** [https://system.caction.com/officecheckin/setting](https://system.caction.com/officecheckin/setting)<br>
 
    <p align="center">
