@@ -219,7 +219,7 @@ Updated: 3 February 2025<br>
      <img src="img2/Overtime_Management_Change_Claim_Step_7.png" alt="Overtime Management Change Claim Step 7">
    </p>
 
-8. Choose the status that you would like to update the selected claim(s) to.
+8. Select the status to update the chosen claim(s).
     
    <p align="center">
      <img src="img2/Overtime_Management_Change_Claim_Step_8.png" alt="Overtime Management Change Claim Step 8">
