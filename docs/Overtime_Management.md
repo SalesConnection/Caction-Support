@@ -207,7 +207,7 @@ Updated: 3 February 2025<br>
      <img src="img2/Overtime_Management_Change_Claim_Step_5.png" alt="Overtime Management Change Claim Step 5">
    </p>  
 
-6. To select more than one claim to update, tick the boxes on the left of the claims that you would like to update the status of.
+6. To update the status of multiple claims, tick the boxes on the left of the claims you want to update.
     
    <p align="center">
      <img src="img2/Overtime_Management_Change_Claim_Step_6.png" alt="Overtime Management Change Claim Step 6">
