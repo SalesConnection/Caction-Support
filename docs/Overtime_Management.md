@@ -17,7 +17,7 @@ Updated: 3 February 2025<br>
 - [Export](#section8)
 <br><br><br>
 
-1. At the desktop site navigation bar, go to HR Suite > Overtime Management.<br>
+1. At the desktop site navigation bar, go to HR Suite and select Overtime Management.<br>
    **Open Overtime Management Here:** [https://system.caction.com/claim/overtime](https://system.caction.com/claim/overtime)<br>
 
    <p align="center">
