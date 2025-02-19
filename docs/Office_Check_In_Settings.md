@@ -137,7 +137,7 @@ To delete the registered location set for your office check in/out, follow the s
 ### Edit Office Check-In Location
 To edit the registered location set for your office check in/out, follow the steps below.<br>
 
-1. At the desktop's navigation bar, go to Business Management > Customer List.<br>
+1. At the desktop's navigation bar, go to Business Management and select Customer List.<br>
    **Open Customer List Page Here:** [https://system.caction.com/customers](https://system.caction.com/customers)<br>
 
    <p align="center">
