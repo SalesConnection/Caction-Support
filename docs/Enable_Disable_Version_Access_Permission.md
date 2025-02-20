@@ -5,7 +5,7 @@ Updated: 23 January 2025<br>
 
 *Note: Sub-Admin and Admin users will automatically have access to Desktop Version.<br><br>
 
-1. At the desktop site navigation bar, go to HR Suite > User List.<br>
+1. On the desktop site, go to the navigation bar, select HR Suite, then click User List.<br>
    **Open User List Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
 
    <p align="center">
