@@ -77,20 +77,20 @@ Updated: 25 June 2024<br>
 9. Write some notes about what you changed.<br>
 
    <p align="center">
-      <img src="img2/Job_Template_Step_8.png" alt="Job Template Step 7">
+      <img src="img2/Job_Template_Step_8.png" alt="Job Template Step 8">
    </p>
 *Note: Saving these changes will apply them across your team.<br>
 
 10. Click the "Save" button.<br>
 
    <p align="center">
-      <img src="img2/Job_Template_Step_9.png" alt="Job Template Step 7">
+      <img src="img2/Job_Template_Step_9.png" alt="Job Template Step 9">
    </p>
 
 11. The job template settings has been saved successfully.<br>
 
    <p align="center">
-      <img src="img2/Job_Template_Step_10.png" alt="Job Template Step 7">
+      <img src="img2/Job_Template_Step_10.png" alt="Job Template Step 10">
    </p>
 <br><br><br>
 
@@ -109,16 +109,28 @@ Updated: 25 June 2024<br>
    | Copy From | Copy from other category and apply to current job category. |
 
    <p align="center">
-      <img src="img2/Job_Template_Step_11.png" alt="Job Template Step 7">
+      <img src="img2/Job_Template_Step_11.png" alt="Job Template Step 11">
    </p>
 <br>
 
 <a id="section1"></a>
    **Version History**<br>
-1. 
+   *Notes: The system can store up to 16 versions in total, with a maximum of 15 pinned versions, while unpinned versions will be automatically replaced when they become the oldest.<br>
+    Pinned versions remain protected until manually unpinned.<br>
+    
+1. The job template details and settings are at the left section while the right section shows the version history of the job template, allowing users to track and manage previous versions.<br>
+
    <p align="center">
-      <img src="img2/Job_Template_Step_12.png" alt="Job Template Step 7">
+      <img src="img2/Job_Template_Step_12.png" alt="Job Template Step 12">
    </p>
+
+2. Hover over a version to reveal the pin or unpin icon.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_13.png" alt="Job Template Step 13">
+   </p>
+
+3.
 
 <a id="section2"></a>
    **Save to all categories**<br>
