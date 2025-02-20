@@ -70,18 +70,11 @@ Updated: 23 January 2025<br>
      <img src="img/How_to_Create_Asset_Step_5.png" alt="How to add new asset Step 5">
    </p><br>
 
-6. Your Asset is successfully saved when the “Successfully Saved” prompt appears.
+6. Your Asset is successfully saved when the “Successfully Saved” prompt appears and you will be directed to the new Asset Details page.
 
    <p align="center">
      <img src="img/How_to_Create_Asset_Step_6.png" alt="How to add new asset Step 6">
    </p><br>
-
-7. You will then be directed to the new Asset Details page.
-
-   <p align="center">
-     <img src="img/How_to_Create_Asset_Result.png" alt="How to add new asset Result">
-   </p>
-   <br><br>
 
 <a id="section5"></a>
 
