@@ -42,7 +42,7 @@ Updated: 25 June 2024<br>
       <img src="img2/Job_Template_Step_4.png" alt="Job Template Step 4">
    </p>
 
-6. "Default Field Prepopulate Value Settings" allows to set default values for various fields in the job template.<br>
+5. "Default Field Prepopulate Value Settings" allows to set default values for various fields in the job template.<br>
 
    | Field | Description |
    |-------|---------|
@@ -56,7 +56,7 @@ Updated: 25 June 2024<br>
       <img src="img2/Job_Template_Step_5.png" alt="Job Template Step 5">
    </p>
 
-7. "Custom Field Settings" allows to add and configure custom fields for the job template. You can click on the "Custom Field Element" and edit it at the right side.<br>
+6. "Custom Field Settings" allows to add and configure custom fields for the job template. You can click on the "Custom Field Element" and edit it at the right side.<br>
 
    | Field | Description |
    |-------|---------|
@@ -67,40 +67,38 @@ Updated: 25 June 2024<br>
       <img src="img2/Job_Template_Step_6.png" alt="Job Template Step 6">
    </p>
 
-8. Click the "Save" button on the right side of the page.<br>
-
+7. Click the "Save" button on the right side of the page.<br>
 
    <p align="center">
       <img src="img2/Job_Template_Step_7.png" alt="Job Template Step 7">
    </p>
 
-9. Write some notes about what you changed.<br>
+8. Write some notes about what you changed.<br>
 
    <p align="center">
       <img src="img2/Job_Template_Step_8.png" alt="Job Template Step 8">
    </p>
-*Note: Saving these changes will apply them across your team.<br>
+   *Note: Saving these changes will apply them across your team.
 
-10. Click the "Save" button.<br>
+9. Click the "Save" button.<br>
 
    <p align="center">
       <img src="img2/Job_Template_Step_9.png" alt="Job Template Step 9">
    </p>
 
-11. The job template settings has been saved successfully.<br>
+10. The job template settings has been saved successfully.<br>
 
    <p align="center">
       <img src="img2/Job_Template_Step_10.png" alt="Job Template Step 10">
    </p>
-<br><br><br>
 
-   **Other features in template setting**<br>
+### Other features in template setting<br>
    - [Version History](#section1)
    - [Save to all categories](#section2)
    - [Copy From](#section3)
    <br>
 
-12. Click the three dots icon and there are three options shown. <br>
+11. Click the three dots icon and there are three options shown. <br>
 
    | Field | Description |
    |-------|-------------|
@@ -114,8 +112,8 @@ Updated: 25 June 2024<br>
 <br>
 
 <a id="section1"></a>
-   **Version History**<br>
-   *Notes: The system can store up to 16 versions in total, with a maximum of 15 pinned versions, while unpinned versions will be automatically replaced when they become the oldest.<br>
+### Version History<br>
+*Notes: The system can store up to 16 versions in total, with a maximum of 15 pinned versions, while unpinned versions will be automatically replaced when they become the oldest.<br>
     Pinned versions remain protected until manually unpinned.<br>
     
 1. The job template details and settings are at the left section while the right section shows the version history of the job template, allowing users to track and manage previous versions.<br>
@@ -129,14 +127,17 @@ Updated: 25 June 2024<br>
    <p align="center">
       <img src="img2/Job_Template_Step_13.png" alt="Job Template Step 13">
    </p>
+   <p align="center">
+      <img src="img2/Job_Template_Step_14.png" alt="Job Template Step 14">
+   </p>
 
 3.
 
 <a id="section2"></a>
-   **Save to all categories**<br>
+### Save to all categories<br>
 
 <a id="section3"></a>
-   **Copy From**<br>
+### Copy From<br>
 
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
