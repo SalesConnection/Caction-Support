@@ -111,7 +111,7 @@ Updated: 3 February 2025<br>
 2. Click "+ Add".
 
   <p align="center">
-     <img src="img2/Overtime_Management_Favourite_Filter_Step_2.png" alt="Overtime Management Favourite Filter Step 2">
+     <img src="img2/Overtime_Management_Favourite_Filter_Step_2.png" alt="Overtime Management Favourite Filter Step 2"  style="width: 94%; height: auto;">
   </p>
   
 3. Enter the name of the favourite filter.
