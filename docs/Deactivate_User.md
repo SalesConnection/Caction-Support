@@ -24,7 +24,7 @@ Updated: 23 January 2025<br>
 - A deactivated user account is not counted as one.<br><br>
 
 ### How to deactivate a user?
-1. Go to desktop site navigation bar > HR Suite > User List.<br>
+1. On the desktop site, go to the navigation bar, select HR Suite, then click User List.<br>
    **Open User List Page Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
    *Note: Only certain admins can deactivate users.<br>
 
