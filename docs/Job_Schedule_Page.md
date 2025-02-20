@@ -20,7 +20,7 @@ Updated: 23 January 2025<br>
 
 ## Desktop Version
 
-1. At the desktop site navigation bar, go to Business Management > Schedule > Job Schedule.<br>
+1. On the desktop site, navigate to Business Management, then select Schedule, and click Job Schedule.<br>
    **Open Job Schedule Here:** [https://system.caction.com/activity/scheduler](https://system.caction.com/activity/scheduler)<br>
 
    <p align="center">
