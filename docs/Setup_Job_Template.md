@@ -92,20 +92,39 @@ Updated: 25 June 2024<br>
    <p align="center">
       <img src="img2/Job_Template_Step_10.png" alt="Job Template Step 7">
    </p>
+<br><br><br>
 
-12. Click the three dots icon and there are three options shown.
+   **Other features in template setting**<br>
+   - [Version History](#section1)
+   - [Save to all categories](#section2)
+   - [Copy From](#section3)
+   <br>
+
+12. Click the three dots icon and there are three options shown. <br>
 
    | Field | Description |
    |-------|-------------|
-   | Version History | Apply for all job category. |
-   | Save to all categories | Apply for existing job category. |
-   | Copy From | Apply for existing job category. |
+   | Version History | View the changes and version of the template setting. |
+   | Save to all categories | Apply changes to all existing job categories. |
+   | Copy From | Copy from other category and apply to current job category. |
 
    <p align="center">
       <img src="img2/Job_Template_Step_11.png" alt="Job Template Step 7">
    </p>
-  
-<br><br><br>
+<br>
+
+<a id="section1"></a>
+   **Version History**<br>
+1. 
+   <p align="center">
+      <img src="img2/Job_Template_Step_12.png" alt="Job Template Step 7">
+   </p>
+
+<a id="section2"></a>
+   **Save to all categories**<br>
+
+<a id="section3"></a>
+   **Copy From**<br>
 
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
