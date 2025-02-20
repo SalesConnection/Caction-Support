@@ -89,7 +89,7 @@ Updated: 25 June 2024<br>
 10. The job template settings has been saved successfully.<br>
 
    <p align="center">
-      <img src="img2/Job_Template_Step_10.png" alt="Job Template Step 10">
+      <img src="img2/Job_Template_Step_9.png" alt="Job Template Step 9">
    </p>
 
 ### Other features in template setting<br>
