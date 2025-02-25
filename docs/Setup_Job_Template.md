@@ -138,18 +138,13 @@ Updated: 25 June 2024<br>
    <p align="center">
       <img src="img2/Job_Template_Step_15.png" alt="Job Template Step 15">
    </p>
-
-5. If you want to restore previous template version, you may click the version log you want.
-   <p align="center">
-      <img src="img2/Job_Template_Step_15.png" alt="Job Template Step 15">
-   </p>
    
-6. Click the "Restore" button.
+5. Click the "Restore" button.
    <p align="center">
       <img src="img2/Job_Template_Step_16.png" alt="Job Template Step 16">
    </p>
 
-7. The success prompt is shown when restored successfully.
+6. The success prompt is shown when restored successfully.
    <p align="center">
       <img src="img2/Job_Template_Step_17.png" alt="Job Template Step 17">
    </p>
