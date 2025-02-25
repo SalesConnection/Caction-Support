@@ -89,7 +89,7 @@ Updated: 25 June 2024<br>
 10. The job template settings has been saved successfully.<br>
 
    <p align="center">
-      <img src="img2/Job_Template_Step_9.png" alt="Job Template Step 9">
+      <img src="img2/Job_Template_Step_10.png" alt="Job Template Step 10">
    </p>
 
 ### Other features in template setting<br>
@@ -127,17 +127,46 @@ Updated: 25 June 2024<br>
    <p align="center">
       <img src="img2/Job_Template_Step_13.png" alt="Job Template Step 13">
    </p>
+
+3. Click the pin or unpin icon to pin the version log. 
+   *Note: Click the refresh button above to refresh version history list.
    <p align="center">
       <img src="img2/Job_Template_Step_14.png" alt="Job Template Step 14">
    </p>
 
-3.
+4. If you want to restore previous template version, you may click the version log you want.
+   <p align="center">
+      <img src="img2/Job_Template_Step_15.png" alt="Job Template Step 15">
+   </p>
 
+5. If you want to restore previous template version, you may click the version log you want.
+   <p align="center">
+      <img src="img2/Job_Template_Step_15.png" alt="Job Template Step 15">
+   </p>
+   
+6. Click the "Restore" button.
+   <p align="center">
+      <img src="img2/Job_Template_Step_16.png" alt="Job Template Step 16">
+   </p>
+
+7. The success prompt is shown when restored successfully.
+   <p align="center">
+      <img src="img2/Job_Template_Step_17.png" alt="Job Template Step 17">
+   </p>
+   
 <a id="section2"></a>
 ### Save to all categories<br>
+*Notes: "Save to all categories" creates a separate version for each category. When restoring from a specific category, it will only affect that category and not overwrite other categories.<br>
+
+1. The job template details and settings are at the left section while the right section shows the version history of the job template, allowing users to track and manage previous versions.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_12.png" alt="Job Template Step 12">
+   </p>
 
 <a id="section3"></a>
 ### Copy From<br>
+#Notes: "Copy From" allows users to copy template settings from another category into the current category template.<br>
 
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
