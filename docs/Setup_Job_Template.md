@@ -96,15 +96,18 @@ Updated: 25 June 2024<br>
    - [Version History](#section1)
    - [Save to all categories](#section2)
    - [Copy From](#section3)
+   - [Apply To](#section4)
    <br>
-
-11. Click the three dots icon and there are three options shown. <br>
 
    | Field | Description |
    |-------|-------------|
    | Version History | View the changes and version of the template setting. |
    | Save to all categories | Apply changes to all existing job categories. |
    | Copy From | Copy from other category and apply to current job category. |
+   | Apply To  | Apply this field configuration to any category of your choice. |
+   <br><br>
+   
+11. Click the three dots icon and there are three options shown. <br>
 
    <p align="center">
       <img src="img2/Job_Template_Step_11.png" alt="Job Template Step 11">
@@ -144,7 +147,7 @@ Updated: 25 June 2024<br>
       <img src="img2/Job_Template_Step_16.png" alt="Job Template Step 16">
    </p>
 
-6. The success prompt is shown when restored successfully.
+6. The template is restored successfully.
    <p align="center">
       <img src="img2/Job_Template_Step_17.png" alt="Job Template Step 17">
    </p>
@@ -153,15 +156,93 @@ Updated: 25 June 2024<br>
 ### Save to all categories<br>
 *Notes: "Save to all categories" creates a separate version for each category. When restoring from a specific category, it will only affect that category and not overwrite other categories.<br>
 
-1. The job template details and settings are at the left section while the right section shows the version history of the job template, allowing users to track and manage previous versions.<br>
+1. Write some notes about what you changed for all categories template.<br>
 
    <p align="center">
-      <img src="img2/Job_Template_Step_12.png" alt="Job Template Step 12">
+      <img src="img2/Job_Template_Step_18.png" alt="Job Template Step 18">
    </p>
+
+2. Pre-populated values will not be included.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_19.png" alt="Job Template Step 19">
+   </p>   
+
+3. Click "Yes,apply to all" button.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_20.png" alt="Job Template Step 20">
+   </p>   
+
+4. Current category template is saved to all categories template successfully.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_21.png" alt="Job Template Step 21">
+   </p>   
+
+5. Click the category and select service contract.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_22.png" alt="Job Template Step 22">
+   </p>   
+
+6. Service contract category is selected.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_23.png" alt="Job Template Step 23">
+   </p>   
+
+7. Open the version history and the version log that the site visit category saved to all categories is shown.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_24.png" alt="Job Template Step 24">
+   </p>   
 
 <a id="section3"></a>
 ### Copy From<br>
-#Notes: "Copy From" allows users to copy template settings from another category into the current category template.<br>
+*Notes: "Copy From" allows users to copy template settings from another category into the current category template.<br>
+
+1. After clicked the "Copy From", the select location category will be displayed.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_25.png" alt="Job Template Step 25">
+   </p>
+
+2. Select the category that you want to copy from.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_26.png" alt="Job Template Step 26">
+   </p>
+
+3. Select the category that you want to copy from and click "Apply" button..<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_27.png" alt="Job Template Step 27">
+   </p>
+
+4. The template has been successfully copied.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_28.png" alt="Job Template Step 28">
+   </p>
+
+<a id="section4"></a>
+### Apply To<br>
+*Notes: "Apply To" allows users to apply the specific field configuration to a selected category.<br>
+Default and Custom fields can
+
+1. After clicked the "Copy From", the select location category will be displayed.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_29.png" alt="Job Template Step 29">
+   </p>
+
+1. After clicked the "Copy From", the select location category will be displayed.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_25.png" alt="Job Template Step 25">
+   </p>
+
 
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
