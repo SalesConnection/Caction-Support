@@ -208,22 +208,16 @@ Updated: 25 June 2024<br>
       <img src="img2/Job_Template_Step_25.png" alt="Job Template Step 25">
    </p>
 
-2. Select the category that you want to copy from.<br>
+2. Select the category that you want to copy from and click "Apply" button.<br>
 
    <p align="center">
       <img src="img2/Job_Template_Step_26.png" alt="Job Template Step 26">
    </p>
 
-3. Select the category that you want to copy from and click "Apply" button..<br>
+3. The template has been successfully copied..<br>
 
    <p align="center">
       <img src="img2/Job_Template_Step_27.png" alt="Job Template Step 27">
-   </p>
-
-4. The template has been successfully copied.<br>
-
-   <p align="center">
-      <img src="img2/Job_Template_Step_28.png" alt="Job Template Step 28">
    </p>
 
 <a id="section4"></a>
@@ -231,18 +225,35 @@ Updated: 25 June 2024<br>
 *Notes: "Apply To" allows users to apply the specific field configuration to a selected category.<br>
 Default and Custom fields can
 
-1. After clicked the "Copy From", the select location category will be displayed.<br>
+1. "Apply To" can be found in the default and custom field settings.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_28.png" alt="Job Template Step 28">
+   </p>
+
+2. Click the three dots icon and click "Apply To".<br>
 
    <p align="center">
       <img src="img2/Job_Template_Step_29.png" alt="Job Template Step 29">
    </p>
 
-1. After clicked the "Copy From", the select location category will be displayed.<br>
+3. Select the categories that you want to apply to.<br>
 
    <p align="center">
-      <img src="img2/Job_Template_Step_25.png" alt="Job Template Step 25">
+      <img src="img2/Job_Template_Step_30.png" alt="Job Template Step 30">
    </p>
 
+4. Click "Save & Apply" button.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_31.png" alt="Job Template Step 31">
+   </p>
+   
+5. The field is successfully applied to the selected category template field.<br>
+
+   <p align="center">
+      <img src="img2/Job_Template_Step_32.png" alt="Job Template Step 32">
+   </p>
 
 **Related Articles**
 - [How to Add New Job?](Add_New_Job.md)
