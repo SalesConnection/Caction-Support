@@ -153,8 +153,8 @@ Updated: 23 January 2025<br>
        <img src="img/How_to_Create_Asset2_Step_1.png" alt="How to add new asset2 Step 1">
     </p><br>
 
-2. Click the "+" button to create new Job.<br>
-   *Note: If you do not see a "+" button, you may need to request permission or help from your Admin to register new Job.<br>
+2. Click the "+ Add Job" button to create new Job.<br>
+   *Note: If you do not see a "+ Add Job" button, you may need to request permission or help from your Admin to register new Job.<br>
 
    <p align="center">
      <img src="img/How_to_Create_Asset2_Step_2.png" alt="How to add new asset2 Step 2">
