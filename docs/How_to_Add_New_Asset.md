@@ -286,7 +286,7 @@ Updated: 23 January 2025<br>
 
 <a id="section3"></a>
 
-### From Asset List
+### From Customer Creation Page
 
 - [Using Desktop](#section8)
 - [Using Mobile](#section9)
