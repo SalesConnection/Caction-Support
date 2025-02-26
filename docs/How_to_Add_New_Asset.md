@@ -83,26 +83,26 @@ Updated: 23 January 2025<br>
 1.  At the mobile app's navigation bar, go to "Dashboard".<br> 
 
     <p align="center">
-       <img src="img/How_to_Create_Asset_Mobile_Step_1.png" alt="How to add new asset Mobile Step 1">
+       <img src="img/How_to_Create_Asset_Mobile_Step_1.png" alt="How to add new asset Mobile Step 1" style="width: 30%; height: auto;">
     </p><br>
 
 2. Click the "Asset".<br>
    *Note: If you do not see a "+" button, you may need to request permission or help from your Admin to register new Job.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Mobile_Step_2.png" alt="How to add new asset Mobile Step 2">
+     <img src="img/How_to_Create_Asset_Mobile_Step_2.png" alt="How to add new asset Mobile Step 2" style="width: 30%; height: auto;">
    </p><br>
 
 3. Click the "+" button to add new asset.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Mobile_Step_3.png" alt="How to add new asset Mobile Step 3">
+     <img src="img/How_to_Create_Asset_Mobile_Step_3.png" alt="How to add new asset Mobile Step 3" style="width: 30%; height: auto;">
    </p><br>
 
 4. Select the asset category.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Mobile_Step_4.png" alt="How to add new asset Mobile Step 4">
+     <img src="img/How_to_Create_Asset_Mobile_Step_4.png" alt="How to add new asset Mobile Step 4" style="width: 30%; height: auto;">
    </p><br>
   
 5. Fill out the details of the new Asset. Available fields may differ depending on your company’s system setup.
@@ -119,19 +119,19 @@ Updated: 23 January 2025<br>
    *Note: Fields marked with an asterisk ( * ) are required.<br>
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Mobile_Step_5.png" alt="How to add new asset Mobile Step 5">
+     <img src="img/How_to_Create_Asset_Mobile_Step_5.png" alt="How to add new asset Mobile Step 5" style="width: 30%; height: auto;">
    </p><br>
 
 6. Click the "tick" icon.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Mobile_Step_6.png" alt="How to add new asset Mobile Step 6">
+     <img src="img/How_to_Create_Asset_Mobile_Step_6.png" alt="How to add new asset Mobile Step 6" style="width: 30%; height: auto;">
    </p><br>
 
 7. The new asset is saved successfully when this prompt appears.
 
    <p align="center">
-     <img src="img/How_to_Create_Asset_Mobile_Step_7.png" alt="How to add new asset Mobile Step 7">
+     <img src="img/How_to_Create_Asset_Mobile_Step_7.png" alt="How to add new asset Mobile Step 7" style="width: 30%; height: auto;">
    </p>
    <br><br>
 
