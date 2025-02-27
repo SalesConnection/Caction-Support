@@ -302,7 +302,7 @@ Updated: 23 January 2025<br>
        <img src="img/How_to_Create_Asset3_Step_1.png" alt="How to add new asset3 Step 1">
     </p><br>
 
-2. Click the "+" button to create new Customer.<br>
+2. Click the "+ New Customer" button to create new Customer.<br>
    *Note: If you do not see a "+" button, you may need to request permission or help from your Admin to register new Customer.<br>
 
    <p align="center">
@@ -350,7 +350,7 @@ Updated: 23 January 2025<br>
      <img src="img/How_to_Create_Asset3_Step_7.png" alt="How to add new asset3 Step 7">
    </p><br>
 
-8. Your Asset is successfully saved when the “Successfully Saved” prompt appears. You may continue with creating new Customer.
+8. Your Asset is successfully saved when the “Saved Successfully” prompt appears. You may continue with creating new Customer.
 
    <p align="center">
      <img src="img/How_to_Create_Asset3_Step_8.png" alt="How to add new asset3 Step 8">
@@ -415,7 +415,7 @@ Updated: 23 January 2025<br>
      <img src="img/How_to_Create_Asset3_Mobile_Step_7.png" alt="How to add new asset3 Mobile Step 7" style="width: 30%; height: auto;">
    </p><br>
 
-8. Click the "tick" icon.
+8. Click Save.
 
    <p align="center">
      <img src="img/How_to_Create_Asset3_Mobile_Step_8.png" alt="How to add new asset3 Mobile Step 8" style="width: 30%; height: auto;">
