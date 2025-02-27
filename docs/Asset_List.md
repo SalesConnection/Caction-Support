@@ -111,56 +111,56 @@ Updated: 2 Feb 2025<br>
      <img src="img2/Asset_List_Step_9.png" alt="Asset List Step 9">
    </p>
 
-11. Select the columns you want to display.
+12. Select the columns you want to display.
 
     <p align="center">
       <img src="img2/Asset_List_Step_10.png" alt="Asset List Step 10">
     </p>
 
-12. Click to scroll down.
+13. Click to scroll down.
 
     <p align="center">
       <img src="img2/Asset_List_Step_11.png" alt="Asset List Step 11">
     </p>
 
-13. Tick "Asset Split" if you want to display the asset separately.
+14. Tick "Asset Split" if you want to display the asset separately.
 
     <p align="center">
       <img src="img2/Asset_List_Step_12.png" alt="Asset List Step 12">
     </p>
 
-14. Click "Save".
+15. Click "Save".
 
     <p align="center">
       <img src="img2/Asset_List_Step_13.png" alt="Asset List Step 13">
     </p>
 
-15. Click "Column Group 2".
+16. Click "Column Group 2".
 
     <p align="center">
       <img src="img2/Asset_List_Step_14.png" alt="Customer List Step 14">
     </p>
 
-16. Click the "pencil" icon to edit the default column's name.
+17. Click the "pencil" icon to edit the default column's name.
     *Note: The "Gear" icon is to change columns selected for that display.
    
     <p align="center">
       <img src="img2/Customer_List_Step_15.png" alt="Customer List Step 15">
     </p>
 
-17. Enter the name of the default column.
+18. Enter the name of the default column.
 
     <p align="center">
       <img src="img2/Customer_List_Step_16.png" alt="Customer List Step 16">
     </p>
 
-18. Click the "tick" icon to save the name.
+19. Click the "tick" icon to save the name.
 
     <p align="center">
       <img src="img2/Customer_List_Step_17.png" alt="Customer List Step 17">
     </p>
 
-19. The "Default Column" has been saved successfully.
+20. The "Default Column" has been saved successfully.
 
     <p align="center">
       <img src="img2/Customer_List_Step_18.png" alt="Customer List Step 18">
