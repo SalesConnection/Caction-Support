@@ -1,6 +1,6 @@
 Version 1.0<br>
-Created: 2 Feb 2025<br>
-Updated: 2 Feb 2025<br>
+Created: 27 Feb 2025<br>
+Updated: 27 Feb 2025<br>
 ## Asset List
 
 **Asset List** displays detailed information about all assets, including asset numbers, serial numbers, asset status, asset category, and asset currently attached customer. It allows users to manage and access asset data efficiently.<br><br>
