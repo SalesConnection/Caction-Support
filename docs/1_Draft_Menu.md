@@ -36,7 +36,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Add a New Product/Service?](Add_New_Product&Service_List.md)
 - [How to Set a Customized Favourite Filter as Default (Desktop)?](Default_Favourite_Filter.md)
 - [How to Set a Customized Favourite Filter as Default (App)?](Default_Favourite_Filter_App.md)
-<!-- [Asset List]()-->
+- [Asset List](Asset_List.md)
 <!-- [How to Create a Contact?]()-->
 
 ### Business Reports
@@ -48,7 +48,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Set a Customized Favourite Filter as Default (App)?](Default_Favourite_Filter_App.md)
 - [How to Use the Update Report Filter?](Update_Report_Page.md)
 - [How to Find Deleted Jobs or Identify Who Deleted a Job?](Filter_Deleted_Job.md)
-<!-- [How to Filter Assets Without an Attached Customer?]()-->
+- [How to Filter Assets Without an Attached Customer?](Asset_Filter_No_Customer.md)
 
 ### Business Metrics
 - [Understanding the Metrics Dashboard](Metric_Dashboard.md)
