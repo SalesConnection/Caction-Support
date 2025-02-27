@@ -117,91 +117,78 @@ Updated: 2 Feb 2025<br>
       <img src="img2/Asset_List_Step_10.png" alt="Asset List Step 10">
     </p>
 
-13. Click to scroll down.
+13. Click "Save" button.
 
     <p align="center">
       <img src="img2/Asset_List_Step_11.png" alt="Asset List Step 11">
     </p>
 
-14. Tick "Asset Split" if you want to display the asset separately.
+14. Click "Column Group 2".
 
     <p align="center">
       <img src="img2/Asset_List_Step_12.png" alt="Asset List Step 12">
     </p>
 
-15. Click "Save".
+15. Click the "pencil" icon to edit the default column's name.
+    *Note: The "Gear" icon is to change columns selected for that display.
 
     <p align="center">
       <img src="img2/Asset_List_Step_13.png" alt="Asset List Step 13">
     </p>
 
-16. Click "Column Group 2".
+16. Enter the name of the default column.
 
     <p align="center">
       <img src="img2/Asset_List_Step_14.png" alt="Customer List Step 14">
     </p>
 
-17. Click the "pencil" icon to edit the default column's name.
-    *Note: The "Gear" icon is to change columns selected for that display.
+17. Click the "tick" icon to save the name.
    
     <p align="center">
       <img src="img2/Customer_List_Step_15.png" alt="Customer List Step 15">
     </p>
 
-18. Enter the name of the default column.
+18. The "Default Column" has been saved successfully.
 
     <p align="center">
       <img src="img2/Customer_List_Step_16.png" alt="Customer List Step 16">
     </p>
 
-19. Click the "tick" icon to save the name.
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_17.png" alt="Customer List Step 17">
-    </p>
-
-20. The "Default Column" has been saved successfully.
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_18.png" alt="Customer List Step 18">
-    </p>
-    <br>
-
     <a id="section5"></a>
 
     ### Favourite Filter
    
-27. Click "Favourite Filter" if you want to add a favourite filter.
+19. Click "Favourite Filter" if you want to add a favourite filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_26.png" alt="Customer List Step 26">
     </p>
 
-28. Click "+ Add".
+20. Click "+ Add".
 
     <p align="center">
       <img src="img2/Customer_List_Step_27.png" alt="Customer List Step 27">
     </p>
 
-29. Enter the name of the favourite filter.
+21. Enter the name of the favourite filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_28.png" alt="Customer List Step 28">
     </p>
 
-30. Click on the "Save" button and the favourite filter has been saved successfully.
+22. Click on the "Save" button and the favourite filter has been saved successfully.
 
     <p align="center">
       <img src="img2/Customer_List_Step_29.png" alt="Customer List Step 29">
     </p>
 
-31. Click "Favourite Filter".
+23. Click "Favourite Filter".
 
     <p align="center">
       <img src="img2/Customer_List_Step_30.png" alt="Customer List Step 30">
     </p>
 
-32. Click on the icon beside the favourite filter to have more actions.
+24. Click on the icon beside the favourite filter to have more actions.
 
     | Icon | Description |
     |------|-------------|
@@ -214,25 +201,25 @@ Updated: 2 Feb 2025<br>
        <img src="img2/Customer_List_Step_31.png" alt="Customer List Step 31">
     </p>
 
-33. Click "Default Filter" if you want to set a default filter.
+25. Click "Default Filter" if you want to set a default filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_32.png" alt="Customer List Step 32">
     </p>
 
-34. Select the favourite filter you want to set as the default filter.
+26. Select the favourite filter you want to set as the default filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_33.png" alt="Customer List Step 33">
     </p>
  
-35. Default filter has been set successfully and it will apply automatically when you enter this page.
+27. Default filter has been set successfully and it will apply automatically when you enter this page.
 
     <p align="center">
       <img src="img2/Customer_List_Step_34.png" alt="Customer List Step 34">
     </p>
  
-36. Click "Clear All" if you want to clear all the filter applied.
+28. Click "Clear All" if you want to clear all the filter applied.
 
     <p align="center">
       <img src="img2/Customer_List_Step_35.png" alt="Customer List Step 35">
@@ -243,13 +230,13 @@ Updated: 2 Feb 2025<br>
 
     ### Export
    
-37. Click "Export" button if you want to export the customer list.
+29. Click "Export" button if you want to export the customer list.
 
     <p align="center">
       <img src="img2/Customer_List_Step_36.png" alt="Customer List Step 36">
     </p>
 
-38. Select the export options to export the customer list.
+30. Select the export options to export the customer list.
 
     <p align="center">
       <img src="img2/Customer_List_Step_37.png" alt="Customer List Step 37">
