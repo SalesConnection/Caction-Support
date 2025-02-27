@@ -271,7 +271,7 @@ Updated: 23 January 2025<br>
      <img src="img/How_to_Create_Asset2_Mobile_Step_7.png" alt="How to add new asset2 Mobile Step 7" style="width: 30%; height: auto;">
    </p><br>
 
-8. Click the "tick" icon.
+8. Click Save.
 
    <p align="center">
      <img src="img/How_to_Create_Asset2_Mobile_Step_8.png" alt="How to add new asset2 Mobile Step 8" style="width: 30%; height: auto;">
