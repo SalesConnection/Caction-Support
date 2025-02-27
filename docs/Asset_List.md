@@ -169,60 +169,6 @@ Updated: 2 Feb 2025<br>
 
     <a id="section5"></a>
 
-    ### Filter
-
-20. Click "Filter Table Record" to filter the customer.
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_19.png" alt="Customer List Step 19">
-    </p>
-
-21. Select the filter group you want.
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_20.png" alt="Customer List Step 20">
-    </p>
-
-22. Select the filter variable.
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_21.png" alt="Customer List Step 21">
-    </p>
-
-23. Select the operator you want to apply.
-
-    | Operator | Definition | 
-    |---------|:-----|
-    | Contain | The result will show all relevant results based on the filter values. (Not consider capital letter and small letter, recommend to use it if you are not remember the exact customer name.) |
-    | Not Contain | The results will show all relevant results except the selected filter values. (Not consider capital letter and small letter.)| 
-    | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
-    | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) |
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_22.png" alt="Customer List Step 22">
-    </p>\
-
-24. For example, enter the customer name to filter.
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_23.png" alt="Customer List Step 23">
-    </p>
-
-25. After typing the value, press "Enter".
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_24.png" alt="Customer List Step 24">
-    </p>
-
-26. The result will be shown as below.
-
-    <p align="center">
-      <img src="img2/Customer_List_Step_25.png" alt="Customer List Step 25">
-    </p>
-    <br>
-
-    <a id="section5"></a>
-
     ### Favourite Filter
    
 27. Click "Favourite Filter" if you want to add a favourite filter.
