@@ -7,13 +7,12 @@ Updated: 2 Feb 2025<br>
 
 **Navigate to the section by clicking it.**<br>
 
-- [Quick Search](#section1)<br>
+- [Filter](#section1)<br>
 - [Add New Asset](#section2)<br>
 - [Refresh](#section3)<br>
 - [Default Columns](#section4)<br>
-- [Filter](#section5)<br>
-- [Favourite Filter](#section6)<br>
-- [Export](#section7)
+- [Favourite Filter](#section5)<br>
+- [Export](#section6)
 <br><br><br>
 
 1. At the desktop's navigation bar, go to Business Management > Asset List.<br>
@@ -26,27 +25,46 @@ Updated: 2 Feb 2025<br>
 
    <a id="section1"></a>
 
-   ### Quick Search
+   ### Filter
 
-2. Click on "Filter Table Record" to search for asset.
+2. Click on "Filter Table Record" to filter the asset.
 
    <p align="center">
      <img src="img2/Asset_List_Step_2.png" alt="Asset List Step 2">
    </p>
    
-3. Click the "Asset Serial Number", then choose the operator that you prefer.
+3. Select the filter variable you want.
 
    <p align="center">
      <img src="img2/Asset_List_Step_3.png" alt="Asset List Step 3">
    </p>
    
-4. Enter the asset serial number and press "Enter". The list has been filtered successfully. 
+4. Select the operator you want to apply.
+
+    | Operator | Definition | 
+    |---------|:-----|
+    | Contain | The result will show all relevant results based on the filter values. (Not consider capital letter and small letter, recommend to use it if you are not remember the exact customer name.) |
+    | Not Contain | The results will show all relevant results except the selected filter values. (Not consider capital letter and small letter.)| 
+    | Equal | The results will only show exact the same based on the filter value (Consider capital letter and small letter, recommend to use it if you remember the exact customer name.)| 
+    | Not Equal | The results will only show except the exact filter value. (Consider capital letter and small letter.) 
 
    <p align="center">
      <img src="img2/Asset_List_Step_4.png" alt="Asset List Step 4">
    </p>
 
-5. Click the "Blue Arrow" button to open the Asset detail page.
+5. For example, enter the asset serial number to filter. After typing the value, press "Enter".
+
+  <p align="center">
+     <img src="img2/Asset_List_Step_4a.png" alt="Asset List Step 4a">
+   </p>
+
+6. The result will be shown as below.
+
+  <p align="center">
+     <img src="img2/Asset_List_Step_4b.png" alt="Asset List Step 4b">
+   </p>
+
+7. Click the "Blue Arrow" button to open the Asset detail page.
 
    <p align="center">
      <img src="img2/Asset_List_Step_5.png" alt="Asset List Step 5">
@@ -57,7 +75,7 @@ Updated: 2 Feb 2025<br>
 
    ### Add New Asset
    
-6. Click on the "+ Add Asset" button to add a new Asset.
+8. Click on the "+ Add Asset" button to add a new Asset.
 
    <p align="center">
      <img src="img2/Asset_List_Step_6.png" alt="Asset List Step 6">
@@ -69,7 +87,7 @@ Updated: 2 Feb 2025<br>
 
    ### Refresh
    
-7. Click on the "Refresh" button to get the latest information.
+9. Click on the "Refresh" button to get the latest information.
 
    <p align="center">
      <img src="img2/Asset_List_Step_7.png" alt="Asset List Step 7">
@@ -81,68 +99,68 @@ Updated: 2 Feb 2025<br>
 
    ### Default Columns
    
-8. Click "Default Columns".
+10. Click "Default Columns".
 
    <p align="center">
      <img src="img2/Asset_List_Step_8.png" alt="Asset List Step 8">
    </p>
 
-9. Click "+ Create".
+11. Click "+ Create".
 
    <p align="center">
      <img src="img2/Asset_List_Step_9.png" alt="Asset List Step 9">
    </p>
 
-10. Select the columns you want to display.
+11. Select the columns you want to display.
 
     <p align="center">
       <img src="img2/Asset_List_Step_10.png" alt="Asset List Step 10">
     </p>
 
-11. Click to scroll down.
+12. Click to scroll down.
 
     <p align="center">
       <img src="img2/Asset_List_Step_11.png" alt="Asset List Step 11">
     </p>
 
-12. Tick "Asset Split" if you want to display the asset separately.
+13. Tick "Asset Split" if you want to display the asset separately.
 
     <p align="center">
       <img src="img2/Asset_List_Step_12.png" alt="Asset List Step 12">
     </p>
 
-13. Click "Save".
+14. Click "Save".
 
     <p align="center">
       <img src="img2/Asset_List_Step_13.png" alt="Asset List Step 13">
     </p>
 
-14. Click "Column Group 2".
+15. Click "Column Group 2".
 
     <p align="center">
       <img src="img2/Asset_List_Step_14.png" alt="Customer List Step 14">
     </p>
 
-15. Click the "pencil" icon to edit the default column's name.
+16. Click the "pencil" icon to edit the default column's name.
     *Note: The "Gear" icon is to change columns selected for that display.
    
     <p align="center">
       <img src="img2/Customer_List_Step_15.png" alt="Customer List Step 15">
     </p>
 
-16. Enter the name of the default column.
+17. Enter the name of the default column.
 
     <p align="center">
       <img src="img2/Customer_List_Step_16.png" alt="Customer List Step 16">
     </p>
 
-17. Click the "tick" icon to save the name.
+18. Click the "tick" icon to save the name.
 
     <p align="center">
       <img src="img2/Customer_List_Step_17.png" alt="Customer List Step 17">
     </p>
 
-18. The "Default Column" has been saved successfully.
+19. The "Default Column" has been saved successfully.
 
     <p align="center">
       <img src="img2/Customer_List_Step_18.png" alt="Customer List Step 18">
@@ -153,25 +171,25 @@ Updated: 2 Feb 2025<br>
 
     ### Filter
 
-19. Click "Filter Table Record" to filter the customer.
+20. Click "Filter Table Record" to filter the customer.
 
     <p align="center">
       <img src="img2/Customer_List_Step_19.png" alt="Customer List Step 19">
     </p>
 
-20. Select the filter group you want.
+21. Select the filter group you want.
 
     <p align="center">
       <img src="img2/Customer_List_Step_20.png" alt="Customer List Step 20">
     </p>
 
-21. Select the filter variable.
+22. Select the filter variable.
 
     <p align="center">
       <img src="img2/Customer_List_Step_21.png" alt="Customer List Step 21">
     </p>
 
-22. Select the operator you want to apply.
+23. Select the operator you want to apply.
 
     | Operator | Definition | 
     |---------|:-----|
@@ -184,60 +202,60 @@ Updated: 2 Feb 2025<br>
       <img src="img2/Customer_List_Step_22.png" alt="Customer List Step 22">
     </p>\
 
-23. For example, enter the customer name to filter.
+24. For example, enter the customer name to filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_23.png" alt="Customer List Step 23">
     </p>
 
-24. After typing the value, press "Enter".
+25. After typing the value, press "Enter".
 
     <p align="center">
       <img src="img2/Customer_List_Step_24.png" alt="Customer List Step 24">
     </p>
 
-25. The result will be shown as below.
+26. The result will be shown as below.
 
     <p align="center">
       <img src="img2/Customer_List_Step_25.png" alt="Customer List Step 25">
     </p>
     <br>
 
-    <a id="section6"></a>
+    <a id="section5"></a>
 
     ### Favourite Filter
    
-26. Click "Favourite Filter" if you want to add a favourite filter.
+27. Click "Favourite Filter" if you want to add a favourite filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_26.png" alt="Customer List Step 26">
     </p>
 
-27. Click "+ Add".
+28. Click "+ Add".
 
     <p align="center">
       <img src="img2/Customer_List_Step_27.png" alt="Customer List Step 27">
     </p>
 
-28. Enter the name of the favourite filter.
+29. Enter the name of the favourite filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_28.png" alt="Customer List Step 28">
     </p>
 
-29. Click on the "Save" button and the favourite filter has been saved successfully.
+30. Click on the "Save" button and the favourite filter has been saved successfully.
 
     <p align="center">
       <img src="img2/Customer_List_Step_29.png" alt="Customer List Step 29">
     </p>
 
-30. Click "Favourite Filter".
+31. Click "Favourite Filter".
 
     <p align="center">
       <img src="img2/Customer_List_Step_30.png" alt="Customer List Step 30">
     </p>
 
-31. Click on the icon beside the favourite filter to have more actions.
+32. Click on the icon beside the favourite filter to have more actions.
 
     | Icon | Description |
     |------|-------------|
@@ -250,42 +268,42 @@ Updated: 2 Feb 2025<br>
        <img src="img2/Customer_List_Step_31.png" alt="Customer List Step 31">
     </p>
 
-32. Click "Default Filter" if you want to set a default filter.
+33. Click "Default Filter" if you want to set a default filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_32.png" alt="Customer List Step 32">
     </p>
 
-33. Select the favourite filter you want to set as the default filter.
+34. Select the favourite filter you want to set as the default filter.
 
     <p align="center">
       <img src="img2/Customer_List_Step_33.png" alt="Customer List Step 33">
     </p>
  
-34. Default filter has been set successfully and it will apply automatically when you enter this page.
+35. Default filter has been set successfully and it will apply automatically when you enter this page.
 
     <p align="center">
       <img src="img2/Customer_List_Step_34.png" alt="Customer List Step 34">
     </p>
  
-35. Click "Clear All" if you want to clear all the filter applied.
+36. Click "Clear All" if you want to clear all the filter applied.
 
     <p align="center">
       <img src="img2/Customer_List_Step_35.png" alt="Customer List Step 35">
     </p>
     <br>
 
-    <a id="section7"></a>
+    <a id="section6"></a>
 
     ### Export
    
-36. Click "Export" button if you want to export the customer list.
+37. Click "Export" button if you want to export the customer list.
 
     <p align="center">
       <img src="img2/Customer_List_Step_36.png" alt="Customer List Step 36">
     </p>
 
-37. Select the export options to export the customer list.
+38. Select the export options to export the customer list.
 
     <p align="center">
       <img src="img2/Customer_List_Step_37.png" alt="Customer List Step 37">
@@ -294,6 +312,7 @@ Updated: 2 Feb 2025<br>
 
 **Related Articles**
 - [How to Add New Customer?](Add_New_Customer.md)
+- [How to Add New Asset?](How_to_Add_New_Asset.md)
 - [Product/Services List](Product_Services_List.md)
 
 <!-- [Link Text](https://support.caction.com/Customer_List.html) -->
