@@ -28,19 +28,19 @@ Updated: 2 Feb 2025<br>
 
    ### Quick Search
 
-2. Click on "Filter Table Record" to search for Asset or company name.
+2. Click on "Filter Table Record" to search for asset.
 
    <p align="center">
      <img src="img2/Asset_List_Step_2.png" alt="Asset List Step 2">
    </p>
    
-3. Enter the asset or company name and press "Enter".
+3. Click the "Asset Serial Number", then choose the operator that you prefer.
 
    <p align="center">
      <img src="img2/Asset_List_Step_3.png" alt="Asset List Step 3">
    </p>
    
-4. The list has been filtered successfully. 
+4. Enter the asset serial number and press "Enter". The list has been filtered successfully. 
 
    <p align="center">
      <img src="img2/Asset_List_Step_4.png" alt="Asset List Step 4">
@@ -57,7 +57,7 @@ Updated: 2 Feb 2025<br>
 
    ### Add New Asset
    
-6. Click on the "+" button to add a new Asset.
+6. Click on the "+ Add Asset" button to add a new Asset.
 
    <p align="center">
      <img src="img2/Asset_List_Step_6.png" alt="Asset List Step 6">
