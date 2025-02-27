@@ -161,31 +161,31 @@ Updated: 2 Feb 2025<br>
 19. Click "Favourite Filter" if you want to add a favourite filter.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_26.png" alt="Asset List Step 26">
+      <img src="img2/Asset_List_Step_17.png" alt="Asset List Step 17">
     </p>
 
 20. Click "+ Add".
 
     <p align="center">
-      <img src="img2/Asset_List_Step_27.png" alt="Asset List Step 27">
+      <img src="img2/Asset_List_Step_18.png" alt="Asset List Step 18">
     </p>
 
 21. Enter the name of the favourite filter.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_28.png" alt="Asset List Step 28">
+      <img src="img2/Asset_List_Step_19.png" alt="Asset List Step 19">
     </p>
 
 22. Click on the "Save" button and the favourite filter has been saved successfully.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_29.png" alt="Asset List Step 29">
+      <img src="img2/Asset_List_Step_20.png" alt="Asset List Step 20">
     </p>
 
 23. Click "Favourite Filter".
 
     <p align="center">
-      <img src="img2/Asset_List_Step_30.png" alt="Asset List Step 30">
+      <img src="img2/Asset_List_Step_21.png" alt="Asset List Step 21">
     </p>
 
 24. Click on the icon beside the favourite filter to have more actions.
@@ -198,31 +198,31 @@ Updated: 2 Feb 2025<br>
     | Delete | Delete the favourite filter. |
 
     <p align="center">
-       <img src="img2/Asset_List_Step_31.png" alt="Asset List Step 31">
+       <img src="img2/Asset_List_Step_22.png" alt="Asset List Step 22">
     </p>
 
 25. Click "Default Filter" if you want to set a default filter.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_32.png" alt="Asset List Step 32">
+      <img src="img2/Asset_List_Step_23.png" alt="Asset List Step 23">
     </p>
 
 26. Select the favourite filter you want to set as the default filter.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_33.png" alt="Asset List Step 33">
+      <img src="img2/Asset_List_Step_24.png" alt="Asset List Step 24">
     </p>
  
 27. Default filter has been set successfully and it will apply automatically when you enter this page.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_34.png" alt="Asset List Step 34">
+      <img src="img2/Asset_List_Step_25.png" alt="Asset List Step 25">
     </p>
  
 28. Click "Clear All" if you want to clear all the filter applied.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_35.png" alt="Asset List Step 35">
+      <img src="img2/Asset_List_Step_26.png" alt="Asset List Step 26">
     </p>
     <br>
 
@@ -233,13 +233,13 @@ Updated: 2 Feb 2025<br>
 29. Click "Export" button if you want to export the asset list.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_36.png" alt="Asset List Step 36">
+      <img src="img2/Asset_List_Step_27.png" alt="Asset List Step 27">
     </p>
 
 30. Select the export options to export the asset list.
 
     <p align="center">
-      <img src="img2/Asset_List_Step_37.png" alt="Asset List Step 37">
+      <img src="img2/Asset_List_Step_28.png" alt="Asset List Step 28">
     </p>
 <br><br><br>
 
