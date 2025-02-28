@@ -66,7 +66,7 @@ Updated: 27 February 2025<br>
       <img src="img2/Job_Category_Schedule_Step_10.png" alt="Job Category Schedule Step 10">
     </p>
 
-11. Click "Filter" to expand or show the filter bar.
+11. Click "Filter" to expand or hide the filter bar.
 
     <p align="center">
       <img src="img2/Job_Category_Schedule_Step_11.png" alt="Job Category Schedule Step 11">
