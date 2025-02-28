@@ -151,7 +151,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 
 ### Other Features
 - [How to Use the Project Schedule?](Project_Schedule_Page.md)
-<!-- [How to Use the Job Category Schedule?]()-->
+- [How to Use the Job Category Schedule?](Job_Category_Schedule.md)
 
 
 ### FAQs
