@@ -96,7 +96,7 @@ Welcome to the Caction Support Site. Here you'll find documentation and resource
 - [How to Adjust the Geofencing Radius?](Adjust_Geofencing_Radius.md)
 - [How to Edit the Remote Signature Email Template?](Edit_Remote_Signature_Email_Template.md)
 - [Wizard: Quick Access to Configuration](Wizard_Page.md)
-<!-- [Status Segmentation Guide]()-->
+- [Status Segmentation Guide](Status_Segmentation.md)
 <!-- [How to Set Up Sub-Comment Categories in the To-Do List?]()-->
 
 ### User Management
