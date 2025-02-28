@@ -49,6 +49,7 @@ Updated: 27 February 2025<br>
    </p>
   
 8. The picture below shows the weekly view.
+*Note: The Job Categories are shown at left side.
 
    <p align="center">
       <img src="img2/Job_Category_Schedule_Step_8.png" alt="Job Category Schedule Step 8">
