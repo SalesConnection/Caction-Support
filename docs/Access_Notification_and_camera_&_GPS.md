@@ -5,7 +5,7 @@ If you're not receiving notifications or experiencing issues with camera and GPS
 1. In Settings page of your phone, Select "Apps".
 
     <p align="center">
-      <img src="img/Access_Notification_and_camera_&_GPS_Step1.png" alt="Access Setting Step 1" width="280" height="550">
+      <img src="img/Access_Notification_and_camera_GPS_Step1.jpg" alt="Access Setting Step 1" width="280" height="550">
     </p>
 
     *Note: Phone settings may vary depending on the phone model.<br>
@@ -13,25 +13,25 @@ If you're not receiving notifications or experiencing issues with camera and GPS
 2. Click "Apps".
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_2.png" alt=“Acesss Setting Step 2" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_2.jpg" alt=“Acesss Setting Step 2" width="280" height="550">
    </p><br>
 
 3. Click "Caction".
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_3.png" alt=“Acesss Setting Step 3" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_3.jpg" alt=“Acesss Setting Step 3" width="280" height="550">
    </p><br>
 
 4. Click "Notifications".
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_4.png" alt=“Acesss Setting Step 4" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_4.jpg" alt=“Acesss Setting Step 4" width="280" height="550">
    </p><br>
 
 5. Make sure the "Allow notifications" has been toggled.
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_5.png" alt=“Acesss Setting Step 5" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_5.jpg" alt=“Acesss Setting Step 5" width="280" height="550">
    </p><br>
      
    
@@ -39,7 +39,7 @@ If you're not receiving notifications or experiencing issues with camera and GPS
 6. Click "Permissions".
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_6.png" alt=“Acesss Setting Step 5" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_6.jpg" alt=“Acesss Setting Step 6" width="280" height="550">
    </p><br>
      
    
@@ -47,7 +47,7 @@ If you're not receiving notifications or experiencing issues with camera and GPS
 7. Click "Camera".
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_7.png" alt=“Acesss Setting Step 5" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_7.jpg" alt=“Acesss Setting Step 7" width="280" height="550">
    </p><br>
      
    
@@ -55,7 +55,7 @@ If you're not receiving notifications or experiencing issues with camera and GPS
 8. Make sure the "Allow" has been toggled.
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_8.png" alt=“Acesss Setting Step 5" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_8.jpg" alt=“Acesss Setting Step 8" width="280" height="550">
    </p><br>
      
    
@@ -63,7 +63,7 @@ If you're not receiving notifications or experiencing issues with camera and GPS
 9. Click "Location".
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_9.png" alt=“Acesss Setting Step 5" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_9.jpg" alt=“Acesss Setting Step 9" width="280" height="550">
    </p><br>
      
    
@@ -71,7 +71,7 @@ If you're not receiving notifications or experiencing issues with camera and GPS
 10. Make sure the "Allow only while in use" has been toggled.
 
    <p align="center">
-     <img src="img/Access_Notification_and_camera_&_GPS_Step_10.png" alt=“Acesss Setting Step 5" width="280" height="550">
+     <img src="img/Access_Notification_and_camera_GPS_Step_10.jpg" alt=“Acesss Setting Step 10" width="280" height="550">
    </p><br>
      
 **Related Article**
