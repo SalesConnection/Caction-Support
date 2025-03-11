@@ -1,6 +1,6 @@
 ## How to Attach address using Latitude & Longitude ?
 
-How*Attach_address_using_Latitude_Longitude_Step*
+How Attach_address_using_Latitude_Longitude_Step.
 Here's a step-by-step tutorial on how to attach an address using Latitude & Longitude:
 
 - [Desktop Version](#section1)<br>
