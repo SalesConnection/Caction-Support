@@ -2,6 +2,8 @@
 
 **Customer Template** displays a standardized format or structure used in customer relationship management (CRM) systems to consistently collect and organize customer information.
 
+    * The template configuration for these functions will affect the web and mobile app *
+
 <br>
 
 **Navigate to the section by clicking it.**<br>
@@ -155,7 +157,7 @@ The "Open Setting" button at the bottom of the panel allows you to add fields or
 
   <br>
 
-It displayed and tracked in mobile.
+It will displayed and tracked in mobile customer dashboard.
 
   <br>
 
