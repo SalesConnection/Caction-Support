@@ -2,7 +2,7 @@
 
 **Customer Template** displays a standardized format or structure used in customer relationship management (CRM) systems to consistently collect and organize customer information.
 
-<br><br>
+<br>
 
 **Navigate to the section by clicking it.**<br>
 
@@ -13,32 +13,46 @@
 - [Prepopulate Assigned User](#section5)<br>
 - [Default Field](#section6)<br>
 - [Custom Field](#section7)
-  <br> <br> <br>
+  <br> <br>
 
-The desktop's navigation bar, go to Template Settings > Customer Templates.<br>
+The desktop's navigation bar, go to Template Settings > Customer Templates.
 
+<br>
   <p align="center">
      <img src="img/Customer_Template_Step_1.png" alt="Customer List Step 1">
   </p>
-   <br>
-
+   
+<br>
 <a id="section1"></a>
 
-## Template Info
+# Template Info
 
 For the Template Info section, it contains 5 field.
 
+- Customer Category
+
+- Template Short code
+
+- Template Name
+
+- Company Label
+
+- Name Label
+
+<br>
   <p align="center">
     <img src="img/Customer_Template_Step_2.png" alt="Customer List Step 2">
   </p>
 
 ### Customer Category
 
-The Category field has a dropdown menu that lets users select different customer template categories they want to edit. Currently "Healthcare Facilities" is selected
+The Category field has a dropdown menu that lets users select different customer template categories they want to edit. Currently "Healthcare Facilities" is selected.
 
    <p align="center">
      <img src="img/Customer_Template_Step_3.png" alt="Customer List Step 3">
    </p>
+
+<br>
 
 ### Template Short code
 
@@ -46,36 +60,65 @@ the short code represent for customer code
 
 (eg: The First Customer Created will call "C0001")
 
-   <br>
+   <p align="center">
+     <img src="img/Customer_Template_Step_3_1.png" alt="Customer List Step 3">
+   </p>
+
+<br>
 
 ### Template Name
 
-Template Name will change the name of customer template throughtout the system over time, for immediate update can re-login the system.
+Template Name will change the name of template throughtout the system.
 
-   <br>
+For example , Change the Template Name to "Buyer".
+
+   <p align="center">
+     <img src="img/Customer_Template_Step_3_2.png" alt="Customer List Step 3">
+   </p>
+
+<br>
+
+It will replace the "Customer" into "Buyer" in whole system.
+
+<br>
    
-   ### Company Label
+### Company Label
 
 Change the label name for company (eg: company name) , prioritize key information in this field, as it used for duplicate checking.
 
-   <br>
+<br>
+
+   <p align="center">
+     <img src="img/Customer_Template_Step_3_5.png" alt="Customer List Step 3">
+   </p>
+
+<br>
    
-   ### Name Label
+### Name Label
 
 Change the field of the label name (eg: customer name).
 
 <br>
 
+   <p align="center">
+     <img src="img/Customer_Template_Step_3_4.png" alt="Customer List Step 3">
+   </p>
+
+<br>
 <a id="section2"></a>
 
-### Details Privacy Settings
+# Details Privacy Settings
 
+   <br>
    <p align="center">
      <img src="img/Customer_Template_Step_4.png" alt="Customer List Step 4">
    </p>
+   
+   <br>
 
 For this section is show the visibility of customer status and customer category in customer section.
 
+  <br>
    <p align="center">
      <img src="img/Customer_Template_Step_5.png" alt="Customer List Step 6">
    </p>
@@ -84,7 +127,7 @@ For this section is show the visibility of customer status and customer category
 
 <a id="section3"></a>
 
-## Details Variable Settings
+# Details Variable Settings
 
 Details Variable Settings allows you to customize what customer information fields.
 
@@ -104,6 +147,8 @@ Each field has an "X" button to remove it if desired.
 
 The "Open Setting" button at the bottom of the panel allows you to add fields or modify these configurations further.
 
+  <br>
+
    <p align="center">
      <img src="img/Customer_Template_Step_6.png" alt="Customer List Step 4">
    </p>
@@ -119,8 +164,9 @@ It displayed and tracked in mobile.
    </p>
 
 <a id="section4"></a>
+<br>
 
-## Quick Search Settings
+# Quick Search Settings
 
    <p align="center">
      <img src="img/Customer_Template_Step_7.png" alt="Customer List Step 5">
@@ -132,6 +178,8 @@ Quick Search Settings is function to easily searching the keywords you need in c
 
 - eg: I drag the element "customer name" on quick search, so i can just search the name "johan" to find my customer.
 
+<br>
+
 <p align="center">
      <img src="img/Customer_Template_Step_8.png" alt="Customer List Step 5">
 </p>
@@ -140,17 +188,16 @@ Quick Search Settings is function to easily searching the keywords you need in c
 
 It can choose which elements for your quick search from "open settings"
 
-  <br>
+<br>
 
   <p align="center">
       <img src="img/Customer_Template_Step_9.png" alt="Customer List Step 5">
   </p>
 
-  <br>
-
+<br>
 <a id="section5"></a>
 
-## Prepopulate Assigned User
+# Prepopulate Assigned User
 
 Prepopulate Assigned User is it will automatically assign the user to the customer during Customer Creation
 
@@ -162,7 +209,7 @@ Prepopulate Assigned User is it will automatically assign the user to the custom
 
 <a id="section6"></a>
 
-## Default Field
+# Default Field
 
    <p align="center">
      <img src="img/Customer_Template_Step_11.png" alt="Customer List Step 7">
@@ -194,7 +241,7 @@ After configuring template settings, click the "Save" button to apply and store 
 
 <a id="section7"></a>
 
-## Custom Field
+# Custom Field
 
 A custom field is a user-defined field that you can add to your customer template beyond the standard default fields.
 
@@ -223,7 +270,7 @@ After configuring template settings, click the "Save" button to apply and store 
      <img src="img/Customer_Template_Step_13.png" alt="Customer List Step 8">
    </p>
 
-<br> <br>
+<br>
 
 ## Settings section
 
