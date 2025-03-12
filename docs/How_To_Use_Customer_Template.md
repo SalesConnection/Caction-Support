@@ -2,7 +2,7 @@
 
 **Customer Template** displays a standardized format or structure used in customer relationship management (CRM) systems to consistently collect and organize customer information.
 
-    * The template configuration for these functions will affect the web and mobile app *
+\*Note:The template configuration for these functions will affect the web and mobile app
 
 <br>
 
