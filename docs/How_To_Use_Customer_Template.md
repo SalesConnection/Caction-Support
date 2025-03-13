@@ -1,253 +1,178 @@
-## Customer Template
+# Customer Template
 
 **Customer Template** displays a standardized format or structure used in customer relationship management (CRM) systems to consistently collect and organize customer information.
 
-\*Note:The template configuration for these functions will affect the web and mobile app
+_Note: The template configuration for these functions will affect the web and mobile app_
 
-<br>
+## Table of Contents
 
-**Navigate to the section by clicking it.**<br>
+- [Template Info](#template-info)
+- [Details Privacy Settings](#details-privacy-settings)
+- [Details Variable Settings](#details-variable-settings)
+- [Quick Search Settings](#quick-search-settings)
+- [Prepopulate Assigned User](#prepopulate-assigned-user)
+- [Default Field](#default-field)
+- [Custom Field](#custom-field)
 
-- [Template Info](#section1)<br>
-- [Details Privacy Settings](#section2)<br>
-- [Details Variable Settings](#section3)<br>
-- [Quick Search Settings](#section4)<br>
-- [Prepopulate Assigned User](#section5)<br>
-- [Default Field](#section6)<br>
-- [Custom Field](#section7)
-  <br> <br>
+## Getting Started
 
-1. The desktop's navigation bar, go to Template Settings > Customer Templates.
+1. From the desktop's navigation bar, go to **Template Settings > Customer Templates**.
 
-**Open Project Templates Here**: [https://system.caction.com/templateSettings/CustomerTemplates](https://system.caction.com/templateSettings/CustomerTemplates)<br>
+   **Open Project Templates Here**: [https://system.caction.com/templateSettings/CustomerTemplates](https://system.caction.com/templateSettings/CustomerTemplates)
 
-\*Note: If you do not have access to Template Settings page, please contact your admin.<br>
+   _Note: If you do not have access to Template Settings page, please contact your admin._
 
-<br>
-  <p align="center">
-     <img src="img/Customer_Template_Step_1.png" alt="Customer Template Step 1">
-  </p>
-   
-<br>
-<a id="section1"></a>
+   <p align="center">
+      <img src="img/Customer_Template_Step_1.png" alt="Customer Template Step 1">
+   </p>
 
-# Template Info
+## Template Info
 
-2. For the Template Info section, it contains 5 field.
+2. The Template Info section contains 5 fields:
 
-- Customer Category
+   - Customer Category
+   - Template Short code
+   - Template Name
+   - Company Label
+   - Name Label
 
-- Template Short code
-
-- Template Name
-
-- Company Label
-
-- Name Label
-
-<br>
-  <p align="center">
-    <img src="img/Customer_Template_Step_2.png" alt="Customer Template Step 2">
-  </p>
+   <p align="center">
+     <img src="img/Customer_Template_Step_2.png" alt="Customer Template Step 2">
+   </p>
 
 ### Customer Category
 
 The Category field has a dropdown menu that lets users select different customer template categories they want to edit. Currently "Healthcare Facilities" is selected.
 
-   <p align="center">
-     <img src="img/Customer_Template_Step_3.png" alt="Customer Template Step 3">
-   </p>
-
-<br>
+<p align="center">
+  <img src="img/Customer_Template_Step_3.png" alt="Customer Template Step 3">
+</p>
 
 ### Template Short code
 
-the short code represent for customer code
+The short code represents the customer code (e.g., The First Customer Created will be "C0001").
 
-(eg: The First Customer Created will call "C0001")
-
-   <p align="center">
-     <img src="img/Customer_Template_Step_3_1.png" alt="Customer Template Step 4">
-   </p>
-
-<br>
+<p align="center">
+  <img src="img/Customer_Template_Step_3_1.png" alt="Customer Template Step 4">
+</p>
 
 ### Template Name
 
-Template Name will change the name of template throughtout the system.
+Template Name will change the name of template throughout the system.
 
-For example , Change the Template Name to "Buyer".
+For example, changing the Template Name to "Buyer" will replace "Customer" with "Buyer" across the entire system.
 
-   <p align="center">
-     <img src="img/Customer_Template_Step_3_2.png" alt="Customer Template Step 5">
-   </p>
+<p align="center">
+  <img src="img/Customer_Template_Step_3_2.png" alt="Customer Template Step 5">
+</p>
 
-<br>
-
-It will replace the "Customer" into "Buyer" in whole system.
-
-<br>
-   
 ### Company Label
 
-Change the label name for company (eg: company name) , prioritize key information in this field, as it used for duplicate checking.
+Change the label name for company (e.g., company name). Prioritize key information in this field, as it is used for duplicate checking.
 
-<br>
+<p align="center">
+  <img src="img/Customer_Template_Step_3_5.png" alt="Customer Template Step 6">
+</p>
 
-   <p align="center">
-     <img src="img/Customer_Template_Step_3_5.png" alt="Customer Template Step 6">
-   </p>
-
-<br>
-   
 ### Name Label
 
-Change the field of the label name (eg: customer name).
+Change the field of the label name (e.g., customer name).
 
-<br>
+<p align="center">
+  <img src="img/Customer_Template_Step_3_4.png" alt="Customer Template Step 7">
+</p>
 
-   <p align="center">
-     <img src="img/Customer_Template_Step_3_4.png" alt="Customer Template Step 7">
-   </p>
+## Details Privacy Settings
 
-<br>
-<a id="section2"></a>
+3. This section controls the visibility of customer status and customer category in the customer section.
 
-# Details Privacy Settings
-
-   <br>
    <p align="center">
      <img src="img/Customer_Template_Step_4.png" alt="Customer Template Step 8">
    </p>
-   
-   <br>
 
-3. For this section is show the visibility of customer status and customer category in customer section.
-
-  <br>
    <p align="center">
      <img src="img/Customer_Template_Step_5.png" alt="Customer Template Step 9">
    </p>
 
-   <br>
+## Details Variable Settings
 
-<a id="section3"></a>
+4. Details Variable Settings allows you to customize what customer information fields are displayed.
 
-# Details Variable Settings
+   The section shows 5 fields that are currently enabled:
 
-4. Details Variable Settings allows you to customize what customer information fields.
+   - Customer Name
+   - Company Name
+   - Status Name
+   - Category Name
+   - Inquiry Date
 
-The section shows 5 fields that are currently enabled:
+   Each field has an "X" button to remove it if desired.
 
-- Customer Name
-
-- Company Name
-
-- Status Name
-
-- Category Name
-
-- Inquiry Date
-
-Each field has an "X" button to remove it if desired.
-
-The "Open Setting" button at the bottom of the panel allows you to add fields or modify these configurations further.
-
-  <br>
+   The "Open Setting" button at the bottom of the panel allows you to add fields or modify these configurations further.
 
    <p align="center">
      <img src="img/Customer_Template_Step_6.png" alt="Customer Template Step 10">
    </p>
 
-  <br>
-
-It will displayed and tracked in mobile customer dashboard.
-
-  <br>
+   These fields will be displayed and tracked in the mobile customer dashboard.
 
    <p align="center">
-     <img src="img/Customer_Template_Step_6_1.jpg" alt="Customer Template Template 11" style="width: 30%; height: auto;>
+     <img src="img/Customer_Template_Step_6_1.jpg" alt="Customer Template Template 11" style="width: 30%; height: auto;">
    </p>
 
-<a id="section4"></a>
-<br>
+## Quick Search Settings
 
-# Quick Search Settings
+5. Quick Search Settings is a function to easily search for keywords you need in the customer page.
 
    <p align="center">
      <img src="img/Customer_Template_Step_7.png" alt="Customer Template Step 12">
    </p>
 
-   <br>
+   Example: If you drag the element "customer name" to quick search, you can simply search for "johan" to find your customer.
 
-5. Quick Search Settings is function to easily searching the keywords you need in customer page.
-
-- eg: I drag the element "customer name" on quick search, so i can just search the name "johan" to find my customer.
-
-<br>
-
-<p align="center">
+   <p align="center">
      <img src="img/Customer_Template_Step_8.png" alt="Customer Template Step 13">
-</p>
+   </p>
 
-<br>
+   You can choose which elements to include in your quick search by clicking "Open Settings".
 
-It can choose which elements for your quick search from "open settings"
+   <p align="center">
+     <img src="img/Customer_Template_Step_9.png" alt="Customer Template Step 14">
+   </p>
 
-<br>
+## Prepopulate Assigned User
 
-  <p align="center">
-      <img src="img/Customer_Template_Step_9.png" alt="Customer Template Step 14">
-  </p>
+6. Prepopulate Assigned User will automatically assign a user to the customer during Customer Creation.
 
-<br>
-<a id="section5"></a>
-
-# Prepopulate Assigned User
-
-6. Prepopulate Assigned User is it will automatically assign the user to the customer during Customer Creation
-
-  <p align="center">
+   <p align="center">
      <img src="img/Customer_Template_Step_10.png" alt="Customer Template Step 15">
-  </p>
+   </p>
 
-   <br>
+## Default Field
 
-<a id="section6"></a>
-
-# Default Field
+7. This section shows fields that are default in the system (these fields cannot be edited or deleted).
 
    <p align="center">
      <img src="img/Customer_Template_Step_11.png" alt="Customer Template Step 16">
    </p>
 
-   <br>
+   For each field, you can configure:
 
-7. It shows the that contains fields element which default on the system (which the field can't be edit or delete)
+   ### Editable Field
 
-In each field you can decide :
+   - Controls access to modify the field's content (Only Admin has access to edit even when the field is locked)
 
-### Editable Field
+   ### Required Field
 
-- Controls access to modify of the field's content (Only Admin have the access to edit even is closing the field)
+   - Makes the field mandatory before saving
 
-### Required Field
+   ### Access Permission
 
-- Makes the field mandatory before saving
+   - Determines visibility during customer creation
 
-### Access Permission
+   After configuring template settings, click the "Save" button to apply and store your changes.
 
-- Determines visibility during customer creation
-
-<br>
-
-After configuring template settings, click the "Save" button to apply and store your changes.
-
-<br>
-
-<a id="section7"></a>
-
-# Custom Field
+## Custom Field
 
 8. A custom field is a user-defined field that you can add to your customer template beyond the standard default fields.
 
@@ -255,78 +180,61 @@ After configuring template settings, click the "Save" button to apply and store 
      <img src="img/Customer_Template_Step_12.png" alt="Customer Template Step 17">
    </p>
 
-<br>
+   ### Custom Field Element (left panel):
 
-### Custom Field Element (left panel):
+   This shows the available field types that can be added to the template.
 
-This shows the available field types that can be added to the template.
+   |    Field Type     | Definition                                                        |
+   | :---------------: | :---------------------------------------------------------------- |
+   |       Text        | Simple single-line text fields for basic information              |
+   |     Text Area     | Larger multi-line text fields for longer notes                    |
+   |      Number       | Fields that accept only numerical values                          |
+   |       Date        | Calendar-based fields for selecting dates                         |
+   |     Date Time     | Fields that capture both date and time information                |
+   |     Drop Down     | Selection fields with predefined options in a dropdown menu       |
+   | Multiple Checkbox | Fields that allow selecting multiple options from a list          |
+   |    Attachment     | Fields that allow users to upload and attach files to the project |
 
-|       Term        | Definition                                                        |
-| :---------------: | :---------------------------------------------------------------- |
-|       Text        | Simple single-line text fields for basic information              |
-|     Text Area     | Larger multi-line text fields for longer notes                    |
-|      Number       | Fields that accept only numerical values                          |
-|       Date        | Calendar-based fields for selecting dates                         |
-|     Date Time     | Fields that capture both date and time information                |
-|     Drop Down     | Selection fields with predefined options in a dropdown menu       |
-| Multiple Checkbox | Fields that allow selecting multiple options from a list          |
-|    Attachment     | Fields that allow users to upload and attach files to the project |
+   ### Custom Field View (right panel):
 
-<br>
+   In each field you can configure:
 
-### Custom Field View (right panel):
+   ### Locked Field
 
-In each field you can decide :
+   - Locking the field prevents any modifications, even by users who would normally have edit permissions.
 
-### Locked Field
+   ### Enabled Field
 
-- Locking the field to preventing any modifications even by users who would normally have edit permissions.
+   - When enabled (toggled on), the field will be displayed and available for use on customer forms.
 
-### Enabled Field
-
-- When enabled (toggled on), the field will be displayed
-and available for use on customer forms.
-
-   <br>
-
-After configuring template settings, click the "Save" button to apply and store your changes.
-
-   <br>
+   After configuring template settings, click the "Save" button to apply and store your changes.
 
    <p align="center">
      <img src="img/Customer_Template_Step_13.png" alt="Customer Template Step 18">
    </p>
 
-<br>
-
 ## Settings section
+
+9. This dropdown menu shows additional management options:
 
    <p align="center">
      <img src="img/Customer_Template_Step_14.png" alt="Customer Template Step 19">
    </p>
 
-9. This dropdown menu shows additional management options:
+   ### Version history:
 
-### Version history:
+   - View past versions of the template
 
-- View past versions of the template
+   ### Save to all categories:
 
-### Save to all categories:
+   - Apply changes across all customer categories
 
-- Apply changes across all customer categories
+   ### Copy from:
 
-### Copy from:
+   - Import settings from another template
 
-- Import settings from another template
+   ### Save
 
-### Save
+   - Always remember to save your work after making changes to the template settings - it's the only way to ensure your configurations are preserved.
 
-- Always remember to save your work after making changes to the template settings - it's the only way to ensure your configurations are preserved.
-
-<br><br><br>
-
-**Related Articles**
-
-- [How to Add New Customer?](Add_New_Customer.md)
-
-<!-- [Link Text](https://support.caction.com/Template.html) -->
+---
