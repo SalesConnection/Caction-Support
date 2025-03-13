@@ -4,8 +4,6 @@
 
 \*Note:The template configuration for these functions will affect the web and mobile app
 
-\*Note: If you do not have access to Template Settings page, please contact your admin.<br>
-
 <br>
 
 **Navigate to the section by clicking it.**<br>
