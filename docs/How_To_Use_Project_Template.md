@@ -67,8 +67,6 @@ In the Template Info section, you can customize several important labels, when w
 
 After saving your changes, the system will apply your custom labels throughout the interface
 
-In project details page, it turns the label into what users defines.
-
 <br>
 <a id="section2"></a>
 
@@ -83,7 +81,7 @@ In project details page, it turns the label into what users defines.
 
 3. The Details Variable Settings section allows you to customize which fields appear in your project dashboard.
 
-When you open the settings, you can drag variable elements to the left box to customize your view.
+   When you open the settings, you can drag variable elements to the left box to customize your view.
 
 <br>
   <p align="center">
@@ -116,6 +114,8 @@ After saving, your project dashboard will display the "amount" information in th
 <br>
 
 4. The Project Settings allows you to control various visibility and Product/Services setttings for your project management system.
+
+<br>
 
 For the Section Visibility section:
 
