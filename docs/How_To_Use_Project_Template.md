@@ -2,7 +2,7 @@
 
 **Project Template** displays a standardized format or pre-defined structure in project management software designed to help you set up new projects quickly and efficiently.
 
-\*Note:The template configuration for these functions will affect the web and mobile app
+_Note: The template configuration for these functions will affect the web and mobile app_
 
 <br>
 
@@ -14,13 +14,13 @@
 - [Prepopulate Assigned User](#section4)<br>
 - [Default Field](#section5)<br>
 - [Custom Field](#section6)
-  <br> <br>
+  <br><br>
 
-1. The desktop's navigation bar, go to Template Settings > Project Templates.
+1. From the desktop's navigation bar, go to Template Settings > Project Templates.
 
    **Open Project Templates Here**: [https://system.caction.com/templateSettings/DealTemplates](https://system.caction.com/templateSettings/DealTemplates)<br>
 
-   \*Note: If you do not have access to Template Settings page, please contact your admin.<br>
+   _Note: If you do not have access to the Template Settings page, please contact your admin._<br>
 
 <br>
   <p align="center">
@@ -39,15 +39,15 @@
 
 <br>
 
-2. For the Template Info section, it contains 5 field.<br>
+2. The Template Info section contains 5 fields:<br>
 
 |        Term         | Definition                                                                                                |
 | :-----------------: | :-------------------------------------------------------------------------------------------------------- |
 |  Project Category   | Indicates the type of Project                                                                             |
-| Template Short code | Indicates short code represent for project code                                                           |
-|    Template Name    | Lets users name the template (e.g., "Project") to reflect its purpose or type.                            |
-|  Outstanding Label  | Lets users defines label (e.g., "Outstanding") for items like pending tasks or issues within the project. |
-|  Collection Label   | Sets a label (e.g., "Collection") for grouping related items, such as invoices or documents.              |
+| Template Short code | Indicates short code representing the project code                                                        |
+|    Template Name    | Lets users name the template (e.g., "Project") to reflect its purpose or type                             |
+|  Outstanding Label  | Lets users define a label (e.g., "Outstanding") for items like pending tasks or issues within the project |
+|  Collection Label   | Sets a label (e.g., "Collection") for grouping related items, such as invoices or documents               |
 
 <br>
   <p align="center">
@@ -56,7 +56,7 @@
 
 <br>
 
-In the Template Info section, you can customize several important labels, when we change the Template name into "Project 123", Outstanding label into "Outstanding 123", Collection label into "Collection 123".
+In the Template Info section, you can customize several important labels. When we change the Template name to "Project 123", Outstanding label to "Outstanding 123", and Collection label to "Collection 123":
 
 <br>
   <p align="center">
@@ -65,7 +65,7 @@ In the Template Info section, you can customize several important labels, when w
 
 <br>
 
-After saving your changes, the system will apply your custom labels throughout the interface
+After saving your changes, the system will apply your custom labels throughout the interface.
 
 <br>
 <a id="section2"></a>
@@ -90,7 +90,7 @@ After saving your changes, the system will apply your custom labels throughout t
 
 <br>
 
-e.g., drag the "amount" elements replace with "Project End Date" in details variable settings.
+For example, drag the "amount" element to replace "Project End Date" in details variable settings.
 
 <br>
   <p align="center">
@@ -99,7 +99,7 @@ e.g., drag the "amount" elements replace with "Project End Date" in details vari
 
 <br>
 
-After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date"
+After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
 
 <br>
 <a id="section3"></a>
@@ -113,7 +113,7 @@ After saving, your project dashboard will display the "amount" information in th
 
 <br>
 
-4. The Project Settings allows you to control various visibility and Product/Services setttings for your project management system.
+4. The Project Settings allows you to control various visibility and Product/Services settings for your project management system.
 
 <br>
 
@@ -121,7 +121,7 @@ For the Section Visibility section:
 
 ### Project Category
 
-- When it toggle is off , the categories section will be hidden when viewing project details or adding a new project.
+- When this toggle is off, the categories section will be hidden when viewing project details or adding a new project.
 
 ### Product/Services View Settings
 
@@ -132,7 +132,7 @@ For the Section Visibility section:
 
 <br>
 
-The Enable section visibility for three different user role settings, which giving you precise control over your project management interface for different user types.
+The Enable section visibility provides settings for three different user roles, giving you precise control over your project management interface for different user types.
 
 <br>
     <p align="center">
@@ -141,11 +141,11 @@ The Enable section visibility for three different user role settings, which givi
 
 <br>
 
-Each visibility setting can be independently configured with dropdown menu with options:
+Each visibility setting can be independently configured with a dropdown menu with options:
 
-- Default Settings -Shows everything as normal
-- Hide Amount Field -Hides only the financial information (Green section)
-- Hide Whole Section -Hides the entire Product/Services section (Red section)
+- Default Settings - Shows everything as normal
+- Hide Amount Field - Hides only the financial information (Green section)
+- Hide Whole Section - Hides the entire Product/Services section (Red section)
 
 ### Collection View Settings
 
@@ -156,7 +156,7 @@ Each visibility setting can be independently configured with dropdown menu with 
 
 <br>
 
-It enable collection amount visibility for respective user types, which allows giving access for different user types.
+It enables collection amount visibility for respective user types, allowing access for different user roles:
 
 - Admin Visibility
 - Subadmin Visibility
@@ -167,7 +167,7 @@ It enable collection amount visibility for respective user types, which allows g
         <img src="img/Project_Template_Step_12.png" alt="Project Template Step 12">
     </p>
 
-\*Note: This is Project Details - Collection section.
+_Note: This is the Project Details - Collection section._
 
 <br>
 
@@ -180,7 +180,7 @@ It enable collection amount visibility for respective user types, which allows g
 
 <br>
 
-Same as Collection view, It enable deal end date visibility for respective user types.
+Similar to Collection view, it enables project end date visibility for respective user types:
 
 - Admin Visibility
 - Subadmin Visibility
@@ -197,15 +197,18 @@ Same as Collection view, It enable deal end date visibility for respective user 
 
 <br>
 
-Force Project Product/Services Selection is setting determines whether the Product/Services section is required when creating a new project.
+Force Project Product/Services Selection is a setting that determines whether the Product/Services section is required when creating a new project.
 
 This ensures that all projects have associated products or services.
 
 <br>
+<a id="section4"></a>
 
 # Prepopulate Assigned User
 
-5. Prepopulate Assigned User is it will automatically assign the user to the customer during Project Creation
+<br>
+
+5. Prepopulate Assigned User automatically assigns the user to the customer during Project Creation.
 
 <br>
     <p align="center">
@@ -213,14 +216,15 @@ This ensures that all projects have associated products or services.
     </p>
 
 <br>
-
-<a id="section6"></a>
+<a id="section5"></a>
 
 # Default Field
 
-6. Default Field Pre-Populate Value Settings is when users create new projects using this template, these fields would be automatically populated with these default values, saving time and ensuring consistency across projects.
+<br>
 
-The "eclipse" or three-dot menu button (⋮) at the top right of the page is likely an "apply to other categories" function. This would allow administrators to apply these template settings across multiple category rather than configuring them individually.
+6. Default Field Pre-Populate Value Settings: When users create new projects using this template, these fields will be automatically populated with these default values, saving time and ensuring consistency across projects.
+
+The "eclipse" or three-dot menu button (⋮) at the top right of the page is likely an "apply to other categories" function. This allows administrators to apply these template settings across multiple categories rather than configuring them individually.
 
 <br>
     <p align="center">
@@ -228,12 +232,13 @@ The "eclipse" or three-dot menu button (⋮) at the top right of the page is lik
     </p>
 
 <br>
-
-<a id="section7"></a>
+<a id="section6"></a>
 
 # Custom Field
 
-7.  custom field is a user-defined field that you can add to your project template beyond the standard default fields.
+<br>
+
+7. A custom field is a user-defined field that you can add to your project template beyond the standard default fields.
 
 <br>
     <p align="center">
@@ -270,11 +275,11 @@ This shows the available field types that can be added to the template.
 
 The Custom Field View panel shows the actual custom fields that have been configured for this Project Template.
 
-In each field you can decide :
+For each field you can decide:
 
 ### Editable Field
 
-- Controls access to modify of the field's content (Only Admin have the access to edit even is closing the field)
+- Controls access to modify the field's content (Only Admin has the access to edit even after closing the field)
 
 ### Required Field
 
@@ -282,7 +287,7 @@ In each field you can decide :
 
 ### Locked Field
 
-- Locking the field to preventing any modifications even by users who would normally have edit permissions.
+- Locks the field, preventing any modifications even by users who would normally have edit permissions
 
 ### Access Permission
 
@@ -294,9 +299,9 @@ In each field you can decide :
 
 <br>
 
-## Settings section
+## Settings Section
 
-  <br>
+<br>
     <p align="center">
         <img src="img/Project_Template_Step_19.png" alt="Project Template Step 19">
     </p>
@@ -305,28 +310,11 @@ In each field you can decide :
 
 8. This dropdown menu shows additional management options:
 
-### Version history:
-
-- View past versions of the template
-
-### Save to all categories:
-
-- Apply changes across all customer categories
-
-### Copy from:
-
-- Import settings from another template
-
-### Save
-
-- Always remember to save your work after making changes to the template settings - it's the only way to ensure your configurations are preserved.
+   |       Field Type       | Definition                                                                                                            |
+   | :--------------------: | :-------------------------------------------------------------------------------------------------------------------- |
+   |    Version history     | Access to previous versions of the template                                                                           |
+   | Save to all categories | Implementation of changes across all customer categories                                                              |
+   |       Copy from        | Importation of settings from alternative templates                                                                    |
+   |          Save          | It is essential to save all work after implementing changes to template settings to ensure configuration preservation |
 
 <br><br><br>
-
-**Related Articles**
-
-- [How do I Import New Project(s)?](Import_Project.md)
-- [How to Add New Customer?](Add_New_Customer.md)
-- [How to Add New Job?](Add_New_Job.md)
-
-<!-- [Link Text](https://support.caction.com/ProjectTemplate.html) -->

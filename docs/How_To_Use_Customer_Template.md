@@ -180,7 +180,7 @@ _Note: The template configuration for these functions will affect both the web a
      <img src="img/Customer_Template_Step_12.png" alt="Customer Template Step 17">
    </p>
 
-   ### Custom Field Element (left panel):
+   ### Custom Field Element (Left panel):
 
    This displays available field types that may be added to the template:
 
@@ -195,7 +195,7 @@ _Note: The template configuration for these functions will affect both the web a
    | Multiple Checkbox | Fields that enable selection of multiple options from a list   |
    |    Attachment     | Fields that enable file uploads and attachments to the project |
 
-   ### Custom Field View (right panel):
+   ### Custom Field View (Right panel):
 
    For each custom field, the following parameters are configurable:
 
@@ -221,18 +221,9 @@ _Note: The template configuration for these functions will affect both the web a
      <img src="img/Customer_Template_Step_14.png" alt="Customer Template Step 19">
    </p>
 
-   ### Version history:
-
-   - Access to previous versions of the template
-
-   ### Save to all categories:
-
-   - Implementation of changes across all customer categories
-
-   ### Copy from:
-
-   - Importation of settings from alternative templates
-
-   ### Save
-
-   - It is essential to save all work after implementing changes to template settings to ensure configuration preservation.
+   |       Field Type       | Definition                                                                                                            |
+   | :--------------------: | :-------------------------------------------------------------------------------------------------------------------- |
+   |    Version history     | Access to previous versions of the template                                                                           |
+   | Save to all categories | Implementation of changes across all customer categories                                                              |
+   |       Copy from        | Importation of settings from alternative templates                                                                    |
+   |          Save          | It is essential to save all work after implementing changes to template settings to ensure configuration preservation |
