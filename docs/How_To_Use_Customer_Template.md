@@ -209,9 +209,7 @@ _Note: The template configuration for these functions will affect both the web a
 
    Upon completing custom field configuration, select the "Save" button to apply and store all changes.
 
-   <p align="center">
-     <img src="img/Customer_Template_Step_13.png" alt="Customer Template Step 18">
-   </p>
+<br>
 
 ## Settings section
 

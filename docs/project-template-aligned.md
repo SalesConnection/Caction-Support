@@ -307,11 +307,11 @@ For each field you can decide:
 
 <br>
 
-|       Field Type       | Definition                                                                                                            |
-| :--------------------: | :-------------------------------------------------------------------------------------------------------------------- |
-|    Version history     | Access to previous versions of the template                                                                           |
-| Save to all categories | Implementation of changes across all customer categories                                                              |
-|       Copy from        | Importation of settings from alternative templates                                                                    |
+|       Field Type       | Definition                                                                                                         |
+| :--------------------: | :----------------------------------------------------------------------------------------------------------------- |
+|    Version history     | Access to previous versions of the template                                                                        |
+| Save to all categories | Implementation of changes across all customer categories                                                           |
+|       Copy from        | Importation of settings from alternative templates                                                                 |
 |          Save          | It is essential to save all work after implementing changes to template settings to ensure configuration preservation |
 
 <br><br><br>
