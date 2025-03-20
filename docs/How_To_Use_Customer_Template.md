@@ -21,7 +21,7 @@ _Note: The template configuration for these functions will affect both the web a
    - Select **Template Settings**
    - Then select **Customer Templates**
 
-   **Open Project Templates Here**:
+   **Open Customer Templates Here**:
    [https://system.caction.com/templateSettings/CustomerTemplates](https://system.caction.com/templateSettings/CustomerTemplates)
 
    _Note: If you do not have access to the Template Settings page, please contact your administrator._
