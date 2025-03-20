@@ -1,4 +1,4 @@
-## Project Template
+## How to Set Up Project Template?
 
 **Project Template** displays a standardized format or pre-defined structure in project management software designed to help you set up new projects quickly and efficiently.
 
