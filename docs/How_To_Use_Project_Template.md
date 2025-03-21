@@ -1,12 +1,10 @@
 ## How to Set Up Project Template?
 
-**Project Template** displays a standardized format or pre-defined structure in project management software designed to help you set up new projects quickly and efficiently.
-
-_Note: The template configuration for these functions will affect the web and mobile app_
+**Project Template** controls the structure and required fields for a project, ensuring consistency and efficiency. It allows you to define what information must be filled in when creating a new project.
 
 <br>
 
-**Navigate to the section by clicking it.**<br>
+**Click on a section below to navigate.**<br>
 
 - [Template Info](#section1)<br>
 - [Details Variable Settings](#section2)<br>
@@ -15,6 +13,10 @@ _Note: The template configuration for these functions will affect the web and mo
 - [Default Field](#section5)<br>
 - [Custom Field](#section6)
   <br><br>
+
+  _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._
+
+  To access and configure a Project Template, follow these steps:
 
 1. From the desktop's navigation bar:
 
@@ -61,7 +63,7 @@ The Template Info section contains 5 fields:<br>
 
 <br>
 
-In the Template Info section, you can customize several important labels. When we change the Template name to "Project 123", Outstanding label to "Outstanding 123", and Collection label to "Collection 123":
+In the Template Info section, you can customize several important labels. When we change the Template name from "Project" to "Folder", Outstanding label remain to "Outstanding", and Collection label remain to "Collection":
 
 <br>
 <p align="center">
@@ -111,7 +113,7 @@ After saving, your project dashboard will display the "amount" information in th
 
 # Project Settings
 
-4. The Project Settings allows you to control various visibility and Product/Services settings for your project management system.
+4. Project Settings in the Project Template control section visibility and configure Product/Service settings for projects. This ensures that only relevant sections are displayed and that product/service options align with project requirements.
 
 <br>
 <p align="center">
