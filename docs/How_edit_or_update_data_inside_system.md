@@ -50,7 +50,7 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 
 <br>
 
-3. Click on the job details button to view comprehensive information about the job in a new tab.
+3. Click on the eclipse icon to access the edit job section
 
 <br>
 
@@ -60,12 +60,22 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 
 <br>
 
-4. Click on the eclipse icon to access the edit job section
+4. Prefer Click on the job details button to view comprehensive information about the job in a new tab.
 
 <br>
 
 <p align="center">
    <img src="img/Job_Edit_Step_4.png" alt="Job Edit Step 4">
+</p>
+
+<br>
+
+4. Click on the pencil icon to access the edit job section
+
+<br>
+
+<p align="center">
+   <img src="img/Job_Edit_Step_5.png" alt="Job Edit Step 5">
 </p>
 
 <br>
@@ -78,7 +88,7 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 <br>
 
 <p align="center">
-   <img src="img/Job_Edit_Step_5.png" alt="Job Edit Step 5">
+   <img src="img/Job_Edit_Step_6.png" alt="Job Edit Step 6">
 </p>
 
 <br>
@@ -88,26 +98,10 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 <br>
 
 <p align="center">
-   <img src="img/Job_Edit_Step_6.png" alt="Job Edit Step 6">
-</p>
-
-<br>
-
-<p align="center">
-   <img src="img/Job_Edit_Step_6_1.png" alt="Job Edit Step 6.1">
-</p>
-
-<br>
-
-7. The Asset section can be click to see the details of asset. In asset list, you can filter out the assets and add asset on it.
-
-<br>
-
-<p align="center">
    <img src="img/Job_Edit_Step_7.png" alt="Job Edit Step 7">
 </p>
 
-<br>
+7. The Asset section can be click to see the details of asset. In asset list, you can filter out the assets and add asset on it.
 
 <br>
 
@@ -117,7 +111,7 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 
 <br>
 
-8. Next section is start date time and end date time, after change and the schedule will be changed too.
+8. Next section is start date time and end date time, when click it will open a small calender and can change the schedule of time.
 
 <br>
 
