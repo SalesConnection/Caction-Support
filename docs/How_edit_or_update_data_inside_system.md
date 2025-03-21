@@ -80,7 +80,10 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 
 <br>
 
-5. Edit the details and save it.
+5. The first section contains "Job Category" and "Status" fields:
+
+- The "Job Category" field defines the type or classification of the job within the system.
+- The "Status" field indicates the current state of the job in its workflow.
 
 <br>
 
@@ -90,12 +93,60 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 
 <br>
 
-6. After fill out all information, click "save" button to save it in system.
+6. this pencil icon in customer section is to change the customer and project associated with this job. When clicked, you can select a different customer and project to attach to this job.
 
 <br>
 
 <p align="center">
-   <img src="img/Job_Edit_Step_12.png" alt="Job Edit Step 7">
+   <img src="img/Job_Edit_Step_7.png" alt="Job Edit Step 7">
+</p>
+
+7. The Asset section can be click to see the details of asset. In asset list, you can filter out the assets and add asset on it.
+
+<br>
+
+<p align="center">
+   <img src="img/Job_Edit_Step_8.png" alt="Job Edit Step 8">
+</p>
+
+<br>
+
+8. Next section is start date time and end date time, when click it will open a small calender and can change the schedule of time.
+
+<br>
+
+<p align="center">
+   <img src="img/Job_Edit_Step_9.png" alt="Job Edit Step 9">
+</p>
+
+<br>
+
+9. The "Assign User" feature allows you to assign team members to jobs which grant "View" or "Assign" permissions.
+
+<br>
+
+<p align="center">
+   <img src="img/Job_Edit_Step_10.png" alt="Job Edit Step 10">
+</p>
+
+<br>
+
+10. The Reminder section allows users to manage reminders for different tasks.
+
+<br>
+
+<p align="center">
+   <img src="img/Job_Edit_Step_11.png" alt="Job Edit Step 11">
+</p>
+
+<br>
+
+11. After fill out all information, click "save" button to save it in system.
+
+<br>
+
+<p align="center">
+   <img src="img/Job_Edit_Step_12.png" alt="Job Edit Step 12">
 </p>
 
 <br>
