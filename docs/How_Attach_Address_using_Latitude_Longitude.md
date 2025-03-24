@@ -78,7 +78,7 @@ Here's a step-by-step tutorial on how to attach an address using Latitude & Long
 
 <a id="section2"></a>
 
-1.  In Customer section, Click on the Customer that wants to attach an address<br>
+1.  In Customer list, Click on the Customer that wants to attach an address<br>
 
 <p align="center">
   <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_11.jpg" alt="Attach Address Step 1" style="width: 30%; height: auto;">
