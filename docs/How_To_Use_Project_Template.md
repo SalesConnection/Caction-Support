@@ -79,9 +79,9 @@ When you open the settings, you can drag a field to the left box to customize yo
 
 - **Step 2:** In the popup window, you'll see available variables on the right side.
 
-Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings will update the project dashboard to display 'Amount' on project cards instead.
+  For Example, Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings will update the project dashboard to display 'Amount' on project cards instead.
 
-- **Step 4**: After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
+- **Step 3**: After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
 
 <br>
 <a id="section3"></a>
