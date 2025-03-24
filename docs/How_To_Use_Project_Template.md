@@ -1,6 +1,6 @@
 ## How to Set Up Project Template?
 
-**Project Template** controls the structure and required fields for a project, ensuring consistency and efficiency. It allows you to define what information must be filled in when creating a new project.
+**Project Template** controls the structure and required fields for a project, ensuring consistency and efficiency. It allows you to define what information must be filled in when creating a project.
 
 <br>
 
