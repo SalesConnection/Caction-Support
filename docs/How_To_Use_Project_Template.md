@@ -14,27 +14,16 @@
 - [Custom Field](#section6)
   <br><br>
 
-<<<<<<< HEAD
-  _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._
-
-  To access and configure a Project Template, follow these steps:
-
-1.  From the desktop's navigation bar:
-=======
 # Project Template
+
 1. To access and configure a Project Template, go to desktop's navigation bar:
->>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
-    - Select **Template Settings**
-    - Then select **Project Templates**
+   - Select **Template Settings**
+   - Then select **Project Templates**
 
-    **Open Project Templates Here**: [https://system.caction.com/templateSettings/DealTemplates](https://system.caction.com/templateSettings/DealTemplates)<br>
+   **Open Project Templates Here**: [https://system.caction.com/templateSettings/DealTemplates](https://system.caction.com/templateSettings/DealTemplates)<br>
 
-<<<<<<< HEAD
-    _Note: If you do not have access to the Template Settings page, please contact your admin._<br>
-=======
    _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._<br>
->>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
     <br>
     <p align="center">
@@ -43,7 +32,7 @@
 
     <br>
 
-    <a id="section1"></a>
+   <a id="section1"></a>
 
 # Template Info
 
@@ -84,35 +73,15 @@
     <img src="img/Project_Template_Step_6.png" alt="Project Template Step 6">
     </p>
 
-<<<<<<< HEAD
-    <br>
-=======
 When you open the settings, you can drag a field to the left box to customize your view.
->>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
 - **Step 1:** Click the "⚙️ Open Settings" icon (highlighted in red below) to open the field options.
 
 - **Step 2:** In the popup window, you'll see available variables on the right side.
 
-<<<<<<< HEAD
-- **Step 3:** Drag desired variables to the left box to add them to your view. For example, drag the "amount" element to replace "Project End Date" in details variable settings.
-=======
 Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings will update the project dashboard to display 'Amount' on project cards instead.
->>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
 - **Step 4**: After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
-
-<<<<<<< HEAD
-    <br>
-    <p align="center">
-    <img src="img/Project_Template_Step_7.png" alt="Project Template Step 7">
-    </p>
-
-    <br>
-
-  After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
-=======
->>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
 <br>
 <a id="section3"></a>
@@ -128,17 +97,11 @@ Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings
 
    <br>
 
-<<<<<<< HEAD
-   For the Section Visibility section:
-
-   ### Project Category
-=======
 ### Project Category
->>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
-   - When this toggle is off, the categories section will be hidden when viewing project details or adding a new project.
+- When this toggle is off, the categories section will be hidden when viewing project details or adding a new project.
 
-   ### Product/Services View Settings
+### Product/Services View Settings
 
    <br>
    <p align="center">
@@ -147,7 +110,7 @@ Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings
 
    <br>
 
-   The Enable section visibility provides settings for three different user roles, giving you precise control over your project management interface for different user types.
+The Enable section visibility provides settings for three different user roles, giving you precise control over your project management interface for different user types.
 
    <br>
    <p align="center">
@@ -156,13 +119,13 @@ Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings
 
    <br>
 
-   Each visibility setting can be independently configured with a dropdown menu with options:
+Each visibility setting can be independently configured with a dropdown menu with options:
 
-   - Default Settings - Shows everything as normal
-   - Hide Amount Field - Hides only the financial information (Green section)
-   - Hide Whole Section - Hides the entire Product/Services section (Red section)
+- Default Settings - Shows everything as normal
+- Hide Amount Field - Hides only the financial information (Green section)
+- Hide Whole Section - Hides the entire Product/Services section (Red section)
 
-   ### Collection View Settings
+### Collection View Settings
 
    <br>
    <p align="center">
@@ -171,22 +134,22 @@ Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings
 
    <br>
 
-   It enables collection amount visibility for respective user types, allowing access for different user roles:
+It enables collection amount visibility for respective user types, allowing access for different user roles:
 
-   - Admin Visibility
-   - Subadmin Visibility
-   - Staff Visibility
+- Admin Visibility
+- Subadmin Visibility
+- Staff Visibility
 
    <br>
    <p align="center">
        <img src="img/Project_Template_Step_12.png" alt="Project Template Step 12">
    </p>
 
-   _Note: This is the Project Details - Collection section._
+_Note: This is the Project Details - Collection section._
 
    <br>
 
-   ### Project End Date View Settings
+### Project End Date View Settings
 
    <br>
    <p align="center">
@@ -195,15 +158,15 @@ Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings
 
    <br>
 
-   Similar to Collection view, it enables project end date visibility for respective user types:
+Similar to Collection view, it enables project end date visibility for respective user types:
 
-   - Admin Visibility
-   - Subadmin Visibility
-   - Staff Visibility
+- Admin Visibility
+- Subadmin Visibility
+- Staff Visibility
 
    <br>
 
-   ### Product/Services Settings
+### Product/Services Settings
 
    <br>
    <p align="center">
@@ -212,9 +175,9 @@ Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings
 
    <br>
 
-   Force Project Product/Services Selection is a setting that determines whether the Product/Services section is required when creating a new project.
+Force Project Product/Services Selection is a setting that determines whether the Product/Services section is required when creating a new project.
 
-   This ensures that all projects have associated products or services.
+This ensures that all projects have associated products or services.
 
    <br>
    <a id="section4"></a>
