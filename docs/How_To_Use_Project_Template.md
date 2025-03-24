@@ -186,12 +186,12 @@ This ensures that all projects have associated products or services.
 
 5.  Prepopulate Assigned User automatically assigns the user to the customer during Project Creation.
 
-        <br>
-        <p align="center">
-            <img src="img/Project_Template_Step_15.png" alt="Project Template Step 15">
-        </p>
+    <br>
+       <p align="center">
+    <img src="img/Project_Template_Step_15.png" alt="Project Template Step 15">
+    </p>
 
-        <br>
+    <br>
 
     <a id="section5"></a>
 
