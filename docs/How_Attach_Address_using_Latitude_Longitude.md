@@ -23,11 +23,9 @@ Here's a step-by-step tutorial on how to attach an address using Latitude & Long
       <img src="img/How_Attach_address_using_Latitude_Longitude_Step_2.png" alt="Attach Address Step 2" >
      </p><br>
 
-3.  Scroll down to the "Address" section ,
+3.  Scroll down to the "Address" section, where users can either edit existing addresses or add new ones. Click the "Add New Address" to create a new address entry. <br>
 
-    Click "Add New Address"<br>
-
-    <p align="center">
+     <p align="center">
       <img src="img/How_Attach_address_using_Latitude_Longitude_Step_3.png" alt="Attach Address Step 3" >
      </p><br>
 
@@ -38,7 +36,6 @@ Here's a step-by-step tutorial on how to attach an address using Latitude & Long
       </p><br>
 
 5.  Navigate to your desired location on Google Maps.
-
     Right-click exactly where you want to pinpoint.<br>
 
       <p align="center">
@@ -46,17 +43,13 @@ Here's a step-by-step tutorial on how to attach an address using Latitude & Long
        </p><br>
 
 6.  Copy Latitude & Longitude at the top of the context menu.
-
     Click on the coordinates to copy them (e.g., 3.02493,101.58849).<br>
 
     <p align="center">
       <img src="img/How_Attach_address_using_Latitude_Longitude_Step_6.png" alt="Attach Address Step 6" >
      </p><br>
 
-7.  Paste Coordinates into System<br>
-
-    Go back to your system and
-    Paste the copied latitude and longitude into the GPS search box provided.
+7.  Return to the system and paste the copied latitude and longitude into the designated GPS search box.<br>
 
     <p align="center">
       <img src="img/How_Attach_address_using_Latitude_Longitude_Step_7.png" alt="Attach Address Step 7" >
@@ -78,56 +71,48 @@ Here's a step-by-step tutorial on how to attach an address using Latitude & Long
 
 <a id="section2"></a>
 
-1.  In Customer list, Click on the Customer that wants to attach an address<br>
+1.  In the ‘Customer List’, choose the customer who requires an address to be added.<br>
 
 <p align="center">
   <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_11.jpg" alt="Attach Address Step 1" style="width: 30%; height: auto;">
 </p>
 
-2.  Click ellipsis icon at above right<br>
+2.  Click the ellipsis icon in the top right corner and select Edit.<br>
 
     <p align="center">
-      <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_12.jpg" alt="Attach Address Step 2" style="width: 30%; height: auto;">
-     </p><br>
+      <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_13.jpg" alt="Attach Address Step 2" style="width: 30%; height: auto;">
+     </p>
+     <br>
 
-3.  Click Edit section<br>
+3.  In the Address section, click Add New Address.<br>
 
     <p align="center">
-      <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_13.jpg" alt="Attach Address Step 3" style="width: 30%; height: auto;">
+      <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_14.jpg" alt="Attach Address Step 3" style="width: 30%; height: auto;">
      </p><br>
 
-4.  Click Add New Address on Address Section<br>
+4.  Open Google Maps app and navigate to your desired location on Google Maps.<br>
 
       <p align="center">
-       <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_14.jpg" alt="Attach Address Step 4"style="width: 30%; height: auto;" >
+       <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_15.jpg" alt="Attach Address Step 4"style="width: 30%; height: auto;" >
       </p><br>
 
-5.  Open Google Maps app and Navigate to your desired location on Google Maps.<br>
+5.  Press and hold on the desired location to mark it on the map. The coordinates (latitude, longitude) will be displayed (e.g., 3.0540662, 101.5994493). Click the coordinates to copy it.<br>
 
       <p align="center">
-       <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_15.jpg" alt="Attach Address Step 5" style="width: 30%; height: auto;">
+       <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_16.jpg" alt="Attach Address Step 5" style="width: 30%; height: auto;">
        </p><br>
 
-6.  Press and hold on the desired location to mark it on the map. The coordinates (latitude, longitude) will be displayed (e.g., 3.0540662, 101.5994493). Click the coordinates to copy it.
-   <p align="center">
-      <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_16.jpg" alt="Attach Address Step 6" style="width: 30%; height: auto;">
-     </p><br>
+6.  Write the location name, and adjust the address if needed. then click the Save button.
 
-7.  Go back to your system and paste the copied latitude and longitude into the GPS search box provided<br>
+<p align="center">
+   <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_17.jpg" alt="Attach Address Step 6" style="width: 30%; height: auto;">
+  </p><br>
 
-    <p align="center">
-      <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_17.jpg" alt="Attach Address Step 7" style="width: 30%; height: auto;">
-     </p><br>
+<p align="center">
+  <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_18.jpg" alt="Attach Address Step 7" style="width: 30%; height: auto;">
+ </p><br>
 
-8.  Provide the location name, then click the Submit button<br>
-
-    <p align="center">
-      <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_18.jpg" alt="Attach Address Step 8" style="width: 30%; height: auto;">
-     </p><br>
-
-9.  The New Address will appear at Address section
-
-    Save the New Address <br>
+7.  The New Address will appear at Address section. Save the New Address <br>
 
     <p align="center">
       <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_19.jpg" alt="Attach Address Step 9" style="width: 30%; height: auto;">
