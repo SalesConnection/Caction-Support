@@ -280,42 +280,41 @@ This ensures that all projects have associated products or services.
 
    8. This dropdown menu shows three management options:
 
-    <br>
-    <p align="center">
+      <br>
+      <p align="center">
       <img src="img/Project_Template_Step_19.png" alt="Project Template Step 19">
-    </p>
-
-    <br>
+      </p>
+      <br>
 
    ### Version history
 
    - Access to previous versions of the template , Restore previous versions by clicking the "Restore" button in the bottom-right.
 
-    <br>
-    <p align="center">
-    <img src="img/Project_Template_Step_20.png" alt="Project Template Step 18">
-    </p>
+      <br>
+      <p align="center">
+      <img src="img/Project_Template_Step_20.png" alt="Project Template Step 18">
+      </p>
 
-    <br>
+       <br>
 
    ### Save to all categories
 
    - Use this function when you want the same template configuration to apply to multiple or all project categories in your system (Enter notes about your changes)
 
-    <br>
-    <p align="center">
-    <img src="img/Project_Template_Step_21.png" alt="Project Template Step 18">
-    </p>
+      <br>
+      <p align="center">
+      <img src="img/Project_Template_Step_21.png" alt="Project Template Step 18">
+      </p>
 
-    <br>
+      <br>
 
    ### Copy from
 
    - Importation of settings from alternative templates, select the categories you want to copy from and apply it.
 
-    <br>
-    <p align="center">
-    <img src="img/Project_Template_Step_22.png" alt="Project Template Step 18">
-    </p>
+      <br>
+      <p align="center">
+      <img src="img/Project_Template_Step_22.png" alt="Project Template Step 18">
+      </p>
 
-    <br>
+       <br>
