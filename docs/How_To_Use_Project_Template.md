@@ -116,8 +116,6 @@ Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings
 
 <br>
 
-For the Section Visibility section:
-
 ### Project Category
 
 - When this toggle is off, the categories section will be hidden when viewing project details or adding a new project.
