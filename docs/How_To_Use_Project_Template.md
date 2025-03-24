@@ -84,7 +84,7 @@ After saving your changes, the system will apply your custom labels throughout t
 
 <br>
 
-When you open the settings, you can drag variable elements to the left box to customize your view.
+When you open the settings, you can drag a field to the left box to customize your view.
 
 <br>
 <p align="center">
@@ -93,16 +93,13 @@ When you open the settings, you can drag variable elements to the left box to cu
 
 <br>
 
-For example, drag the "amount" element to replace "Project End Date" in details variable settings.
+Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings will update the project dashboard to display 'Amount' on project cards instead.
 
 <br>
 <p align="center">
    <img src="img/Project_Template_Step_7.png" alt="Project Template Step 7">
 </p>
 
-<br>
-
-After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
 
 <br>
 <a id="section3"></a>
