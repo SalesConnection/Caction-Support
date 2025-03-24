@@ -14,8 +14,6 @@
 - [Custom Field](#section6)
   <br><br>
 
-  _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._
-
 To access and configure a Project Template, follow these steps:
 
 1. From the desktop's navigation bar:
@@ -25,7 +23,7 @@ To access and configure a Project Template, follow these steps:
 
    **Open Project Templates Here**: [https://system.caction.com/templateSettings/DealTemplates](https://system.caction.com/templateSettings/DealTemplates)<br>
 
-   _Note: If you do not have access to the Template Settings page, please contact your admin._<br>
+   _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._<br>
 
 <br>
 <p align="center">
