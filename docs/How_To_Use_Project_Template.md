@@ -1,6 +1,6 @@
 ## How to Set Up Project Template?
 
-**Project Template** controls the structure and required fields for a project, ensuring consistency and efficiency. It allows you to define what information must be filled in when creating a new project.
+**Project Template** controls the structure and required fields for a project, ensuring consistency and efficiency. It allows you to define what information must be filled in when creating a project.
 
 <br>
 
@@ -14,18 +14,27 @@
 - [Custom Field](#section6)
   <br><br>
 
+<<<<<<< HEAD
   _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._
 
   To access and configure a Project Template, follow these steps:
 
 1.  From the desktop's navigation bar:
+=======
+# Project Template
+1. To access and configure a Project Template, go to desktop's navigation bar:
+>>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
     - Select **Template Settings**
     - Then select **Project Templates**
 
     **Open Project Templates Here**: [https://system.caction.com/templateSettings/DealTemplates](https://system.caction.com/templateSettings/DealTemplates)<br>
 
+<<<<<<< HEAD
     _Note: If you do not have access to the Template Settings page, please contact your admin._<br>
+=======
+   _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._<br>
+>>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
     <br>
     <p align="center">
@@ -75,16 +84,25 @@
     <img src="img/Project_Template_Step_6.png" alt="Project Template Step 6">
     </p>
 
+<<<<<<< HEAD
     <br>
+=======
+When you open the settings, you can drag a field to the left box to customize your view.
+>>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
 - **Step 1:** Click the "⚙️ Open Settings" icon (highlighted in red below) to open the field options.
 
 - **Step 2:** In the popup window, you'll see available variables on the right side.
 
+<<<<<<< HEAD
 - **Step 3:** Drag desired variables to the left box to add them to your view. For example, drag the "amount" element to replace "Project End Date" in details variable settings.
+=======
+Dragging 'Amount' to replace 'Project End Date' in the Details Variable Settings will update the project dashboard to display 'Amount' on project cards instead.
+>>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
 - **Step 4**: After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
 
+<<<<<<< HEAD
     <br>
     <p align="center">
     <img src="img/Project_Template_Step_7.png" alt="Project Template Step 7">
@@ -93,6 +111,8 @@
     <br>
 
   After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
+=======
+>>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
 <br>
 <a id="section3"></a>
@@ -108,9 +128,13 @@
 
    <br>
 
+<<<<<<< HEAD
    For the Section Visibility section:
 
    ### Project Category
+=======
+### Project Category
+>>>>>>> 9afeb3c770c1a9a437f2fa47d81b8ae3370de22f
 
    - When this toggle is off, the categories section will be hidden when viewing project details or adding a new project.
 
