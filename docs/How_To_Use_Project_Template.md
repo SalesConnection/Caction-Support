@@ -197,9 +197,11 @@ This ensures that all projects have associated products or services.
 
 # Default Field
 
-6.  Default Field Pre-Populate Value Settings: When users create new projects using this template, these fields will be automatically populated with these default values, saving time and ensuring consistency across projects.
+6.  **Default Field Pre-Populate Value Settings**
 
-    The "eclipse" or three-dot menu button (⋮) at the top right of the page is likely an "apply to other categories" function. This allows administrators to apply these template settings across multiple categories rather than configuring them individually.
+    This section manages default fields, which are system-defined and cannot be customized. These fields appear across all project categories and remain fixed,
+
+    These fields serve as the default information for a project, ensuring essential details are always available. except for the Integration Code, which activates only when system integration is required. Additionally, auto-populate values can be set if needed, allowing predefined inputs to streamline data entry.
 
     <br>
 
@@ -243,7 +245,7 @@ This ensures that all projects have associated products or services.
 
     <br>
     <p align="center">
-        <img src="img/Project_Template_Step_18.png" alt="Project Template Step 18">
+    <img src="img/Project_Template_Step_18.png" alt="Project Template Step 18">
     </p>
 
     <br>
