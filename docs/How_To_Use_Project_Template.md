@@ -14,9 +14,7 @@
 - [Custom Field](#section6)
   <br><br>
 
-To access and configure a Project Template, follow these steps:
-
-1. From the desktop's navigation bar:
+1. To access and configure a Project Template, go to desktop's navigation bar:
 
    - Select **Template Settings**
    - Then select **Project Templates**
