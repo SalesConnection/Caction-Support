@@ -18,95 +18,81 @@
 
   To access and configure a Project Template, follow these steps:
 
-1. From the desktop's navigation bar:
+1.  From the desktop's navigation bar:
 
-   - Select **Template Settings**
-   - Then select **Project Templates**
+    - Select **Template Settings**
+    - Then select **Project Templates**
 
-   **Open Project Templates Here**: [https://system.caction.com/templateSettings/DealTemplates](https://system.caction.com/templateSettings/DealTemplates)<br>
+    **Open Project Templates Here**: [https://system.caction.com/templateSettings/DealTemplates](https://system.caction.com/templateSettings/DealTemplates)<br>
 
-   _Note: If you do not have access to the Template Settings page, please contact your admin._<br>
+    _Note: If you do not have access to the Template Settings page, please contact your admin._<br>
 
-<br>
-<p align="center">
-   <img src="img/Project_Template_Step_1.png" alt="Project Template Step 1">
-</p>
-   
-<br>
-<a id="section1"></a>
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_1.png" alt="Project Template Step 1">
+    </p>
+
+    <br>
+
+    <a id="section1"></a>
 
 # Template Info
 
 2. The Template Info section serves as the foundation for your project template configuration.
 
-<br>
-<p align="center">
+   The Template Info section contains 5 fields:<br>
+
+   | Term                | Definition                                                                            |
+   | ------------------- | ------------------------------------------------------------------------------------- |
+   | Project Category    | Specifies the type of project this template is used for.                              |
+   | Template Short Code | A brief identifier to easily reference the template.                                  |
+   | Template Name       | The display name of the template, customizable to match its purpose.                  |
+   | Outstanding Label   | Defines a label for pending actions, tasks, or amounts related to the project.        |
+   | Collection Label    | Sets a label for grouped elements, such as collected payments or categorized records. |
+
+   <br>
+   <p align="center">
    <img src="img/Project_Template_Step_2.png" alt="Project Template Step 2">
-</p>
+   </p>
 
-<br>
+   <br>
 
-The Template Info section contains 5 fields:<br>
+   In the Template Info section, you can customize several important labels. The Template Info section serves as the foundation for your project template configuration. You can customize customize key labels to fit your needs.
 
-|        Term         | Definition                                                                                                |
-| :-----------------: | :-------------------------------------------------------------------------------------------------------- |
-|  Project Category   | Indicates the type of Project                                                                             |
-| Template Short code | Indicates short code representing the project code                                                        |
-|    Template Name    | Lets users name the template (e.g., "Project") to reflect its purpose or type                             |
-|  Outstanding Label  | Lets users define a label (e.g., "Outstanding") for items like pending tasks or issues within the project |
-|  Collection Label   | Sets a label (e.g., "Collection") for grouping related items, such as invoices or documents               |
-
-<br>
-<p align="center">
-   <img src="img/Project_Template_Step_3.png" alt="Project Template Step 3">
-</p>
-
-<br>
-
-In the Template Info section, you can customize several important labels. When we change the Template name from "Project" to "Folder", Outstanding label remain to "Outstanding", and Collection label remain to "Collection":
-
-<br>
-<p align="center">
-   <img src="img/Project_Template_Step_4.png" alt="Project Template Step 4">
-</p>
-
-<br>
-
-After saving your changes, the system will apply your custom labels throughout the interface.
+   After saving your changes, the system will apply your custom labels throughout the interface.
 
 <br>
 <a id="section2"></a>
 
 # Details Variable Settings
 
-3. The Details Variable Settings section allows you to customize which fields appear in your project dashboard.
+3. The Details Variable Settings section allows you to customize the information displayed across the system wherever card views are used, such as the Project Dashboard.
 
-<br>
-<p align="center">
-   <img src="img/Project_Template_Step_5.png" alt="Project Template Step 5">
-</p>
+   When you open the settings, you can drag variable elements to the left box to customize your view.
 
-<br>
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_6.png" alt="Project Template Step 6">
+    </p>
 
-When you open the settings, you can drag variable elements to the left box to customize your view.
+    <br>
 
-<br>
-<p align="center">
-   <img src="img/Project_Template_Step_6.png" alt="Project Template Step 6">
-</p>
+- **Step 1:** Click the "⚙️ Open Settings" icon (highlighted in red below) to open the field options.
 
-<br>
+- **Step 2:** In the popup window, you'll see available variables on the right side.
 
-For example, drag the "amount" element to replace "Project End Date" in details variable settings.
+- **Step 3:** Drag desired variables to the left box to add them to your view. For example, drag the "amount" element to replace "Project End Date" in details variable settings.
 
-<br>
-<p align="center">
-   <img src="img/Project_Template_Step_7.png" alt="Project Template Step 7">
-</p>
+- **Step 4**: After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
 
-<br>
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_7.png" alt="Project Template Step 7">
+    </p>
 
-After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
+    <br>
+
+  After saving, your project dashboard will display the "amount" information in the project cards instead of the "Project End Date".
 
 <br>
 <a id="section3"></a>
@@ -115,205 +101,208 @@ After saving, your project dashboard will display the "amount" information in th
 
 4. Project Settings in the Project Template control section visibility and configure Product/Service settings for projects. This ensures that only relevant sections are displayed and that product/service options align with project requirements.
 
-<br>
-<p align="center">
+   <br>
+   <p align="center">
    <img src="img/Project_Template_Step_8.png" alt="Project Template Step 8">
-</p>
+   </p>
 
-<br>
+   <br>
 
-For the Section Visibility section:
+   For the Section Visibility section:
 
-### Project Category
+   ### Project Category
 
-- When this toggle is off, the categories section will be hidden when viewing project details or adding a new project.
+   - When this toggle is off, the categories section will be hidden when viewing project details or adding a new project.
 
-### Product/Services View Settings
+   ### Product/Services View Settings
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_9.png" alt="Project Template Step 9">
-</p>
+   <br>
+   <p align="center">
+       <img src="img/Project_Template_Step_9.png" alt="Project Template Step 9">
+   </p>
 
-<br>
+   <br>
 
-The Enable section visibility provides settings for three different user roles, giving you precise control over your project management interface for different user types.
+   The Enable section visibility provides settings for three different user roles, giving you precise control over your project management interface for different user types.
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_10.png" alt="Project Template Step 10">
-</p>
+   <br>
+   <p align="center">
+       <img src="img/Project_Template_Step_10.png" alt="Project Template Step 10">
+   </p>
 
-<br>
+   <br>
 
-Each visibility setting can be independently configured with a dropdown menu with options:
+   Each visibility setting can be independently configured with a dropdown menu with options:
 
-- Default Settings - Shows everything as normal
-- Hide Amount Field - Hides only the financial information (Green section)
-- Hide Whole Section - Hides the entire Product/Services section (Red section)
+   - Default Settings - Shows everything as normal
+   - Hide Amount Field - Hides only the financial information (Green section)
+   - Hide Whole Section - Hides the entire Product/Services section (Red section)
 
-### Collection View Settings
+   ### Collection View Settings
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_11.png" alt="Project Template Step 11">
-</p>
+   <br>
+   <p align="center">
+       <img src="img/Project_Template_Step_11.png" alt="Project Template Step 11">
+   </p>
 
-<br>
+   <br>
 
-It enables collection amount visibility for respective user types, allowing access for different user roles:
+   It enables collection amount visibility for respective user types, allowing access for different user roles:
 
-- Admin Visibility
-- Subadmin Visibility
-- Staff Visibility
+   - Admin Visibility
+   - Subadmin Visibility
+   - Staff Visibility
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_12.png" alt="Project Template Step 12">
-</p>
+   <br>
+   <p align="center">
+       <img src="img/Project_Template_Step_12.png" alt="Project Template Step 12">
+   </p>
 
-_Note: This is the Project Details - Collection section._
+   _Note: This is the Project Details - Collection section._
 
-<br>
+   <br>
 
-### Project End Date View Settings
+   ### Project End Date View Settings
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_13.png" alt="Project Template Step 13">
-</p>
+   <br>
+   <p align="center">
+       <img src="img/Project_Template_Step_13.png" alt="Project Template Step 13">
+   </p>
 
-<br>
+   <br>
 
-Similar to Collection view, it enables project end date visibility for respective user types:
+   Similar to Collection view, it enables project end date visibility for respective user types:
 
-- Admin Visibility
-- Subadmin Visibility
-- Staff Visibility
+   - Admin Visibility
+   - Subadmin Visibility
+   - Staff Visibility
 
-<br>
+   <br>
 
-### Product/Services Settings
+   ### Product/Services Settings
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_14.png" alt="Project Template Step 14">
-</p>
+   <br>
+   <p align="center">
+       <img src="img/Project_Template_Step_14.png" alt="Project Template Step 14">
+   </p>
 
-<br>
+   <br>
 
-Force Project Product/Services Selection is a setting that determines whether the Product/Services section is required when creating a new project.
+   Force Project Product/Services Selection is a setting that determines whether the Product/Services section is required when creating a new project.
 
-This ensures that all projects have associated products or services.
+   This ensures that all projects have associated products or services.
 
-<br>
-<a id="section4"></a>
+   <br>
+   <a id="section4"></a>
 
 # Prepopulate Assigned User
 
-5. Prepopulate Assigned User automatically assigns the user to the customer during Project Creation.
+5.  Prepopulate Assigned User automatically assigns the user to the customer during Project Creation.
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_15.png" alt="Project Template Step 15">
-</p>
+        <br>
+        <p align="center">
+            <img src="img/Project_Template_Step_15.png" alt="Project Template Step 15">
+        </p>
 
-<br>
-<a id="section5"></a>
+        <br>
+
+    <a id="section5"></a>
 
 # Default Field
 
-6. Default Field Pre-Populate Value Settings: When users create new projects using this template, these fields will be automatically populated with these default values, saving time and ensuring consistency across projects.
+6.  Default Field Pre-Populate Value Settings: When users create new projects using this template, these fields will be automatically populated with these default values, saving time and ensuring consistency across projects.
 
-The "eclipse" or three-dot menu button (⋮) at the top right of the page is likely an "apply to other categories" function. This allows administrators to apply these template settings across multiple categories rather than configuring them individually.
+    The "eclipse" or three-dot menu button (⋮) at the top right of the page is likely an "apply to other categories" function. This allows administrators to apply these template settings across multiple categories rather than configuring them individually.
 
-<br>
-<p align="center">
+    <br>
+
+    <p align="center">
     <img src="img/Project_Template_Step_16.png" alt="Project Template Step 16">
-</p>
+    </p>
 
-<br>
-<a id="section6"></a>
+    <br>
+
+    <a id="section6"></a>
 
 # Custom Field
 
 7. A custom field is a user-defined field that you can add to your project template beyond the standard default fields.
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_17.png" alt="Project Template Step 17">
-</p>
+   <br>
+   <p align="center">
+       <img src="img/Project_Template_Step_17.png" alt="Project Template Step 17">
+   </p>
 
-<br>
+   <br>
 
-### Custom Field Element (left panel):
+   ### Custom Field Element (left panel):
 
-This shows the available field types that can be added to the template.
+   This shows the available field types that can be added to the template.
 
-|       Term        | Definition                                                        |
-| :---------------: | :---------------------------------------------------------------- |
-|       Text        | Simple single-line text fields for basic information              |
-|     Text Area     | Larger multi-line text fields for longer notes                    |
-|      Number       | Fields that accept only numerical values                          |
-|       Date        | Calendar-based fields for selecting dates                         |
-|     Date Time     | Fields that capture both date and time information                |
-|     Drop Down     | Selection fields with predefined options in a dropdown menu       |
-| Multiple Checkbox | Fields that allow selecting multiple options from a list          |
-|    Attachment     | Fields that allow users to upload and attach files to the project |
+   |       Term        | Definition                                                        |
+   | :---------------: | :---------------------------------------------------------------- |
+   |       Text        | Simple single-line text fields for basic information              |
+   |     Text Area     | Larger multi-line text fields for longer notes                    |
+   |      Number       | Fields that accept only numerical values                          |
+   |       Date        | Calendar-based fields for selecting dates                         |
+   |     Date Time     | Fields that capture both date and time information                |
+   |     Drop Down     | Selection fields with predefined options in a dropdown menu       |
+   | Multiple Checkbox | Fields that allow selecting multiple options from a list          |
+   |    Attachment     | Fields that allow users to upload and attach files to the project |
 
-<br>
+    <br>
 
-### Custom Field View (right panel):
+   ### Custom Field View (right panel):
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_18.png" alt="Project Template Step 18">
-</p>
+    <br>
+    <p align="center">
+        <img src="img/Project_Template_Step_18.png" alt="Project Template Step 18">
+    </p>
 
-<br>
+    <br>
 
-The Custom Field View panel shows the actual custom fields that have been configured for this Project Template.
+   The Custom Field View panel shows the actual custom fields that have been configured for this Project Template.
 
-For each field you can decide:
+   For each field you can decide:
 
-### Editable Field
+   ### Editable Field
 
-- Controls access to modify the field's content (Only Admin has the access to edit even after closing the field)
+   - Controls access to modify the field's content (Only Admin has the access to edit even after closing the field)
 
-### Required Field
+   ### Required Field
 
-- Makes the field mandatory before saving
+   - Makes the field mandatory before saving
 
-### Locked Field
+   ### Locked Field
 
-- Locks the field, preventing any modifications even by users who would normally have edit permissions
+   - Locks the field, preventing any modifications even by users who would normally have edit permissions
 
-### Access Permission
+   ### Access Permission
 
-- Controls which users can see the field during project creation
+   - Controls which users can see the field during project creation
 
-### Pre-populate Value
+   ### Pre-populate Value
 
-- Sets default values that appear automatically in the field
+   - Sets default values that appear automatically in the field
 
-<br>
+    <br>
 
-## Settings Section
+   ## Settings Section
 
-8. This dropdown menu shows additional management options:
+   8. This dropdown menu shows additional management options:
 
-<br>
-<p align="center">
-    <img src="img/Project_Template_Step_19.png" alt="Project Template Step 19">
-</p>
+    <br>
+    <p align="center">
+        <img src="img/Project_Template_Step_19.png" alt="Project Template Step 19">
+    </p>
 
-<br>
+    <br>
 
-|       Field Type       | Definition                                                                                                            |
-| :--------------------: | :-------------------------------------------------------------------------------------------------------------------- |
-|    Version history     | Access to previous versions of the template                                                                           |
-| Save to all categories | Implementation of changes across all customer categories                                                              |
-|       Copy from        | Importation of settings from alternative templates                                                                    |
-|          Save          | It is essential to save all work after implementing changes to template settings to ensure configuration preservation |
+   |       Field Type       | Definition                                                                                                            |
+   | :--------------------: | :-------------------------------------------------------------------------------------------------------------------- |
+   |    Version history     | Access to previous versions of the template                                                                           |
+   | Save to all categories | Implementation of changes across all customer categories                                                              |
+   |       Copy from        | Importation of settings from alternative templates                                                                    |
+   |          Save          | It is essential to save all work after implementing changes to template settings to ensure configuration preservation |
 
-<br><br><br>
+   <br><br><br>

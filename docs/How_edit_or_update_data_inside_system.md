@@ -158,11 +158,12 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 # How to Edit Project
 
 1. At the desktop site navigation bar, select the Dashboard and navigate to Project section.
+   Open Project Dashboard Here: https://system.caction.com/dashboard/project
 
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_1.png" alt="Job Project Step 1">
+   <img src="img/Project_Edit_Step_1.png" alt="Job Project Step 1">
 </p>
 
 <br>
@@ -172,7 +173,7 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_2.png" alt="Job Project Step 2">
+   <img src="img/Project_Edit_Step_2.png" alt="Job Project Step 2">
 </p>
 
 <br>
@@ -182,7 +183,7 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_3.png" alt="Job Project Step 3">
+   <img src="img/Project_Edit_Step_3.png" alt="Job Project Step 3">
 </p>
 
 <br>
@@ -192,7 +193,7 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_4.png" alt="Job Project Step 4">
+   <img src="img/Project_Edit_Step_4.png" alt="Job Project Step 4">
 </p>
 
 <br>
@@ -202,7 +203,7 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_5.png" alt="Job Project Step 5">
+   <img src="img/Project_Edit_Step_5.png" alt="Job Project Step 5">
 </p>
 
 <br>
@@ -212,42 +213,42 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_6.png" alt="Job Project Step 6">
+   <img src="img/Project_Edit_Step_6.png" alt="Job Project Step 6">
 </p>
 
 <br>
 
 7. The Edit Project form will open with several sections to modify:
 
+## Project Edit Form
+
+| No. | Section                      | Description                                                                                                                              |
+| --- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Category and Status**      | Defines the project type or classification and indicates the current state of the project in its workflow.                               |
+| 2   | **Start and End Dates**      | Sets the project timeline by selecting when the project begins and ends. Click to open a calendar picker and select the dates and times. |
+| 3   | **Title and Description**    | A short title for the project and provides detailed information about the project's purpose, scope, and goals.                           |
+| 4   | **Reminder Settings**        | Enable reminders for the project and create custom reminders on events.                                                                  |
+| 5   | **Asset Information**        | Enter the asset registered in the system associated with the project.                                                                    |
+| 6   | **Assign List**              | View the team members assigned to the project and assign users to work on the project.                                                   |
+| 7   | **Product/Services Details** | Add and manage products or services associated with the project.                                                                         |
+
+<br>
+
+**Note:** Contact your manager to enable additional custom fields for your specific needs.
+
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_7.png" alt="Job Project Step 7">
+   <img src="img/Project_Edit_Step_7.png" alt="Job Project Step 7">
 </p>
 
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_8.png" alt="Job Project Step 8">
+   <img src="img/Project_Edit_Step_8.png" alt="Job Project Step 8">
 </p>
 
 <br>
-
-# Project Edit Form
-
-| No. | Section                      | Description                                                                                                                                    |
-| --- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Category and Status**      | Defines the project type or classification and indicates the current state of the project in its workflow.                                     |
-| 2   | **Start and End Dates**      | Sets the project timeline by selecting when the project begins and ends. Click to open a calendar picker and select the dates and times.       |
-| 3   | **Title and Description**    | The name of the project that appears in listings and reports, and provides detailed information about the project's purpose, scope, and goals. |
-| 4   | **Reminder Settings**        | Enable reminders for the project and create custom reminders for specific project milestones or events.                                        |
-| 5   | **Asset Information**        | Enter the identification for equipment, property, or other assets associated with the project and link additional assets.                      |
-| 6   | **Assign List**              | View the team members assigned to the project and assign users to work on the project.                                                         |
-| 7   | **Product/Services Details** | Add and manage products or services associated with the project.                                                                               |
-
-<br>
-
-**Note:** Contact your manager to enable additional custom fields for your specific business needs.
 
 <br>
 
@@ -256,7 +257,126 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 <br>
 
 <p align="center">
-   <img src="img/Job_Project_Step_9.png" alt="Job Project Step 9">
+   <img src="img/Project_Edit_Step_9.png" alt="Job Project Step 9">
 </p>
 
 <br>
+<br><br>
+
+<a id="section3"></a>
+
+# How to Edit Customer
+
+_Note: In your system, Customer may have been renamed to other (i.e Site, Client, Company, etc.)_
+
+<br>
+
+1. From the desktop's navigation bar, go to Business Management and select the "Customer List".
+
+   Open Customer List Here: https://system.caction.com/customers
+
+<br>
+
+<p align="center">
+   <img src="img/Customer_Edit_Step_1.png" alt="Job Customer Step 1">
+</p>
+
+<br>
+
+2. Navigate to the dashboard to locate the customer data you wish to edit or update.
+
+<br>
+
+<p align="center">
+   <img src="img/Customer_Edit_Step_2.png" alt="Job Customer Step 2">
+</p>
+
+<br>
+
+3. In the Customer Details page, the pencil icon <span style="color:blue">✏️</span> indicates the edit functionality. For each edit, an explanation will be provided for each function.
+
+<br>
+
+<p align="center">
+   <img src="img/Customer_Edit_Step_4.png" alt="Job Customer Step 4">
+</p>
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A. Customer Status**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the current status of the customer.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B. Company Name**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the official name of the customer's company.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C. Customer Name**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the full name of the customer contact person.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D. Customer Category**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the customer based on their type.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E. Assigned User**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assign the user responsible for managing this customer.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**F. Manage Phone Number**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delete or Edit the customer's contact phone number.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**G. Add Phone Number**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding the customer's contact phone number.
+
+### Extended Information Section
+
+<p align="center">
+   <img src="img/Customer_Edit_Step_5.png" alt="Job Customer Step 5">
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**H. Customer Address**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit, Copy or Delete the physical address of the customer.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I. Add New Address**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding new Address for the customer.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**J. Customer Email**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the customer's email address.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**K. Add Additional Email**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding the customer's email address.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**L. Custom Field**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the Custom Field data.
+
+<br>
+
+**Note:** Contact your manager to enable additional custom fields for your specific needs.
+
+<br><br>
+
+<a id="section4"></a>
+
+# How to Edit Digital Form
+
+<br>
+
+1. From the desktop's navigation bar, go to Business Reports and select the "Digital Form Report".
+
+   Open Digital Form Report Here: https://system.caction.com/reports/digitalform?code=DR01
+
+<br>
+
+<p align="center">
+   <img src="img/Digital_Form_Edit_Step_1.png" alt="Job Digital_Form Step 1">
+</p>
+
+<br>
+
+2. Navigate to the dashboard to locate the Digital Form data you wish to edit or update.
+
+<br>
+
+<p align="center">
+   <img src="img/Digital_Form_Edit_Step_2.png" alt="Job Digital_Form Step 2">
+</p>
+
+<br>
+
+3. In the Digital Form Details view, locate the options menu (three dots) in the upper right corner of the screen.
