@@ -108,12 +108,7 @@ Here's a step-by-step tutorial on how to attach an address using Latitude & Long
        <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_15.jpg" alt="Attach Address Step 5" style="width: 30%; height: auto;">
        </p><br>
 
-6.Press and hold at the exact location you want to mark on the map<br>
-
-The coordinates (latitude, longitude) will be displayed. (3.0540662, 101.5994493).
-
-    Click the coordinates to copy it.
-
+6.  Press and hold on the desired location to mark it on the map. The coordinates (latitude, longitude) will be displayed (e.g., 3.0540662, 101.5994493). Click the coordinates to copy it.
    <p align="center">
       <img src="img/How_Attach_address_using_Latitude_Longitude_M_Step_16.jpg" alt="Attach Address Step 6" style="width: 30%; height: auto;">
      </p><br>
