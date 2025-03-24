@@ -16,7 +16,7 @@
 
   _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._
 
-  To access and configure a Project Template, follow these steps:
+To access and configure a Project Template, follow these steps:
 
 1. From the desktop's navigation bar:
 
