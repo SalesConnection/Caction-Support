@@ -278,20 +278,44 @@ This ensures that all projects have associated products or services.
 
    ## Settings Section
 
-   8. This dropdown menu shows additional management options:
+   8. This dropdown menu shows three management options:
 
     <br>
     <p align="center">
-        <img src="img/Project_Template_Step_19.png" alt="Project Template Step 19">
+      <img src="img/Project_Template_Step_19.png" alt="Project Template Step 19">
     </p>
 
     <br>
 
-   |       Field Type       | Definition                                                                                                            |
-   | :--------------------: | :-------------------------------------------------------------------------------------------------------------------- |
-   |    Version history     | Access to previous versions of the template                                                                           |
-   | Save to all categories | Implementation of changes across all customer categories                                                              |
-   |       Copy from        | Importation of settings from alternative templates                                                                    |
-   |          Save          | It is essential to save all work after implementing changes to template settings to ensure configuration preservation |
+   ### Version history
 
-   <br><br><br>
+   - Access to previous versions of the template , Restore previous versions by clicking the "Restore" button in the bottom-right.
+
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_20.png" alt="Project Template Step 18">
+    </p>
+
+    <br>
+
+   ### Save to all categories
+
+   - Use this function when you want the same template configuration to apply to multiple or all project categories in your system (Enter notes about your changes)
+
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_21.png" alt="Project Template Step 18">
+    </p>
+
+    <br>
+
+   ### Copy from
+
+   - Importation of settings from alternative templates, select the categories you want to copy from and apply it.
+
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_22.png" alt="Project Template Step 18">
+    </p>
+
+    <br>

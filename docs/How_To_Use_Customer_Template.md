@@ -1,8 +1,6 @@
-# Customer Template
+# How to Use Customer Template?
 
 **Customer Template** is a standardized format or structure used in customer relationship management (CRM) systems to consistently collect and organize customer information.
-
-_Note: The template configuration for these functions will affect both the web and mobile app_
 
 ## Table of Contents
 
@@ -24,7 +22,7 @@ _Note: The template configuration for these functions will affect both the web a
    **Open Customer Templates Here**:
    [https://system.caction.com/templateSettings/CustomerTemplates](https://system.caction.com/templateSettings/CustomerTemplates)
 
-   _Note: If you do not have access to the Template Settings page, please contact your administrator._
+   _Note: The template configuration will affect both the web and mobile applications. If you do not have access to the Template Settings page, please contact your admin._<br>
 
    <p align="center">
       <img src="img/Customer_Template_Step_1.png" alt="Customer Template Step 1">
@@ -213,15 +211,43 @@ _Note: The template configuration for these functions will affect both the web a
 
 ## Settings section
 
-9. This dropdown menu provides additional management options:
+9. This dropdown menu provides three management options:
 
+    <br>
    <p align="center">
      <img src="img/Customer_Template_Step_14.png" alt="Customer Template Step 19">
    </p>
+    <br>
 
-   |       Field Type       | Definition                                                                                                            |
-   | :--------------------: | :-------------------------------------------------------------------------------------------------------------------- |
-   |    Version history     | Access to previous versions of the template                                                                           |
-   | Save to all categories | Implementation of changes across all customer categories                                                              |
-   |       Copy from        | Importation of settings from alternative templates                                                                    |
-   |          Save          | It is essential to save all work after implementing changes to template settings to ensure configuration preservation |
+   ### Version history
+
+   - Access to previous versions of the template , Restore previous versions by clicking the "Restore" button in the bottom-right.
+
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_20.png" alt="Project Template Step 18">
+    </p>
+
+    <br>
+
+   ### Save to all categories
+
+   - Use this function when you want the same template configuration to apply to multiple or all project categories in your system (Enter notes about your changes)
+
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_21.png" alt="Project Template Step 18">
+    </p>
+
+    <br>
+
+   ### Copy from
+
+   - Importation of settings from alternative templates, select the categories you want to copy from and apply it.
+
+    <br>
+    <p align="center">
+    <img src="img/Project_Template_Step_22.png" alt="Project Template Step 18">
+    </p>
+
+    <br>
