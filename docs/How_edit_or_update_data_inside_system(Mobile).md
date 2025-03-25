@@ -83,8 +83,9 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 | B   | Customer            | Choose a customer from those registered in the system.                             |
 | C   | Project             | After selecting Customer, you will be asked to select Project under that Customer. |
 | D   | Asset               | Choose an asset from those registered in the system.                               |
-| E   | Assign To           | The user responsible for the job.                                                  |
-| F   | Description         | Detailed description of the job.                                                   |
+| E   | Start/End Date Time | Fields that capture start and end date and time information                        |
+| F   | Assign To           | The user responsible for the job.                                                  |
+| G   | Description         | Detailed description of the job.                                                   |
 
    <br>
 
