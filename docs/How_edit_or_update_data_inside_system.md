@@ -1,4 +1,4 @@
-## How to Edit/Update Data Inside System (For All Data Level Except Public Form)
+## How to Edit/Update Data Inside System (Web)
 
 _Note: If you do not have access to the Edit or Update, please contact your admin._
 
