@@ -117,53 +117,52 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
 # How to Edit Project
 
-1. At the desktop site navigation bar, select the Dashboard and navigate to Project section.
-   Open Project Dashboard Here: https://system.caction.com/dashboard/project
+1. At the mobile app's navigation bar, go to Dashboard and click the "Project".
 
    <br>
 
    <p align="center">
-      <img src="img/Project_Edit_Step_1.png" alt="Job Project Step 1">
-   </p>
+         <img src="img/M_Project_Edit_Step_1.jpg" alt="Job Edit Step 1">
+      </p>
 
    <br>
 
-2. Select an existing project that you want to edit.
-
-   <br>
-
-   <p align="center">
-      <img src="img/Project_Edit_Step_2.png" alt="Job Project Step 2">
-   </p>
-
-   <br>
-
-3. The project can be edited on the dashboard by clicking the pencil icon.
+2. Navigate to the "Filter" button to searh for the target project.
 
    <br>
 
    <p align="center">
-      <img src="img/Project_Edit_Step_3.png" alt="Job Project Step 3">
-   </p>
+         <img src="img/M_Project_Edit_Step_2.jpg" alt="Job Edit Step 2">
+      </p>
 
    <br>
 
-4. For more comprehensive editing options, click on the "Project Details" button to view complete information about the project in a new tab.
-
-   <br>
-
-   <p align="center">
-      <img src="img/Project_Edit_Step_4.png" alt="Job Project Step 4">
-   </p>
-
-   <br>
-
-5. In the Project Details view, locate the options menu (three dots) and select "Edit" from the dropdown menu options.
+3. Select an existing project that you want to edit to view projet details.
 
    <br>
 
    <p align="center">
-      <img src="img/Project_Edit_Step_6.png" alt="Job Project Step 6">
+         <img src="img/M_Project_Edit_Step_4.jpg" alt="Job Edit Step 3">
+      </p>
+
+   <br>
+
+4. Click on the ellipsis icon to access the options.
+
+   <br>
+
+   <p align="center">
+         <img src="img/M_Project_Edit_Step_5.jpg" alt="Job Edit Step 4">
+      </p>
+
+   <br>
+
+5. Select "Edit" from the dropdown menu options.
+
+   <br>
+
+   <p align="center">
+      <img src="img/M_Project_Edit_Step_6.png" alt="Job Project Step 6">
    </p>
 
    <br>
@@ -173,41 +172,39 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
    <br>
 
    <p align="center">
-      <img src="img/Project_Edit_Step_7.png" alt="Job Project Step 7">
-   </p>
-
-   <br>
-
-   <p align="center">
-      <img src="img/Project_Edit_Step_8.png" alt="Job Project Step 8">
+      <img src="img/M_Project_Edit_Step_7.png" alt="Job Project Step 7">
    </p>
 
    <br>
 
 ## Project Edit Form
 
-| No. | Section                      | Description                                                                                                                              |
-| --- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Category and Status**      | Defines the project type or classification and indicates the current state of the project in its workflow.                               |
-| 2   | **Start and End Dates**      | Sets the project timeline by selecting when the project begins and ends. Click to open a calendar picker and select the dates and times. |
-| 3   | **Title and Description**    | A short title for the project and provides detailed information about the project's purpose, scope, and goals.                           |
-| 4   | **Reminder Settings**        | Enable reminders for the project and create custom reminders on events.                                                                  |
-| 5   | **Asset Information**        | Enter the asset registered in the system associated with the project.                                                                    |
-| 6   | **Assign List**              | View the team members assigned to the project and assign users to work on the project.                                                   |
-| 7   | **Product/Services Details** | Add and manage products or services associated with the project.                                                                         |
+| No. | Section                 | Description                                                                                |
+| --- | ----------------------- | ------------------------------------------------------------------------------------------ |
+| A   | **Category and Status** | Defines the project type or classification and indicates the current state of the project. |
+| B   | **Start and End Dates** | Sets the project timeline by selecting when the project begins and ends.                   |
+| C   | **Title**               | A short title for the project about the project's purpose or scope.                        |
+| D   | **Description**         | provides detailed information about the project's purpose                                  |
+| E   | **Assign List**         | View the team members assigned to the project and assign users to work on the project.     |
+| F   | **Reminder Settings**   | Enable reminders for the project and create custom reminders on events.                    |
+| G   | **Asset Information**   | Enter the asset registered in the system associated with the project.                      |
 
    <br>
 
 **Note:** Contact your manager to enable additional custom fields for your specific needs.
-
-<br>
 
 7. After editing the details, click the "Save Changes" button to update the project information.
 
    <br>
 
    <p align="center">
-      <img src="img/Project_Edit_Step_9.png" alt="Job Project Step 9">
+      <img src="img/M_Project_Edit_Step_8.png" alt="Job Project Step 8">
+   </p>
+
+   <br>
+
+   <p align="center">
+      <img src="img/M_Project_Edit_Step_9.png" alt="Job Project Step 9">
    </p>
 
    <br>
