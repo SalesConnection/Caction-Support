@@ -4,12 +4,12 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 
 **Navigate to the section by clicking it.**<br>
 
-- [Edit Job](#section2)<br>
-- [Edit Project](#section3)<br>
-- [Edit Customer](#section4)<br>
-- [Edit Digital Form](#section5)<br>
+- [Edit Job](#section1)<br>
+- [Edit Project](#section2)<br>
+- [Edit Customer](#section3)<br>
+- [Edit Digital Form](#section4)<br>
 
-<a id="section2"></a>
+<a id="section1"></a>
 
 # How to Edit Job
 
@@ -142,7 +142,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
 <br><br>
 
-<a id="section3"></a>
+<a id="section2"></a>
 
 # How to Edit Project
 
@@ -213,21 +213,21 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-   ## Project Edit Form
+## Project Edit Form
 
-   | No. | Section                      | Description                                                                                                                              |
-   | --- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-   | 1   | **Category and Status**      | Defines the project type or classification and indicates the current state of the project in its workflow.                               |
-   | 2   | **Start and End Dates**      | Sets the project timeline by selecting when the project begins and ends. Click to open a calendar picker and select the dates and times. |
-   | 3   | **Title and Description**    | A short title for the project and provides detailed information about the project's purpose, scope, and goals.                           |
-   | 4   | **Reminder Settings**        | Enable reminders for the project and create custom reminders on events.                                                                  |
-   | 5   | **Asset Information**        | Enter the asset registered in the system associated with the project.                                                                    |
-   | 6   | **Assign List**              | View the team members assigned to the project and assign users to work on the project.                                                   |
-   | 7   | **Product/Services Details** | Add and manage products or services associated with the project.                                                                         |
+| No. | Section                      | Description                                                                                                                              |
+| --- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Category and Status**      | Defines the project type or classification and indicates the current state of the project in its workflow.                               |
+| 2   | **Start and End Dates**      | Sets the project timeline by selecting when the project begins and ends. Click to open a calendar picker and select the dates and times. |
+| 3   | **Title and Description**    | A short title for the project and provides detailed information about the project's purpose, scope, and goals.                           |
+| 4   | **Reminder Settings**        | Enable reminders for the project and create custom reminders on events.                                                                  |
+| 5   | **Asset Information**        | Enter the asset registered in the system associated with the project.                                                                    |
+| 6   | **Assign List**              | View the team members assigned to the project and assign users to work on the project.                                                   |
+| 7   | **Product/Services Details** | Add and manage products or services associated with the project.                                                                         |
 
    <br>
 
-   **Note:** Contact your manager to enable additional custom fields for your specific needs.
+**Note:** Contact your manager to enable additional custom fields for your specific needs.
 
 <br>
 
