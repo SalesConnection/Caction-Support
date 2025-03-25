@@ -20,127 +20,97 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
    <br>
 
    <p align="center">
-      <img src="img/M_Job_Edit_Step_1.png" alt="Job Edit Step 1">
+      <img src="img/M_Job_Edit_Step_1.jpg" alt="Job Edit Step 1">
    </p>
 
    <br>
 
-2. If the target job is not found in the schedule view, navigate to the Job dashboard to locate the job.
+2. If the target job is not found in the schedule view, navigate to the Filter to locate the job.
 
    <br>
 
    <p align="center">
-      <img src="img/Job_Edit_Step_2.png" alt="Job Edit Step 2">
+      <img src="img/M_Job_Edit_Step_2.jpg" alt="Job Edit Step 2">
    </p>
 
    <br>
 
-3. Click on the ellipsis icon to access the job options.
+3. Using Filter function to search the target job that need to update .
 
    <br>
 
    <p align="center">
-      <img src="img/Job_Edit_Step_3.png" alt="Job Edit Step 3">
+      <img src="img/M_Job_Edit_Step_3.jpg" alt="Job Edit Step 3">
    </p>
 
    <br>
 
-4. For comprehensive editing, click the "Job Details" button to view complete job information in a new tab.
+4. Click in the job section to see the job details
 
    <br>
 
    <p align="center">
-      <img src="img/Job_Edit_Step_4.png" alt="Job Edit Step 4">
+      <img src="img/M_Job_Edit_Step_4.jpg" alt="Job Edit Step 4">
    </p>
 
    <br>
 
-5. Click on the pencil icon to access the edit job section.
+5. Click on the ellipsis icon to access the job options.
 
    <br>
 
    <p align="center">
-      <img src="img/Job_Edit_Step_5.png" alt="Job Edit Step 5">
+      <img src="img/M_Job_Edit_Step_5.jpg" alt="Job Edit Step 5">
    </p>
 
    <br>
 
-6. Edit the first section containing "Job Category" and "Status" fields:
-
-   | Field Name   | Description                              |
-   | ------------ | ---------------------------------------- |
-   | Job Category | Classifies the type of job.              |
-   | Status       | Indicates the current status of the job. |
+6. Click on the edit icon to access the edit job section.
 
    <br>
 
    <p align="center">
-      <img src="img/Job_Edit_Step_6.png" alt="Job Edit Step 6">
+      <img src="img/M_Job_Edit_Step_6.jpg" alt="Job Edit Step 6">
    </p>
 
    <br>
 
-7. The pencil icon in the customer section allows changing the customer and project associated with this job. When clicked, select a different customer and project to attach to this job.
+7. In Edit section containing :
+
+| No. | Field Name          | Description                                                                        |
+| --- | ------------------- | ---------------------------------------------------------------------------------- |
+| A   | Category and Status | Indicates the type of job and current status of the job.                           |
+| B   | Customer            | Choose a customer from those registered in the system.                             |
+| C   | Project             | After selecting Customer, you will be asked to select Project under that Customer. |
+| D   | Asset               | Choose an asset from those registered in the system.                               |
+| E   | Assign To           | The user responsible for the job.                                                  |
+| F   | Description         | Detailed description of the job.                                                   |
 
    <br>
 
    <p align="center">
-      <img src="img/Job_Edit_Step_7.png" alt="Job Edit Step 7">
+      <img src="img/M_Job_Edit_Step_7.jpg" alt="Job Edit Step 7">
    </p>
 
    <br>
 
-8. Click on the Asset section to view asset details. In the asset list, filter assets and add new ones as needed.
+8. click the "Save" button to to update the job information.
 
    <br>
 
    <p align="center">
-      <img src="img/Job_Edit_Step_8.png" alt="Job Edit Step 8">
+      <img src="img/M_Job_Edit_Step_8.jpg" alt="Job Edit Step 8">
    </p>
 
    <br>
-
-9. Modify start date/time and end date/time by clicking on either field to open a calendar for changing the job schedule.
 
    <br>
 
    <p align="center">
-      <img src="img/Job_Edit_Step_9.png" alt="Job Edit Step 9">
+      <img src="img/M_Job_Edit_Step_9.jpg" alt="Job Edit Step 8">
    </p>
 
    <br>
-
-10. Use the "Assign User" feature to assign team members to jobs and grant them "View" or "Assign" permissions.
-
-   <br>
-
-   <p align="center">
-      <img src="img/Job_Edit_Step_10.png" alt="Job Edit Step 10">
-   </p>
-
-   <br>
-
-11. The Reminder section allows users to manage reminders for different tasks.
-
-   <br>
-
-   <p align="center">
-      <img src="img/Job_Edit_Step_11.png" alt="Job Edit Step 11">
-   </p>
-
-   <br>
-
-12. After completing all information updates, click the "Save" button to commit changes to the system.
-
-   <br>
-
-   <p align="center">
-      <img src="img/Job_Edit_Step_12.png" alt="Job Edit Step 12">
-   </p>
-
-   <br>
-
-<br><br>
 
 <a id="section2"></a>
 

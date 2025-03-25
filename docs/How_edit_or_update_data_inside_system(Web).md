@@ -130,7 +130,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-12. After completing all information updates, click the "Save" button to commit changes to the system.
+12. After completing all information updates, click the "Save" button to to update the job information.
 
    <br>
 

@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Template Info](#section1)<br>
-- [Details Variable Settings](#section2)<br>
+- [Details Privacy Settings](#section2)<br>
 - [Details Variable Settings](#section3)<br>
 - [Quick Search Settings](#section4)<br>
 - [Prepopulate Assigned User](#section5)<br>
