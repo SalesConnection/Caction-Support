@@ -76,7 +76,7 @@ If you're not receiving notifications or experiencing issues with camera and GPS
 
 - **IOS Version**:
 
-1. In Settings page of your phone, using the search section.
+1. In Settings page of your phone, go to the search section.
 
    <p align="center">
      <img src="img/Access_Notification_and_camera_GPS_Step11.jpg" alt="Access Setting Step 11" width=360" height="120">
@@ -112,7 +112,7 @@ If you're not receiving notifications or experiencing issues with camera and GPS
      <img src="img/Access_Notification_and_camera_GPS_Step16.jpg" alt=“Acesss Setting Step 16" width="280" height="550">
    </p><br>
 
-7. Make sure the "Always" has been toggled.
+7. Select "Always" to ensure proper functionality.
 
    <p align="center">
      <img src="img/Access_Notification_and_camera_GPS_Step17.jpg" alt=“Acesss Setting Step 17" width="280" height="550">
