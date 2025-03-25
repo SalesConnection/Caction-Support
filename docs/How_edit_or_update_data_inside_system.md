@@ -6,25 +6,12 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 
 <br>
 
-- [Desktop](#section1)<br>
+- [Desktop]<br>
 
   - [Edit Job](#section2)<br>
   - [Edit Project](#section3)<br>
   - [Edit Customer](#section4)<br>
   - [Edit Digital Form](#section5)<br>
-
-<br>
-
-- [Mobile App](#section6)<br>
-
-  - [Edit Job](#section7)<br>
-  - [Edit Project](#section8)<br>
-  - [Edit Customer](#section9)<br>
-  - [Edit Digital Form](#section10)<br>
-
-<br><br>
-
-<a id="section1"></a>
 
 <a id="section2"></a>
 
@@ -216,6 +203,20 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
 6. The Edit Project form will open with several sections to modify:
 
+   <br>
+
+   <p align="center">
+      <img src="img/Project_Edit_Step_7.png" alt="Job Project Step 7">
+   </p>
+
+   <br>
+
+   <p align="center">
+      <img src="img/Project_Edit_Step_8.png" alt="Job Project Step 8">
+   </p>
+
+   <br>
+
    ## Project Edit Form
 
    | No. | Section                      | Description                                                                                                                              |
@@ -231,20 +232,6 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
    <br>
 
    **Note:** Contact your manager to enable additional custom fields for your specific needs.
-
-   <br>
-
-   <p align="center">
-      <img src="img/Project_Edit_Step_7.png" alt="Job Project Step 7">
-   </p>
-
-   <br>
-
-   <p align="center">
-      <img src="img/Project_Edit_Step_8.png" alt="Job Project Step 8">
-   </p>
-
-   <br>
 
 <br>
 
@@ -300,47 +287,24 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A. Customer Status**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the current status of the customer.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B. Company Name**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the official name of the customer's company.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C. Customer Name**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the full name of the customer contact person.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D. Customer Category**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the customer based on their type.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E. Assigned User**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assign the user responsible for managing this customer.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**F. Manage Phone Number**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delete or Edit the customer's contact phone number.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**G. Add Phone Number**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding the customer's contact phone number.
-
-### Extended Information Section
-
    <p align="center">
       <img src="img/Customer_Edit_Step_5.png" alt="Job Customer Step 5">
    </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**H. Customer Address**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit, Copy or Delete the physical address of the customer.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I. Add New Address**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding new Address for the customer.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**J. Customer Email**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the customer's email address.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**K. Add Additional Email**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adding the customer's email address.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**L. Custom Field**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edit the Custom Field data.
+| No. | Field                | Description                                                |
+| --- | -------------------- | ---------------------------------------------------------- |
+| A   | Customer Status      | Edit the current status of the customer.                   |
+| B   | Company Name         | Edit the official name of the customer's company.          |
+| C   | Customer Name        | Edit the full name of the customer contact person.         |
+| D   | Customer Category    | Edit the customer based on their type.                     |
+| E   | Assigned User        | Assign the user responsible for managing this customer.    |
+| F   | Manage Phone Number  | Delete or Edit the customer's contact phone number.        |
+| G   | Add Phone Number     | Adding the customer's contact phone number.                |
+| H   | Customer Address     | Edit, Copy or Delete the physical address of the customer. |
+| I   | Add New Address      | Adding new Address for the customer.                       |
+| J   | Customer Email       | Edit the customer's email address.                         |
+| K   | Add Additional Email | Adding the customer's email address.                       |
+| L   | Custom Field         | Edit the Custom Field data.                                |
 
 <br>
 
@@ -386,7 +350,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-4. s
+4. The highlighted sections (marked with red boxes) in the form are editable fields that users can modify:
 
    <br>
 
@@ -396,7 +360,12 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-5. s
+| No. | Section                | Description                                                                   |
+| --- | ---------------------- | ----------------------------------------------------------------------------- |
+| A   | Status section         | Indicates the current status of the quotation.                                |
+| B   | Attach Customer button | Can be clicked to associate a different customer                              |
+| C   | Date Time section      | The date when the quotation is created.                                       |
+| D   | Form Fields section    | “Default Fields Element" which are default field element in the digital form. |
 
    <br>
 
@@ -406,7 +375,12 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-6. s
+| No. | Section                 | Description                                                                         |
+| --- | ----------------------- | ----------------------------------------------------------------------------------- |
+| E   | Asset button            | Button to add a new asset                                                           |
+| F   | Assign User button      | Button to assign additional users                                                   |
+| G   | Add New Reminder button | Button to tick or create a new reminder in the reminder section                     |
+| H   | Quotation details       | "Custom Field Element" Section containing Validity and Delivery Date fields element |
 
    <br>
 
@@ -416,22 +390,21 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-7. s
+| No. | Section                 | Description                                                                                 |
+| --- | ----------------------- | ------------------------------------------------------------------------------------------- |
+| I   | New Attachment          | Section for uploading attachments                                                           |
+| J   | Product/Services List   | Form for entering product details including description, quantity , and unit of measurement |
+| K   | Product/Services Button | Button to add add products or services to the quotation                                     |
+| L   | Disclaimer Section      | Contains a text area that allows users to add disclaimers message for the quotation         |
+
+<br><br>
+
+7. After editing the details, click the "Save Changes" button to update the project information.
 
    <br>
 
    <p align="center">
       <img src="img/Digital_Form_Edit_Step_7.png" alt="Job Digital_Form Step 7">
-   </p>
-
-   <br>
-
-8. s
-
-   <br>
-
-   <p align="center">
-      <img src="img/Digital_Form_Edit_Step_8.png" alt="Job Digital_Form Step 8">
    </p>
 
    <br>
