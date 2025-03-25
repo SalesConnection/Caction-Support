@@ -162,7 +162,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
    <br>
 
    <p align="center">
-      <img src="img/M_Project_Edit_Step_6.png" alt="Job Project Step 6">
+      <img src="img/M_Project_Edit_Step_6.jpg" alt="Job Project Step 6">
    </p>
 
    <br>
@@ -172,7 +172,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
    <br>
 
    <p align="center">
-      <img src="img/M_Project_Edit_Step_7.png" alt="Job Project Step 7">
+      <img src="img/M_Project_Edit_Step_7.jpg" alt="Job Project Step 7">
    </p>
 
    <br>
