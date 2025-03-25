@@ -4,14 +4,10 @@ _Note: If you do not have access to the Edit or Update, please contact your admi
 
 **Navigate to the section by clicking it.**<br>
 
-<br>
-
-- [Desktop]<br>
-
-  - [Edit Job](#section2)<br>
-  - [Edit Project](#section3)<br>
-  - [Edit Customer](#section4)<br>
-  - [Edit Digital Form](#section5)<br>
+- [Edit Job](#section2)<br>
+- [Edit Project](#section3)<br>
+- [Edit Customer](#section4)<br>
+- [Edit Digital Form](#section5)<br>
 
 <a id="section2"></a>
 
@@ -29,7 +25,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-2. If you cannot find your target job in the schedule view, navigate to the Job dashboard to locate the job data you wish to edit or update.
+2. If the target job is not found in the schedule view, navigate to the Job dashboard to locate the job.
 
    <br>
 
@@ -49,7 +45,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-4. For more detailed editing, click on the "Job Details" button to view comprehensive information about the job in a new tab.
+4. For comprehensive editing, click the "Job Details" button to view complete job information in a new tab.
 
    <br>
 
@@ -69,7 +65,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-6. The first section contains "Job Category" and "Status" fields:
+6. Edit the first section containing "Job Category" and "Status" fields:
 
    | Field Name   | Description                              |
    | ------------ | ---------------------------------------- |
@@ -84,7 +80,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-7. The pencil icon in the customer section allows you to change the customer and project associated with this job. When clicked, you can select a different customer and project to attach to this job.
+7. The pencil icon in the customer section allows changing the customer and project associated with this job. When clicked, select a different customer and project to attach to this job.
 
    <br>
 
@@ -94,7 +90,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-8. Click on the Asset section to view asset details. In the asset list, you can filter assets and add new ones.
+8. Click on the Asset section to view asset details. In the asset list, filter assets and add new ones as needed.
 
    <br>
 
@@ -104,7 +100,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-9. The next section displays start date/time and end date/time. Click on either field to open a calendar where you can change the job schedule.
+9. Modify start date/time and end date/time by clicking on either field to open a calendar for changing the job schedule.
 
    <br>
 
@@ -114,7 +110,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-10. The "Assign User" feature allows you to assign team members to jobs and grant them "View" or "Assign" permissions.
+10. Use the "Assign User" feature to assign team members to jobs and grant them "View" or "Assign" permissions.
 
    <br>
 
@@ -134,7 +130,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-12. After filling out all information, click the "Save" button to save your changes in the system.
+12. After completing all information updates, click the "Save" button to commit changes to the system.
 
    <br>
 
@@ -171,7 +167,7 @@ _Note: In your system, Job may have been renamed to other (i.e Task, Ticket, Dea
 
    <br>
 
-3. The project can be edited directly on the dashboard by clicking the pencil icon.
+3. The project can be edited on the dashboard by clicking the pencil icon.
 
    <br>
 
@@ -255,7 +251,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
 <br>
 
-1. From the desktop's navigation bar, go to Business Management and select the "Customer List".
+1. From the desktop's navigation bar, click on the Business Management and select the "Customer List".
 
    Open Customer List Here: https://system.caction.com/customers
 
@@ -267,7 +263,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-2. Navigate to the dashboard to locate the customer data you wish to edit or update.
+2. Navigate to the dashboard to locate the customer data that want to edit or updates.
 
    <br>
 
@@ -277,7 +273,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-3. In the Customer Details page, the pencil icon <span style="color:blue">✏️</span> indicates the edit functionality. For each edit, an explanation will be provided for each function.
+3. In the Customer Details page, the pencil icon <span style="color:blue">✏️</span> indicates the edit functionality. Each editable field serves a specific function as described below.
 
    <br>
 
@@ -330,7 +326,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-2. Navigate to the dashboard to locate the Digital Form data you wish to edit or update.
+2. Navigate to the dashboard to locate the Digital Form data that wish to edit or update.
 
    <br>
 
