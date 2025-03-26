@@ -219,7 +219,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
 <br>
 
-1. At the mobile app's navigation bar, go to Customer.
+1. At the mobile app's navigation bar, go to Customer List Page.
 
    <br>
 
@@ -318,93 +318,101 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
 <br>
 
-1. From the desktop's navigation bar, go to Business Reports and select the "Digital Form Report".
-
-   Open Digital Form Report Here: https://system.caction.com/reports/digitalform?code=DR01
+1. At the mobile app's navigation bar, scroll down to report section and select "Digital Form"
 
    <br>
 
    <p align="center">
-      <img src="img/Digital_Form_Edit_Step_1.png" alt="Job Digital_Form Step 1">
+      <img src="img/M_Digital_Form_Edit_Step_1.jpg" alt="Job Digital_Form Step 1">
    </p>
 
    <br>
 
-2. Navigate to the dashboard to locate the Digital Form data that wish to edit or update.
+2. Use the filter button to find the target digital form or navigate to digital form that wish to edit or update.
 
    <br>
 
    <p align="center">
-      <img src="img/Digital_Form_Edit_Step_2.png" alt="Job Digital_Form Step 2">
+      <img src="img/M_Digital_Form_Edit_Step_2.jpg" alt="Job Digital_Form Step 2">
    </p>
 
    <br>
 
-3. In the Digital Form Details view, locate the options menu (three dots) and select the "Edit".
+3. In the Digital Form Details view, locate the options menu (three dots).
 
    <br>
 
    <p align="center">
-      <img src="img/Digital_Form_Edit_Step_3.png" alt="Job Digital_Form Step 3">
+      <img src="img/M_Digital_Form_Edit_Step_3.jpg" alt="Job Digital_Form Step 3">
    </p>
 
    <br>
 
-4. The highlighted sections (marked with red boxes) in the form are editable fields that users can modify:
+4. Select "Edit" from the dropdown menu options.
 
    <br>
 
    <p align="center">
-      <img src="img/Digital_Form_Edit_Step_4.png" alt="Job Digital_Form Step 4">
+      <img src="img/M_Digital_Form_Edit_Step_4.jpg" alt="Job Digital_Form Step 4">
    </p>
 
    <br>
 
-| No. | Section                | Description                                                                   |
-| --- | ---------------------- | ----------------------------------------------------------------------------- |
-| A   | Status section         | Indicates the current status of the quotation.                                |
-| B   | Attach Customer button | Can be clicked to associate a different customer                              |
-| C   | Date Time section      | The date when the quotation is created.                                       |
-| D   | Form Fields section    | “Default Fields Element" which are default field element in the digital form. |
+5. The Edit Project form will open with several sections to modify:
 
    <br>
 
    <p align="center">
-      <img src="img/Digital_Form_Edit_Step_5.png" alt="Job Digital_Form Step 5">
+      <img src="img/M_Digital_Form_Edit_Step_5.jpg" alt="Job Digital_Form Step 4">
    </p>
 
    <br>
 
-| No. | Section                 | Description                                                                         |
-| --- | ----------------------- | ----------------------------------------------------------------------------------- |
-| E   | Asset button            | Button to add a new asset                                                           |
-| F   | Assign User button      | Button to assign additional users                                                   |
-| G   | Add New Reminder button | Button to tick or create a new reminder in the reminder section                     |
-| H   | Quotation details       | "Custom Field Element" Section containing Validity and Delivery Date fields element |
+| No. | Section               | Description                                                |
+| --- | --------------------- | ---------------------------------------------------------- |
+| A   | Status and category   | Indicates the current status and type of the digital form. |
+| B   | Edit Customer Address | Can be select the main address and add new address.        |
+| C   | Date Time section     | The date when the digital form is created.                 |
+| D   | Assign User section   | Button to assign additional users                          |
 
    <br>
 
    <p align="center">
-      <img src="img/Digital_Form_Edit_Step_6.png" alt="Job Digital_Form Step 6">
+      <img src="img/M_Digital_Form_Edit_Step_6.jpg" alt="Job Digital_Form Step 5">
    </p>
 
    <br>
 
-| No. | Section                 | Description                                                                                 |
-| --- | ----------------------- | ------------------------------------------------------------------------------------------- |
-| I   | New Attachment          | Section for uploading attachments                                                           |
-| J   | Product/Services List   | Form for entering product details including description, quantity , and unit of measurement |
-| K   | Product/Services Button | Button to add add products or services to the quotation                                     |
-| L   | Disclaimer Section      | Contains a text area that allows users to add disclaimers message for the quotation         |
+   <br>
+
+   <p align="center">
+      <img src="img/M_Digital_Form_Edit_Step_7.jpg" alt="Job Digital_Form Step 6">
+   </p>
+
+   <br>
+
+| No. | Section              | Description                                                                              |
+| --- | -------------------- | ---------------------------------------------------------------------------------------- |
+| E   | Personal Reminder    | Edit and unselect the reminder for the reminder section                                  |
+| F   | Custom Field Section | Edit the Custom Field data of digital form information.                                  |
+| G   | Signature section    | Can draw directly on screen or use camera to capture signature of company representative |
 
 <br><br>
 
-7. After editing the details, click the "Save Changes" button to update the project information.
+7. After editing the details, click the "Save " button to upload the progress of digital form information.
 
    <br>
 
    <p align="center">
-      <img src="img/Digital_Form_Edit_Step_7.png" alt="Job Digital_Form Step 7">
+      <img src="img/M_Digital_Form_Edit_Step_8.jpg" alt="Job Digital_Form Step 7">
+   </p>
+
+   <br>
+
+   <br>
+
+   <p align="center">
+      <img src="img/M_Digital_Form_Edit_Step_9.jpg" alt="Job Digital_Form Step 7">
    </p>
 
    <br>
