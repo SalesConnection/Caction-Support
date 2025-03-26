@@ -305,7 +305,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
    </p>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_9.jpgs" alt="Job Customer Step 5">
+      <img src="img/M_Customer_Edit_Step_9.jpg" alt="Job Customer Step 5">
    </p>
 
    <br>
