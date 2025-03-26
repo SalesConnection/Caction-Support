@@ -280,24 +280,24 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
    <br>
 
-| No. | Field                        | Description                                               |
-| --- | ---------------------------- | --------------------------------------------------------- |
-| A   | Customer Category and Status | Edit the current status and type of the customer.         |
-| B   | Company Name                 | Edit the official name of the customer's company.         |
-| C   | Customer Name                | Edit the full name of the customer person.                |
-| D   | Manage Phone Number          | Add, Edit or Delete the customer's contact phone number.  |
-| E   | Manage Email                 | Add, Edit or Delete the customer's email address.         |
-| F   | Manage Address               | Add, Edit or Delete the physical address of the customer. |
-| G   | Assigned User                | Assign the user responsible for managing this customer.   |
-| H   | Manage Asset                 | Select or remove the asset that related to customer       |
-| I   | Manage Reminder              | Edit and unselect the reminder for the reminder section   |
-| J   | Custom Field                 | Edit the Custom Field data of customer information.       |
+   | No. | Field                        | Description                                               |
+   | --- | ---------------------------- | --------------------------------------------------------- |
+   | A   | Customer Category and Status | Edit the current status and type of the customer.         |
+   | B   | Company Name                 | Edit the official name of the customer's company.         |
+   | C   | Customer Name                | Edit the full name of the customer person.                |
+   | D   | Manage Phone Number          | Add, Edit or Delete the customer's contact phone number.  |
+   | E   | Manage Email                 | Add, Edit or Delete the customer's email address.         |
+   | F   | Manage Address               | Add, Edit or Delete the physical address of the customer. |
+   | G   | Assigned User                | Assign the user responsible for managing this customer.   |
+   | H   | Manage Asset                 | Select or remove the asset that related to customer       |
+   | I   | Manage Reminder              | Edit and unselect the reminder for the reminder section   |
+   | J   | Custom Field                 | Edit the Custom Field data of customer information.       |
 
 <br>
 
 **Note:** Contact your manager to enable additional custom fields for your specific needs.
 
-6. After editing the details, click the "Save Changes" button to update the customer information.
+7. After editing the details, click the "Save Changes" button to update the customer information.
    <br>
 
    <p align="center">
