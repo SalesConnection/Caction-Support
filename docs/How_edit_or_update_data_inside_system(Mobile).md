@@ -234,7 +234,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
    <br>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_1_2.png" alt="Job Customer Step 2">
+      <img src="img/M_Customer_Edit_Step_1_2.jpg" alt="Job Customer Step 2">
    </p>
 
    <br>
@@ -244,7 +244,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
    <br>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_2.png" alt="Job Customer Step 4">
+      <img src="img/M_Customer_Edit_Step_2.jpg" alt="Job Customer Step 4">
    </p>
 
 4. Click on the ellipsis icon to access the options.
@@ -252,7 +252,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
    <br>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_3.png" alt="Job Customer Step 4">
+      <img src="img/M_Customer_Edit_Step_3.jpg" alt="Job Customer Step 4">
    </p>
 
 5. Select "Edit" from the dropdown menu options.
@@ -260,22 +260,22 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
    <br>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_4.png" alt="Job Customer Step 4">
+      <img src="img/M_Customer_Edit_Step_4.jpg" alt="Job Customer Step 4">
    </p>
 
 6. The Edit Customer form will open with several sections to modify:
    <br>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_5.png" alt="Job Customer Step 5">
+      <img src="img/M_Customer_Edit_Step_5.jpg" alt="Job Customer Step 5">
    </p>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_6.png" alt="Job Customer Step 5">
+      <img src="img/M_Customer_Edit_Step_6.jpg" alt="Job Customer Step 5">
    </p>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_7.png" alt="Job Customer Step 5">
+      <img src="img/M_Customer_Edit_Step_7.jpg" alt="Job Customer Step 5">
    </p>
 
    <br>
@@ -301,11 +301,11 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
    <br>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_8.png" alt="Job Customer Step 5">
+      <img src="img/M_Customer_Edit_Step_8.jpg" alt="Job Customer Step 5">
    </p>
 
    <p align="center">
-      <img src="img/M_Customer_Edit_Step_9.png" alt="Job Customer Step 5">
+      <img src="img/M_Customer_Edit_Step_9.jpgs" alt="Job Customer Step 5">
    </p>
 
    <br>
