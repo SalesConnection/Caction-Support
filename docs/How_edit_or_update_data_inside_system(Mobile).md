@@ -219,60 +219,96 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 
 <br>
 
-1. From the desktop's navigation bar, click on the Business Management and select the "Customer List".
-
-   Open Customer List Here: https://system.caction.com/customers
+1. At the mobile app's navigation bar, go to Customer.
 
    <br>
 
    <p align="center">
-      <img src="img/Customer_Edit_Step_1.png" alt="Job Customer Step 1">
+      <img src="img/M_Customer_Edit_Step_1.jpg" alt="Job Customer Step 1">
    </p>
 
    <br>
 
-2. Navigate to the dashboard to locate the customer data that want to edit or updates.
+2. Navigate to the "Filter" button or Using search bar to searh for the target customer that want to update.
 
    <br>
 
    <p align="center">
-      <img src="img/Customer_Edit_Step_2.png" alt="Job Customer Step 2">
+      <img src="img/M_Customer_Edit_Step_1_2.png" alt="Job Customer Step 2">
    </p>
 
    <br>
 
-3. In the Customer Details page, the pencil icon <span style="color:blue">✏️</span> indicates the edit functionality. Each editable field serves a specific function as described below.
-
-   <br>
-
-   <p align="center">
-      <img src="img/Customer_Edit_Step_4.png" alt="Job Customer Step 4">
-   </p>
+3. Click on the target customer to view the customer details.
 
    <br>
 
    <p align="center">
-      <img src="img/Customer_Edit_Step_5.png" alt="Job Customer Step 5">
+      <img src="img/M_Customer_Edit_Step_2.png" alt="Job Customer Step 4">
    </p>
 
-| No. | Field                | Description                                                |
-| --- | -------------------- | ---------------------------------------------------------- |
-| A   | Customer Status      | Edit the current status of the customer.                   |
-| B   | Company Name         | Edit the official name of the customer's company.          |
-| C   | Customer Name        | Edit the full name of the customer contact person.         |
-| D   | Customer Category    | Edit the customer based on their type.                     |
-| E   | Assigned User        | Assign the user responsible for managing this customer.    |
-| F   | Manage Phone Number  | Delete or Edit the customer's contact phone number.        |
-| G   | Add Phone Number     | Adding the customer's contact phone number.                |
-| H   | Customer Address     | Edit, Copy or Delete the physical address of the customer. |
-| I   | Add New Address      | Adding new Address for the customer.                       |
-| J   | Customer Email       | Edit the customer's email address.                         |
-| K   | Add Additional Email | Adding the customer's email address.                       |
-| L   | Custom Field         | Edit the Custom Field data.                                |
+4. Click on the ellipsis icon to access the options.
+
+   <br>
+
+   <p align="center">
+      <img src="img/M_Customer_Edit_Step_3.png" alt="Job Customer Step 4">
+   </p>
+
+5. Select "Edit" from the dropdown menu options.
+
+   <br>
+
+   <p align="center">
+      <img src="img/M_Customer_Edit_Step_4.png" alt="Job Customer Step 4">
+   </p>
+
+6. The Edit Customer form will open with several sections to modify:
+   <br>
+
+   <p align="center">
+      <img src="img/M_Customer_Edit_Step_5.png" alt="Job Customer Step 5">
+   </p>
+
+   <p align="center">
+      <img src="img/M_Customer_Edit_Step_6.png" alt="Job Customer Step 5">
+   </p>
+
+   <p align="center">
+      <img src="img/M_Customer_Edit_Step_7.png" alt="Job Customer Step 5">
+   </p>
+
+   <br>
+
+| No. | Field                        | Description                                               |
+| --- | ---------------------------- | --------------------------------------------------------- |
+| A   | Customer Category and Status | Edit the current status and type of the customer.         |
+| B   | Company Name                 | Edit the official name of the customer's company.         |
+| C   | Customer Name                | Edit the full name of the customer person.                |
+| D   | Manage Phone Number          | Add, Edit or Delete the customer's contact phone number.  |
+| E   | Manage Email                 | Add, Edit or Delete the customer's email address.         |
+| F   | Manage Address               | Add, Edit or Delete the physical address of the customer. |
+| G   | Assigned User                | Assign the user responsible for managing this customer.   |
+| H   | Manage Asset                 | Select or remove the asset that related to customer       |
+| I   | Manage Reminder              | Edit and unselect the reminder for the reminder section   |
+| J   | Custom Field                 | Edit the Custom Field data of customer information.       |
 
 <br>
 
 **Note:** Contact your manager to enable additional custom fields for your specific needs.
+
+6. After editing the details, click the "Save Changes" button to update the customer information.
+   <br>
+
+   <p align="center">
+      <img src="img/M_Customer_Edit_Step_8.png" alt="Job Customer Step 5">
+   </p>
+
+   <p align="center">
+      <img src="img/M_Customer_Edit_Step_9.png" alt="Job Customer Step 5">
+   </p>
+
+   <br>
 
 <br><br>
 

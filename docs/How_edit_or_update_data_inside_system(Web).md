@@ -300,7 +300,7 @@ _Note: In your system, Customer may have been renamed to other (i.e Site, Client
 | I   | Add New Address      | Adding new Address for the customer.                       |
 | J   | Customer Email       | Edit the customer's email address.                         |
 | K   | Add Additional Email | Adding the customer's email address.                       |
-| L   | Custom Field         | Edit the Custom Field data.                                |
+| L   | Custom Field         | Edit the Custom Field data of customer information.        |
 
 <br>
 
