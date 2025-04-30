@@ -10,7 +10,7 @@
 
 **Desktop Version**
 
-#### Scenario 1 : (Web) Edit Job Details
+#### Scenario 1 : Edit Job Details in Desktop
 1) Select an existing job that want to edit. <br>
 <p align="center">
          <img src="img2/Edit_Details_Step_1.png" alt="Edit Job Details">
@@ -35,7 +35,7 @@
 
 **Mobile Version**
 
-#### Scenario 2 : (App) Edit Job Details
+#### Scenario 2 : Edit Job Details in App
 1) Select an existing job that want to edit. <br>
 <p align="center">
          <img src="img2/Edit_Details_Step_5.png" alt="Edit Job Details" style="width: 30%; height: auto;">
