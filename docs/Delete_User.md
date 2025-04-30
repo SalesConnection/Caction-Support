@@ -25,12 +25,12 @@ Updated: 23 January 2025<br>
 *Note: All updates, comments, and check-ins/outs by the deleted user will stay in the system.<br><br>
 
 ### How to delete a user?
-1. Go to desktop site navigation bar > HR Suite > User List.<br>
+1. On the desktop site, go to the navigation bar, select HR Suite, then click User List.<br>
    **Open User List Page Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
    *Note: Only certain admins can delete users.<br>
 
    <p align="center">
-      <img src="img2/User_List_Sidebar1.png" alt="User List">
+      <img src="img/User_List_Sidebar1.png" alt="User List">
    </p>
 
 2. Navigate to the user you want to delete.<br>

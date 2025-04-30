@@ -11,13 +11,13 @@ Save your office address(es) into the system and set them up for your team to cl
 - [Clear Assigned User](#section2)<br>
 - [Delete Office Check-In Location](#section3)<br>
 - [Edit Office Check-In Location](#section4)
-<br><br><br>
+<br><br>
 
 <a id="section1"></a>
 
 ### Add Office Check-In Location
 
-1. At the desktop site navigation bar, go to HR Suite > Office Check-in Settings.<br>
+1. At the desktop site navigation bar, go to HR Suite and click to Office Check-in Settings.<br>
    **Open Office Check-In Settings Here:** [https://system.caction.com/officecheckin/setting](https://system.caction.com/officecheckin/setting)<br>
 
    <p align="center">
@@ -137,7 +137,7 @@ To delete the registered location set for your office check in/out, follow the s
 ### Edit Office Check-In Location
 To edit the registered location set for your office check in/out, follow the steps below.<br>
 
-1. At the desktop's navigation bar, go to Business Management > Customer List.<br>
+1. At the desktop's navigation bar, go to Business Management and select Customer List.<br>
    **Open Customer List Page Here:** [https://system.caction.com/customers](https://system.caction.com/customers)<br>
 
    <p align="center">

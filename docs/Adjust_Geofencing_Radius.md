@@ -22,7 +22,7 @@ Updated: 24 May 2024<br>
       <img src="img/Submit_Geofencing_Radius.png" alt="Submit Geofencing Radius">
    </p>
 
-4. Click "OK" and the new check in distance has been saved successfully.<br>
+4. The prompt shows that the new check in distance has been saved successfully.<br>
 
    <p align="center">
       <img src="img/Save_Geofencing_Radius.png" alt="Save Geofencing Radius">

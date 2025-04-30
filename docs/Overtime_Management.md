@@ -1,6 +1,6 @@
 Version 1.0<br>
 Created: 15 July 2024<br>
-Updated: 15 July 2024<br>
+Updated: 3 February 2025<br>
 ## Overtime Management
 
 **Overtime Management** tracks employee overtime claims, including the date, time, user, customer, notes, category, description, and start/end times. It ensures accurate recording and monitoring of overtime hours for compensation and compliance.<br><br>
@@ -17,7 +17,7 @@ Updated: 15 July 2024<br>
 - [Export](#section8)
 <br><br><br>
 
-1. At the desktop site navigation bar, go to HR Suite > Overtime Management.<br>
+1. At the desktop site navigation bar, go to HR Suite and select Overtime Management.<br>
    **Open Overtime Management Here:** [https://system.caction.com/claim/overtime](https://system.caction.com/claim/overtime)<br>
 
    <p align="center">
@@ -111,7 +111,7 @@ Updated: 15 July 2024<br>
 2. Click "+ Add".
 
   <p align="center">
-     <img src="img2/Overtime_Management_Favourite_Filter_Step_2.png" alt="Overtime Management Favourite Filter Step 2">
+     <img src="img2/Overtime_Management_Favourite_Filter_Step_2.png" alt="Overtime Management Favourite Filter Step 2"  style="width: 94%; height: auto;">
   </p>
   
 3. Enter the name of the favourite filter.
@@ -207,7 +207,7 @@ Updated: 15 July 2024<br>
      <img src="img2/Overtime_Management_Change_Claim_Step_5.png" alt="Overtime Management Change Claim Step 5">
    </p>  
 
-6. To select more than one claim to update, tick the boxes on the left of the claims that you would like to update the status of.
+6. To update the status of multiple claims, tick the boxes on the left of the claims you want to update.
     
    <p align="center">
      <img src="img2/Overtime_Management_Change_Claim_Step_6.png" alt="Overtime Management Change Claim Step 6">
@@ -219,7 +219,7 @@ Updated: 15 July 2024<br>
      <img src="img2/Overtime_Management_Change_Claim_Step_7.png" alt="Overtime Management Change Claim Step 7">
    </p>
 
-8. Choose the status that you would like to update the selected claim(s) to.
+8. Select the status to update the chosen claim(s).
     
    <p align="center">
      <img src="img2/Overtime_Management_Change_Claim_Step_8.png" alt="Overtime Management Change Claim Step 8">

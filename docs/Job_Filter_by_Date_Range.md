@@ -3,7 +3,15 @@ Created: 23 May 2024<br>
 Updated: 23 May 2024<br>
 ## 🧾 How to Filter Jobs by Date Range?
 
-**Desktop site:**<br>
+**Navigate to the section by clicking it.**<br>
+
+- [Desktop Version](#section1)<br>
+- [Mobile Version](#section2)
+<br><br><br>
+
+<a id="section1"></a>
+
+## Desktop Version
 
  1. To filter job, go to Main Navigation> Business Management > Schedule > Job Schedule.<br>
    **Filter Job Here:** [https://system.caction.com/activity/scheduler](https://system.caction.com/activity/scheduler)
@@ -19,13 +27,13 @@ Updated: 23 May 2024<br>
        <img src="img/Job_Filter_by_Date_Range_Step_2.png" alt="Job Filter by date range 2">
     </p>
 
- 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view the job in April 2024, click "May" and you will be able to select a month.
+ 3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view the job in January 2025, click "February" and you will be able to select a month.
 
     <p align="center">
       <img src="img/Job_Filter_by_Date_Range_Step_3.png" alt="Job Filter by date range 3">
     </p>   
 
- 4. Click on any month that you like to search. For example, click on "Apr".
+ 4. Click on any month that you like to search. For example, click on "Jan".
 
     <p align="center">
       <img src="img/Job_Filter_by_Date_Range_Step_4.png" alt="Job Filter by date range 4">
@@ -37,14 +45,16 @@ Updated: 23 May 2024<br>
       <img src="img/Job_Filter_by_Date_Range_Step_5.png" alt="Job Filter by date range 5">
     </p>
 
- 6. Now, you are able to view the jobs created in April 2024.
+ 6. Now, you are able to view the jobs created in January 2025.
 
     <p align="center">
       <img src="img/Job_Filter_by_date_range_result.png" alt="Job Filter by date range result">
     </p>
     <br>
     
-**Mobile App:**<br>
+<a id="section2"></a>
+
+## Mobile Version
   1. At the Caction mobile app, select the "Schedule" page in the bottom center.
 
      <p align="center">

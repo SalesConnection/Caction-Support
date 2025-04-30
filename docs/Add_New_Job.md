@@ -1,3 +1,8 @@
+---
+title: How to Add a New Job?
+description: This is tutorial to add a new job in the system.
+---
+
 Version 1.0<br>
 Created: 10 June 2024<br>
 Updated: 30 December 2024<br>

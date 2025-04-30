@@ -1,3 +1,8 @@
+---
+title: Job Dashboard
+description: This is tutorial to use job dashboard in the system.
+---
+
 Version 1.0<br>
 Created: 4 July 2024<br>
 Updated: 4 July 2024<br>

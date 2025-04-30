@@ -1,3 +1,8 @@
+---
+title: How to Add a New Project?
+description: This is tutorial to add a new project in the system.
+---
+
 Version 1.0<br>
 Created: 20 June 2024<br>
 Updated: 23 January 2025<br>

@@ -24,12 +24,12 @@ Updated: 23 January 2025<br>
 - **All historical data** of the resigned user will be **overwritten** by the new user (e.g. Assigned to/ Creator columns, job schedule, metrics, etc.)<br><br>
 
 ### How to change to a new user?
-1. Go to desktop site navigation bar > HR Suite > User List.<br>
+1. On the desktop site, go to the navigation bar, select HR Suite, then click User List.<br>
    **Open User List Page Here:** [https://system.caction.com/usermanage/userlist](https://system.caction.com/usermanage/userlist)<br>
    *Note: Only certain admins can deactivate users.<br>
 
    <p align="center">
-      <img src="img2/User_List_Sidebar1.png" alt="User List">
+      <img src="img/User_List_Sidebar1.png" alt="User List">
    </p>
    
 2. Navigate to the user you want to change the details to the new user.<br>
