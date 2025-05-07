@@ -119,6 +119,6 @@ Updated: 24 May 2024<br>
    <br><br><br>
 
 **Related Articles**
-- [My updates are not received by my admin and other team members. Why?](Updates_Not_Received_by_Team_Members.md)
+- [My updates are not received by my admin and other team members. Why?](Pending_Data_or_Updates_Guide.md)
 
 <!-- [Link Text](https://support.caction.com/Comment_With_Photo.html) -->
