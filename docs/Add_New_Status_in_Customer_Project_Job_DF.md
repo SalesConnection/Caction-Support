@@ -192,7 +192,7 @@ Keep track of all your Job, Project, Customer, Asset, Digital Form(s), and other
      <br><br><br>
 
 **Related Articles**<br>
-- [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job.md)
+- [How Do I Add New Category in Customer/Project/Job?](Add_New_Category_in_Customer_Project_Job_DF.md)
 - [How Do I Add New Status in Digital Form?](Add_New_Status_in_Digital_Form.md)
 
 <!-- [Link Text](https://support.caction.com/Add_New_Status_in_Customer_Project_Job.html) -->
